@@ -1,0 +1,108 @@
+TCA Cycle:WP78	pr	ENSG00000100412:ACO2
+TCA Cycle:WP78	pr	ENSG00000119689:DLST
+TCA Cycle:WP78	pr	ENSG00000182054:IDH2
+TCA Cycle:WP78	pr	ENSG00000073578:SDHA
+TCA Cycle:WP78	pr	ENSG00000166411:IDH3A
+TCA Cycle:WP78	pr	ENSG00000091140:DLD
+TCA Cycle:WP78	pr	ENSG00000117118:SDHB
+TCA Cycle:WP78	pr	ENSG00000062485:CS
+TCA Cycle:WP78	pr	ENSG00000101365:IDH3B
+TCA Cycle:WP78	pr	ENSG00000105953:OGDH
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000173599:PC
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000111674:ENO2
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000168291:PDHB
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000149925:ALDOA
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000120053:GOT1
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000134333:LDHA
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000150768:DLAT
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000091140:DLD
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000074800:ENO1
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000131828:PDHA1
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000014641:MDH1
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000156515:HK1
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000142583:SLC2A5
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000109107:ALDOC
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000111669:TPI1
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000164708:PGAM2
+TCA Cycle and PDHc:WP2453	pr	ENSG00000138413:IDH1
+TCA Cycle and PDHc:WP2453	pr	ENSG00000173599:PC
+TCA Cycle and PDHc:WP2453	pr	ENSG00000119689:DLST
+TCA Cycle and PDHc:WP2453	pr	ENSG00000073578:SDHA
+TCA Cycle and PDHc:WP2453	pr	ENSG00000166411:IDH3A
+TCA Cycle and PDHc:WP2453	pr	ENSG00000150768:DLAT
+TCA Cycle and PDHc:WP2453	pr	ENSG00000091140:DLD
+TCA Cycle and PDHc:WP2453	pr	ENSG00000131828:PDHA1
+TCA Cycle and PDHc:WP2453	pr	ENSG00000062485:CS
+TCA Cycle and PDHc:WP2453	pr	ENSG00000014641:MDH1
+TCA Cycle and PDHc:WP2453	pr	ENSG00000105953:OGDH
+Osteoblast Signaling:WP322	pr	ENSG00000138448:ITGAV
+Osteoblast Signaling:WP322	pr	ENSG00000108821:COL1A1
+Osteoblast Signaling:WP322	pr	ENSG00000113721:PDGFRB
+Electron Transport Chain:WP111	pr	ENSG00000169100:SLC25A6
+Electron Transport Chain:WP111	pr	ENSG00000023228:NDUFS1
+Electron Transport Chain:WP111	pr	ENSG00000147684:NDUFB9
+Electron Transport Chain:WP111	pr	ENSG00000126267:COX6B1
+Electron Transport Chain:WP111	pr	ENSG00000130414:NDUFA10
+Electron Transport Chain:WP111	pr	ENSG00000131143:COX4I1
+Electron Transport Chain:WP111	pr	ENSG00000178741:COX5A
+Electron Transport Chain:WP111	pr	ENSG00000158864:NDUFS2
+Electron Transport Chain:WP111	pr	ENSG00000073578:SDHA
+Electron Transport Chain:WP111	pr	ENSG00000156467:UQCRB
+Electron Transport Chain:WP111	pr	ENSG00000168653:NDUFS5
+Electron Transport Chain:WP111	pr	ENSG00000117118:SDHB
+Electron Transport Chain:WP111	pr	ENSG00000178127:NDUFV2
+Electron Transport Chain:WP111	pr	ENSG00000140990:NDUFB10
+Electron Transport Chain:WP111	pr	ENSG00000119421:NDUFA8
+Electron Transport Chain:WP111	pr	ENSG00000010256:UQCRC1
+Electron Transport Chain:WP111	pr	ENSG00000005022:SLC25A5
+Electron Transport Chain:WP111	pr	ENSG00000213619:NDUFS3
+Electron Transport Chain:WP111	pr	ENSG00000135940:COX5B
+Electron Transport Chain:WP111	pr	ENSG00000169021:UQCRFS1
+Electron Transport Chain:WP111	pr	ENSG00000145494:NDUFS6
+Electron Transport Chain:WP111	pr	ENSG00000167792:NDUFV1
+Electron Transport Chain:WP111	pr	ENSG00000131495:NDUFA2
+Electron Transport Chain:WP111	pr	ENSG00000139180:NDUFA9
+Electron Transport Chain:WP111	pr	ENSG00000140740:UQCRC2
+Electron Transport Chain:WP111	pr	ENSG00000128609:NDUFA5
+Electron Transport Chain:WP111	pr	ENSG00000151729:SLC25A4
+Oxidative phosphorylation:WP623	pr	ENSG00000023228:NDUFS1
+Oxidative phosphorylation:WP623	pr	ENSG00000147684:NDUFB9
+Oxidative phosphorylation:WP623	pr	ENSG00000130414:NDUFA10
+Oxidative phosphorylation:WP623	pr	ENSG00000158864:NDUFS2
+Oxidative phosphorylation:WP623	pr	ENSG00000168653:NDUFS5
+Oxidative phosphorylation:WP623	pr	ENSG00000178127:NDUFV2
+Oxidative phosphorylation:WP623	pr	ENSG00000140990:NDUFB10
+Oxidative phosphorylation:WP623	pr	ENSG00000119421:NDUFA8
+Oxidative phosphorylation:WP623	pr	ENSG00000213619:NDUFS3
+Oxidative phosphorylation:WP623	pr	ENSG00000145494:NDUFS6
+Oxidative phosphorylation:WP623	pr	ENSG00000167792:NDUFV1
+Oxidative phosphorylation:WP623	pr	ENSG00000131495:NDUFA2
+Oxidative phosphorylation:WP623	pr	ENSG00000139180:NDUFA9
+Oxidative phosphorylation:WP623	pr	ENSG00000128609:NDUFA5
+Tryptophan metabolism:WP465	pr	ENSG00000138796:HADH
+Tryptophan metabolism:WP465	pr	ENSG00000075239:ACAT1
+Tryptophan metabolism:WP465	pr	ENSG00000072506:HSD17B10
+Tryptophan metabolism:WP465	pr	ENSG00000069535:MAOB
+Tryptophan metabolism:WP465	pr	ENSG00000127884:ECHS1
+Tryptophan metabolism:WP465	pr	ENSG00000121691:CAT
+Tryptophan metabolism:WP465	pr	ENSG00000143149:ALDH9A1
+Tryptophan metabolism:WP465	pr	ENSG00000105953:OGDH
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000138796:HADH
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000138029:HADHB
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000075239:ACAT1
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000084754:HADHA
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000095321:CRAT
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000117054:ACADM
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000072778:ACADVL
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000091140:DLD
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000115159:GPD2
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000127884:ECHS1
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000111669:TPI1
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000104325:DECR1
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000178537:SLC25A20
+Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368	pr	ENSG00000138796:HADH
+Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368	pr	ENSG00000084754:HADHA
+Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368	pr	ENSG00000117054:ACADM
+Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368	pr	ENSG00000072778:ACADVL
+Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368	pr	ENSG00000116171:SCP2
+Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368	pr	ENSG00000178537:SLC25A20

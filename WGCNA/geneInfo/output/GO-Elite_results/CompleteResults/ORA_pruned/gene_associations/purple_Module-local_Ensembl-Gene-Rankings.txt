@@ -1,0 +1,22 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	2	1.0	ENSG00000213619	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	2	1.0	ENSG00000178127	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	2	1.0	ENSG00000168653	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	2	1.0	ENSG00000167792	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	2	1.0	ENSG00000158864	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	2	1.0	ENSG00000147684	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	2	1.0	ENSG00000139180	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	2	1.0	ENSG00000131495	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	2	1.0	ENSG00000128609	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	2	1.0	ENSG00000023228	Electron Transport Chain:WP111 // Oxidative phosphorylation:WP623
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	1	0.5	ENSG00000178741	Electron Transport Chain:WP111
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	1	0.5	ENSG00000169021	Electron Transport Chain:WP111
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	1	0.5	ENSG00000156467	Electron Transport Chain:WP111
+ENSG00000151729	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	1	0.5	ENSG00000151729	Electron Transport Chain:WP111
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	1	0.5	ENSG00000140740	Electron Transport Chain:WP111
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	1	0.5	ENSG00000135940	Electron Transport Chain:WP111
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	1	0.5	ENSG00000131143	Electron Transport Chain:WP111
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	1	0.5	ENSG00000126267	Electron Transport Chain:WP111
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	1	0.5	ENSG00000117118	Electron Transport Chain:WP111
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	1	0.5	ENSG00000073578	Electron Transport Chain:WP111
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	1	0.5	ENSG00000010256	Electron Transport Chain:WP111

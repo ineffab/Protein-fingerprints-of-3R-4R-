@@ -1,0 +1,18 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	2	0.666666666667	ENSG00000154654	Cell adhesion molecules (CAMs):KEGG-hsa04514 // Prion diseases:KEGG-hsa05020
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	2	0.666666666667	ENSG00000149294	Cell adhesion molecules (CAMs):KEGG-hsa04514 // Prion diseases:KEGG-hsa05020
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	1	0.333333333333	ENSG00000198910	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	1	0.333333333333	ENSG00000196569	Amoebiasis:KEGG-hsa05146
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	1	0.333333333333	ENSG00000172260	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	1	0.333333333333	ENSG00000171867	Prion diseases:KEGG-hsa05020
+ENSG00000170017	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	1	0.333333333333	ENSG00000170017	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	1	0.333333333333	ENSG00000166086	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	1	0.333333333333	ENSG00000163531	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000144566	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	1	0.333333333333	ENSG00000144566	Amoebiasis:KEGG-hsa05146
+ENSG00000124570	SERPINB6	serpin peptidase inhibitor, clade B (ovalbumin), member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	1	0.333333333333	ENSG00000124570	Amoebiasis:KEGG-hsa05146
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	1	0.333333333333	ENSG00000105695	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	1	0.333333333333	ENSG00000091129	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	1	0.333333333333	ENSG00000038427	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	1	0.333333333333	ENSG00000021645	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000021355	SERPINB1	serpin peptidase inhibitor, clade B (ovalbumin), member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	1	0.333333333333	ENSG00000021355	Amoebiasis:KEGG-hsa05146
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	1	0.333333333333	ENSG00000018236	Cell adhesion molecules (CAMs):KEGG-hsa04514

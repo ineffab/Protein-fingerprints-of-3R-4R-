@@ -1,0 +1,244 @@
+polyamine metabolic process	pr	ENSG00000099810:MTAP
+polyamine metabolic process	pr	ENSG00000120053:GOT1
+polyamine metabolic process	pr	ENSG00000145293:ENOPH1
+cytosol	pr	ENSG00000170606:HSPA4
+cytosol	pr	ENSG00000113558:SKP1
+cytosol	pr	ENSG00000100380:ST13
+cytosol	pr	ENSG00000160752:FDPS
+cytosol	pr	ENSG00000014641:MDH1
+cytosol	pr	ENSG00000120694:HSPH1
+cytosol	pr	ENSG00000141279:NPEPPS
+cytosol	pr	ENSG00000111669:TPI1
+cytosol	pr	ENSG00000133731:IMPA1
+cytosol	pr	ENSG00000141522:ARHGDIA
+cytosol	pr	ENSG00000164022:AIMP1
+cytosol	pr	ENSG00000160211:G6PD
+cytosol	pr	ENSG00000148834:GSTO1
+cytosol	pr	ENSG00000189171:S100A13
+cytosol	pr	ENSG00000099810:MTAP
+cytosol	pr	ENSG00000106605:BLVRA
+cytosol	pr	ENSG00000084623:EIF3I
+cytosol	pr	ENSG00000198242:RPL23A
+cytosol	pr	ENSG00000057608:GDI2
+cytosol	pr	ENSG00000102144:PGK1
+cytosol	pr	ENSG00000120053:GOT1
+cytosol	pr	ENSG00000105655:ISYNA1
+cytosol	pr	ENSG00000011052:NME2
+cytosol	pr	ENSG00000168092:PAFAH1B2
+cytosol	pr	ENSG00000135932:CAB39
+cytosol	pr	ENSG00000109971:HSPA8
+cytosol	pr	ENSG00000203879:GDI1
+cytosol	pr	ENSG00000166228:PCBD1
+cytosol	pr	ENSG00000102898:NUTF2
+cytosol	pr	ENSG00000111674:ENO2
+cytosol	pr	ENSG00000108439:PNPO
+cytosol	pr	ENSG00000108518:PFN1
+cytosol	pr	ENSG00000108039:XPNPEP1
+cytosol	pr	ENSG00000145293:ENOPH1
+cytosol	pr	ENSG00000159251:ACTC1
+cytosol	pr	ENSG00000149925:ALDOA
+cytosol	pr	ENSG00000178802:MPI
+chaperone-mediated protein folding	pr	ENSG00000100380:ST13
+chaperone-mediated protein folding	pr	ENSG00000120694:HSPH1
+chaperone-mediated protein folding	pr	ENSG00000100442:FKBP3
+chaperone-mediated protein folding	pr	ENSG00000109971:HSPA8
+organic cyclic compound biosynthetic process	pr	ENSG00000185651:UBE2L3
+organic cyclic compound biosynthetic process	pr	ENSG00000160752:FDPS
+organic cyclic compound biosynthetic process	pr	ENSG00000196290:NIF3L1
+organic cyclic compound biosynthetic process	pr	ENSG00000160211:G6PD
+organic cyclic compound biosynthetic process	pr	ENSG00000099810:MTAP
+organic cyclic compound biosynthetic process	pr	ENSG00000198242:RPL23A
+organic cyclic compound biosynthetic process	pr	ENSG00000011052:NME2
+organic cyclic compound biosynthetic process	pr	ENSG00000109971:HSPA8
+organic cyclic compound biosynthetic process	pr	ENSG00000166228:PCBD1
+organic cyclic compound biosynthetic process	pr	ENSG00000108439:PNPO
+organic cyclic compound biosynthetic process	pr	ENSG00000149925:ALDOA
+organic cyclic compound biosynthetic process	pr	ENSG00000175792:RUVBL1
+organic cyclic compound biosynthetic process	pr	ENSG00000178802:MPI
+aromatic compound biosynthetic process	pr	ENSG00000185651:UBE2L3
+aromatic compound biosynthetic process	pr	ENSG00000196290:NIF3L1
+aromatic compound biosynthetic process	pr	ENSG00000099810:MTAP
+aromatic compound biosynthetic process	pr	ENSG00000198242:RPL23A
+aromatic compound biosynthetic process	pr	ENSG00000011052:NME2
+aromatic compound biosynthetic process	pr	ENSG00000109971:HSPA8
+aromatic compound biosynthetic process	pr	ENSG00000166228:PCBD1
+aromatic compound biosynthetic process	pr	ENSG00000108439:PNPO
+aromatic compound biosynthetic process	pr	ENSG00000149925:ALDOA
+aromatic compound biosynthetic process	pr	ENSG00000175792:RUVBL1
+aromatic compound biosynthetic process	pr	ENSG00000178802:MPI
+heterocycle biosynthetic process	pr	ENSG00000185651:UBE2L3
+heterocycle biosynthetic process	pr	ENSG00000196290:NIF3L1
+heterocycle biosynthetic process	pr	ENSG00000099810:MTAP
+heterocycle biosynthetic process	pr	ENSG00000198242:RPL23A
+heterocycle biosynthetic process	pr	ENSG00000011052:NME2
+heterocycle biosynthetic process	pr	ENSG00000109971:HSPA8
+heterocycle biosynthetic process	pr	ENSG00000166228:PCBD1
+heterocycle biosynthetic process	pr	ENSG00000108439:PNPO
+heterocycle biosynthetic process	pr	ENSG00000149925:ALDOA
+heterocycle biosynthetic process	pr	ENSG00000175792:RUVBL1
+heterocycle biosynthetic process	pr	ENSG00000178802:MPI
+cofactor metabolic process	pr	ENSG00000014641:MDH1
+cofactor metabolic process	pr	ENSG00000196290:NIF3L1
+cofactor metabolic process	pr	ENSG00000111669:TPI1
+cofactor metabolic process	pr	ENSG00000160211:G6PD
+cofactor metabolic process	pr	ENSG00000106605:BLVRA
+cofactor metabolic process	pr	ENSG00000166228:PCBD1
+cofactor metabolic process	pr	ENSG00000108439:PNPO
+transition metal ion binding	pr	ENSG00000141279:NPEPPS
+transition metal ion binding	pr	ENSG00000130988:RGN
+transition metal ion binding	pr	ENSG00000189171:S100A13
+transition metal ion binding	pr	ENSG00000106605:BLVRA
+transition metal ion binding	pr	ENSG00000124767:GLO1
+transition metal ion binding	pr	ENSG00000108039:XPNPEP1
+transition metal ion binding	pr	ENSG00000124299:PEPD
+transition metal ion binding	pr	ENSG00000178802:MPI
+organophosphate biosynthetic process	pr	ENSG00000160752:FDPS
+organophosphate biosynthetic process	pr	ENSG00000196290:NIF3L1
+organophosphate biosynthetic process	pr	ENSG00000133731:IMPA1
+organophosphate biosynthetic process	pr	ENSG00000160211:G6PD
+organophosphate biosynthetic process	pr	ENSG00000105655:ISYNA1
+organophosphate biosynthetic process	pr	ENSG00000011052:NME2
+organophosphate biosynthetic process	pr	ENSG00000108439:PNPO
+organophosphate biosynthetic process	pr	ENSG00000149925:ALDOA
+organophosphate biosynthetic process	pr	ENSG00000178802:MPI
+carbohydrate derivative biosynthetic process	pr	ENSG00000160211:G6PD
+carbohydrate derivative biosynthetic process	pr	ENSG00000099810:MTAP
+carbohydrate derivative biosynthetic process	pr	ENSG00000011052:NME2
+carbohydrate derivative biosynthetic process	pr	ENSG00000149925:ALDOA
+carbohydrate derivative biosynthetic process	pr	ENSG00000178802:MPI
+GDP-dissociation inhibitor activity	pr	ENSG00000141522:ARHGDIA
+GDP-dissociation inhibitor activity	pr	ENSG00000057608:GDI2
+GDP-dissociation inhibitor activity	pr	ENSG00000203879:GDI1
+metallopeptidase activity	pr	ENSG00000141279:NPEPPS
+metallopeptidase activity	pr	ENSG00000108039:XPNPEP1
+metallopeptidase activity	pr	ENSG00000172009:THOP1
+metallopeptidase activity	pr	ENSG00000124299:PEPD
+lyase activity	pr	ENSG00000124767:GLO1
+lyase activity	pr	ENSG00000120053:GOT1
+lyase activity	pr	ENSG00000166228:PCBD1
+lyase activity	pr	ENSG00000111674:ENO2
+lyase activity	pr	ENSG00000149925:ALDOA
+extracellular organelle	pr	ENSG00000170606:HSPA4
+extracellular organelle	pr	ENSG00000113558:SKP1
+extracellular organelle	pr	ENSG00000185651:UBE2L3
+extracellular organelle	pr	ENSG00000100380:ST13
+extracellular organelle	pr	ENSG00000113552:GNPDA1
+extracellular organelle	pr	ENSG00000167699:GLOD4
+extracellular organelle	pr	ENSG00000014641:MDH1
+extracellular organelle	pr	ENSG00000120694:HSPH1
+extracellular organelle	pr	ENSG00000141279:NPEPPS
+extracellular organelle	pr	ENSG00000111669:TPI1
+extracellular organelle	pr	ENSG00000133731:IMPA1
+extracellular organelle	pr	ENSG00000141522:ARHGDIA
+extracellular organelle	pr	ENSG00000143727:ACP1
+extracellular organelle	pr	ENSG00000160211:G6PD
+extracellular organelle	pr	ENSG00000148834:GSTO1
+extracellular organelle	pr	ENSG00000189171:S100A13
+extracellular organelle	pr	ENSG00000099810:MTAP
+extracellular organelle	pr	ENSG00000106605:BLVRA
+extracellular organelle	pr	ENSG00000124767:GLO1
+extracellular organelle	pr	ENSG00000079950:STX7
+extracellular organelle	pr	ENSG00000084623:EIF3I
+extracellular organelle	pr	ENSG00000198242:RPL23A
+extracellular organelle	pr	ENSG00000057608:GDI2
+extracellular organelle	pr	ENSG00000102144:PGK1
+extracellular organelle	pr	ENSG00000120053:GOT1
+extracellular organelle	pr	ENSG00000011052:NME2
+extracellular organelle	pr	ENSG00000168092:PAFAH1B2
+extracellular organelle	pr	ENSG00000135932:CAB39
+extracellular organelle	pr	ENSG00000089050:RBBP9
+extracellular organelle	pr	ENSG00000109971:HSPA8
+extracellular organelle	pr	ENSG00000140945:CDH13
+extracellular organelle	pr	ENSG00000166228:PCBD1
+extracellular organelle	pr	ENSG00000102898:NUTF2
+extracellular organelle	pr	ENSG00000111674:ENO2
+extracellular organelle	pr	ENSG00000108439:PNPO
+extracellular organelle	pr	ENSG00000089220:PEBP1
+extracellular organelle	pr	ENSG00000108518:PFN1
+extracellular organelle	pr	ENSG00000108039:XPNPEP1
+extracellular organelle	pr	ENSG00000145293:ENOPH1
+extracellular organelle	pr	ENSG00000159251:ACTC1
+extracellular organelle	pr	ENSG00000134330:IAH1
+extracellular organelle	pr	ENSG00000124299:PEPD
+extracellular organelle	pr	ENSG00000149925:ALDOA
+extracellular organelle	pr	ENSG00000162736:NCSTN
+extracellular organelle	pr	ENSG00000175792:RUVBL1
+extracellular organelle	pr	ENSG00000178802:MPI
+extracellular organelle	pr	ENSG00000104388:RAB2A
+peptide metabolic process	pr	ENSG00000160211:G6PD
+peptide metabolic process	pr	ENSG00000124767:GLO1
+peptide metabolic process	pr	ENSG00000108039:XPNPEP1
+peptide metabolic process	pr	ENSG00000172009:THOP1
+peptide metabolic process	pr	ENSG00000162736:NCSTN
+aminopeptidase activity	pr	ENSG00000141279:NPEPPS
+aminopeptidase activity	pr	ENSG00000108039:XPNPEP1
+aminopeptidase activity	pr	ENSG00000124299:PEPD
+enzyme activator activity	pr	ENSG00000197045:GMFB
+enzyme activator activity	pr	ENSG00000141522:ARHGDIA
+enzyme activator activity	pr	ENSG00000057608:GDI2
+enzyme activator activity	pr	ENSG00000135932:CAB39
+enzyme activator activity	pr	ENSG00000203879:GDI1
+enzyme activator activity	pr	ENSG00000091844:RGS17
+carbohydrate biosynthetic process	pr	ENSG00000014641:MDH1
+carbohydrate biosynthetic process	pr	ENSG00000111669:TPI1
+carbohydrate biosynthetic process	pr	ENSG00000133731:IMPA1
+carbohydrate biosynthetic process	pr	ENSG00000130988:RGN
+carbohydrate biosynthetic process	pr	ENSG00000160211:G6PD
+carbohydrate biosynthetic process	pr	ENSG00000102144:PGK1
+carbohydrate biosynthetic process	pr	ENSG00000120053:GOT1
+carbohydrate biosynthetic process	pr	ENSG00000105655:ISYNA1
+carbohydrate biosynthetic process	pr	ENSG00000111674:ENO2
+carbohydrate biosynthetic process	pr	ENSG00000149925:ALDOA
+polyol biosynthetic process	pr	ENSG00000133731:IMPA1
+polyol biosynthetic process	pr	ENSG00000120053:GOT1
+polyol biosynthetic process	pr	ENSG00000105655:ISYNA1
+nucleus	pr	ENSG00000185651:UBE2L3
+nucleus	pr	ENSG00000160752:FDPS
+nucleus	pr	ENSG00000120694:HSPH1
+nucleus	pr	ENSG00000136193:SCRN1
+nucleus	pr	ENSG00000141279:NPEPPS
+nucleus	pr	ENSG00000168439:STIP1
+nucleus	pr	ENSG00000100442:FKBP3
+nucleus	pr	ENSG00000138385:SSB
+nucleus	pr	ENSG00000111669:TPI1
+nucleus	pr	ENSG00000164022:AIMP1
+nucleus	pr	ENSG00000130988:RGN
+nucleus	pr	ENSG00000160211:G6PD
+nucleus	pr	ENSG00000189171:S100A13
+nucleus	pr	ENSG00000099810:MTAP
+nucleus	pr	ENSG00000198242:RPL23A
+nucleus	pr	ENSG00000120053:GOT1
+nucleus	pr	ENSG00000011052:NME2
+nucleus	pr	ENSG00000089050:RBBP9
+nucleus	pr	ENSG00000109971:HSPA8
+nucleus	pr	ENSG00000166228:PCBD1
+nucleus	pr	ENSG00000116918:TSNAX
+nucleus	pr	ENSG00000089220:PEBP1
+nucleus	pr	ENSG00000108518:PFN1
+nucleus	pr	ENSG00000145293:ENOPH1
+nucleus	pr	ENSG00000149925:ALDOA
+nucleus	pr	ENSG00000091844:RGS17
+nucleus	pr	ENSG00000175792:RUVBL1
+nucleus	pr	ENSG00000057757:PITHD1
+nucleus	pr	ENSG00000104388:RAB2A
+response to unfolded protein	pr	ENSG00000170606:HSPA4
+response to unfolded protein	pr	ENSG00000120694:HSPH1
+response to unfolded protein	pr	ENSG00000109971:HSPA8
+cellular aldehyde metabolic process	pr	ENSG00000111669:TPI1
+cellular aldehyde metabolic process	pr	ENSG00000160211:G6PD
+cellular aldehyde metabolic process	pr	ENSG00000124767:GLO1
+cellular aldehyde metabolic process	pr	ENSG00000108439:PNPO
+intramolecular oxidoreductase activity, interconverting aldoses and ketoses	pr	ENSG00000113552:GNPDA1
+intramolecular oxidoreductase activity, interconverting aldoses and ketoses	pr	ENSG00000111669:TPI1
+intramolecular oxidoreductase activity, interconverting aldoses and ketoses	pr	ENSG00000178802:MPI
+glycolytic process	pr	ENSG00000111669:TPI1
+glycolytic process	pr	ENSG00000102144:PGK1
+glycolytic process	pr	ENSG00000111674:ENO2
+glycolytic process	pr	ENSG00000149925:ALDOA
+pyridine-containing compound metabolic process	pr	ENSG00000014641:MDH1
+pyridine-containing compound metabolic process	pr	ENSG00000111669:TPI1
+pyridine-containing compound metabolic process	pr	ENSG00000160211:G6PD
+pyridine-containing compound metabolic process	pr	ENSG00000108439:PNPO
+water-soluble vitamin metabolic process	pr	ENSG00000130988:RGN
+water-soluble vitamin metabolic process	pr	ENSG00000148834:GSTO1
+water-soluble vitamin metabolic process	pr	ENSG00000108439:PNPO

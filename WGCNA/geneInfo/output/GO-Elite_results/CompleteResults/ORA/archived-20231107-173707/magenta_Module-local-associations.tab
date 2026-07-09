@@ -1,0 +1,87 @@
+Ensembl	symbol	WikiPathways
+ENSG00000197971	MBP	Spinal Cord Injury:WP2431
+ENSG00000038427	VCAN	Spinal Cord Injury:WP2431
+ENSG00000106278	PTPRZ1	Spinal Cord Injury:WP2431
+ENSG00000105695	MAG	Spinal Cord Injury:WP2431
+ENSG00000168036	CTNNB1	Focal Adhesion:WP306
+ENSG00000196569	LAMA2	Focal Adhesion:WP306
+ENSG00000116147	TNR	Focal Adhesion:WP306
+ENSG00000168036	CTNNB1	Endoderm Differentiation:WP2853
+ENSG00000070756	PABPC1	Endoderm Differentiation:WP2853
+ENSG00000168036	CTNNB1	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000085117	CD82	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000168036	CTNNB1	Wnt Signaling Pathway and Pluripotency:WP399
+ENSG00000130203	APOE	Vitamin B12 Metabolism:WP1533
+ENSG00000163754	GYG1	Insulin Signaling:WP481
+ENSG00000168036	CTNNB1	Adipogenesis:WP236
+ENSG00000122756	CNTFR	Adipogenesis:WP236
+ENSG00000168036	CTNNB1	Androgen receptor signaling pathway:WP138
+ENSG00000168036	CTNNB1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000196569	LAMA2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000157445	CACNA2D3	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000066032	CTNNA2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000110651	CD81	B Cell Receptor Signaling Pathway:WP23
+ENSG00000168036	CTNNB1	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+ENSG00000120885	CLU	Complement and Coagulation Cascades:WP558
+ENSG00000000971	CFH	Complement and Coagulation Cascades:WP558
+ENSG00000197971	MBP	Structural Pathway of Interleukin 1 (IL-1):WP2637
+ENSG00000133026	MYH10	Regulation of Actin Cytoskeleton:WP51
+ENSG00000150867	PIP4K2A	Regulation of Actin Cytoskeleton:WP51
+ENSG00000123560	PLP1	Glial Cell Differentiation:WP2276
+ENSG00000197971	MBP	Glial Cell Differentiation:WP2276
+ENSG00000173786	CNP	Glial Cell Differentiation:WP2276
+ENSG00000105695	MAG	Glial Cell Differentiation:WP2276
+ENSG00000168036	CTNNB1	BDNF signaling pathway:WP2380
+ENSG00000149294	NCAM1	BDNF signaling pathway:WP2380
+ENSG00000198053	SIRPA	BDNF signaling pathway:WP2380
+ENSG00000211895	IGHA1	Inflammatory Response Pathway:WP453
+ENSG00000124570	SERPINB6	Ectoderm Differentiation:WP2858
+ENSG00000168036	CTNNB1	Ectoderm Differentiation:WP2858
+ENSG00000066032	CTNNA2	Ectoderm Differentiation:WP2858
+ENSG00000168036	CTNNB1	Heart Development:WP1591
+ENSG00000058404	CAMK2B	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000168036	CTNNB1	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000168036	CTNNB1	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000167996	FTH1	NRF2 pathway:WP2884
+ENSG00000151012	SLC7A11	NRF2 pathway:WP2884
+ENSG00000143947	RPS27A	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000058404	CAMK2B	Hypothetical Network for Drug Addiction:WP666
+ENSG00000151012	SLC7A11	Transcriptional activation by NRF2:WP3
+ENSG00000123560	PLP1	SIDS Susceptibility Pathways:WP706
+ENSG00000144381	HSPD1	SIDS Susceptibility Pathways:WP706
+ENSG00000168036	CTNNB1	SIDS Susceptibility Pathways:WP706
+ENSG00000058404	CAMK2B	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000168036	CTNNB1	DNA Damage Response (only ATM dependent):WP710
+ENSG00000197971	MBP	Neural Crest Differentiation:WP2064
+ENSG00000168036	CTNNB1	Neural Crest Differentiation:WP2064
+ENSG00000197971	MBP	MAPK Cascade:WP422
+ENSG00000168036	CTNNB1	Extracellular vesicle-mediated signaling in recipient cells:WP2870
+ENSG00000168036	CTNNB1	Hair Follicle Development: Induction (Part 1 of 3):WP2804
+ENSG00000038427	VCAN	Hair Follicle Development: Induction (Part 1 of 3):WP2804
+ENSG00000150867	PIP4K2A	G13 Signaling Pathway:WP524
+ENSG00000168036	CTNNB1	Corticotropin-releasing hormone:WP2355
+ENSG00000104722	NEFM	Amyotrophic lateral sclerosis (ALS):WP2447
+ENSG00000144566	RAB5A	Amyotrophic lateral sclerosis (ALS):WP2447
+ENSG00000168036	CTNNB1	TGF Beta Signaling Pathway:WP560
+ENSG00000086061	DNAJA1	Diurnally Regulated Genes with Circadian Orthologs:WP410
+ENSG00000168036	CTNNB1	Wnt Signaling Pathway:WP428
+ENSG00000144566	RAB5A	EGF/EGFR Signaling Pathway:WP437
+ENSG00000144381	HSPD1	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000130203	APOE	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000107317	PTGDS	Eicosanoid Synthesis:WP167
+ENSG00000107317	PTGDS	Prostaglandin Synthesis and Regulation:WP98
+ENSG00000130203	APOE	Statin Pathway:WP430
+ENSG00000070756	PABPC1	Translation Factors:WP107
+ENSG00000168036	CTNNB1	Rac1/Pak1/p38/MMP-2 pathway:WP3303
+ENSG00000167996	FTH1	Iron metabolism in placenta:WP2007
+ENSG00000130203	APOE	Alzheimers Disease:WP2059
+ENSG00000168036	CTNNB1	Wnt Signaling Pathway Netpath:WP363
+ENSG00000058404	CAMK2B	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000171867	PRNP	Copper homeostasis:WP3286
+ENSG00000168036	CTNNB1	Gastric cancer network 2:WP2363
+ENSG00000135821	GLUL	BCL-XL prevents the binding of truncated BID to BAX. This is prevented by BAD. BAD can displace tBID from BCL-XL.   :WP231
+ENSG00000168036	CTNNB1	TWEAK Signaling Pathway:WP2036
+ENSG00000196569	LAMA2	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000163754	GYG1	Glycogen Metabolism:WP500
+ENSG00000149294	NCAM1	Cardiac Progenitor Differentiation:WP2406
+ENSG00000198053	SIRPA	Cardiac Progenitor Differentiation:WP2406

@@ -1,0 +1,4 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Arachidonic acid metabolism:KEGG-hsa00590	4	12	62	33.3333333333	19.3548387097	3.04492028891	0.0225	1.0	 	 	CYP4F11|GGT1|LTA4H|PTGES2
+Malaria:KEGG-hsa05144	3	8	66	37.5	12.1212121212	2.90069209739	0.041	1.0	 	 	HBA1|HBB|HBD
+Carbohydrate digestion and absorption:KEGG-hsa04973	3	9	53	33.3333333333	16.9811320755	2.63288892506	0.0455	1.0	 	 	ATP1A3|ATP1B1|ATP1B2

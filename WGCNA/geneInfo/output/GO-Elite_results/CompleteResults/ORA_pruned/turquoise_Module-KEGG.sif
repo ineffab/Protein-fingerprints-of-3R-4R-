@@ -1,0 +1,348 @@
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000169100:SLC25A6
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000023228:NDUFS1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000147684:NDUFB9
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000213585:VDAC1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000126267:COX6B1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000130414:NDUFA10
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000131143:COX4I1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000178741:COX5A
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000158864:NDUFS2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000073578:SDHA
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000156467:UQCRB
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000078668:VDAC3
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000168653:NDUFS5
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000117118:SDHB
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000178127:NDUFV2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000140990:NDUFB10
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000119421:NDUFA8
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000010256:UQCRC1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000186010:NDUFA13
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000005022:SLC25A5
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000179091:CYC1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000213619:NDUFS3
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000135940:COX5B
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000169021:UQCRFS1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000172115:CYCS
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000145494:NDUFS6
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000167792:NDUFV1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000131495:NDUFA2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000165637:VDAC2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000139180:NDUFA9
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000140740:UQCRC2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000128609:NDUFA5
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000151729:SLC25A4
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000130707:ASS1
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000189221:MAOA
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000120053:GOT1
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000135821:GLUL
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000002549:LAP3
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000243989:ACY1
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000069535:MAOB
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000171766:GATM
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000223572:CKMT1A
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000100033:PRODH
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000143149:ALDH9A1
+RNA degradation:KEGG-hsa03018	pr	ENSG00000111674:ENO2
+RNA degradation:KEGG-hsa03018	pr	ENSG00000074800:ENO1
+RNA degradation:KEGG-hsa03018	pr	ENSG00000113013:HSPA9
+RNA degradation:KEGG-hsa03018	pr	ENSG00000144381:HSPD1
+Fatty acid elongation in mitochondria:KEGG-hsa00062	pr	ENSG00000138796:HADH
+Fatty acid elongation in mitochondria:KEGG-hsa00062	pr	ENSG00000138029:HADHB
+Fatty acid elongation in mitochondria:KEGG-hsa00062	pr	ENSG00000131238:PPT1
+Fatty acid elongation in mitochondria:KEGG-hsa00062	pr	ENSG00000084754:HADHA
+Fatty acid elongation in mitochondria:KEGG-hsa00062	pr	ENSG00000167315:ACAA2
+Fatty acid elongation in mitochondria:KEGG-hsa00062	pr	ENSG00000127884:ECHS1
+Autoimmune thyroid disease:KEGG-hsa05320	pr	ENSG00000204287:HLA-DRA
+Autoimmune thyroid disease:KEGG-hsa05320	pr	ENSG00000234745:HLA-B
+Autoimmune thyroid disease:KEGG-hsa05320	pr	ENSG00000206503:HLA-A
+Autoimmune thyroid disease:KEGG-hsa05320	pr	ENSG00000196126:HLA-DRB1
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000075239:ACAT1
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000175198:PCCA
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000084754:HADHA
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000117054:ACADM
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000183044:ABAT
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000134333:LDHA
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000111058:ACSS3
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000198130:HIBCH
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000127884:ECHS1
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000154930:ACSS1
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000119711:ALDH6A1
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000143149:ALDH9A1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000138796:HADH
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000138029:HADHB
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000075239:ACAT1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000084754:HADHA
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000197894:ADH5
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000117054:ACADM
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000072778:ACADVL
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000167315:ACAA2
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000127884:ECHS1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000103740:ACSBG1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000060971:ACAA1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000143149:ALDH9A1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000161533:ACOX1
+Nucleotide excision repair:KEGG-hsa03420	pr	ENSG00000158290:CUL4B
+Nucleotide excision repair:KEGG-hsa03420	pr	ENSG00000119318:RAD23B
+Nucleotide excision repair:KEGG-hsa03420	pr	ENSG00000167986:DDB1
+Tyrosine metabolism:KEGG-hsa00350	pr	ENSG00000103876:FAH
+Tyrosine metabolism:KEGG-hsa00350	pr	ENSG00000189221:MAOA
+Tyrosine metabolism:KEGG-hsa00350	pr	ENSG00000197894:ADH5
+Tyrosine metabolism:KEGG-hsa00350	pr	ENSG00000120053:GOT1
+Tyrosine metabolism:KEGG-hsa00350	pr	ENSG00000131471:AOC3
+Tyrosine metabolism:KEGG-hsa00350	pr	ENSG00000069535:MAOB
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000138796:HADH
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000168291:PDHB
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000075239:ACAT1
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000112294:ALDH5A1
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000084754:HADHA
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000083720:OXCT1
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000183044:ABAT
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000131828:PDHA1
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000127884:ECHS1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000111674:ENO2
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000168291:PDHB
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000149925:ALDOA
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000197894:ADH5
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000079739:PGM1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000134333:LDHA
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000150768:DLAT
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000091140:DLD
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000074800:ENO1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000131828:PDHA1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000156515:HK1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000109107:ALDOC
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000111669:TPI1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000154930:ACSS1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000143149:ALDH9A1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000164708:PGAM2
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000138413:IDH1
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000173599:PC
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000100412:ACO2
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000168291:PDHB
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000119689:DLST
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000182054:IDH2
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000073578:SDHA
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000166411:IDH3A
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000150768:DLAT
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000091140:DLD
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000117118:SDHB
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000131828:PDHA1
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000062485:CS
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000014641:MDH1
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000101365:IDH3B
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000105953:OGDH
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000164687:FABP5
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000117054:ACADM
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000166333:ILK
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000155368:DBI
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000121769:FABP3
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000103740:ACSBG1
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000116171:SCP2
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000060971:ACAA1
+PPAR signaling pathway:KEGG-hsa03320	pr	ENSG00000161533:ACOX1
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000130702:LAMA5
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000138448:ITGAV
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000005884:ITGA3
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000150093:ITGB1
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000091409:ITGA6
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000164171:ITGA2
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000172115:CYCS
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000112769:LAMA4
+Graft-versus-host disease:KEGG-hsa05332	pr	ENSG00000204287:HLA-DRA
+Graft-versus-host disease:KEGG-hsa05332	pr	ENSG00000234745:HLA-B
+Graft-versus-host disease:KEGG-hsa05332	pr	ENSG00000206503:HLA-A
+Graft-versus-host disease:KEGG-hsa05332	pr	ENSG00000196126:HLA-DRB1
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000142173:COL6A2
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000105409:ATP1A3
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000143153:ATP1B1
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000168003:SLC3A2
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000137509:PRCP
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000163359:COL6A3
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000163399:ATP1A1
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000142156:COL6A1
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000069849:ATP1B3
+Protein digestion and absorption:KEGG-hsa04974	pr	ENSG00000108821:COL1A1
+Phenylalanine metabolism:KEGG-hsa00360	pr	ENSG00000189221:MAOA
+Phenylalanine metabolism:KEGG-hsa00360	pr	ENSG00000120053:GOT1
+Phenylalanine metabolism:KEGG-hsa00360	pr	ENSG00000117592:PRDX6
+Phenylalanine metabolism:KEGG-hsa00360	pr	ENSG00000131471:AOC3
+Phenylalanine metabolism:KEGG-hsa00360	pr	ENSG00000069535:MAOB
+Pyrimidine metabolism:KEGG-hsa00240	pr	ENSG00000011052:NME2
+Pyrimidine metabolism:KEGG-hsa00240	pr	ENSG00000147853:AK3
+Pyrimidine metabolism:KEGG-hsa00240	pr	ENSG00000198805:PNP
+Pyrimidine metabolism:KEGG-hsa00240	pr	ENSG00000135318:NT5E
+Pyrimidine metabolism:KEGG-hsa00240	pr	ENSG00000138185:ENTPD1
+Pyrimidine metabolism:KEGG-hsa00240	pr	ENSG00000076685:NT5C2
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000082781:ITGB5
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000142173:COL6A2
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000130702:LAMA5
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000138448:ITGAV
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000026508:CD44
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000163359:COL6A3
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000005884:ITGA3
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000150093:ITGB1
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000091409:ITGA6
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000142156:COL6A1
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000161638:ITGA5
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000135424:ITGA7
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000164171:ITGA2
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000108821:COL1A1
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000112769:LAMA4
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000041982:TNC
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000173402:DAG1
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000132470:ITGB4
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000204287:HLA-DRA
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000234745:HLA-B
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000144381:HSPD1
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000206503:HLA-A
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000196126:HLA-DRB1
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000109472:CPE
+Allograft rejection:KEGG-hsa05330	pr	ENSG00000204287:HLA-DRA
+Allograft rejection:KEGG-hsa05330	pr	ENSG00000234745:HLA-B
+Allograft rejection:KEGG-hsa05330	pr	ENSG00000206503:HLA-A
+Allograft rejection:KEGG-hsa05330	pr	ENSG00000196126:HLA-DRB1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000123384:LRP1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000023228:NDUFS1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000147684:NDUFB9
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000126267:COX6B1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000130414:NDUFA10
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000131143:COX4I1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000178741:COX5A
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000158864:NDUFS2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000073578:SDHA
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000156467:UQCRB
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000168653:NDUFS5
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000143933:CALM2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000117118:SDHB
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000178127:NDUFV2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000186868:MAPT
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000140990:NDUFB10
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000072506:HSD17B10
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000119421:NDUFA8
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000010256:UQCRC1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000186010:NDUFA13
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000179091:CYC1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000213619:NDUFS3
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000135940:COX5B
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000169021:UQCRFS1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000172115:CYCS
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000145494:NDUFS6
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000162909:CAPN2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000167792:NDUFV1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000131495:NDUFA2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000139180:NDUFA9
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000140740:UQCRC2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000162736:NCSTN
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000128609:NDUFA5
+Carbohydrate digestion and absorption:KEGG-hsa04973	pr	ENSG00000105409:ATP1A3
+Carbohydrate digestion and absorption:KEGG-hsa04973	pr	ENSG00000143153:ATP1B1
+Carbohydrate digestion and absorption:KEGG-hsa04973	pr	ENSG00000163399:ATP1A1
+Carbohydrate digestion and absorption:KEGG-hsa04973	pr	ENSG00000069849:ATP1B3
+Carbohydrate digestion and absorption:KEGG-hsa04973	pr	ENSG00000156515:HK1
+Carbohydrate digestion and absorption:KEGG-hsa04973	pr	ENSG00000142583:SLC2A5
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000169100:SLC25A6
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000023228:NDUFS1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000147684:NDUFB9
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000213585:VDAC1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000126267:COX6B1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000130414:NDUFA10
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000131143:COX4I1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000178741:COX5A
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000158864:NDUFS2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000073578:SDHA
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000156467:UQCRB
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000078668:VDAC3
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000168653:NDUFS5
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000117118:SDHB
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000178127:NDUFV2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000140990:NDUFB10
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000119421:NDUFA8
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000010256:UQCRC1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000186010:NDUFA13
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000005022:SLC25A5
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000179091:CYC1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000213619:NDUFS3
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000135940:COX5B
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000169021:UQCRFS1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000172115:CYCS
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000145494:NDUFS6
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000167792:NDUFV1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000131495:NDUFA2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000165637:VDAC2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000139180:NDUFA9
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000140740:UQCRC2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000128609:NDUFA5
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000151729:SLC25A4
+Nicotinate and nicotinamide metabolism:KEGG-hsa00760	pr	ENSG00000198805:PNP
+Nicotinate and nicotinamide metabolism:KEGG-hsa00760	pr	ENSG00000112992:NNT
+Nicotinate and nicotinamide metabolism:KEGG-hsa00760	pr	ENSG00000109743:BST1
+Nicotinate and nicotinamide metabolism:KEGG-hsa00760	pr	ENSG00000135318:NT5E
+Nicotinate and nicotinamide metabolism:KEGG-hsa00760	pr	ENSG00000076685:NT5C2
+Nicotinate and nicotinamide metabolism:KEGG-hsa00760	pr	ENSG00000004468:CD38
+Nicotinate and nicotinamide metabolism:KEGG-hsa00760	pr	ENSG00000105835:NAMPT
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000138796:HADH
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000138029:HADHB
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000075239:ACAT1
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000175198:PCCA
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000106049:HIBADH
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000131844:MCCC2
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000084754:HADHA
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000117054:ACADM
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000083720:OXCT1
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000183044:ABAT
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000167315:ACAA2
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000091140:DLD
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000198130:HIBCH
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000072506:HSD17B10
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000127884:ECHS1
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000119711:ALDH6A1
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000060971:ACAA1
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000143149:ALDH9A1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000100554:ATP6V1D
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000023228:NDUFS1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000147684:NDUFB9
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000136888:ATP6V1G1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000126267:COX6B1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000130414:NDUFA10
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000131143:COX4I1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000178741:COX5A
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000158864:NDUFS2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000073578:SDHA
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000156467:UQCRB
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000168653:NDUFS5
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000117118:SDHB
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000178127:NDUFV2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000140990:NDUFB10
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000119421:NDUFA8
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000010256:UQCRC1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000186010:NDUFA13
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000179091:CYC1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000180817:PPA1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000213619:NDUFS3
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000135940:COX5B
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000169021:UQCRFS1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000145494:NDUFS6
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000167792:NDUFV1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000131495:NDUFA2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000139180:NDUFA9
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000140740:UQCRC2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000128609:NDUFA5
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000138796:HADH
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000189221:MAOA
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000075239:ACAT1
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000084754:HADHA
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000069535:MAOB
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000127884:ECHS1
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000121691:CAT
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000143149:ALDH9A1
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000105953:OGDH
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000204287:HLA-DRA
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000026508:CD44
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000005884:ITGA3
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000091409:ITGA6
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000161638:ITGA5
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000164171:ITGA2
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000196126:HLA-DRB1
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000004468:CD38
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000169896:ITGAM
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000170458:CD14

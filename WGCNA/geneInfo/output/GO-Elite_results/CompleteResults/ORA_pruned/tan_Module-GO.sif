@@ -1,0 +1,466 @@
+proteasome core complex	pr	ENSG00000008018:PSMB1
+proteasome core complex	pr	ENSG00000106588:PSMA2
+proteasome core complex	pr	ENSG00000129084:PSMA1
+proteasome core complex	pr	ENSG00000100902:PSMA6
+proteasome core complex	pr	ENSG00000136930:PSMB7
+proteasome core complex	pr	ENSG00000143106:PSMA5
+proteasome core complex	pr	ENSG00000100567:PSMA3
+proteasome core complex	pr	ENSG00000126067:PSMB2
+proteasome core complex	pr	ENSG00000101182:PSMA7
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000008018:PSMB1
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000185627:PSMD13
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000106588:PSMA2
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000165916:PSMC3
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000129084:PSMA1
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000100902:PSMA6
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000136930:PSMB7
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000143106:PSMA5
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000100567:PSMA3
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000126067:PSMB2
+DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	pr	ENSG00000101182:PSMA7
+cofactor binding	pr	ENSG00000075239:ACAT1
+cofactor binding	pr	ENSG00000111640:GAPDH
+cofactor binding	pr	ENSG00000138796:HADH
+cofactor binding	pr	ENSG00000104687:GSR
+cofactor binding	pr	ENSG00000111716:LDHB
+cofactor binding	pr	ENSG00000140374:ETFA
+cofactor binding	pr	ENSG00000104325:DECR1
+cofactor binding	pr	ENSG00000091140:DLD
+cofactor binding	pr	ENSG00000183044:ABAT
+cofactor binding	pr	ENSG00000148672:GLUD1
+cofactor binding	pr	ENSG00000125166:GOT2
+cofactor binding	pr	ENSG00000106049:HIBADH
+oxidoreductase activity	pr	ENSG00000111640:GAPDH
+oxidoreductase activity	pr	ENSG00000138796:HADH
+oxidoreductase activity	pr	ENSG00000104687:GSR
+oxidoreductase activity	pr	ENSG00000116288:PARK7
+oxidoreductase activity	pr	ENSG00000111716:LDHB
+oxidoreductase activity	pr	ENSG00000111275:ALDH2
+oxidoreductase activity	pr	ENSG00000167815:PRDX2
+oxidoreductase activity	pr	ENSG00000112294:ALDH5A1
+oxidoreductase activity	pr	ENSG00000140374:ETFA
+oxidoreductase activity	pr	ENSG00000167468:GPX4
+oxidoreductase activity	pr	ENSG00000104325:DECR1
+oxidoreductase activity	pr	ENSG00000091140:DLD
+oxidoreductase activity	pr	ENSG00000148672:GLUD1
+oxidoreductase activity	pr	ENSG00000106049:HIBADH
+oxidoreductase activity	pr	ENSG00000146701:MDH2
+glutathione metabolic process	pr	ENSG00000104687:GSR
+glutathione metabolic process	pr	ENSG00000112294:ALDH5A1
+glutathione metabolic process	pr	ENSG00000167468:GPX4
+electron carrier activity	pr	ENSG00000104687:GSR
+electron carrier activity	pr	ENSG00000111275:ALDH2
+electron carrier activity	pr	ENSG00000140374:ETFA
+electron carrier activity	pr	ENSG00000105379:ETFB
+programmed cell death	pr	ENSG00000008018:PSMB1
+programmed cell death	pr	ENSG00000185627:PSMD13
+programmed cell death	pr	ENSG00000111640:GAPDH
+programmed cell death	pr	ENSG00000067225:PKM
+programmed cell death	pr	ENSG00000108561:C1QBP
+programmed cell death	pr	ENSG00000106588:PSMA2
+programmed cell death	pr	ENSG00000165916:PSMC3
+programmed cell death	pr	ENSG00000129084:PSMA1
+programmed cell death	pr	ENSG00000100902:PSMA6
+programmed cell death	pr	ENSG00000136930:PSMB7
+programmed cell death	pr	ENSG00000143106:PSMA5
+programmed cell death	pr	ENSG00000100567:PSMA3
+programmed cell death	pr	ENSG00000126067:PSMB2
+programmed cell death	pr	ENSG00000101182:PSMA7
+mitochondrion	pr	ENSG00000198130:HIBCH
+mitochondrion	pr	ENSG00000144827:ABHD10
+mitochondrion	pr	ENSG00000075239:ACAT1
+mitochondrion	pr	ENSG00000127884:ECHS1
+mitochondrion	pr	ENSG00000138796:HADH
+mitochondrion	pr	ENSG00000067225:PKM
+mitochondrion	pr	ENSG00000108561:C1QBP
+mitochondrion	pr	ENSG00000104687:GSR
+mitochondrion	pr	ENSG00000104823:ECH1
+mitochondrion	pr	ENSG00000116288:PARK7
+mitochondrion	pr	ENSG00000111716:LDHB
+mitochondrion	pr	ENSG00000198755:RPL10A
+mitochondrion	pr	ENSG00000112294:ALDH5A1
+mitochondrion	pr	ENSG00000172500:FIBP
+mitochondrion	pr	ENSG00000140374:ETFA
+mitochondrion	pr	ENSG00000111911:HINT3
+mitochondrion	pr	ENSG00000167468:GPX4
+mitochondrion	pr	ENSG00000104325:DECR1
+mitochondrion	pr	ENSG00000091140:DLD
+mitochondrion	pr	ENSG00000183044:ABAT
+mitochondrion	pr	ENSG00000105379:ETFB
+mitochondrion	pr	ENSG00000148672:GLUD1
+mitochondrion	pr	ENSG00000100412:ACO2
+mitochondrion	pr	ENSG00000125166:GOT2
+mitochondrion	pr	ENSG00000129351:ILF3
+mitochondrion	pr	ENSG00000106049:HIBADH
+mitochondrion	pr	ENSG00000146701:MDH2
+mitochondrion	pr	ENSG00000113013:HSPA9
+glucose metabolic process	pr	ENSG00000111640:GAPDH
+glucose metabolic process	pr	ENSG00000067225:PKM
+glucose metabolic process	pr	ENSG00000112294:ALDH5A1
+glucose metabolic process	pr	ENSG00000169764:UGP2
+glucose metabolic process	pr	ENSG00000074800:ENO1
+glucose metabolic process	pr	ENSG00000125166:GOT2
+glucose metabolic process	pr	ENSG00000146701:MDH2
+proteasome complex	pr	ENSG00000008018:PSMB1
+proteasome complex	pr	ENSG00000185627:PSMD13
+proteasome complex	pr	ENSG00000106588:PSMA2
+proteasome complex	pr	ENSG00000165916:PSMC3
+proteasome complex	pr	ENSG00000129084:PSMA1
+proteasome complex	pr	ENSG00000136930:PSMB7
+proteasome complex	pr	ENSG00000143106:PSMA5
+proteasome complex	pr	ENSG00000100567:PSMA3
+proteasome complex	pr	ENSG00000126067:PSMB2
+proteasome complex	pr	ENSG00000101182:PSMA7
+transferase activity, transferring nitrogenous groups	pr	ENSG00000111640:GAPDH
+transferase activity, transferring nitrogenous groups	pr	ENSG00000183044:ABAT
+transferase activity, transferring nitrogenous groups	pr	ENSG00000125166:GOT2
+regulation of inflammatory response	pr	ENSG00000108561:C1QBP
+regulation of inflammatory response	pr	ENSG00000116288:PARK7
+regulation of inflammatory response	pr	ENSG00000167468:GPX4
+regulation of inflammatory response	pr	ENSG00000100902:PSMA6
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000008018:PSMB1
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000185627:PSMD13
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000106588:PSMA2
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000165916:PSMC3
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000129084:PSMA1
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000100902:PSMA6
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000136930:PSMB7
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000143106:PSMA5
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000100567:PSMA3
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000126067:PSMB2
+anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	pr	ENSG00000101182:PSMA7
+hydro-lyase activity	pr	ENSG00000127884:ECHS1
+hydro-lyase activity	pr	ENSG00000074800:ENO1
+hydro-lyase activity	pr	ENSG00000100412:ACO2
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000008018:PSMB1
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000185627:PSMD13
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000106588:PSMA2
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000165916:PSMC3
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000129084:PSMA1
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000100902:PSMA6
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000136930:PSMB7
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000143106:PSMA5
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000100567:PSMA3
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000126067:PSMB2
+positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	pr	ENSG00000101182:PSMA7
+mitochondrial matrix	pr	ENSG00000198130:HIBCH
+mitochondrial matrix	pr	ENSG00000075239:ACAT1
+mitochondrial matrix	pr	ENSG00000127884:ECHS1
+mitochondrial matrix	pr	ENSG00000138796:HADH
+mitochondrial matrix	pr	ENSG00000108561:C1QBP
+mitochondrial matrix	pr	ENSG00000104687:GSR
+mitochondrial matrix	pr	ENSG00000111275:ALDH2
+mitochondrial matrix	pr	ENSG00000112294:ALDH5A1
+mitochondrial matrix	pr	ENSG00000140374:ETFA
+mitochondrial matrix	pr	ENSG00000104325:DECR1
+mitochondrial matrix	pr	ENSG00000091140:DLD
+mitochondrial matrix	pr	ENSG00000183044:ABAT
+mitochondrial matrix	pr	ENSG00000105379:ETFB
+mitochondrial matrix	pr	ENSG00000148672:GLUD1
+mitochondrial matrix	pr	ENSG00000100412:ACO2
+mitochondrial matrix	pr	ENSG00000125166:GOT2
+mitochondrial matrix	pr	ENSG00000106049:HIBADH
+mitochondrial matrix	pr	ENSG00000146701:MDH2
+hydrogen peroxide metabolic process	pr	ENSG00000116288:PARK7
+hydrogen peroxide metabolic process	pr	ENSG00000167815:PRDX2
+hydrogen peroxide metabolic process	pr	ENSG00000167468:GPX4
+gene expression	pr	ENSG00000008018:PSMB1
+gene expression	pr	ENSG00000185627:PSMD13
+gene expression	pr	ENSG00000198755:RPL10A
+gene expression	pr	ENSG00000106588:PSMA2
+gene expression	pr	ENSG00000188846:RPL14
+gene expression	pr	ENSG00000165916:PSMC3
+gene expression	pr	ENSG00000129084:PSMA1
+gene expression	pr	ENSG00000100902:PSMA6
+gene expression	pr	ENSG00000136930:PSMB7
+gene expression	pr	ENSG00000143106:PSMA5
+gene expression	pr	ENSG00000100567:PSMA3
+gene expression	pr	ENSG00000126067:PSMB2
+gene expression	pr	ENSG00000101182:PSMA7
+viral process	pr	ENSG00000008018:PSMB1
+viral process	pr	ENSG00000185627:PSMD13
+viral process	pr	ENSG00000108561:C1QBP
+viral process	pr	ENSG00000077380:DYNC1I2
+viral process	pr	ENSG00000198755:RPL10A
+viral process	pr	ENSG00000106588:PSMA2
+viral process	pr	ENSG00000188846:RPL14
+viral process	pr	ENSG00000165916:PSMC3
+viral process	pr	ENSG00000129084:PSMA1
+viral process	pr	ENSG00000100902:PSMA6
+viral process	pr	ENSG00000136930:PSMB7
+viral process	pr	ENSG00000143106:PSMA5
+viral process	pr	ENSG00000100567:PSMA3
+viral process	pr	ENSG00000126067:PSMB2
+viral process	pr	ENSG00000101182:PSMA7
+nuclear part	pr	ENSG00000008018:PSMB1
+nuclear part	pr	ENSG00000185627:PSMD13
+nuclear part	pr	ENSG00000108561:C1QBP
+nuclear part	pr	ENSG00000116288:PARK7
+nuclear part	pr	ENSG00000103257:SLC7A5
+nuclear part	pr	ENSG00000198755:RPL10A
+nuclear part	pr	ENSG00000106588:PSMA2
+nuclear part	pr	ENSG00000143621:ILF2
+nuclear part	pr	ENSG00000165916:PSMC3
+nuclear part	pr	ENSG00000129084:PSMA1
+nuclear part	pr	ENSG00000111911:HINT3
+nuclear part	pr	ENSG00000167468:GPX4
+nuclear part	pr	ENSG00000100902:PSMA6
+nuclear part	pr	ENSG00000136930:PSMB7
+nuclear part	pr	ENSG00000186432:KPNA4
+nuclear part	pr	ENSG00000143106:PSMA5
+nuclear part	pr	ENSG00000100567:PSMA3
+nuclear part	pr	ENSG00000126067:PSMB2
+nuclear part	pr	ENSG00000129351:ILF3
+nuclear part	pr	ENSG00000101182:PSMA7
+nuclear part	pr	ENSG00000113013:HSPA9
+extracellular region part	pr	ENSG00000198130:HIBCH
+extracellular region part	pr	ENSG00000008018:PSMB1
+extracellular region part	pr	ENSG00000075239:ACAT1
+extracellular region part	pr	ENSG00000185627:PSMD13
+extracellular region part	pr	ENSG00000111640:GAPDH
+extracellular region part	pr	ENSG00000127884:ECHS1
+extracellular region part	pr	ENSG00000067225:PKM
+extracellular region part	pr	ENSG00000023191:RNH1
+extracellular region part	pr	ENSG00000108561:C1QBP
+extracellular region part	pr	ENSG00000104687:GSR
+extracellular region part	pr	ENSG00000198931:APRT
+extracellular region part	pr	ENSG00000104823:ECH1
+extracellular region part	pr	ENSG00000116288:PARK7
+extracellular region part	pr	ENSG00000111716:LDHB
+extracellular region part	pr	ENSG00000103257:SLC7A5
+extracellular region part	pr	ENSG00000198755:RPL10A
+extracellular region part	pr	ENSG00000111275:ALDH2
+extracellular region part	pr	ENSG00000106588:PSMA2
+extracellular region part	pr	ENSG00000167815:PRDX2
+extracellular region part	pr	ENSG00000188846:RPL14
+extracellular region part	pr	ENSG00000172500:FIBP
+extracellular region part	pr	ENSG00000129084:PSMA1
+extracellular region part	pr	ENSG00000169764:UGP2
+extracellular region part	pr	ENSG00000140374:ETFA
+extracellular region part	pr	ENSG00000072110:ACTN1
+extracellular region part	pr	ENSG00000111911:HINT3
+extracellular region part	pr	ENSG00000167468:GPX4
+extracellular region part	pr	ENSG00000104325:DECR1
+extracellular region part	pr	ENSG00000100902:PSMA6
+extracellular region part	pr	ENSG00000136930:PSMB7
+extracellular region part	pr	ENSG00000183044:ABAT
+extracellular region part	pr	ENSG00000105379:ETFB
+extracellular region part	pr	ENSG00000074800:ENO1
+extracellular region part	pr	ENSG00000148798:INA
+extracellular region part	pr	ENSG00000186432:KPNA4
+extracellular region part	pr	ENSG00000125166:GOT2
+extracellular region part	pr	ENSG00000143106:PSMA5
+extracellular region part	pr	ENSG00000214078:CPNE1
+extracellular region part	pr	ENSG00000115271:GCA
+extracellular region part	pr	ENSG00000100567:PSMA3
+extracellular region part	pr	ENSG00000126067:PSMB2
+extracellular region part	pr	ENSG00000146701:MDH2
+extracellular region part	pr	ENSG00000101182:PSMA7
+extracellular region part	pr	ENSG00000113013:HSPA9
+cytoplasmic mRNA processing body	pr	ENSG00000106588:PSMA2
+cytoplasmic mRNA processing body	pr	ENSG00000165916:PSMC3
+cytoplasmic mRNA processing body	pr	ENSG00000100902:PSMA6
+neurotransmitter metabolic process	pr	ENSG00000111275:ALDH2
+neurotransmitter metabolic process	pr	ENSG00000112294:ALDH5A1
+neurotransmitter metabolic process	pr	ENSG00000183044:ABAT
+protein polyubiquitination	pr	ENSG00000008018:PSMB1
+protein polyubiquitination	pr	ENSG00000185627:PSMD13
+protein polyubiquitination	pr	ENSG00000106588:PSMA2
+protein polyubiquitination	pr	ENSG00000165916:PSMC3
+protein polyubiquitination	pr	ENSG00000129084:PSMA1
+protein polyubiquitination	pr	ENSG00000100902:PSMA6
+protein polyubiquitination	pr	ENSG00000136930:PSMB7
+protein polyubiquitination	pr	ENSG00000143106:PSMA5
+protein polyubiquitination	pr	ENSG00000100567:PSMA3
+protein polyubiquitination	pr	ENSG00000126067:PSMB2
+protein polyubiquitination	pr	ENSG00000101182:PSMA7
+branched-chain amino acid metabolic process	pr	ENSG00000198130:HIBCH
+branched-chain amino acid metabolic process	pr	ENSG00000075239:ACAT1
+branched-chain amino acid metabolic process	pr	ENSG00000091140:DLD
+branched-chain amino acid metabolic process	pr	ENSG00000106049:HIBADH
+threonine-type peptidase activity	pr	ENSG00000008018:PSMB1
+threonine-type peptidase activity	pr	ENSG00000106588:PSMA2
+threonine-type peptidase activity	pr	ENSG00000129084:PSMA1
+threonine-type peptidase activity	pr	ENSG00000100902:PSMA6
+threonine-type peptidase activity	pr	ENSG00000136930:PSMB7
+threonine-type peptidase activity	pr	ENSG00000143106:PSMA5
+threonine-type peptidase activity	pr	ENSG00000100567:PSMA3
+threonine-type peptidase activity	pr	ENSG00000126067:PSMB2
+threonine-type peptidase activity	pr	ENSG00000101182:PSMA7
+oxidation-reduction process	pr	ENSG00000111640:GAPDH
+oxidation-reduction process	pr	ENSG00000127884:ECHS1
+oxidation-reduction process	pr	ENSG00000138796:HADH
+oxidation-reduction process	pr	ENSG00000104687:GSR
+oxidation-reduction process	pr	ENSG00000104823:ECH1
+oxidation-reduction process	pr	ENSG00000116288:PARK7
+oxidation-reduction process	pr	ENSG00000111716:LDHB
+oxidation-reduction process	pr	ENSG00000111275:ALDH2
+oxidation-reduction process	pr	ENSG00000167815:PRDX2
+oxidation-reduction process	pr	ENSG00000112294:ALDH5A1
+oxidation-reduction process	pr	ENSG00000169764:UGP2
+oxidation-reduction process	pr	ENSG00000140374:ETFA
+oxidation-reduction process	pr	ENSG00000167468:GPX4
+oxidation-reduction process	pr	ENSG00000104325:DECR1
+oxidation-reduction process	pr	ENSG00000091140:DLD
+oxidation-reduction process	pr	ENSG00000105379:ETFB
+oxidation-reduction process	pr	ENSG00000148672:GLUD1
+oxidation-reduction process	pr	ENSG00000106049:HIBADH
+oxidation-reduction process	pr	ENSG00000146701:MDH2
+organic acid catabolic process	pr	ENSG00000198130:HIBCH
+organic acid catabolic process	pr	ENSG00000144827:ABHD10
+organic acid catabolic process	pr	ENSG00000075239:ACAT1
+organic acid catabolic process	pr	ENSG00000127884:ECHS1
+organic acid catabolic process	pr	ENSG00000138796:HADH
+organic acid catabolic process	pr	ENSG00000104823:ECH1
+organic acid catabolic process	pr	ENSG00000112294:ALDH5A1
+organic acid catabolic process	pr	ENSG00000104325:DECR1
+organic acid catabolic process	pr	ENSG00000091140:DLD
+organic acid catabolic process	pr	ENSG00000183044:ABAT
+organic acid catabolic process	pr	ENSG00000148672:GLUD1
+organic acid catabolic process	pr	ENSG00000125166:GOT2
+organic acid catabolic process	pr	ENSG00000106049:HIBADH
+nucleus	pr	ENSG00000008018:PSMB1
+nucleus	pr	ENSG00000185627:PSMD13
+nucleus	pr	ENSG00000111640:GAPDH
+nucleus	pr	ENSG00000138796:HADH
+nucleus	pr	ENSG00000067225:PKM
+nucleus	pr	ENSG00000108561:C1QBP
+nucleus	pr	ENSG00000198931:APRT
+nucleus	pr	ENSG00000116288:PARK7
+nucleus	pr	ENSG00000103257:SLC7A5
+nucleus	pr	ENSG00000198755:RPL10A
+nucleus	pr	ENSG00000106588:PSMA2
+nucleus	pr	ENSG00000143621:ILF2
+nucleus	pr	ENSG00000165916:PSMC3
+nucleus	pr	ENSG00000172500:FIBP
+nucleus	pr	ENSG00000129084:PSMA1
+nucleus	pr	ENSG00000169764:UGP2
+nucleus	pr	ENSG00000072110:ACTN1
+nucleus	pr	ENSG00000167468:GPX4
+nucleus	pr	ENSG00000104325:DECR1
+nucleus	pr	ENSG00000100902:PSMA6
+nucleus	pr	ENSG00000136930:PSMB7
+nucleus	pr	ENSG00000091140:DLD
+nucleus	pr	ENSG00000074800:ENO1
+nucleus	pr	ENSG00000100412:ACO2
+nucleus	pr	ENSG00000186432:KPNA4
+nucleus	pr	ENSG00000143106:PSMA5
+nucleus	pr	ENSG00000100567:PSMA3
+nucleus	pr	ENSG00000126067:PSMB2
+nucleus	pr	ENSG00000129351:ILF3
+nucleus	pr	ENSG00000146701:MDH2
+nucleus	pr	ENSG00000101182:PSMA7
+cell cycle G1/S phase transition	pr	ENSG00000008018:PSMB1
+cell cycle G1/S phase transition	pr	ENSG00000185627:PSMD13
+cell cycle G1/S phase transition	pr	ENSG00000106588:PSMA2
+cell cycle G1/S phase transition	pr	ENSG00000165916:PSMC3
+cell cycle G1/S phase transition	pr	ENSG00000129084:PSMA1
+cell cycle G1/S phase transition	pr	ENSG00000100902:PSMA6
+cell cycle G1/S phase transition	pr	ENSG00000136930:PSMB7
+cell cycle G1/S phase transition	pr	ENSG00000143106:PSMA5
+cell cycle G1/S phase transition	pr	ENSG00000100567:PSMA3
+cell cycle G1/S phase transition	pr	ENSG00000126067:PSMB2
+cell cycle G1/S phase transition	pr	ENSG00000101182:PSMA7
+negative regulation of ligase activity	pr	ENSG00000008018:PSMB1
+negative regulation of ligase activity	pr	ENSG00000185627:PSMD13
+negative regulation of ligase activity	pr	ENSG00000106588:PSMA2
+negative regulation of ligase activity	pr	ENSG00000165916:PSMC3
+negative regulation of ligase activity	pr	ENSG00000129084:PSMA1
+negative regulation of ligase activity	pr	ENSG00000100902:PSMA6
+negative regulation of ligase activity	pr	ENSG00000136930:PSMB7
+negative regulation of ligase activity	pr	ENSG00000143106:PSMA5
+negative regulation of ligase activity	pr	ENSG00000100567:PSMA3
+negative regulation of ligase activity	pr	ENSG00000126067:PSMB2
+negative regulation of ligase activity	pr	ENSG00000101182:PSMA7
+glutamate metabolic process	pr	ENSG00000112294:ALDH5A1
+glutamate metabolic process	pr	ENSG00000148672:GLUD1
+glutamate metabolic process	pr	ENSG00000125166:GOT2
+double-stranded RNA binding	pr	ENSG00000143621:ILF2
+double-stranded RNA binding	pr	ENSG00000072110:ACTN1
+double-stranded RNA binding	pr	ENSG00000129351:ILF3
+mRNA metabolic process	pr	ENSG00000008018:PSMB1
+mRNA metabolic process	pr	ENSG00000185627:PSMD13
+mRNA metabolic process	pr	ENSG00000023191:RNH1
+mRNA metabolic process	pr	ENSG00000108561:C1QBP
+mRNA metabolic process	pr	ENSG00000198755:RPL10A
+mRNA metabolic process	pr	ENSG00000106588:PSMA2
+mRNA metabolic process	pr	ENSG00000188846:RPL14
+mRNA metabolic process	pr	ENSG00000165916:PSMC3
+mRNA metabolic process	pr	ENSG00000129084:PSMA1
+mRNA metabolic process	pr	ENSG00000100902:PSMA6
+mRNA metabolic process	pr	ENSG00000136930:PSMB7
+mRNA metabolic process	pr	ENSG00000143106:PSMA5
+mRNA metabolic process	pr	ENSG00000100567:PSMA3
+mRNA metabolic process	pr	ENSG00000126067:PSMB2
+mRNA metabolic process	pr	ENSG00000101182:PSMA7
+pyruvate metabolic process	pr	ENSG00000111640:GAPDH
+pyruvate metabolic process	pr	ENSG00000067225:PKM
+pyruvate metabolic process	pr	ENSG00000111716:LDHB
+pyruvate metabolic process	pr	ENSG00000091140:DLD
+pyruvate metabolic process	pr	ENSG00000074800:ENO1
+negative regulation of apoptotic process	pr	ENSG00000008018:PSMB1
+negative regulation of apoptotic process	pr	ENSG00000185627:PSMD13
+negative regulation of apoptotic process	pr	ENSG00000116288:PARK7
+negative regulation of apoptotic process	pr	ENSG00000106588:PSMA2
+negative regulation of apoptotic process	pr	ENSG00000167815:PRDX2
+negative regulation of apoptotic process	pr	ENSG00000165916:PSMC3
+negative regulation of apoptotic process	pr	ENSG00000129084:PSMA1
+negative regulation of apoptotic process	pr	ENSG00000100902:PSMA6
+negative regulation of apoptotic process	pr	ENSG00000136930:PSMB7
+negative regulation of apoptotic process	pr	ENSG00000143106:PSMA5
+negative regulation of apoptotic process	pr	ENSG00000100567:PSMA3
+negative regulation of apoptotic process	pr	ENSG00000126067:PSMB2
+negative regulation of apoptotic process	pr	ENSG00000101182:PSMA7
+negative regulation of apoptotic process	pr	ENSG00000113013:HSPA9
+mitotic cell cycle	pr	ENSG00000008018:PSMB1
+mitotic cell cycle	pr	ENSG00000185627:PSMD13
+mitotic cell cycle	pr	ENSG00000077380:DYNC1I2
+mitotic cell cycle	pr	ENSG00000106588:PSMA2
+mitotic cell cycle	pr	ENSG00000165916:PSMC3
+mitotic cell cycle	pr	ENSG00000129084:PSMA1
+mitotic cell cycle	pr	ENSG00000100902:PSMA6
+mitotic cell cycle	pr	ENSG00000136930:PSMB7
+mitotic cell cycle	pr	ENSG00000143106:PSMA5
+mitotic cell cycle	pr	ENSG00000100567:PSMA3
+mitotic cell cycle	pr	ENSG00000126067:PSMB2
+mitotic cell cycle	pr	ENSG00000101182:PSMA7
+cellular carbohydrate metabolic process	pr	ENSG00000144827:ABHD10
+cellular carbohydrate metabolic process	pr	ENSG00000111716:LDHB
+cellular carbohydrate metabolic process	pr	ENSG00000169764:UGP2
+cellular carbohydrate metabolic process	pr	ENSG00000146701:MDH2
+proteasome core complex, alpha-subunit complex	pr	ENSG00000106588:PSMA2
+proteasome core complex, alpha-subunit complex	pr	ENSG00000129084:PSMA1
+proteasome core complex, alpha-subunit complex	pr	ENSG00000100902:PSMA6
+proteasome core complex, alpha-subunit complex	pr	ENSG00000143106:PSMA5
+proteasome core complex, alpha-subunit complex	pr	ENSG00000100567:PSMA3
+proteasome core complex, alpha-subunit complex	pr	ENSG00000101182:PSMA7
+regulation of cellular ketone metabolic process	pr	ENSG00000008018:PSMB1
+regulation of cellular ketone metabolic process	pr	ENSG00000185627:PSMD13
+regulation of cellular ketone metabolic process	pr	ENSG00000106588:PSMA2
+regulation of cellular ketone metabolic process	pr	ENSG00000165916:PSMC3
+regulation of cellular ketone metabolic process	pr	ENSG00000129084:PSMA1
+regulation of cellular ketone metabolic process	pr	ENSG00000100902:PSMA6
+regulation of cellular ketone metabolic process	pr	ENSG00000136930:PSMB7
+regulation of cellular ketone metabolic process	pr	ENSG00000091140:DLD
+regulation of cellular ketone metabolic process	pr	ENSG00000143106:PSMA5
+regulation of cellular ketone metabolic process	pr	ENSG00000100567:PSMA3
+regulation of cellular ketone metabolic process	pr	ENSG00000126067:PSMB2
+regulation of cellular ketone metabolic process	pr	ENSG00000101182:PSMA7
+tricarboxylic acid metabolic process	pr	ENSG00000091140:DLD
+tricarboxylic acid metabolic process	pr	ENSG00000148672:GLUD1
+tricarboxylic acid metabolic process	pr	ENSG00000100412:ACO2
+tricarboxylic acid metabolic process	pr	ENSG00000146701:MDH2
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000008018:PSMB1
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000185627:PSMD13
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000106588:PSMA2
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000165916:PSMC3
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000129084:PSMA1
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000100902:PSMA6
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000136930:PSMB7
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000143106:PSMA5
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000100567:PSMA3
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000126067:PSMB2
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	pr	ENSG00000101182:PSMA7
+transcription corepressor activity	pr	ENSG00000108561:C1QBP
+transcription corepressor activity	pr	ENSG00000165916:PSMC3
+transcription corepressor activity	pr	ENSG00000074800:ENO1

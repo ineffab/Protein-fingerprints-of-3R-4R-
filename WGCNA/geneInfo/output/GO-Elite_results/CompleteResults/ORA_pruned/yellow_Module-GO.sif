@@ -1,0 +1,1556 @@
+response to pH	pr	ENSG00000088256:GNA11
+response to pH	pr	ENSG00000152661:GJA1
+response to pH	pr	ENSG00000185236:RAB11B
+phagocytic vesicle membrane	pr	ENSG00000005893:LAMP2
+phagocytic vesicle membrane	pr	ENSG00000206503:HLA-A
+phagocytic vesicle membrane	pr	ENSG00000185896:LAMP1
+phagocytic vesicle membrane	pr	ENSG00000165168:CYBB
+phagocytic vesicle membrane	pr	ENSG00000185236:RAB11B
+phagocytic vesicle membrane	pr	ENSG00000075785:RAB7A
+phagocytic vesicle membrane	pr	ENSG00000167461:RAB8A
+phagocytic vesicle membrane	pr	ENSG00000112210:RAB23
+positive regulation of cell proliferation	pr	ENSG00000185043:CIB1
+positive regulation of cell proliferation	pr	ENSG00000154229:PRKCA
+positive regulation of cell proliferation	pr	ENSG00000004468:CD38
+positive regulation of cell proliferation	pr	ENSG00000114353:GNAI2
+positive regulation of cell proliferation	pr	ENSG00000126247:CAPNS1
+positive regulation of cell proliferation	pr	ENSG00000160307:S100B
+positive regulation of cell proliferation	pr	ENSG00000137845:ADAM10
+positive regulation of cell proliferation	pr	ENSG00000117525:F3
+positive regulation of cell proliferation	pr	ENSG00000175130:MARCKSL1
+positive regulation of cell proliferation	pr	ENSG00000005022:SLC25A5
+positive regulation of cell proliferation	pr	ENSG00000138448:ITGAV
+positive regulation of cell proliferation	pr	ENSG00000164171:ITGA2
+positive regulation of cell proliferation	pr	ENSG00000081237:PTPRC
+positive regulation of cell proliferation	pr	ENSG00000041982:TNC
+positive regulation of cell proliferation	pr	ENSG00000196139:AKR1C3
+positive regulation of cell proliferation	pr	ENSG00000125257:ABCC4
+positive regulation of cell proliferation	pr	ENSG00000150093:ITGB1
+actin filament binding	pr	ENSG00000273749:CYFIP1
+actin filament binding	pr	ENSG00000137076:TLN1
+actin filament binding	pr	ENSG00000092820:EZR
+actin filament binding	pr	ENSG00000277443:MARCKS
+actin filament binding	pr	ENSG00000077549:CAPZB
+actin filament binding	pr	ENSG00000169604:ANTXR1
+actin filament binding	pr	ENSG00000196924:FLNA
+actin filament binding	pr	ENSG00000136167:LCP1
+actin filament binding	pr	ENSG00000006747:SCIN
+purine nucleoside diphosphate metabolic process	pr	ENSG00000004455:AK2
+purine nucleoside diphosphate metabolic process	pr	ENSG00000138185:ENTPD1
+purine nucleoside diphosphate metabolic process	pr	ENSG00000054179:ENTPD2
+purine nucleoside diphosphate metabolic process	pr	ENSG00000106992:AK1
+calcium-dependent cysteine-type endopeptidase activity	pr	ENSG00000126247:CAPNS1
+calcium-dependent cysteine-type endopeptidase activity	pr	ENSG00000162909:CAPN2
+calcium-dependent cysteine-type endopeptidase activity	pr	ENSG00000149260:CAPN5
+ruffle	pr	ENSG00000273749:CYFIP1
+ruffle	pr	ENSG00000137076:TLN1
+ruffle	pr	ENSG00000092820:EZR
+ruffle	pr	ENSG00000160307:S100B
+ruffle	pr	ENSG00000087460:GNAS
+ruffle	pr	ENSG00000161638:ITGA5
+ruffle	pr	ENSG00000136167:LCP1
+ruffle	pr	ENSG00000137710:RDX
+ruffle	pr	ENSG00000150093:ITGB1
+protein stabilization	pr	ENSG00000109501:WFS1
+protein stabilization	pr	ENSG00000005893:LAMP2
+protein stabilization	pr	ENSG00000185896:LAMP1
+protein stabilization	pr	ENSG00000196924:FLNA
+protein stabilization	pr	ENSG00000151929:BAG3
+protein stabilization	pr	ENSG00000156052:GNAQ
+cilium	pr	ENSG00000154229:PRKCA
+cilium	pr	ENSG00000135046:ANXA1
+cilium	pr	ENSG00000004455:AK2
+cilium	pr	ENSG00000106992:AK1
+cilium	pr	ENSG00000167461:RAB8A
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000065135:GNAI3
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000120063:GNA13
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000114353:GNAI2
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000088256:GNA11
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000087460:GNAS
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000196924:FLNA
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000156052:GNAQ
+adenylate cyclase-modulating G-protein coupled receptor signaling pathway	pr	ENSG00000169313:P2RY12
+protein complex involved in cell adhesion	pr	ENSG00000091409:ITGA6
+protein complex involved in cell adhesion	pr	ENSG00000082781:ITGB5
+protein complex involved in cell adhesion	pr	ENSG00000160255:ITGB2
+protein complex involved in cell adhesion	pr	ENSG00000135424:ITGA7
+protein complex involved in cell adhesion	pr	ENSG00000140678:ITGAX
+protein complex involved in cell adhesion	pr	ENSG00000161638:ITGA5
+protein complex involved in cell adhesion	pr	ENSG00000138448:ITGAV
+protein complex involved in cell adhesion	pr	ENSG00000164171:ITGA2
+protein complex involved in cell adhesion	pr	ENSG00000132470:ITGB4
+protein complex involved in cell adhesion	pr	ENSG00000005884:ITGA3
+protein complex involved in cell adhesion	pr	ENSG00000150093:ITGB1
+G-protein coupled serotonin receptor binding	pr	ENSG00000065135:GNAI3
+G-protein coupled serotonin receptor binding	pr	ENSG00000088256:GNA11
+G-protein coupled serotonin receptor binding	pr	ENSG00000156052:GNAQ
+reproductive process	pr	ENSG00000185043:CIB1
+reproductive process	pr	ENSG00000171885:AQP4
+reproductive process	pr	ENSG00000135046:ANXA1
+reproductive process	pr	ENSG00000169504:CLIC4
+reproductive process	pr	ENSG00000161714:PLCD3
+reproductive process	pr	ENSG00000169604:ANTXR1
+reproductive process	pr	ENSG00000004468:CD38
+reproductive process	pr	ENSG00000126803:HSPA2
+reproductive process	pr	ENSG00000172270:BSG
+reproductive process	pr	ENSG00000164708:PGAM2
+reproductive process	pr	ENSG00000087460:GNAS
+reproductive process	pr	ENSG00000041982:TNC
+reproductive process	pr	ENSG00000142192:APP
+reproductive process	pr	ENSG00000197081:IGF2R
+reproductive process	pr	ENSG00000005884:ITGA3
+reproductive process	pr	ENSG00000026508:CD44
+reproductive process	pr	ENSG00000196139:AKR1C3
+reproductive process	pr	ENSG00000156052:GNAQ
+reproductive process	pr	ENSG00000090339:ICAM1
+reproductive process	pr	ENSG00000150093:ITGB1
+oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	pr	ENSG00000164039:BDH2
+oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	pr	ENSG00000140043:PTGR2
+oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	pr	ENSG00000196139:AKR1C3
+dopamine receptor signaling pathway	pr	ENSG00000088256:GNA11
+dopamine receptor signaling pathway	pr	ENSG00000087460:GNAS
+dopamine receptor signaling pathway	pr	ENSG00000196924:FLNA
+dopamine receptor signaling pathway	pr	ENSG00000156052:GNAQ
+metal ion binding	pr	ENSG00000117115:PADI2
+metal ion binding	pr	ENSG00000159176:CSRP1
+metal ion binding	pr	ENSG00000160678:S100A1
+metal ion binding	pr	ENSG00000185043:CIB1
+metal ion binding	pr	ENSG00000091409:ITGA6
+metal ion binding	pr	ENSG00000103056:SMPD3
+metal ion binding	pr	ENSG00000065135:GNAI3
+metal ion binding	pr	ENSG00000114698:PLSCR4
+metal ion binding	pr	ENSG00000120063:GNA13
+metal ion binding	pr	ENSG00000108821:COL1A1
+metal ion binding	pr	ENSG00000134769:DTNA
+metal ion binding	pr	ENSG00000154229:PRKCA
+metal ion binding	pr	ENSG00000024422:EHD2
+metal ion binding	pr	ENSG00000160255:ITGB2
+metal ion binding	pr	ENSG00000172115:CYCS
+metal ion binding	pr	ENSG00000100884:CPNE6
+metal ion binding	pr	ENSG00000108828:VAT1
+metal ion binding	pr	ENSG00000135046:ANXA1
+metal ion binding	pr	ENSG00000168615:ADAM9
+metal ion binding	pr	ENSG00000161714:PLCD3
+metal ion binding	pr	ENSG00000169604:ANTXR1
+metal ion binding	pr	ENSG00000196975:ANXA4
+metal ion binding	pr	ENSG00000114353:GNAI2
+metal ion binding	pr	ENSG00000140043:PTGR2
+metal ion binding	pr	ENSG00000170558:CDH2
+metal ion binding	pr	ENSG00000135424:ITGA7
+metal ion binding	pr	ENSG00000164111:ANXA5
+metal ion binding	pr	ENSG00000088256:GNA11
+metal ion binding	pr	ENSG00000140678:ITGAX
+metal ion binding	pr	ENSG00000126247:CAPNS1
+metal ion binding	pr	ENSG00000160307:S100B
+metal ion binding	pr	ENSG00000162909:CAPN2
+metal ion binding	pr	ENSG00000129151:BBOX1
+metal ion binding	pr	ENSG00000137845:ADAM10
+metal ion binding	pr	ENSG00000122359:ANXA11
+metal ion binding	pr	ENSG00000087460:GNAS
+metal ion binding	pr	ENSG00000105519:CAPS
+metal ion binding	pr	ENSG00000137198:GMPR
+metal ion binding	pr	ENSG00000161638:ITGA5
+metal ion binding	pr	ENSG00000138448:ITGAV
+metal ion binding	pr	ENSG00000164171:ITGA2
+metal ion binding	pr	ENSG00000165168:CYBB
+metal ion binding	pr	ENSG00000136167:LCP1
+metal ion binding	pr	ENSG00000142192:APP
+metal ion binding	pr	ENSG00000005884:ITGA3
+metal ion binding	pr	ENSG00000047457:CP
+metal ion binding	pr	ENSG00000107902:LHPP
+metal ion binding	pr	ENSG00000152818:UTRN
+metal ion binding	pr	ENSG00000156052:GNAQ
+metal ion binding	pr	ENSG00000006747:SCIN
+metal ion binding	pr	ENSG00000150093:ITGB1
+metal ion binding	pr	ENSG00000087086:FTL
+multi-multicellular organism process	pr	ENSG00000171885:AQP4
+multi-multicellular organism process	pr	ENSG00000004468:CD38
+multi-multicellular organism process	pr	ENSG00000087460:GNAS
+multi-multicellular organism process	pr	ENSG00000156052:GNAQ
+coagulation	pr	ENSG00000091409:ITGA6
+coagulation	pr	ENSG00000116266:STXBP3
+coagulation	pr	ENSG00000065135:GNAI3
+coagulation	pr	ENSG00000137076:TLN1
+coagulation	pr	ENSG00000120063:GNA13
+coagulation	pr	ENSG00000108821:COL1A1
+coagulation	pr	ENSG00000154229:PRKCA
+coagulation	pr	ENSG00000024422:EHD2
+coagulation	pr	ENSG00000005893:LAMP2
+coagulation	pr	ENSG00000160255:ITGB2
+coagulation	pr	ENSG00000077549:CAPZB
+coagulation	pr	ENSG00000131236:CAP1
+coagulation	pr	ENSG00000108946:PRKAR1A
+coagulation	pr	ENSG00000114353:GNAI2
+coagulation	pr	ENSG00000172270:BSG
+coagulation	pr	ENSG00000164111:ANXA5
+coagulation	pr	ENSG00000088256:GNA11
+coagulation	pr	ENSG00000140678:ITGAX
+coagulation	pr	ENSG00000117525:F3
+coagulation	pr	ENSG00000087460:GNAS
+coagulation	pr	ENSG00000127314:RAP1B
+coagulation	pr	ENSG00000138185:ENTPD1
+coagulation	pr	ENSG00000161638:ITGA5
+coagulation	pr	ENSG00000103496:STX4
+coagulation	pr	ENSG00000138448:ITGAV
+coagulation	pr	ENSG00000164171:ITGA2
+coagulation	pr	ENSG00000196924:FLNA
+coagulation	pr	ENSG00000142192:APP
+coagulation	pr	ENSG00000005884:ITGA3
+coagulation	pr	ENSG00000177119:ANO6
+coagulation	pr	ENSG00000026508:CD44
+coagulation	pr	ENSG00000155380:SLC16A1
+coagulation	pr	ENSG00000156052:GNAQ
+coagulation	pr	ENSG00000125257:ABCC4
+coagulation	pr	ENSG00000150093:ITGB1
+coagulation	pr	ENSG00000169313:P2RY12
+ER to Golgi transport vesicle membrane	pr	ENSG00000204287:HLA-DRA
+ER to Golgi transport vesicle membrane	pr	ENSG00000206503:HLA-A
+ER to Golgi transport vesicle membrane	pr	ENSG00000196126:HLA-DRB1
+regulation of ossification	pr	ENSG00000046653:GPM6B
+regulation of ossification	pr	ENSG00000087460:GNAS
+regulation of ossification	pr	ENSG00000152661:GJA1
+regulation of coagulation	pr	ENSG00000154229:PRKCA
+regulation of coagulation	pr	ENSG00000196975:ANXA4
+regulation of coagulation	pr	ENSG00000164111:ANXA5
+regulation of coagulation	pr	ENSG00000117525:F3
+regulation of coagulation	pr	ENSG00000177119:ANO6
+response to mechanical stimulus	pr	ENSG00000108821:COL1A1
+response to mechanical stimulus	pr	ENSG00000152661:GJA1
+response to mechanical stimulus	pr	ENSG00000164171:ITGA2
+response to mechanical stimulus	pr	ENSG00000041982:TNC
+response to mechanical stimulus	pr	ENSG00000151929:BAG3
+response to mechanical stimulus	pr	ENSG00000150093:ITGB1
+membrane raft	pr	ENSG00000065135:GNAI3
+membrane raft	pr	ENSG00000092820:EZR
+membrane raft	pr	ENSG00000024422:EHD2
+membrane raft	pr	ENSG00000261371:PECAM1
+membrane raft	pr	ENSG00000046653:GPM6B
+membrane raft	pr	ENSG00000114353:GNAI2
+membrane raft	pr	ENSG00000172270:BSG
+membrane raft	pr	ENSG00000162909:CAPN2
+membrane raft	pr	ENSG00000148175:STOM
+membrane raft	pr	ENSG00000152661:GJA1
+membrane raft	pr	ENSG00000081237:PTPRC
+membrane raft	pr	ENSG00000142192:APP
+membrane raft	pr	ENSG00000124942:AHNAK
+membrane raft	pr	ENSG00000170458:CD14
+membrane raft	pr	ENSG00000095637:SORBS1
+membrane raft	pr	ENSG00000150093:ITGB1
+membrane raft	pr	ENSG00000169313:P2RY12
+cartilage development	pr	ENSG00000108821:COL1A1
+cartilage development	pr	ENSG00000087460:GNAS
+cartilage development	pr	ENSG00000026508:CD44
+cortical cytoskeleton organization	pr	ENSG00000157827:FMNL2
+cortical cytoskeleton organization	pr	ENSG00000137076:TLN1
+cortical cytoskeleton organization	pr	ENSG00000024422:EHD2
+cortical cytoskeleton organization	pr	ENSG00000079819:EPB41L2
+response to fibroblast growth factor	pr	ENSG00000108821:COL1A1
+response to fibroblast growth factor	pr	ENSG00000041982:TNC
+response to fibroblast growth factor	pr	ENSG00000026508:CD44
+negative regulation of synaptic transmission	pr	ENSG00000004468:CD38
+negative regulation of synaptic transmission	pr	ENSG00000046653:GPM6B
+negative regulation of synaptic transmission	pr	ENSG00000114353:GNAI2
+negative regulation of synaptic transmission	pr	ENSG00000127314:RAP1B
+negative regulation of cyclase activity	pr	ENSG00000065135:GNAI3
+negative regulation of cyclase activity	pr	ENSG00000154229:PRKCA
+negative regulation of cyclase activity	pr	ENSG00000114353:GNAI2
+positive regulation of cyclase activity	pr	ENSG00000154229:PRKCA
+positive regulation of cyclase activity	pr	ENSG00000131236:CAP1
+positive regulation of cyclase activity	pr	ENSG00000087460:GNAS
+peptide antigen binding	pr	ENSG00000204287:HLA-DRA
+peptide antigen binding	pr	ENSG00000206503:HLA-A
+peptide antigen binding	pr	ENSG00000196126:HLA-DRB1
+regulation of cell shape	pr	ENSG00000197702:PARVA
+regulation of cell shape	pr	ENSG00000273749:CYFIP1
+regulation of cell shape	pr	ENSG00000092820:EZR
+regulation of cell shape	pr	ENSG00000120063:GNA13
+regulation of cell shape	pr	ENSG00000160255:ITGB2
+regulation of cell shape	pr	ENSG00000164050:PLXNB1
+regulation of cell shape	pr	ENSG00000135424:ITGA7
+regulation of cell shape	pr	ENSG00000160307:S100B
+regulation of cell shape	pr	ENSG00000196576:PLXNB2
+regulation of cell shape	pr	ENSG00000073712:FERMT2
+regulation of cell shape	pr	ENSG00000090339:ICAM1
+late endosome	pr	ENSG00000005893:LAMP2
+late endosome	pr	ENSG00000185896:LAMP1
+late endosome	pr	ENSG00000152661:GJA1
+late endosome	pr	ENSG00000197081:IGF2R
+late endosome	pr	ENSG00000075785:RAB7A
+regulation of body fluid levels	pr	ENSG00000091409:ITGA6
+regulation of body fluid levels	pr	ENSG00000116266:STXBP3
+regulation of body fluid levels	pr	ENSG00000109501:WFS1
+regulation of body fluid levels	pr	ENSG00000065135:GNAI3
+regulation of body fluid levels	pr	ENSG00000137076:TLN1
+regulation of body fluid levels	pr	ENSG00000120063:GNA13
+regulation of body fluid levels	pr	ENSG00000171885:AQP4
+regulation of body fluid levels	pr	ENSG00000108821:COL1A1
+regulation of body fluid levels	pr	ENSG00000154229:PRKCA
+regulation of body fluid levels	pr	ENSG00000024422:EHD2
+regulation of body fluid levels	pr	ENSG00000005893:LAMP2
+regulation of body fluid levels	pr	ENSG00000160255:ITGB2
+regulation of body fluid levels	pr	ENSG00000077549:CAPZB
+regulation of body fluid levels	pr	ENSG00000131236:CAP1
+regulation of body fluid levels	pr	ENSG00000108946:PRKAR1A
+regulation of body fluid levels	pr	ENSG00000114353:GNAI2
+regulation of body fluid levels	pr	ENSG00000172270:BSG
+regulation of body fluid levels	pr	ENSG00000164111:ANXA5
+regulation of body fluid levels	pr	ENSG00000088256:GNA11
+regulation of body fluid levels	pr	ENSG00000140678:ITGAX
+regulation of body fluid levels	pr	ENSG00000117525:F3
+regulation of body fluid levels	pr	ENSG00000087460:GNAS
+regulation of body fluid levels	pr	ENSG00000127314:RAP1B
+regulation of body fluid levels	pr	ENSG00000138185:ENTPD1
+regulation of body fluid levels	pr	ENSG00000161638:ITGA5
+regulation of body fluid levels	pr	ENSG00000103496:STX4
+regulation of body fluid levels	pr	ENSG00000138448:ITGAV
+regulation of body fluid levels	pr	ENSG00000164171:ITGA2
+regulation of body fluid levels	pr	ENSG00000196924:FLNA
+regulation of body fluid levels	pr	ENSG00000142192:APP
+regulation of body fluid levels	pr	ENSG00000005884:ITGA3
+regulation of body fluid levels	pr	ENSG00000177119:ANO6
+regulation of body fluid levels	pr	ENSG00000026508:CD44
+regulation of body fluid levels	pr	ENSG00000155380:SLC16A1
+regulation of body fluid levels	pr	ENSG00000156052:GNAQ
+regulation of body fluid levels	pr	ENSG00000125257:ABCC4
+regulation of body fluid levels	pr	ENSG00000150093:ITGB1
+regulation of body fluid levels	pr	ENSG00000169313:P2RY12
+adherens junction	pr	ENSG00000091409:ITGA6
+adherens junction	pr	ENSG00000104067:TJP1
+adherens junction	pr	ENSG00000197702:PARVA
+adherens junction	pr	ENSG00000082781:ITGB5
+adherens junction	pr	ENSG00000137076:TLN1
+adherens junction	pr	ENSG00000092820:EZR
+adherens junction	pr	ENSG00000170558:CDH2
+adherens junction	pr	ENSG00000135424:ITGA7
+adherens junction	pr	ENSG00000147065:MSN
+adherens junction	pr	ENSG00000161638:ITGA5
+adherens junction	pr	ENSG00000152661:GJA1
+adherens junction	pr	ENSG00000164171:ITGA2
+adherens junction	pr	ENSG00000081237:PTPRC
+adherens junction	pr	ENSG00000136167:LCP1
+adherens junction	pr	ENSG00000073712:FERMT2
+adherens junction	pr	ENSG00000137710:RDX
+adherens junction	pr	ENSG00000095637:SORBS1
+adherens junction	pr	ENSG00000150093:ITGB1
+cell-cell junction	pr	ENSG00000091409:ITGA6
+cell-cell junction	pr	ENSG00000104067:TJP1
+cell-cell junction	pr	ENSG00000137076:TLN1
+cell-cell junction	pr	ENSG00000171885:AQP4
+cell-cell junction	pr	ENSG00000077549:CAPZB
+cell-cell junction	pr	ENSG00000169504:CLIC4
+cell-cell junction	pr	ENSG00000170558:CDH2
+cell-cell junction	pr	ENSG00000127314:RAP1B
+cell-cell junction	pr	ENSG00000148700:ADD3
+cell-cell junction	pr	ENSG00000161638:ITGA5
+cell-cell junction	pr	ENSG00000165478:HEPACAM
+cell-cell junction	pr	ENSG00000152661:GJA1
+cell-cell junction	pr	ENSG00000142192:APP
+cell-cell junction	pr	ENSG00000124942:AHNAK
+cell-cell junction	pr	ENSG00000148943:LIN7C
+cell-cell junction	pr	ENSG00000095637:SORBS1
+cell-cell junction	pr	ENSG00000150093:ITGB1
+cell projection assembly	pr	ENSG00000091409:ITGA6
+cell projection assembly	pr	ENSG00000273749:CYFIP1
+cell projection assembly	pr	ENSG00000092820:EZR
+cell projection assembly	pr	ENSG00000077549:CAPZB
+cell projection assembly	pr	ENSG00000132470:ITGB4
+cell projection assembly	pr	ENSG00000196924:FLNA
+cell projection assembly	pr	ENSG00000137710:RDX
+cell projection assembly	pr	ENSG00000042493:CAPG
+cell projection assembly	pr	ENSG00000167461:RAB8A
+leukocyte migration	pr	ENSG00000091409:ITGA6
+leukocyte migration	pr	ENSG00000108821:COL1A1
+leukocyte migration	pr	ENSG00000154229:PRKCA
+leukocyte migration	pr	ENSG00000160255:ITGB2
+leukocyte migration	pr	ENSG00000172270:BSG
+leukocyte migration	pr	ENSG00000140678:ITGAX
+leukocyte migration	pr	ENSG00000147065:MSN
+leukocyte migration	pr	ENSG00000161638:ITGA5
+leukocyte migration	pr	ENSG00000138448:ITGAV
+leukocyte migration	pr	ENSG00000005884:ITGA3
+leukocyte migration	pr	ENSG00000177119:ANO6
+leukocyte migration	pr	ENSG00000026508:CD44
+leukocyte migration	pr	ENSG00000155380:SLC16A1
+leukocyte migration	pr	ENSG00000090339:ICAM1
+leukocyte migration	pr	ENSG00000150093:ITGB1
+positive regulation of myeloid cell differentiation	pr	ENSG00000154229:PRKCA
+positive regulation of myeloid cell differentiation	pr	ENSG00000087460:GNAS
+positive regulation of myeloid cell differentiation	pr	ENSG00000006747:SCIN
+interferon-gamma-mediated signaling pathway	pr	ENSG00000204287:HLA-DRA
+interferon-gamma-mediated signaling pathway	pr	ENSG00000150337:FCGR1A
+interferon-gamma-mediated signaling pathway	pr	ENSG00000206503:HLA-A
+interferon-gamma-mediated signaling pathway	pr	ENSG00000196126:HLA-DRB1
+interferon-gamma-mediated signaling pathway	pr	ENSG00000026508:CD44
+interferon-gamma-mediated signaling pathway	pr	ENSG00000090339:ICAM1
+hormone transport	pr	ENSG00000103056:SMPD3
+hormone transport	pr	ENSG00000135046:ANXA1
+hormone transport	pr	ENSG00000185236:RAB11B
+hormone transport	pr	ENSG00000103316:CRYM
+phosphoric diester hydrolase activity	pr	ENSG00000164303:ENPP6
+phosphoric diester hydrolase activity	pr	ENSG00000103056:SMPD3
+phosphoric diester hydrolase activity	pr	ENSG00000161714:PLCD3
+phosphoric diester hydrolase activity	pr	ENSG00000129219:PLD2
+integrin-mediated signaling pathway	pr	ENSG00000091409:ITGA6
+integrin-mediated signaling pathway	pr	ENSG00000082781:ITGB5
+integrin-mediated signaling pathway	pr	ENSG00000160255:ITGB2
+integrin-mediated signaling pathway	pr	ENSG00000168615:ADAM9
+integrin-mediated signaling pathway	pr	ENSG00000135424:ITGA7
+integrin-mediated signaling pathway	pr	ENSG00000140678:ITGAX
+integrin-mediated signaling pathway	pr	ENSG00000137845:ADAM10
+integrin-mediated signaling pathway	pr	ENSG00000161638:ITGA5
+integrin-mediated signaling pathway	pr	ENSG00000138448:ITGAV
+integrin-mediated signaling pathway	pr	ENSG00000164171:ITGA2
+integrin-mediated signaling pathway	pr	ENSG00000132470:ITGB4
+integrin-mediated signaling pathway	pr	ENSG00000005884:ITGA3
+integrin-mediated signaling pathway	pr	ENSG00000073712:FERMT2
+integrin-mediated signaling pathway	pr	ENSG00000150093:ITGB1
+glycoprotein binding	pr	ENSG00000116661:FBXO2
+glycoprotein binding	pr	ENSG00000160255:ITGB2
+glycoprotein binding	pr	ENSG00000100097:LGALS1
+glycoprotein binding	pr	ENSG00000184144:CNTN2
+glycoprotein binding	pr	ENSG00000081237:PTPRC
+glycoprotein binding	pr	ENSG00000196924:FLNA
+glycoprotein binding	pr	ENSG00000197081:IGF2R
+glycoprotein binding	pr	ENSG00000150093:ITGB1
+actin binding	pr	ENSG00000157827:FMNL2
+actin binding	pr	ENSG00000103187:COTL1
+actin binding	pr	ENSG00000197702:PARVA
+actin binding	pr	ENSG00000273749:CYFIP1
+actin binding	pr	ENSG00000137076:TLN1
+actin binding	pr	ENSG00000092820:EZR
+actin binding	pr	ENSG00000277443:MARCKS
+actin binding	pr	ENSG00000077549:CAPZB
+actin binding	pr	ENSG00000131236:CAP1
+actin binding	pr	ENSG00000169604:ANTXR1
+actin binding	pr	ENSG00000147065:MSN
+actin binding	pr	ENSG00000148700:ADD3
+actin binding	pr	ENSG00000175130:MARCKSL1
+actin binding	pr	ENSG00000079819:EPB41L2
+actin binding	pr	ENSG00000196924:FLNA
+actin binding	pr	ENSG00000136167:LCP1
+actin binding	pr	ENSG00000172164:SNTB1
+actin binding	pr	ENSG00000137710:RDX
+actin binding	pr	ENSG00000128591:FLNC
+actin binding	pr	ENSG00000152818:UTRN
+actin binding	pr	ENSG00000042493:CAPG
+actin binding	pr	ENSG00000102218:RP2
+actin binding	pr	ENSG00000006747:SCIN
+actin binding	pr	ENSG00000095637:SORBS1
+actin binding	pr	ENSG00000150093:ITGB1
+actin binding	pr	ENSG00000146122:DAAM2
+cellular response to lipid	pr	ENSG00000114698:PLSCR4
+cellular response to lipid	pr	ENSG00000171885:AQP4
+cellular response to lipid	pr	ENSG00000108821:COL1A1
+cellular response to lipid	pr	ENSG00000135046:ANXA1
+cellular response to lipid	pr	ENSG00000168615:ADAM9
+cellular response to lipid	pr	ENSG00000087460:GNAS
+cellular response to lipid	pr	ENSG00000041982:TNC
+cellular response to lipid	pr	ENSG00000196139:AKR1C3
+cellular response to lipid	pr	ENSG00000090339:ICAM1
+cellular response to lipid	pr	ENSG00000170458:CD14
+cellular response to lipid	pr	ENSG00000150093:ITGB1
+cell adhesion mediated by integrin	pr	ENSG00000091409:ITGA6
+cell adhesion mediated by integrin	pr	ENSG00000168615:ADAM9
+cell adhesion mediated by integrin	pr	ENSG00000161638:ITGA5
+cell adhesion mediated by integrin	pr	ENSG00000164171:ITGA2
+cell adhesion mediated by integrin	pr	ENSG00000090339:ICAM1
+cell adhesion mediated by integrin	pr	ENSG00000150093:ITGB1
+specific granule	pr	ENSG00000116266:STXBP3
+specific granule	pr	ENSG00000092531:SNAP23
+specific granule	pr	ENSG00000122359:ANXA11
+specific granule	pr	ENSG00000103496:STX4
+organelle envelope lumen	pr	ENSG00000119421:NDUFA8
+organelle envelope lumen	pr	ENSG00000172115:CYCS
+organelle envelope lumen	pr	ENSG00000004455:AK2
+organelle envelope lumen	pr	ENSG00000142192:APP
+organelle envelope lumen	pr	ENSG00000197081:IGF2R
+collagen binding	pr	ENSG00000168615:ADAM9
+collagen binding	pr	ENSG00000169604:ANTXR1
+collagen binding	pr	ENSG00000164171:ITGA2
+collagen binding	pr	ENSG00000005884:ITGA3
+collagen binding	pr	ENSG00000026508:CD44
+collagen binding	pr	ENSG00000150093:ITGB1
+cell maturation	pr	ENSG00000152661:GJA1
+cell maturation	pr	ENSG00000142192:APP
+cell maturation	pr	ENSG00000156052:GNAQ
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000013364:MVP
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000154229:PRKCA
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000160255:ITGB2
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000261371:PECAM1
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000161638:ITGA5
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000081237:PTPRC
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000142192:APP
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000026508:CD44
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000090339:ICAM1
+regulation of peptidyl-tyrosine phosphorylation	pr	ENSG00000150093:ITGB1
+anatomical structure formation involved in morphogenesis	pr	ENSG00000189058:APOD
+anatomical structure formation involved in morphogenesis	pr	ENSG00000185043:CIB1
+anatomical structure formation involved in morphogenesis	pr	ENSG00000104067:TJP1
+anatomical structure formation involved in morphogenesis	pr	ENSG00000197702:PARVA
+anatomical structure formation involved in morphogenesis	pr	ENSG00000120063:GNA13
+anatomical structure formation involved in morphogenesis	pr	ENSG00000108821:COL1A1
+anatomical structure formation involved in morphogenesis	pr	ENSG00000154229:PRKCA
+anatomical structure formation involved in morphogenesis	pr	ENSG00000169504:CLIC4
+anatomical structure formation involved in morphogenesis	pr	ENSG00000161714:PLCD3
+anatomical structure formation involved in morphogenesis	pr	ENSG00000108946:PRKAR1A
+anatomical structure formation involved in morphogenesis	pr	ENSG00000196576:PLXNB2
+anatomical structure formation involved in morphogenesis	pr	ENSG00000162909:CAPN2
+anatomical structure formation involved in morphogenesis	pr	ENSG00000087460:GNAS
+anatomical structure formation involved in morphogenesis	pr	ENSG00000161638:ITGA5
+anatomical structure formation involved in morphogenesis	pr	ENSG00000138448:ITGAV
+anatomical structure formation involved in morphogenesis	pr	ENSG00000196924:FLNA
+anatomical structure formation involved in morphogenesis	pr	ENSG00000167461:RAB8A
+anatomical structure formation involved in morphogenesis	pr	ENSG00000067141:NEO1
+cell activation	pr	ENSG00000116266:STXBP3
+cell activation	pr	ENSG00000065135:GNAI3
+cell activation	pr	ENSG00000137076:TLN1
+cell activation	pr	ENSG00000120063:GNA13
+cell activation	pr	ENSG00000108821:COL1A1
+cell activation	pr	ENSG00000154229:PRKCA
+cell activation	pr	ENSG00000005893:LAMP2
+cell activation	pr	ENSG00000135046:ANXA1
+cell activation	pr	ENSG00000131236:CAP1
+cell activation	pr	ENSG00000100097:LGALS1
+cell activation	pr	ENSG00000168615:ADAM9
+cell activation	pr	ENSG00000114353:GNAI2
+cell activation	pr	ENSG00000088256:GNA11
+cell activation	pr	ENSG00000137845:ADAM10
+cell activation	pr	ENSG00000127314:RAP1B
+cell activation	pr	ENSG00000138185:ENTPD1
+cell activation	pr	ENSG00000054179:ENTPD2
+cell activation	pr	ENSG00000103496:STX4
+cell activation	pr	ENSG00000081237:PTPRC
+cell activation	pr	ENSG00000196924:FLNA
+cell activation	pr	ENSG00000136167:LCP1
+cell activation	pr	ENSG00000142192:APP
+cell activation	pr	ENSG00000156052:GNAQ
+cell activation	pr	ENSG00000090339:ICAM1
+cell activation	pr	ENSG00000125257:ABCC4
+cell activation	pr	ENSG00000150093:ITGB1
+cell activation	pr	ENSG00000169313:P2RY12
+positive regulation of intracellular signal transduction	pr	ENSG00000185043:CIB1
+positive regulation of intracellular signal transduction	pr	ENSG00000154229:PRKCA
+positive regulation of intracellular signal transduction	pr	ENSG00000100097:LGALS1
+positive regulation of intracellular signal transduction	pr	ENSG00000168615:ADAM9
+positive regulation of intracellular signal transduction	pr	ENSG00000261371:PECAM1
+positive regulation of intracellular signal transduction	pr	ENSG00000114353:GNAI2
+positive regulation of intracellular signal transduction	pr	ENSG00000170558:CDH2
+positive regulation of intracellular signal transduction	pr	ENSG00000164050:PLXNB1
+positive regulation of intracellular signal transduction	pr	ENSG00000160307:S100B
+positive regulation of intracellular signal transduction	pr	ENSG00000117525:F3
+positive regulation of intracellular signal transduction	pr	ENSG00000087460:GNAS
+positive regulation of intracellular signal transduction	pr	ENSG00000127314:RAP1B
+positive regulation of intracellular signal transduction	pr	ENSG00000122694:GLIPR2
+positive regulation of intracellular signal transduction	pr	ENSG00000152661:GJA1
+positive regulation of intracellular signal transduction	pr	ENSG00000081237:PTPRC
+positive regulation of intracellular signal transduction	pr	ENSG00000196924:FLNA
+positive regulation of intracellular signal transduction	pr	ENSG00000026508:CD44
+positive regulation of intracellular signal transduction	pr	ENSG00000196139:AKR1C3
+positive regulation of intracellular signal transduction	pr	ENSG00000090339:ICAM1
+positive regulation of intracellular signal transduction	pr	ENSG00000150093:ITGB1
+positive regulation of intracellular signal transduction	pr	ENSG00000129353:SLC44A2
+inflammatory response	pr	ENSG00000160255:ITGB2
+inflammatory response	pr	ENSG00000135046:ANXA1
+inflammatory response	pr	ENSG00000099998:GGT5
+inflammatory response	pr	ENSG00000244731:C4A
+inflammatory response	pr	ENSG00000152661:GJA1
+inflammatory response	pr	ENSG00000165168:CYBB
+inflammatory response	pr	ENSG00000196126:HLA-DRB1
+inflammatory response	pr	ENSG00000090339:ICAM1
+inflammatory response	pr	ENSG00000170458:CD14
+cellular response to endogenous stimulus	pr	ENSG00000185043:CIB1
+cellular response to endogenous stimulus	pr	ENSG00000213366:GSTM2
+cellular response to endogenous stimulus	pr	ENSG00000171885:AQP4
+cellular response to endogenous stimulus	pr	ENSG00000108821:COL1A1
+cellular response to endogenous stimulus	pr	ENSG00000135046:ANXA1
+cellular response to endogenous stimulus	pr	ENSG00000114450:GNB4
+cellular response to endogenous stimulus	pr	ENSG00000108946:PRKAR1A
+cellular response to endogenous stimulus	pr	ENSG00000162909:CAPN2
+cellular response to endogenous stimulus	pr	ENSG00000087460:GNAS
+cellular response to endogenous stimulus	pr	ENSG00000127314:RAP1B
+cellular response to endogenous stimulus	pr	ENSG00000164171:ITGA2
+cellular response to endogenous stimulus	pr	ENSG00000172380:GNG12
+cellular response to endogenous stimulus	pr	ENSG00000041982:TNC
+cellular response to endogenous stimulus	pr	ENSG00000026508:CD44
+cellular response to endogenous stimulus	pr	ENSG00000196139:AKR1C3
+cellular response to endogenous stimulus	pr	ENSG00000090339:ICAM1
+cellular response to endogenous stimulus	pr	ENSG00000167461:RAB8A
+cellular response to endogenous stimulus	pr	ENSG00000095637:SORBS1
+regulation of localization	pr	ENSG00000189058:APOD
+regulation of localization	pr	ENSG00000117115:PADI2
+regulation of localization	pr	ENSG00000160678:S100A1
+regulation of localization	pr	ENSG00000185043:CIB1
+regulation of localization	pr	ENSG00000116266:STXBP3
+regulation of localization	pr	ENSG00000109501:WFS1
+regulation of localization	pr	ENSG00000117450:PRDX1
+regulation of localization	pr	ENSG00000213366:GSTM2
+regulation of localization	pr	ENSG00000120063:GNA13
+regulation of localization	pr	ENSG00000169100:SLC25A6
+regulation of localization	pr	ENSG00000108821:COL1A1
+regulation of localization	pr	ENSG00000154229:PRKCA
+regulation of localization	pr	ENSG00000024422:EHD2
+regulation of localization	pr	ENSG00000277443:MARCKS
+regulation of localization	pr	ENSG00000135046:ANXA1
+regulation of localization	pr	ENSG00000169504:CLIC4
+regulation of localization	pr	ENSG00000168615:ADAM9
+regulation of localization	pr	ENSG00000004468:CD38
+regulation of localization	pr	ENSG00000261371:PECAM1
+regulation of localization	pr	ENSG00000108946:PRKAR1A
+regulation of localization	pr	ENSG00000196975:ANXA4
+regulation of localization	pr	ENSG00000046653:GPM6B
+regulation of localization	pr	ENSG00000114353:GNAI2
+regulation of localization	pr	ENSG00000147065:MSN
+regulation of localization	pr	ENSG00000196576:PLXNB2
+regulation of localization	pr	ENSG00000137845:ADAM10
+regulation of localization	pr	ENSG00000117525:F3
+regulation of localization	pr	ENSG00000087460:GNAS
+regulation of localization	pr	ENSG00000127314:RAP1B
+regulation of localization	pr	ENSG00000148175:STOM
+regulation of localization	pr	ENSG00000244731:C4A
+regulation of localization	pr	ENSG00000069535:MAOB
+regulation of localization	pr	ENSG00000185896:LAMP1
+regulation of localization	pr	ENSG00000161638:ITGA5
+regulation of localization	pr	ENSG00000122694:GLIPR2
+regulation of localization	pr	ENSG00000152661:GJA1
+regulation of localization	pr	ENSG00000005022:SLC25A5
+regulation of localization	pr	ENSG00000138448:ITGAV
+regulation of localization	pr	ENSG00000164171:ITGA2
+regulation of localization	pr	ENSG00000165168:CYBB
+regulation of localization	pr	ENSG00000081237:PTPRC
+regulation of localization	pr	ENSG00000196126:HLA-DRB1
+regulation of localization	pr	ENSG00000196924:FLNA
+regulation of localization	pr	ENSG00000136167:LCP1
+regulation of localization	pr	ENSG00000005884:ITGA3
+regulation of localization	pr	ENSG00000177119:ANO6
+regulation of localization	pr	ENSG00000155380:SLC16A1
+regulation of localization	pr	ENSG00000152818:UTRN
+regulation of localization	pr	ENSG00000185236:RAB11B
+regulation of localization	pr	ENSG00000124942:AHNAK
+regulation of localization	pr	ENSG00000156052:GNAQ
+regulation of localization	pr	ENSG00000090339:ICAM1
+regulation of localization	pr	ENSG00000170458:CD14
+regulation of localization	pr	ENSG00000167461:RAB8A
+regulation of localization	pr	ENSG00000006747:SCIN
+regulation of localization	pr	ENSG00000095637:SORBS1
+regulation of localization	pr	ENSG00000150093:ITGB1
+regulation of localization	pr	ENSG00000126458:RRAS
+regulation of localization	pr	ENSG00000112210:RAB23
+regulation of localization	pr	ENSG00000169313:P2RY12
+positive regulation of vasoconstriction	pr	ENSG00000004468:CD38
+positive regulation of vasoconstriction	pr	ENSG00000152661:GJA1
+positive regulation of vasoconstriction	pr	ENSG00000090339:ICAM1
+regulation of positive chemotaxis	pr	ENSG00000154229:PRKCA
+regulation of positive chemotaxis	pr	ENSG00000117525:F3
+regulation of positive chemotaxis	pr	ENSG00000164171:ITGA2
+response to corticosteroid	pr	ENSG00000171885:AQP4
+response to corticosteroid	pr	ENSG00000108821:COL1A1
+response to corticosteroid	pr	ENSG00000135046:ANXA1
+response to corticosteroid	pr	ENSG00000168615:ADAM9
+response to corticosteroid	pr	ENSG00000160307:S100B
+response to corticosteroid	pr	ENSG00000069535:MAOB
+response to corticosteroid	pr	ENSG00000196139:AKR1C3
+S100 protein binding	pr	ENSG00000160678:S100A1
+S100 protein binding	pr	ENSG00000160307:S100B
+S100 protein binding	pr	ENSG00000122359:ANXA11
+S100 protein binding	pr	ENSG00000124942:AHNAK
+protein kinase C binding	pr	ENSG00000277443:MARCKS
+protein kinase C binding	pr	ENSG00000168615:ADAM9
+protein kinase C binding	pr	ENSG00000138448:ITGAV
+protein kinase C binding	pr	ENSG00000196924:FLNA
+cation homeostasis	pr	ENSG00000109501:WFS1
+cation homeostasis	pr	ENSG00000164039:BDH2
+cation homeostasis	pr	ENSG00000120063:GNA13
+cation homeostasis	pr	ENSG00000154229:PRKCA
+cation homeostasis	pr	ENSG00000169504:CLIC4
+cation homeostasis	pr	ENSG00000004468:CD38
+cation homeostasis	pr	ENSG00000144040:SFXN5
+cation homeostasis	pr	ENSG00000152661:GJA1
+cation homeostasis	pr	ENSG00000081237:PTPRC
+cation homeostasis	pr	ENSG00000142192:APP
+cation homeostasis	pr	ENSG00000047457:CP
+cation homeostasis	pr	ENSG00000075785:RAB7A
+cation homeostasis	pr	ENSG00000150093:ITGB1
+cation homeostasis	pr	ENSG00000087086:FTL
+cation homeostasis	pr	ENSG00000067141:NEO1
+response to interleukin-1	pr	ENSG00000154229:PRKCA
+response to interleukin-1	pr	ENSG00000135046:ANXA1
+response to interleukin-1	pr	ENSG00000004468:CD38
+response to interleukin-1	pr	ENSG00000090339:ICAM1
+homotypic cell-cell adhesion	pr	ENSG00000116266:STXBP3
+homotypic cell-cell adhesion	pr	ENSG00000135046:ANXA1
+homotypic cell-cell adhesion	pr	ENSG00000087460:GNAS
+homotypic cell-cell adhesion	pr	ENSG00000081237:PTPRC
+homotypic cell-cell adhesion	pr	ENSG00000136167:LCP1
+homotypic cell-cell adhesion	pr	ENSG00000026508:CD44
+homotypic cell-cell adhesion	pr	ENSG00000090339:ICAM1
+homotypic cell-cell adhesion	pr	ENSG00000169313:P2RY12
+actin filament	pr	ENSG00000092820:EZR
+actin filament	pr	ENSG00000172380:GNG12
+actin filament	pr	ENSG00000196924:FLNA
+actin filament	pr	ENSG00000136167:LCP1
+plasma membrane	pr	ENSG00000185043:CIB1
+plasma membrane	pr	ENSG00000164303:ENPP6
+plasma membrane	pr	ENSG00000091409:ITGA6
+plasma membrane	pr	ENSG00000116266:STXBP3
+plasma membrane	pr	ENSG00000104067:TJP1
+plasma membrane	pr	ENSG00000103056:SMPD3
+plasma membrane	pr	ENSG00000197702:PARVA
+plasma membrane	pr	ENSG00000065135:GNAI3
+plasma membrane	pr	ENSG00000082781:ITGB5
+plasma membrane	pr	ENSG00000137076:TLN1
+plasma membrane	pr	ENSG00000132670:PTPRA
+plasma membrane	pr	ENSG00000092820:EZR
+plasma membrane	pr	ENSG00000092531:SNAP23
+plasma membrane	pr	ENSG00000114698:PLSCR4
+plasma membrane	pr	ENSG00000120063:GNA13
+plasma membrane	pr	ENSG00000171885:AQP4
+plasma membrane	pr	ENSG00000134769:DTNA
+plasma membrane	pr	ENSG00000154229:PRKCA
+plasma membrane	pr	ENSG00000024422:EHD2
+plasma membrane	pr	ENSG00000204287:HLA-DRA
+plasma membrane	pr	ENSG00000141469:SLC14A1
+plasma membrane	pr	ENSG00000170624:SGCD
+plasma membrane	pr	ENSG00000005893:LAMP2
+plasma membrane	pr	ENSG00000150337:FCGR1A
+plasma membrane	pr	ENSG00000160255:ITGB2
+plasma membrane	pr	ENSG00000277443:MARCKS
+plasma membrane	pr	ENSG00000135046:ANXA1
+plasma membrane	pr	ENSG00000169504:CLIC4
+plasma membrane	pr	ENSG00000131236:CAP1
+plasma membrane	pr	ENSG00000168615:ADAM9
+plasma membrane	pr	ENSG00000161714:PLCD3
+plasma membrane	pr	ENSG00000114450:GNB4
+plasma membrane	pr	ENSG00000004468:CD38
+plasma membrane	pr	ENSG00000261371:PECAM1
+plasma membrane	pr	ENSG00000108946:PRKAR1A
+plasma membrane	pr	ENSG00000196975:ANXA4
+plasma membrane	pr	ENSG00000046653:GPM6B
+plasma membrane	pr	ENSG00000114353:GNAI2
+plasma membrane	pr	ENSG00000170558:CDH2
+plasma membrane	pr	ENSG00000172270:BSG
+plasma membrane	pr	ENSG00000164050:PLXNB1
+plasma membrane	pr	ENSG00000135424:ITGA7
+plasma membrane	pr	ENSG00000088256:GNA11
+plasma membrane	pr	ENSG00000140678:ITGAX
+plasma membrane	pr	ENSG00000126247:CAPNS1
+plasma membrane	pr	ENSG00000147065:MSN
+plasma membrane	pr	ENSG00000162909:CAPN2
+plasma membrane	pr	ENSG00000184144:CNTN2
+plasma membrane	pr	ENSG00000137845:ADAM10
+plasma membrane	pr	ENSG00000117525:F3
+plasma membrane	pr	ENSG00000206503:HLA-A
+plasma membrane	pr	ENSG00000099998:GGT5
+plasma membrane	pr	ENSG00000087460:GNAS
+plasma membrane	pr	ENSG00000127314:RAP1B
+plasma membrane	pr	ENSG00000148700:ADD3
+plasma membrane	pr	ENSG00000244731:C4A
+plasma membrane	pr	ENSG00000138185:ENTPD1
+plasma membrane	pr	ENSG00000105519:CAPS
+plasma membrane	pr	ENSG00000185896:LAMP1
+plasma membrane	pr	ENSG00000175130:MARCKSL1
+plasma membrane	pr	ENSG00000054179:ENTPD2
+plasma membrane	pr	ENSG00000161638:ITGA5
+plasma membrane	pr	ENSG00000103496:STX4
+plasma membrane	pr	ENSG00000152661:GJA1
+plasma membrane	pr	ENSG00000138448:ITGAV
+plasma membrane	pr	ENSG00000164171:ITGA2
+plasma membrane	pr	ENSG00000165168:CYBB
+plasma membrane	pr	ENSG00000172380:GNG12
+plasma membrane	pr	ENSG00000132470:ITGB4
+plasma membrane	pr	ENSG00000079819:EPB41L2
+plasma membrane	pr	ENSG00000081237:PTPRC
+plasma membrane	pr	ENSG00000196126:HLA-DRB1
+plasma membrane	pr	ENSG00000196924:FLNA
+plasma membrane	pr	ENSG00000136167:LCP1
+plasma membrane	pr	ENSG00000142192:APP
+plasma membrane	pr	ENSG00000197081:IGF2R
+plasma membrane	pr	ENSG00000005884:ITGA3
+plasma membrane	pr	ENSG00000106992:AK1
+plasma membrane	pr	ENSG00000172164:SNTB1
+plasma membrane	pr	ENSG00000177119:ANO6
+plasma membrane	pr	ENSG00000026508:CD44
+plasma membrane	pr	ENSG00000155380:SLC16A1
+plasma membrane	pr	ENSG00000151929:BAG3
+plasma membrane	pr	ENSG00000137710:RDX
+plasma membrane	pr	ENSG00000128591:FLNC
+plasma membrane	pr	ENSG00000152818:UTRN
+plasma membrane	pr	ENSG00000124942:AHNAK
+plasma membrane	pr	ENSG00000156052:GNAQ
+plasma membrane	pr	ENSG00000090339:ICAM1
+plasma membrane	pr	ENSG00000170458:CD14
+plasma membrane	pr	ENSG00000125257:ABCC4
+plasma membrane	pr	ENSG00000148943:LIN7C
+plasma membrane	pr	ENSG00000167461:RAB8A
+plasma membrane	pr	ENSG00000102218:RP2
+plasma membrane	pr	ENSG00000142583:SLC2A5
+plasma membrane	pr	ENSG00000139684:ESD
+plasma membrane	pr	ENSG00000150093:ITGB1
+plasma membrane	pr	ENSG00000126458:RRAS
+plasma membrane	pr	ENSG00000112210:RAB23
+plasma membrane	pr	ENSG00000162944:RFTN2
+plasma membrane	pr	ENSG00000169313:P2RY12
+plasma membrane	pr	ENSG00000129219:PLD2
+plasma membrane	pr	ENSG00000129353:SLC44A2
+plasma membrane	pr	ENSG00000067141:NEO1
+response to prostaglandin	pr	ENSG00000087460:GNAS
+response to prostaglandin	pr	ENSG00000041982:TNC
+response to prostaglandin	pr	ENSG00000196139:AKR1C3
+response to gonadotropin	pr	ENSG00000005884:ITGA3
+response to gonadotropin	pr	ENSG00000090339:ICAM1
+response to gonadotropin	pr	ENSG00000150093:ITGB1
+extracellular matrix part	pr	ENSG00000091409:ITGA6
+extracellular matrix part	pr	ENSG00000108821:COL1A1
+extracellular matrix part	pr	ENSG00000138185:ENTPD1
+extracellular matrix part	pr	ENSG00000054179:ENTPD2
+extracellular matrix part	pr	ENSG00000132470:ITGB4
+extracellular matrix part	pr	ENSG00000041982:TNC
+extracellular matrix part	pr	ENSG00000150093:ITGB1
+extracellular region part	pr	ENSG00000189058:APOD
+extracellular region part	pr	ENSG00000117115:PADI2
+extracellular region part	pr	ENSG00000159176:CSRP1
+extracellular region part	pr	ENSG00000185043:CIB1
+extracellular region part	pr	ENSG00000178695:KCTD12
+extracellular region part	pr	ENSG00000164303:ENPP6
+extracellular region part	pr	ENSG00000091409:ITGA6
+extracellular region part	pr	ENSG00000116266:STXBP3
+extracellular region part	pr	ENSG00000117592:PRDX6
+extracellular region part	pr	ENSG00000165092:ALDH1A1
+extracellular region part	pr	ENSG00000103187:COTL1
+extracellular region part	pr	ENSG00000117450:PRDX1
+extracellular region part	pr	ENSG00000092621:PHGDH
+extracellular region part	pr	ENSG00000065135:GNAI3
+extracellular region part	pr	ENSG00000013364:MVP
+extracellular region part	pr	ENSG00000273749:CYFIP1
+extracellular region part	pr	ENSG00000082781:ITGB5
+extracellular region part	pr	ENSG00000137076:TLN1
+extracellular region part	pr	ENSG00000132670:PTPRA
+extracellular region part	pr	ENSG00000092820:EZR
+extracellular region part	pr	ENSG00000092531:SNAP23
+extracellular region part	pr	ENSG00000114698:PLSCR4
+extracellular region part	pr	ENSG00000213366:GSTM2
+extracellular region part	pr	ENSG00000164039:BDH2
+extracellular region part	pr	ENSG00000187514:PTMA
+extracellular region part	pr	ENSG00000116661:FBXO2
+extracellular region part	pr	ENSG00000120063:GNA13
+extracellular region part	pr	ENSG00000108821:COL1A1
+extracellular region part	pr	ENSG00000154229:PRKCA
+extracellular region part	pr	ENSG00000159713:TPPP3
+extracellular region part	pr	ENSG00000024422:EHD2
+extracellular region part	pr	ENSG00000204287:HLA-DRA
+extracellular region part	pr	ENSG00000005893:LAMP2
+extracellular region part	pr	ENSG00000160255:ITGB2
+extracellular region part	pr	ENSG00000277443:MARCKS
+extracellular region part	pr	ENSG00000077549:CAPZB
+extracellular region part	pr	ENSG00000108828:VAT1
+extracellular region part	pr	ENSG00000135046:ANXA1
+extracellular region part	pr	ENSG00000169504:CLIC4
+extracellular region part	pr	ENSG00000138760:SCARB2
+extracellular region part	pr	ENSG00000131236:CAP1
+extracellular region part	pr	ENSG00000100097:LGALS1
+extracellular region part	pr	ENSG00000168615:ADAM9
+extracellular region part	pr	ENSG00000169604:ANTXR1
+extracellular region part	pr	ENSG00000196975:ANXA4
+extracellular region part	pr	ENSG00000114353:GNAI2
+extracellular region part	pr	ENSG00000126803:HSPA2
+extracellular region part	pr	ENSG00000140043:PTGR2
+extracellular region part	pr	ENSG00000170558:CDH2
+extracellular region part	pr	ENSG00000172270:BSG
+extracellular region part	pr	ENSG00000164111:ANXA5
+extracellular region part	pr	ENSG00000088256:GNA11
+extracellular region part	pr	ENSG00000126247:CAPNS1
+extracellular region part	pr	ENSG00000128309:MPST
+extracellular region part	pr	ENSG00000160307:S100B
+extracellular region part	pr	ENSG00000147065:MSN
+extracellular region part	pr	ENSG00000196576:PLXNB2
+extracellular region part	pr	ENSG00000162909:CAPN2
+extracellular region part	pr	ENSG00000129151:BBOX1
+extracellular region part	pr	ENSG00000137845:ADAM10
+extracellular region part	pr	ENSG00000104763:ASAH1
+extracellular region part	pr	ENSG00000117525:F3
+extracellular region part	pr	ENSG00000122359:ANXA11
+extracellular region part	pr	ENSG00000004455:AK2
+extracellular region part	pr	ENSG00000206503:HLA-A
+extracellular region part	pr	ENSG00000087460:GNAS
+extracellular region part	pr	ENSG00000127314:RAP1B
+extracellular region part	pr	ENSG00000148175:STOM
+extracellular region part	pr	ENSG00000164062:APEH
+extracellular region part	pr	ENSG00000244731:C4A
+extracellular region part	pr	ENSG00000138185:ENTPD1
+extracellular region part	pr	ENSG00000105519:CAPS
+extracellular region part	pr	ENSG00000069535:MAOB
+extracellular region part	pr	ENSG00000185896:LAMP1
+extracellular region part	pr	ENSG00000175130:MARCKSL1
+extracellular region part	pr	ENSG00000054179:ENTPD2
+extracellular region part	pr	ENSG00000122694:GLIPR2
+extracellular region part	pr	ENSG00000103496:STX4
+extracellular region part	pr	ENSG00000152661:GJA1
+extracellular region part	pr	ENSG00000165475:CRYL1
+extracellular region part	pr	ENSG00000005022:SLC25A5
+extracellular region part	pr	ENSG00000138448:ITGAV
+extracellular region part	pr	ENSG00000172380:GNG12
+extracellular region part	pr	ENSG00000132470:ITGB4
+extracellular region part	pr	ENSG00000079819:EPB41L2
+extracellular region part	pr	ENSG00000081237:PTPRC
+extracellular region part	pr	ENSG00000196126:HLA-DRB1
+extracellular region part	pr	ENSG00000196924:FLNA
+extracellular region part	pr	ENSG00000136167:LCP1
+extracellular region part	pr	ENSG00000100911:PSME2
+extracellular region part	pr	ENSG00000041982:TNC
+extracellular region part	pr	ENSG00000142192:APP
+extracellular region part	pr	ENSG00000197081:IGF2R
+extracellular region part	pr	ENSG00000005884:ITGA3
+extracellular region part	pr	ENSG00000106992:AK1
+extracellular region part	pr	ENSG00000047457:CP
+extracellular region part	pr	ENSG00000085719:CPNE3
+extracellular region part	pr	ENSG00000177119:ANO6
+extracellular region part	pr	ENSG00000102032:RENBP
+extracellular region part	pr	ENSG00000026508:CD44
+extracellular region part	pr	ENSG00000155380:SLC16A1
+extracellular region part	pr	ENSG00000137710:RDX
+extracellular region part	pr	ENSG00000152818:UTRN
+extracellular region part	pr	ENSG00000185236:RAB11B
+extracellular region part	pr	ENSG00000196139:AKR1C3
+extracellular region part	pr	ENSG00000124942:AHNAK
+extracellular region part	pr	ENSG00000075785:RAB7A
+extracellular region part	pr	ENSG00000149260:CAPN5
+extracellular region part	pr	ENSG00000103316:CRYM
+extracellular region part	pr	ENSG00000156052:GNAQ
+extracellular region part	pr	ENSG00000042493:CAPG
+extracellular region part	pr	ENSG00000090339:ICAM1
+extracellular region part	pr	ENSG00000170458:CD14
+extracellular region part	pr	ENSG00000148943:LIN7C
+extracellular region part	pr	ENSG00000167461:RAB8A
+extracellular region part	pr	ENSG00000102218:RP2
+extracellular region part	pr	ENSG00000006747:SCIN
+extracellular region part	pr	ENSG00000142583:SLC2A5
+extracellular region part	pr	ENSG00000139684:ESD
+extracellular region part	pr	ENSG00000150093:ITGB1
+extracellular region part	pr	ENSG00000126458:RRAS
+extracellular region part	pr	ENSG00000112210:RAB23
+extracellular region part	pr	ENSG00000120594:PLXDC2
+extracellular region part	pr	ENSG00000087086:FTL
+extracellular region part	pr	ENSG00000129353:SLC44A2
+extracellular region part	pr	ENSG00000137106:GRHPR
+extracellular region part	pr	ENSG00000114779:ABHD14B
+extracellular region part	pr	ENSG00000144908:ALDH1L1
+filopodium	pr	ENSG00000091409:ITGA6
+filopodium	pr	ENSG00000092820:EZR
+filopodium	pr	ENSG00000147065:MSN
+filopodium	pr	ENSG00000136167:LCP1
+filopodium	pr	ENSG00000137710:RDX
+filopodium	pr	ENSG00000152818:UTRN
+filopodium	pr	ENSG00000152767:FARP1
+filopodium	pr	ENSG00000150093:ITGB1
+negative regulation of immune system process	pr	ENSG00000189058:APOD
+negative regulation of immune system process	pr	ENSG00000117115:PADI2
+negative regulation of immune system process	pr	ENSG00000185043:CIB1
+negative regulation of immune system process	pr	ENSG00000206503:HLA-A
+negative regulation of immune system process	pr	ENSG00000081237:PTPRC
+negative regulation of immune system process	pr	ENSG00000196126:HLA-DRB1
+response to alcohol	pr	ENSG00000104067:TJP1
+response to alcohol	pr	ENSG00000171885:AQP4
+response to alcohol	pr	ENSG00000108821:COL1A1
+response to alcohol	pr	ENSG00000135046:ANXA1
+response to alcohol	pr	ENSG00000004468:CD38
+response to alcohol	pr	ENSG00000069535:MAOB
+response to alcohol	pr	ENSG00000041982:TNC
+response to alcohol	pr	ENSG00000090339:ICAM1
+response to alcohol	pr	ENSG00000170458:CD14
+response to alcohol	pr	ENSG00000150093:ITGB1
+apical part of cell	pr	ENSG00000104067:TJP1
+apical part of cell	pr	ENSG00000092820:EZR
+apical part of cell	pr	ENSG00000154229:PRKCA
+apical part of cell	pr	ENSG00000169504:CLIC4
+apical part of cell	pr	ENSG00000147065:MSN
+apical part of cell	pr	ENSG00000142192:APP
+apical part of cell	pr	ENSG00000137710:RDX
+multicellular organismal development	pr	ENSG00000103056:SMPD3
+multicellular organismal development	pr	ENSG00000082781:ITGB5
+multicellular organismal development	pr	ENSG00000160255:ITGB2
+multicellular organismal development	pr	ENSG00000164050:PLXNB1
+multicellular organismal development	pr	ENSG00000196576:PLXNB2
+multicellular organismal development	pr	ENSG00000132470:ITGB4
+multicellular organismal development	pr	ENSG00000150093:ITGB1
+multicellular organismal development	pr	ENSG00000120594:PLXDC2
+response to retinoic acid	pr	ENSG00000108821:COL1A1
+response to retinoic acid	pr	ENSG00000004468:CD38
+response to retinoic acid	pr	ENSG00000041982:TNC
+response to retinoic acid	pr	ENSG00000197081:IGF2R
+negative regulation of actin filament polymerization	pr	ENSG00000077549:CAPZB
+negative regulation of actin filament polymerization	pr	ENSG00000261371:PECAM1
+negative regulation of actin filament polymerization	pr	ENSG00000137710:RDX
+negative regulation of actin filament polymerization	pr	ENSG00000042493:CAPG
+negative regulation of actin filament polymerization	pr	ENSG00000006747:SCIN
+muscle system process	pr	ENSG00000082781:ITGB5
+muscle system process	pr	ENSG00000137076:TLN1
+muscle system process	pr	ENSG00000213366:GSTM2
+muscle system process	pr	ENSG00000134769:DTNA
+muscle system process	pr	ENSG00000164708:PGAM2
+muscle system process	pr	ENSG00000152661:GJA1
+muscle system process	pr	ENSG00000172164:SNTB1
+muscle system process	pr	ENSG00000152818:UTRN
+muscle system process	pr	ENSG00000095637:SORBS1
+renal system process	pr	ENSG00000109501:WFS1
+renal system process	pr	ENSG00000171885:AQP4
+renal system process	pr	ENSG00000152661:GJA1
+renal system process	pr	ENSG00000196139:AKR1C3
+regulation of cell killing	pr	ENSG00000206503:HLA-A
+regulation of cell killing	pr	ENSG00000185896:LAMP1
+regulation of cell killing	pr	ENSG00000081237:PTPRC
+regulation of cell killing	pr	ENSG00000090339:ICAM1
+keratinocyte differentiation	pr	ENSG00000135046:ANXA1
+keratinocyte differentiation	pr	ENSG00000169504:CLIC4
+keratinocyte differentiation	pr	ENSG00000168615:ADAM9
+keratinocyte differentiation	pr	ENSG00000196139:AKR1C3
+response to other organism	pr	ENSG00000189058:APOD
+response to other organism	pr	ENSG00000103187:COTL1
+response to other organism	pr	ENSG00000169100:SLC25A6
+response to other organism	pr	ENSG00000140678:ITGAX
+response to other organism	pr	ENSG00000138448:ITGAV
+response to other organism	pr	ENSG00000164171:ITGA2
+response to other organism	pr	ENSG00000081237:PTPRC
+response to other organism	pr	ENSG00000196126:HLA-DRB1
+response to other organism	pr	ENSG00000090339:ICAM1
+response to other organism	pr	ENSG00000150093:ITGB1
+laminin binding	pr	ENSG00000091409:ITGA6
+laminin binding	pr	ENSG00000100097:LGALS1
+laminin binding	pr	ENSG00000168615:ADAM9
+laminin binding	pr	ENSG00000135424:ITGA7
+laminin binding	pr	ENSG00000164171:ITGA2
+laminin binding	pr	ENSG00000005884:ITGA3
+laminin binding	pr	ENSG00000150093:ITGB1
+phospholipase inhibitor activity	pr	ENSG00000135046:ANXA1
+phospholipase inhibitor activity	pr	ENSG00000196975:ANXA4
+phospholipase inhibitor activity	pr	ENSG00000164111:ANXA5
+response to ionizing radiation	pr	ENSG00000135046:ANXA1
+response to ionizing radiation	pr	ENSG00000081237:PTPRC
+response to ionizing radiation	pr	ENSG00000090339:ICAM1
+response to ionizing radiation	pr	ENSG00000150093:ITGB1
+calcium-dependent protein binding	pr	ENSG00000160678:S100A1
+calcium-dependent protein binding	pr	ENSG00000109501:WFS1
+calcium-dependent protein binding	pr	ENSG00000135046:ANXA1
+calcium-dependent protein binding	pr	ENSG00000196975:ANXA4
+calcium-dependent protein binding	pr	ENSG00000160307:S100B
+calcium-dependent protein binding	pr	ENSG00000122359:ANXA11
+regeneration	pr	ENSG00000189058:APOD
+regeneration	pr	ENSG00000152661:GJA1
+regeneration	pr	ENSG00000136167:LCP1
+regeneration	pr	ENSG00000041982:TNC
+regeneration	pr	ENSG00000197081:IGF2R
+response to drug	pr	ENSG00000189058:APOD
+response to drug	pr	ENSG00000104067:TJP1
+response to drug	pr	ENSG00000108821:COL1A1
+response to drug	pr	ENSG00000135046:ANXA1
+response to drug	pr	ENSG00000100097:LGALS1
+response to drug	pr	ENSG00000004468:CD38
+response to drug	pr	ENSG00000087460:GNAS
+response to drug	pr	ENSG00000069535:MAOB
+response to drug	pr	ENSG00000164171:ITGA2
+response to drug	pr	ENSG00000165168:CYBB
+response to drug	pr	ENSG00000005884:ITGA3
+response to drug	pr	ENSG00000090339:ICAM1
+response to drug	pr	ENSG00000125257:ABCC4
+response to drug	pr	ENSG00000150093:ITGB1
+cell morphogenesis involved in differentiation	pr	ENSG00000197702:PARVA
+cell morphogenesis involved in differentiation	pr	ENSG00000169504:CLIC4
+cell morphogenesis involved in differentiation	pr	ENSG00000169604:ANTXR1
+cell morphogenesis involved in differentiation	pr	ENSG00000196924:FLNA
+cell morphogenesis involved in differentiation	pr	ENSG00000073712:FERMT2
+cell morphogenesis involved in differentiation	pr	ENSG00000150093:ITGB1
+positive regulation of lyase activity	pr	ENSG00000154229:PRKCA
+positive regulation of lyase activity	pr	ENSG00000131236:CAP1
+positive regulation of lyase activity	pr	ENSG00000087460:GNAS
+regulation of cell junction assembly	pr	ENSG00000189058:APOD
+regulation of cell junction assembly	pr	ENSG00000046653:GPM6B
+regulation of cell junction assembly	pr	ENSG00000127314:RAP1B
+regulation of cell junction assembly	pr	ENSG00000152661:GJA1
+protein domain specific binding	pr	ENSG00000104067:TJP1
+protein domain specific binding	pr	ENSG00000065135:GNAI3
+protein domain specific binding	pr	ENSG00000137076:TLN1
+protein domain specific binding	pr	ENSG00000092820:EZR
+protein domain specific binding	pr	ENSG00000114698:PLSCR4
+protein domain specific binding	pr	ENSG00000134769:DTNA
+protein domain specific binding	pr	ENSG00000024422:EHD2
+protein domain specific binding	pr	ENSG00000005893:LAMP2
+protein domain specific binding	pr	ENSG00000168615:ADAM9
+protein domain specific binding	pr	ENSG00000137845:ADAM10
+protein domain specific binding	pr	ENSG00000185896:LAMP1
+protein domain specific binding	pr	ENSG00000152661:GJA1
+protein domain specific binding	pr	ENSG00000172380:GNG12
+protein domain specific binding	pr	ENSG00000079819:EPB41L2
+protein domain specific binding	pr	ENSG00000142192:APP
+protein domain specific binding	pr	ENSG00000005884:ITGA3
+protein domain specific binding	pr	ENSG00000172164:SNTB1
+protein domain specific binding	pr	ENSG00000148943:LIN7C
+protein domain specific binding	pr	ENSG00000150093:ITGB1
+establishment of endothelial barrier	pr	ENSG00000092820:EZR
+establishment of endothelial barrier	pr	ENSG00000147065:MSN
+establishment of endothelial barrier	pr	ENSG00000127314:RAP1B
+establishment of endothelial barrier	pr	ENSG00000137710:RDX
+establishment of endothelial barrier	pr	ENSG00000090339:ICAM1
+regulation of cell adhesion	pr	ENSG00000189058:APOD
+regulation of cell adhesion	pr	ENSG00000185043:CIB1
+regulation of cell adhesion	pr	ENSG00000091409:ITGA6
+regulation of cell adhesion	pr	ENSG00000108821:COL1A1
+regulation of cell adhesion	pr	ENSG00000154229:PRKCA
+regulation of cell adhesion	pr	ENSG00000204287:HLA-DRA
+regulation of cell adhesion	pr	ENSG00000100097:LGALS1
+regulation of cell adhesion	pr	ENSG00000168615:ADAM9
+regulation of cell adhesion	pr	ENSG00000046653:GPM6B
+regulation of cell adhesion	pr	ENSG00000164050:PLXNB1
+regulation of cell adhesion	pr	ENSG00000137845:ADAM10
+regulation of cell adhesion	pr	ENSG00000161638:ITGA5
+regulation of cell adhesion	pr	ENSG00000138448:ITGAV
+regulation of cell adhesion	pr	ENSG00000164171:ITGA2
+regulation of cell adhesion	pr	ENSG00000081237:PTPRC
+regulation of cell adhesion	pr	ENSG00000196126:HLA-DRB1
+regulation of cell adhesion	pr	ENSG00000041982:TNC
+regulation of cell adhesion	pr	ENSG00000005884:ITGA3
+regulation of cell adhesion	pr	ENSG00000026508:CD44
+regulation of cell adhesion	pr	ENSG00000152818:UTRN
+regulation of cell adhesion	pr	ENSG00000090339:ICAM1
+regulation of cell adhesion	pr	ENSG00000150093:ITGB1
+cell surface	pr	ENSG00000091409:ITGA6
+cell surface	pr	ENSG00000137076:TLN1
+cell surface	pr	ENSG00000204287:HLA-DRA
+cell surface	pr	ENSG00000160255:ITGB2
+cell surface	pr	ENSG00000135046:ANXA1
+cell surface	pr	ENSG00000169504:CLIC4
+cell surface	pr	ENSG00000100097:LGALS1
+cell surface	pr	ENSG00000168615:ADAM9
+cell surface	pr	ENSG00000004468:CD38
+cell surface	pr	ENSG00000261371:PECAM1
+cell surface	pr	ENSG00000196975:ANXA4
+cell surface	pr	ENSG00000126803:HSPA2
+cell surface	pr	ENSG00000135424:ITGA7
+cell surface	pr	ENSG00000140678:ITGAX
+cell surface	pr	ENSG00000184144:CNTN2
+cell surface	pr	ENSG00000137845:ADAM10
+cell surface	pr	ENSG00000117525:F3
+cell surface	pr	ENSG00000206503:HLA-A
+cell surface	pr	ENSG00000185896:LAMP1
+cell surface	pr	ENSG00000161638:ITGA5
+cell surface	pr	ENSG00000103496:STX4
+cell surface	pr	ENSG00000138448:ITGAV
+cell surface	pr	ENSG00000164171:ITGA2
+cell surface	pr	ENSG00000132470:ITGB4
+cell surface	pr	ENSG00000081237:PTPRC
+cell surface	pr	ENSG00000196126:HLA-DRB1
+cell surface	pr	ENSG00000142192:APP
+cell surface	pr	ENSG00000197081:IGF2R
+cell surface	pr	ENSG00000005884:ITGA3
+cell surface	pr	ENSG00000073712:FERMT2
+cell surface	pr	ENSG00000026508:CD44
+cell surface	pr	ENSG00000149260:CAPN5
+cell surface	pr	ENSG00000090339:ICAM1
+cell surface	pr	ENSG00000170458:CD14
+cell surface	pr	ENSG00000150093:ITGB1
+synapse	pr	ENSG00000273749:CYFIP1
+synapse	pr	ENSG00000092531:SNAP23
+synapse	pr	ENSG00000134769:DTNA
+synapse	pr	ENSG00000108946:PRKAR1A
+synapse	pr	ENSG00000170558:CDH2
+synapse	pr	ENSG00000135424:ITGA7
+synapse	pr	ENSG00000128309:MPST
+synapse	pr	ENSG00000184144:CNTN2
+synapse	pr	ENSG00000161638:ITGA5
+synapse	pr	ENSG00000142192:APP
+synapse	pr	ENSG00000005884:ITGA3
+synapse	pr	ENSG00000172164:SNTB1
+synapse	pr	ENSG00000152818:UTRN
+synapse	pr	ENSG00000152767:FARP1
+synapse	pr	ENSG00000148943:LIN7C
+synapse	pr	ENSG00000150093:ITGB1
+negative regulation of lyase activity	pr	ENSG00000065135:GNAI3
+negative regulation of lyase activity	pr	ENSG00000154229:PRKCA
+negative regulation of lyase activity	pr	ENSG00000114353:GNAI2
+wound healing	pr	ENSG00000108821:COL1A1
+wound healing	pr	ENSG00000261371:PECAM1
+wound healing	pr	ENSG00000164171:ITGA2
+wound healing	pr	ENSG00000041982:TNC
+wound healing	pr	ENSG00000026508:CD44
+cellular response to nitrogen compound	pr	ENSG00000213366:GSTM2
+cellular response to nitrogen compound	pr	ENSG00000108821:COL1A1
+cellular response to nitrogen compound	pr	ENSG00000114450:GNB4
+cellular response to nitrogen compound	pr	ENSG00000108946:PRKAR1A
+cellular response to nitrogen compound	pr	ENSG00000162909:CAPN2
+cellular response to nitrogen compound	pr	ENSG00000087460:GNAS
+cellular response to nitrogen compound	pr	ENSG00000127314:RAP1B
+cellular response to nitrogen compound	pr	ENSG00000172380:GNG12
+cellular response to nitrogen compound	pr	ENSG00000090339:ICAM1
+cellular response to nitrogen compound	pr	ENSG00000167461:RAB8A
+cellular response to nitrogen compound	pr	ENSG00000095637:SORBS1
+sperm part	pr	ENSG00000077549:CAPZB
+sperm part	pr	ENSG00000172270:BSG
+sperm part	pr	ENSG00000004455:AK2
+sperm part	pr	ENSG00000106992:AK1
+sperm part	pr	ENSG00000150093:ITGB1
+plasma membrane part	pr	ENSG00000185043:CIB1
+plasma membrane part	pr	ENSG00000178695:KCTD12
+plasma membrane part	pr	ENSG00000091409:ITGA6
+plasma membrane part	pr	ENSG00000116266:STXBP3
+plasma membrane part	pr	ENSG00000104067:TJP1
+plasma membrane part	pr	ENSG00000065135:GNAI3
+plasma membrane part	pr	ENSG00000082781:ITGB5
+plasma membrane part	pr	ENSG00000137076:TLN1
+plasma membrane part	pr	ENSG00000132670:PTPRA
+plasma membrane part	pr	ENSG00000092820:EZR
+plasma membrane part	pr	ENSG00000120063:GNA13
+plasma membrane part	pr	ENSG00000171885:AQP4
+plasma membrane part	pr	ENSG00000134769:DTNA
+plasma membrane part	pr	ENSG00000024422:EHD2
+plasma membrane part	pr	ENSG00000204287:HLA-DRA
+plasma membrane part	pr	ENSG00000141469:SLC14A1
+plasma membrane part	pr	ENSG00000170624:SGCD
+plasma membrane part	pr	ENSG00000160255:ITGB2
+plasma membrane part	pr	ENSG00000135046:ANXA1
+plasma membrane part	pr	ENSG00000168615:ADAM9
+plasma membrane part	pr	ENSG00000169604:ANTXR1
+plasma membrane part	pr	ENSG00000261371:PECAM1
+plasma membrane part	pr	ENSG00000114353:GNAI2
+plasma membrane part	pr	ENSG00000126803:HSPA2
+plasma membrane part	pr	ENSG00000170558:CDH2
+plasma membrane part	pr	ENSG00000172270:BSG
+plasma membrane part	pr	ENSG00000164050:PLXNB1
+plasma membrane part	pr	ENSG00000135424:ITGA7
+plasma membrane part	pr	ENSG00000164111:ANXA5
+plasma membrane part	pr	ENSG00000088256:GNA11
+plasma membrane part	pr	ENSG00000140678:ITGAX
+plasma membrane part	pr	ENSG00000147065:MSN
+plasma membrane part	pr	ENSG00000196576:PLXNB2
+plasma membrane part	pr	ENSG00000184144:CNTN2
+plasma membrane part	pr	ENSG00000137845:ADAM10
+plasma membrane part	pr	ENSG00000117525:F3
+plasma membrane part	pr	ENSG00000206503:HLA-A
+plasma membrane part	pr	ENSG00000099998:GGT5
+plasma membrane part	pr	ENSG00000087460:GNAS
+plasma membrane part	pr	ENSG00000148175:STOM
+plasma membrane part	pr	ENSG00000138185:ENTPD1
+plasma membrane part	pr	ENSG00000185896:LAMP1
+plasma membrane part	pr	ENSG00000161638:ITGA5
+plasma membrane part	pr	ENSG00000103496:STX4
+plasma membrane part	pr	ENSG00000152661:GJA1
+plasma membrane part	pr	ENSG00000005022:SLC25A5
+plasma membrane part	pr	ENSG00000138448:ITGAV
+plasma membrane part	pr	ENSG00000164171:ITGA2
+plasma membrane part	pr	ENSG00000165168:CYBB
+plasma membrane part	pr	ENSG00000172380:GNG12
+plasma membrane part	pr	ENSG00000132470:ITGB4
+plasma membrane part	pr	ENSG00000081237:PTPRC
+plasma membrane part	pr	ENSG00000196126:HLA-DRB1
+plasma membrane part	pr	ENSG00000136167:LCP1
+plasma membrane part	pr	ENSG00000142192:APP
+plasma membrane part	pr	ENSG00000197081:IGF2R
+plasma membrane part	pr	ENSG00000005884:ITGA3
+plasma membrane part	pr	ENSG00000172164:SNTB1
+plasma membrane part	pr	ENSG00000073712:FERMT2
+plasma membrane part	pr	ENSG00000026508:CD44
+plasma membrane part	pr	ENSG00000155380:SLC16A1
+plasma membrane part	pr	ENSG00000137710:RDX
+plasma membrane part	pr	ENSG00000152818:UTRN
+plasma membrane part	pr	ENSG00000124942:AHNAK
+plasma membrane part	pr	ENSG00000156052:GNAQ
+plasma membrane part	pr	ENSG00000152767:FARP1
+plasma membrane part	pr	ENSG00000090339:ICAM1
+plasma membrane part	pr	ENSG00000125257:ABCC4
+plasma membrane part	pr	ENSG00000148943:LIN7C
+plasma membrane part	pr	ENSG00000102218:RP2
+plasma membrane part	pr	ENSG00000142583:SLC2A5
+plasma membrane part	pr	ENSG00000095637:SORBS1
+plasma membrane part	pr	ENSG00000150093:ITGB1
+plasma membrane part	pr	ENSG00000169313:P2RY12
+plasma membrane part	pr	ENSG00000129219:PLD2
+plasma membrane part	pr	ENSG00000067141:NEO1
+integrin binding	pr	ENSG00000091409:ITGA6
+integrin binding	pr	ENSG00000082781:ITGB5
+integrin binding	pr	ENSG00000137076:TLN1
+integrin binding	pr	ENSG00000168615:ADAM9
+integrin binding	pr	ENSG00000135424:ITGA7
+integrin binding	pr	ENSG00000137845:ADAM10
+integrin binding	pr	ENSG00000161638:ITGA5
+integrin binding	pr	ENSG00000164171:ITGA2
+integrin binding	pr	ENSG00000005884:ITGA3
+integrin binding	pr	ENSG00000152818:UTRN
+integrin binding	pr	ENSG00000090339:ICAM1
+integrin binding	pr	ENSG00000150093:ITGB1
+odontogenesis of dentin-containing tooth	pr	ENSG00000091409:ITGA6
+odontogenesis of dentin-containing tooth	pr	ENSG00000172270:BSG
+odontogenesis of dentin-containing tooth	pr	ENSG00000041982:TNC
+skeletal system development	pr	ENSG00000117450:PRDX1
+skeletal system development	pr	ENSG00000108821:COL1A1
+skeletal system development	pr	ENSG00000088256:GNA11
+skeletal system development	pr	ENSG00000087460:GNAS
+skeletal system development	pr	ENSG00000156052:GNAQ
+ossification	pr	ENSG00000108821:COL1A1
+ossification	pr	ENSG00000046653:GPM6B
+ossification	pr	ENSG00000164050:PLXNB1
+ossification	pr	ENSG00000087460:GNAS
+phospholipase activity	pr	ENSG00000117592:PRDX6
+phospholipase activity	pr	ENSG00000103056:SMPD3
+phospholipase activity	pr	ENSG00000161714:PLCD3
+phospholipase activity	pr	ENSG00000129219:PLD2
+Rho GTPase binding	pr	ENSG00000157827:FMNL2
+Rho GTPase binding	pr	ENSG00000273749:CYFIP1
+Rho GTPase binding	pr	ENSG00000196924:FLNA
+Rho GTPase binding	pr	ENSG00000075785:RAB7A
+Rho GTPase binding	pr	ENSG00000152767:FARP1
+Rho GTPase binding	pr	ENSG00000146122:DAAM2
+cell junction assembly	pr	ENSG00000091409:ITGA6
+cell junction assembly	pr	ENSG00000104067:TJP1
+cell junction assembly	pr	ENSG00000197702:PARVA
+cell junction assembly	pr	ENSG00000137076:TLN1
+cell junction assembly	pr	ENSG00000154229:PRKCA
+cell junction assembly	pr	ENSG00000170558:CDH2
+cell junction assembly	pr	ENSG00000161638:ITGA5
+cell junction assembly	pr	ENSG00000152661:GJA1
+cell junction assembly	pr	ENSG00000132470:ITGB4
+cell junction assembly	pr	ENSG00000196924:FLNA
+cell junction assembly	pr	ENSG00000073712:FERMT2
+cell junction assembly	pr	ENSG00000128591:FLNC
+cell junction assembly	pr	ENSG00000095637:SORBS1
+cell junction assembly	pr	ENSG00000150093:ITGB1
+extracellular structure organization	pr	ENSG00000091409:ITGA6
+extracellular structure organization	pr	ENSG00000082781:ITGB5
+extracellular structure organization	pr	ENSG00000108821:COL1A1
+extracellular structure organization	pr	ENSG00000154229:PRKCA
+extracellular structure organization	pr	ENSG00000160255:ITGB2
+extracellular structure organization	pr	ENSG00000168615:ADAM9
+extracellular structure organization	pr	ENSG00000046653:GPM6B
+extracellular structure organization	pr	ENSG00000172270:BSG
+extracellular structure organization	pr	ENSG00000135424:ITGA7
+extracellular structure organization	pr	ENSG00000140678:ITGAX
+extracellular structure organization	pr	ENSG00000126247:CAPNS1
+extracellular structure organization	pr	ENSG00000137845:ADAM10
+extracellular structure organization	pr	ENSG00000161638:ITGA5
+extracellular structure organization	pr	ENSG00000138448:ITGAV
+extracellular structure organization	pr	ENSG00000164171:ITGA2
+extracellular structure organization	pr	ENSG00000132470:ITGB4
+extracellular structure organization	pr	ENSG00000041982:TNC
+extracellular structure organization	pr	ENSG00000142192:APP
+extracellular structure organization	pr	ENSG00000005884:ITGA3
+extracellular structure organization	pr	ENSG00000026508:CD44
+extracellular structure organization	pr	ENSG00000090339:ICAM1
+extracellular structure organization	pr	ENSG00000150093:ITGB1
+G-protein beta/gamma-subunit complex binding	pr	ENSG00000065135:GNAI3
+G-protein beta/gamma-subunit complex binding	pr	ENSG00000120063:GNA13
+G-protein beta/gamma-subunit complex binding	pr	ENSG00000114353:GNAI2
+G-protein beta/gamma-subunit complex binding	pr	ENSG00000088256:GNA11
+G-protein beta/gamma-subunit complex binding	pr	ENSG00000087460:GNAS
+G-protein beta/gamma-subunit complex binding	pr	ENSG00000156052:GNAQ
+lysosomal membrane	pr	ENSG00000065135:GNAI3
+lysosomal membrane	pr	ENSG00000204287:HLA-DRA
+lysosomal membrane	pr	ENSG00000005893:LAMP2
+lysosomal membrane	pr	ENSG00000138760:SCARB2
+lysosomal membrane	pr	ENSG00000114450:GNB4
+lysosomal membrane	pr	ENSG00000088256:GNA11
+lysosomal membrane	pr	ENSG00000185896:LAMP1
+lysosomal membrane	pr	ENSG00000196126:HLA-DRB1
+lysosomal membrane	pr	ENSG00000197081:IGF2R
+lysosomal membrane	pr	ENSG00000047457:CP
+lysosomal membrane	pr	ENSG00000124942:AHNAK
+lysosomal membrane	pr	ENSG00000075785:RAB7A
+lysosomal membrane	pr	ENSG00000156052:GNAQ
+lysosomal membrane	pr	ENSG00000129353:SLC44A2
+organelle membrane fusion	pr	ENSG00000065135:GNAI3
+organelle membrane fusion	pr	ENSG00000075785:RAB7A
+organelle membrane fusion	pr	ENSG00000167461:RAB8A
+negative regulation of protein complex disassembly	pr	ENSG00000185043:CIB1
+negative regulation of protein complex disassembly	pr	ENSG00000077549:CAPZB
+negative regulation of protein complex disassembly	pr	ENSG00000137710:RDX
+negative regulation of protein complex disassembly	pr	ENSG00000042493:CAPG
+negative regulation of protein complex disassembly	pr	ENSG00000006747:SCIN
+protein dimerization activity	pr	ENSG00000160678:S100A1
+protein dimerization activity	pr	ENSG00000117450:PRDX1
+protein dimerization activity	pr	ENSG00000213366:GSTM2
+protein dimerization activity	pr	ENSG00000135046:ANXA1
+protein dimerization activity	pr	ENSG00000100097:LGALS1
+protein dimerization activity	pr	ENSG00000135424:ITGA7
+protein dimerization activity	pr	ENSG00000160307:S100B
+protein dimerization activity	pr	ENSG00000162909:CAPN2
+protein dimerization activity	pr	ENSG00000137845:ADAM10
+protein dimerization activity	pr	ENSG00000148175:STOM
+protein dimerization activity	pr	ENSG00000069535:MAOB
+protein dimerization activity	pr	ENSG00000122694:GLIPR2
+protein dimerization activity	pr	ENSG00000165475:CRYL1
+protein dimerization activity	pr	ENSG00000164171:ITGA2
+protein dimerization activity	pr	ENSG00000165168:CYBB
+protein dimerization activity	pr	ENSG00000196924:FLNA
+protein dimerization activity	pr	ENSG00000005884:ITGA3
+protein dimerization activity	pr	ENSG00000107902:LHPP
+protein dimerization activity	pr	ENSG00000177119:ANO6
+protein dimerization activity	pr	ENSG00000102032:RENBP
+protein dimerization activity	pr	ENSG00000155380:SLC16A1
+protein dimerization activity	pr	ENSG00000103316:CRYM
+protein dimerization activity	pr	ENSG00000150093:ITGB1
+protein dimerization activity	pr	ENSG00000137106:GRHPR
+fluid transport	pr	ENSG00000171885:AQP4
+fluid transport	pr	ENSG00000141469:SLC14A1
+fluid transport	pr	ENSG00000108946:PRKAR1A
+fluid transport	pr	ENSG00000087460:GNAS
+positive regulation of leukocyte differentiation	pr	ENSG00000154229:PRKCA
+positive regulation of leukocyte differentiation	pr	ENSG00000087460:GNAS
+positive regulation of leukocyte differentiation	pr	ENSG00000081237:PTPRC
+developmental growth	pr	ENSG00000189058:APOD
+developmental growth	pr	ENSG00000273749:CYFIP1
+developmental growth	pr	ENSG00000087460:GNAS
+developmental growth	pr	ENSG00000152661:GJA1
+developmental growth	pr	ENSG00000041982:TNC
+developmental growth	pr	ENSG00000142192:APP
+developmental growth	pr	ENSG00000150093:ITGB1
+molecular transducer activity	pr	ENSG00000065135:GNAI3
+molecular transducer activity	pr	ENSG00000082781:ITGB5
+molecular transducer activity	pr	ENSG00000132670:PTPRA
+molecular transducer activity	pr	ENSG00000147255:IGSF1
+molecular transducer activity	pr	ENSG00000120063:GNA13
+molecular transducer activity	pr	ENSG00000204287:HLA-DRA
+molecular transducer activity	pr	ENSG00000150337:FCGR1A
+molecular transducer activity	pr	ENSG00000160255:ITGB2
+molecular transducer activity	pr	ENSG00000138760:SCARB2
+molecular transducer activity	pr	ENSG00000100097:LGALS1
+molecular transducer activity	pr	ENSG00000161714:PLCD3
+molecular transducer activity	pr	ENSG00000169604:ANTXR1
+molecular transducer activity	pr	ENSG00000114450:GNB4
+molecular transducer activity	pr	ENSG00000114353:GNAI2
+molecular transducer activity	pr	ENSG00000164050:PLXNB1
+molecular transducer activity	pr	ENSG00000088256:GNA11
+molecular transducer activity	pr	ENSG00000140678:ITGAX
+molecular transducer activity	pr	ENSG00000196576:PLXNB2
+molecular transducer activity	pr	ENSG00000087460:GNAS
+molecular transducer activity	pr	ENSG00000152661:GJA1
+molecular transducer activity	pr	ENSG00000138448:ITGAV
+molecular transducer activity	pr	ENSG00000164171:ITGA2
+molecular transducer activity	pr	ENSG00000172380:GNG12
+molecular transducer activity	pr	ENSG00000132470:ITGB4
+molecular transducer activity	pr	ENSG00000081237:PTPRC
+molecular transducer activity	pr	ENSG00000196126:HLA-DRB1
+molecular transducer activity	pr	ENSG00000196924:FLNA
+molecular transducer activity	pr	ENSG00000197081:IGF2R
+molecular transducer activity	pr	ENSG00000026508:CD44
+molecular transducer activity	pr	ENSG00000196139:AKR1C3
+molecular transducer activity	pr	ENSG00000156052:GNAQ
+molecular transducer activity	pr	ENSG00000090339:ICAM1
+molecular transducer activity	pr	ENSG00000170458:CD14
+molecular transducer activity	pr	ENSG00000119900:OGFRL1
+molecular transducer activity	pr	ENSG00000150093:ITGB1
+molecular transducer activity	pr	ENSG00000120594:PLXDC2
+molecular transducer activity	pr	ENSG00000169313:P2RY12
+molecular transducer activity	pr	ENSG00000129353:SLC44A2
+molecular transducer activity	pr	ENSG00000067141:NEO1
+cell-substrate junction	pr	ENSG00000091409:ITGA6
+cell-substrate junction	pr	ENSG00000197702:PARVA
+cell-substrate junction	pr	ENSG00000082781:ITGB5
+cell-substrate junction	pr	ENSG00000137076:TLN1
+cell-substrate junction	pr	ENSG00000092820:EZR
+cell-substrate junction	pr	ENSG00000135424:ITGA7
+cell-substrate junction	pr	ENSG00000147065:MSN
+cell-substrate junction	pr	ENSG00000161638:ITGA5
+cell-substrate junction	pr	ENSG00000164171:ITGA2
+cell-substrate junction	pr	ENSG00000132470:ITGB4
+cell-substrate junction	pr	ENSG00000081237:PTPRC
+cell-substrate junction	pr	ENSG00000136167:LCP1
+cell-substrate junction	pr	ENSG00000073712:FERMT2
+cell-substrate junction	pr	ENSG00000137710:RDX
+cell-substrate junction	pr	ENSG00000095637:SORBS1
+cell-substrate junction	pr	ENSG00000150093:ITGB1
+vacuole	pr	ENSG00000117592:PRDX6
+vacuole	pr	ENSG00000092531:SNAP23
+vacuole	pr	ENSG00000204287:HLA-DRA
+vacuole	pr	ENSG00000005893:LAMP2
+vacuole	pr	ENSG00000135046:ANXA1
+vacuole	pr	ENSG00000138760:SCARB2
+vacuole	pr	ENSG00000104763:ASAH1
+vacuole	pr	ENSG00000122359:ANXA11
+vacuole	pr	ENSG00000185896:LAMP1
+vacuole	pr	ENSG00000103496:STX4
+vacuole	pr	ENSG00000152661:GJA1
+vacuole	pr	ENSG00000075785:RAB7A
+vacuole	pr	ENSG00000112210:RAB23
+regulation of I-kappaB kinase/NF-kappaB signaling	pr	ENSG00000117450:PRDX1
+regulation of I-kappaB kinase/NF-kappaB signaling	pr	ENSG00000100097:LGALS1
+regulation of I-kappaB kinase/NF-kappaB signaling	pr	ENSG00000160307:S100B
+regulation of I-kappaB kinase/NF-kappaB signaling	pr	ENSG00000152661:GJA1
+regulation of I-kappaB kinase/NF-kappaB signaling	pr	ENSG00000196924:FLNA
+regulation of I-kappaB kinase/NF-kappaB signaling	pr	ENSG00000129353:SLC44A2
+cell-substrate adhesion	pr	ENSG00000091409:ITGA6
+cell-substrate adhesion	pr	ENSG00000197702:PARVA
+cell-substrate adhesion	pr	ENSG00000160255:ITGB2
+cell-substrate adhesion	pr	ENSG00000168615:ADAM9
+cell-substrate adhesion	pr	ENSG00000169604:ANTXR1
+cell-substrate adhesion	pr	ENSG00000135424:ITGA7
+cell-substrate adhesion	pr	ENSG00000161638:ITGA5
+cell-substrate adhesion	pr	ENSG00000138448:ITGAV
+cell-substrate adhesion	pr	ENSG00000164171:ITGA2
+cell-substrate adhesion	pr	ENSG00000132470:ITGB4
+cell-substrate adhesion	pr	ENSG00000005884:ITGA3
+cell-substrate adhesion	pr	ENSG00000073712:FERMT2
+cell-substrate adhesion	pr	ENSG00000026508:CD44
+cell-substrate adhesion	pr	ENSG00000095637:SORBS1
+cell-substrate adhesion	pr	ENSG00000150093:ITGB1
+sensory perception of sound	pr	ENSG00000104067:TJP1
+sensory perception of sound	pr	ENSG00000109501:WFS1
+sensory perception of sound	pr	ENSG00000171885:AQP4
+sensory perception of sound	pr	ENSG00000108821:COL1A1
+sensory perception of sound	pr	ENSG00000103316:CRYM
+sensory perception of sound	pr	ENSG00000090339:ICAM1
+phagocytic vesicle	pr	ENSG00000082781:ITGB5
+phagocytic vesicle	pr	ENSG00000122359:ANXA11
+phagocytic vesicle	pr	ENSG00000138448:ITGAV
+phagocytic vesicle	pr	ENSG00000185236:RAB11B
+phagocytic vesicle	pr	ENSG00000075785:RAB7A
+phagocytic vesicle	pr	ENSG00000167461:RAB8A
+phagocytic vesicle	pr	ENSG00000112210:RAB23
+calcium-dependent phospholipid binding	pr	ENSG00000135046:ANXA1
+calcium-dependent phospholipid binding	pr	ENSG00000196975:ANXA4
+calcium-dependent phospholipid binding	pr	ENSG00000164111:ANXA5
+calcium-dependent phospholipid binding	pr	ENSG00000122359:ANXA11
+calcium-dependent phospholipid binding	pr	ENSG00000085719:CPNE3
+regulation of endothelial cell apoptotic process	pr	ENSG00000177119:ANO6
+regulation of endothelial cell apoptotic process	pr	ENSG00000196139:AKR1C3
+regulation of endothelial cell apoptotic process	pr	ENSG00000090339:ICAM1
+cellular response to organic cyclic compound	pr	ENSG00000091409:ITGA6
+cellular response to organic cyclic compound	pr	ENSG00000213366:GSTM2
+cellular response to organic cyclic compound	pr	ENSG00000171885:AQP4
+cellular response to organic cyclic compound	pr	ENSG00000108821:COL1A1
+cellular response to organic cyclic compound	pr	ENSG00000135046:ANXA1
+cellular response to organic cyclic compound	pr	ENSG00000100097:LGALS1
+cellular response to organic cyclic compound	pr	ENSG00000087460:GNAS
+cellular response to organic cyclic compound	pr	ENSG00000127314:RAP1B
+cellular response to organic cyclic compound	pr	ENSG00000041982:TNC
+cellular response to organic cyclic compound	pr	ENSG00000155380:SLC16A1
+cellular response to organic cyclic compound	pr	ENSG00000196139:AKR1C3
+cellular response to organic cyclic compound	pr	ENSG00000150093:ITGB1
+response to tumor necrosis factor	pr	ENSG00000185043:CIB1
+response to tumor necrosis factor	pr	ENSG00000108821:COL1A1
+response to tumor necrosis factor	pr	ENSG00000168615:ADAM9
+response to tumor necrosis factor	pr	ENSG00000137845:ADAM10
+response to tumor necrosis factor	pr	ENSG00000090339:ICAM1
+response to tumor necrosis factor	pr	ENSG00000170458:CD14
+integral component of lumenal side of endoplasmic reticulum membrane	pr	ENSG00000204287:HLA-DRA
+integral component of lumenal side of endoplasmic reticulum membrane	pr	ENSG00000206503:HLA-A
+integral component of lumenal side of endoplasmic reticulum membrane	pr	ENSG00000196126:HLA-DRB1
+embryonic digit morphogenesis	pr	ENSG00000152661:GJA1
+embryonic digit morphogenesis	pr	ENSG00000156052:GNAQ
+embryonic digit morphogenesis	pr	ENSG00000112210:RAB23
+amide transport	pr	ENSG00000103056:SMPD3
+amide transport	pr	ENSG00000141469:SLC14A1
+amide transport	pr	ENSG00000135046:ANXA1
+amide transport	pr	ENSG00000185236:RAB11B
+membrane to membrane docking	pr	ENSG00000092820:EZR
+membrane to membrane docking	pr	ENSG00000147065:MSN
+membrane to membrane docking	pr	ENSG00000090339:ICAM1
+ciliary basal body	pr	ENSG00000092820:EZR
+ciliary basal body	pr	ENSG00000167461:RAB8A
+ciliary basal body	pr	ENSG00000102218:RP2
+leukocyte cell-cell adhesion	pr	ENSG00000092820:EZR
+leukocyte cell-cell adhesion	pr	ENSG00000160255:ITGB2
+leukocyte cell-cell adhesion	pr	ENSG00000135046:ANXA1
+leukocyte cell-cell adhesion	pr	ENSG00000147065:MSN
+leukocyte cell-cell adhesion	pr	ENSG00000161638:ITGA5
+leukocyte cell-cell adhesion	pr	ENSG00000081237:PTPRC
+leukocyte cell-cell adhesion	pr	ENSG00000136167:LCP1
+leukocyte cell-cell adhesion	pr	ENSG00000026508:CD44
+leukocyte cell-cell adhesion	pr	ENSG00000090339:ICAM1
+leukocyte cell-cell adhesion	pr	ENSG00000150093:ITGB1
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	pr	ENSG00000170558:CDH2
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	pr	ENSG00000161638:ITGA5
+heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	pr	ENSG00000090339:ICAM1

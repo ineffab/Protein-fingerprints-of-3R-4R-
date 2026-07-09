@@ -1,0 +1,320 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000106991	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	ENSG00000106991	GO:0005126	cytokine receptor binding	ENG	grey	En
+ENSG00000115415	STAT1	signal transducer and activator of transcription 1, 91kDa [Source:HGNC Symbol;Acc:HGNC:11362]	ENSG00000115415	GO:0005126	cytokine receptor binding	STAT1	grey	En
+ENSG00000164307	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	ENSG00000164307	GO:0005126	cytokine receptor binding	ERAP1	grey	En
+ENSG00000137575	SDCBP	syndecan binding protein (syntenin) [Source:HGNC Symbol;Acc:HGNC:10662]	ENSG00000137575	GO:0005126	cytokine receptor binding	SDCBP	grey	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0005126	cytokine receptor binding	ITGB3	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0015701	bicarbonate transport	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0015701	bicarbonate transport	HBB	grey	En
+ENSG00000133742	CA1	carbonic anhydrase I [Source:HGNC Symbol;Acc:HGNC:1368]	ENSG00000133742	GO:0015701	bicarbonate transport	CA1	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0006636	unsaturated fatty acid biosynthetic process	GGT1	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	GO:0006636	unsaturated fatty acid biosynthetic process	LTA4H	grey	En
+ENSG00000148334	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	ENSG00000148334	GO:0006636	unsaturated fatty acid biosynthetic process	PTGES2	grey	En
+ENSG00000105409	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide [Source:HGNC Symbol;Acc:HGNC:801]	ENSG00000105409	GO:0009142	nucleoside triphosphate biosynthetic process	ATP1A3	grey	En
+ENSG00000156110	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	ENSG00000156110	GO:0009142	nucleoside triphosphate biosynthetic process	ADK	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:0009142	nucleoside triphosphate biosynthetic process	STOML2	grey	En
+ENSG00000162433	AK4	adenylate kinase 4 [Source:HGNC Symbol;Acc:HGNC:363]	ENSG00000162433	GO:0009142	nucleoside triphosphate biosynthetic process	AK4	grey	En
+ENSG00000214253	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:21689]	ENSG00000214253	GO:0072655	establishment of protein localization to mitochondrion	FIS1	grey	En
+ENSG00000186010	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 [Source:HGNC Symbol;Acc:HGNC:17194]	ENSG00000186010	GO:0072655	establishment of protein localization to mitochondrion	NDUFA13	grey	En
+ENSG00000100347	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	ENSG00000100347	GO:0072655	establishment of protein localization to mitochondrion	SAMM50	grey	En
+ENSG00000128654	MTX2	metaxin 2 [Source:HGNC Symbol;Acc:HGNC:7506]	ENSG00000128654	GO:0072655	establishment of protein localization to mitochondrion	MTX2	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0005344	oxygen transporter activity	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0005344	oxygen transporter activity	HBB	grey	En
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	ENSG00000223609	GO:0005344	oxygen transporter activity	HBD	grey	En
+ENSG00000135318	NT5E	5'-nucleotidase, ecto (CD73) [Source:HGNC Symbol;Acc:HGNC:8021]	ENSG00000135318	GO:0072529	pyrimidine-containing compound catabolic process	NT5E	grey	En
+ENSG00000119711	ALDH6A1	aldehyde dehydrogenase 6 family, member A1 [Source:HGNC Symbol;Acc:HGNC:7179]	ENSG00000119711	GO:0072529	pyrimidine-containing compound catabolic process	ALDH6A1	grey	En
+ENSG00000113657	DPYSL3	dihydropyrimidinase-like 3 [Source:HGNC Symbol;Acc:HGNC:3015]	ENSG00000113657	GO:0072529	pyrimidine-containing compound catabolic process	DPYSL3	grey	En
+ENSG00000153904	DDAH1	dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:2715]	ENSG00000153904	GO:0008217	regulation of blood pressure	DDAH1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0008217	regulation of blood pressure	HBB	grey	En
+ENSG00000197894	ADH5	alcohol dehydrogenase 5 (class III), chi polypeptide [Source:HGNC Symbol;Acc:HGNC:253]	ENSG00000197894	GO:0008217	regulation of blood pressure	ADH5	grey	En
+ENSG00000071242	RPS6KA2	ribosomal protein S6 kinase, 90kDa, polypeptide 2 [Source:HGNC Symbol;Acc:HGNC:10431]	ENSG00000071242	GO:0008217	regulation of blood pressure	RPS6KA2	grey	En
+ENSG00000106991	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	ENSG00000106991	GO:0008217	regulation of blood pressure	ENG	grey	En
+ENSG00000164307	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	ENSG00000164307	GO:0008217	regulation of blood pressure	ERAP1	grey	En
+ENSG00000119711	ALDH6A1	aldehyde dehydrogenase 6 family, member A1 [Source:HGNC Symbol;Acc:HGNC:7179]	ENSG00000119711	GO:0000062	fatty-acyl-CoA binding	ALDH6A1	grey	En
+ENSG00000155368	DBI	diazepam binding inhibitor (GABA receptor modulator, acyl-CoA binding protein) [Source:HGNC Symbol;Acc:HGNC:2690]	ENSG00000155368	GO:0000062	fatty-acyl-CoA binding	DBI	grey	En
+ENSG00000116171	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	ENSG00000116171	GO:0000062	fatty-acyl-CoA binding	SCP2	grey	En
+ENSG00000115415	STAT1	signal transducer and activator of transcription 1, 91kDa [Source:HGNC Symbol;Acc:HGNC:11362]	ENSG00000115415	GO:0014074	response to purine-containing compound	STAT1	grey	En
+ENSG00000167588	GPD1	glycerol-3-phosphate dehydrogenase 1 (soluble) [Source:HGNC Symbol;Acc:HGNC:4455]	ENSG00000167588	GO:0014074	response to purine-containing compound	GPD1	grey	En
+ENSG00000157103	SLC6A1	solute carrier family 6 (neurotransmitter transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:11042]	ENSG00000157103	GO:0014074	response to purine-containing compound	SLC6A1	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0014074	response to purine-containing compound	P2RX7	grey	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0014074	response to purine-containing compound	ITPR2	grey	En
+ENSG00000113140	SPARC	secreted protein, acidic, cysteine-rich (osteonectin) [Source:HGNC Symbol;Acc:HGNC:11219]	ENSG00000113140	GO:0014074	response to purine-containing compound	SPARC	grey	En
+ENSG00000051620	HEBP2	heme binding protein 2 [Source:HGNC Symbol;Acc:HGNC:15716]	ENSG00000051620	GO:0007006	mitochondrial membrane organization	HEBP2	grey	En
+ENSG00000186010	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 [Source:HGNC Symbol;Acc:HGNC:17194]	ENSG00000186010	GO:0007006	mitochondrial membrane organization	NDUFA13	grey	En
+ENSG00000108179	PPIF	peptidylprolyl isomerase F [Source:HGNC Symbol;Acc:HGNC:9259]	ENSG00000108179	GO:0007006	mitochondrial membrane organization	PPIF	grey	En
+ENSG00000106554	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3 [Source:HGNC Symbol;Acc:HGNC:21906]	ENSG00000106554	GO:0007006	mitochondrial membrane organization	CHCHD3	grey	En
+ENSG00000100347	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	ENSG00000100347	GO:0007006	mitochondrial membrane organization	SAMM50	grey	En
+ENSG00000084073	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	ENSG00000084073	GO:0008237	metallopeptidase activity	ZMPSTE24	grey	En
+ENSG00000109472	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	ENSG00000109472	GO:0008237	metallopeptidase activity	CPE	grey	En
+ENSG00000133313	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family) [Source:HGNC Symbol;Acc:HGNC:24437]	ENSG00000133313	GO:0008237	metallopeptidase activity	CNDP2	grey	En
+ENSG00000123992	DNPEP	aspartyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:2981]	ENSG00000123992	GO:0008237	metallopeptidase activity	DNPEP	grey	En
+ENSG00000164307	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	ENSG00000164307	GO:0008237	metallopeptidase activity	ERAP1	grey	En
+ENSG00000215440	NPEPL1	aminopeptidase-like 1 [Source:HGNC Symbol;Acc:HGNC:16244]	ENSG00000215440	GO:0008237	metallopeptidase activity	NPEPL1	grey	En
+ENSG00000150656	CNDP1	carnosine dipeptidase 1 (metallopeptidase M20 family) [Source:HGNC Symbol;Acc:HGNC:20675]	ENSG00000150656	GO:0008237	metallopeptidase activity	CNDP1	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	GO:0008237	metallopeptidase activity	LTA4H	grey	En
+ENSG00000106991	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	ENSG00000106991	GO:0050431	transforming growth factor beta binding	ENG	grey	En
+ENSG00000168140	VASN	vasorin [Source:HGNC Symbol;Acc:HGNC:18517]	ENSG00000168140	GO:0050431	transforming growth factor beta binding	VASN	grey	En
+ENSG00000156535	CD109	CD109 molecule [Source:HGNC Symbol;Acc:HGNC:21685]	ENSG00000156535	GO:0050431	transforming growth factor beta binding	CD109	grey	En
+ENSG00000109472	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	ENSG00000109472	GO:0007218	neuropeptide signaling pathway	CPE	grey	En
+ENSG00000102109	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	ENSG00000102109	GO:0007218	neuropeptide signaling pathway	PCSK1N	grey	En
+ENSG00000184985	SORCS2	sortilin-related VPS10 domain containing receptor 2 [Source:HGNC Symbol;Acc:HGNC:16698]	ENSG00000184985	GO:0007218	neuropeptide signaling pathway	SORCS2	grey	En
+ENSG00000143126	CELSR2	cadherin, EGF LAG seven-pass G-type receptor 2 [Source:HGNC Symbol;Acc:HGNC:3231]	ENSG00000143126	GO:0007218	neuropeptide signaling pathway	CELSR2	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0022834	ligand-gated channel activity	P2RX7	grey	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0022834	ligand-gated channel activity	ITPR2	grey	En
+ENSG00000120251	GRIA2	glutamate receptor, ionotropic, AMPA 2 [Source:HGNC Symbol;Acc:HGNC:4572]	ENSG00000120251	GO:0022834	ligand-gated channel activity	GRIA2	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:1901570	fatty acid derivative biosynthetic process	GGT1	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	GO:1901570	fatty acid derivative biosynthetic process	LTA4H	grey	En
+ENSG00000148334	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	ENSG00000148334	GO:1901570	fatty acid derivative biosynthetic process	PTGES2	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0006884	cell volume homeostasis	P2RX7	grey	En
+ENSG00000087274	ADD1	adducin 1 (alpha) [Source:HGNC Symbol;Acc:HGNC:243]	ENSG00000087274	GO:0006884	cell volume homeostasis	ADD1	grey	En
+ENSG00000136802	LRRC8A	leucine rich repeat containing 8 family, member A [Source:HGNC Symbol;Acc:HGNC:19027]	ENSG00000136802	GO:0006884	cell volume homeostasis	LRRC8A	grey	En
+ENSG00000171503	ETFDH	electron-transferring-flavoprotein dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3483]	ENSG00000171503	GO:0016021	integral component of membrane	ETFDH	grey	En
+ENSG00000174684	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]	ENSG00000174684	GO:0016021	integral component of membrane	B4GAT1	grey	En
+ENSG00000174469	CNTNAP2	contactin associated protein-like 2 [Source:HGNC Symbol;Acc:HGNC:13830]	ENSG00000174469	GO:0016021	integral component of membrane	CNTNAP2	grey	En
+ENSG00000148482	SLC39A12	solute carrier family 39 (zinc transporter), member 12 [Source:HGNC Symbol;Acc:HGNC:20860]	ENSG00000148482	GO:0016021	integral component of membrane	SLC39A12	grey	En
+ENSG00000150625	GPM6A	glycoprotein M6A [Source:HGNC Symbol;Acc:HGNC:4460]	ENSG00000150625	GO:0016021	integral component of membrane	GPM6A	grey	En
+ENSG00000186010	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 [Source:HGNC Symbol;Acc:HGNC:17194]	ENSG00000186010	GO:0016021	integral component of membrane	NDUFA13	grey	En
+ENSG00000164307	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	ENSG00000164307	GO:0016021	integral component of membrane	ERAP1	grey	En
+ENSG00000175161	CADM2	cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:29849]	ENSG00000175161	GO:0016021	integral component of membrane	CADM2	grey	En
+ENSG00000157103	SLC6A1	solute carrier family 6 (neurotransmitter transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:11042]	ENSG00000157103	GO:0016021	integral component of membrane	SLC6A1	grey	En
+ENSG00000236279	CLEC2L	C-type lectin domain family 2, member L [Source:HGNC Symbol;Acc:HGNC:21969]	ENSG00000236279	GO:0016021	integral component of membrane	CLEC2L	grey	En
+ENSG00000168032	ENTPD3	ectonucleoside triphosphate diphosphohydrolase 3 [Source:HGNC Symbol;Acc:HGNC:3365]	ENSG00000168032	GO:0016021	integral component of membrane	ENTPD3	grey	En
+ENSG00000134247	PTGFRN	prostaglandin F2 receptor inhibitor [Source:HGNC Symbol;Acc:HGNC:9601]	ENSG00000134247	GO:0016021	integral component of membrane	PTGFRN	grey	En
+ENSG00000184985	SORCS2	sortilin-related VPS10 domain containing receptor 2 [Source:HGNC Symbol;Acc:HGNC:16698]	ENSG00000184985	GO:0016021	integral component of membrane	SORCS2	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0016021	integral component of membrane	GGT1	grey	En
+ENSG00000155252	PI4K2A	phosphatidylinositol 4-kinase type 2 alpha [Source:HGNC Symbol;Acc:HGNC:30031]	ENSG00000155252	GO:0016021	integral component of membrane	PI4K2A	grey	En
+ENSG00000171877	FRMD5	FERM domain containing 5 [Source:HGNC Symbol;Acc:HGNC:28214]	ENSG00000171877	GO:0016021	integral component of membrane	FRMD5	grey	En
+ENSG00000148053	NTRK2	neurotrophic tyrosine kinase, receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:8032]	ENSG00000148053	GO:0016021	integral component of membrane	NTRK2	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0016021	integral component of membrane	P2RX7	grey	En
+ENSG00000184743	ATL3	atlastin GTPase 3 [Source:HGNC Symbol;Acc:HGNC:24526]	ENSG00000184743	GO:0016021	integral component of membrane	ATL3	grey	En
+ENSG00000120251	GRIA2	glutamate receptor, ionotropic, AMPA 2 [Source:HGNC Symbol;Acc:HGNC:4572]	ENSG00000120251	GO:0016021	integral component of membrane	GRIA2	grey	En
+ENSG00000084073	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	ENSG00000084073	GO:0016021	integral component of membrane	ZMPSTE24	grey	En
+ENSG00000182902	SLC25A18	solute carrier family 25 (glutamate carrier), member 18 [Source:HGNC Symbol;Acc:HGNC:10988]	ENSG00000182902	GO:0016021	integral component of membrane	SLC25A18	grey	En
+ENSG00000105409	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide [Source:HGNC Symbol;Acc:HGNC:801]	ENSG00000105409	GO:0016021	integral component of membrane	ATP1A3	grey	En
+ENSG00000173905	GOLIM4	golgi integral membrane protein 4 [Source:HGNC Symbol;Acc:HGNC:15448]	ENSG00000173905	GO:0016021	integral component of membrane	GOLIM4	grey	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0016021	integral component of membrane	ITPR2	grey	En
+ENSG00000158270	COLEC12	collectin sub-family member 12 [Source:HGNC Symbol;Acc:HGNC:16016]	ENSG00000158270	GO:0016021	integral component of membrane	COLEC12	grey	En
+ENSG00000163406	SLC15A2	solute carrier family 15 (oligopeptide transporter), member 2 [Source:HGNC Symbol;Acc:HGNC:10921]	ENSG00000163406	GO:0016021	integral component of membrane	SLC15A2	grey	En
+ENSG00000100427	MLC1	megalencephalic leukoencephalopathy with subcortical cysts 1 [Source:HGNC Symbol;Acc:HGNC:17082]	ENSG00000100427	GO:0016021	integral component of membrane	MLC1	grey	En
+ENSG00000112992	NNT	nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863]	ENSG00000112992	GO:0016021	integral component of membrane	NNT	grey	En
+ENSG00000178537	SLC25A20	solute carrier family 25 (carnitine/acylcarnitine translocase), member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	ENSG00000178537	GO:0016021	integral component of membrane	SLC25A20	grey	En
+ENSG00000148334	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	ENSG00000148334	GO:0016021	integral component of membrane	PTGES2	grey	En
+ENSG00000214253	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:21689]	ENSG00000214253	GO:0016021	integral component of membrane	FIS1	grey	En
+ENSG00000100347	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	ENSG00000100347	GO:0016021	integral component of membrane	SAMM50	grey	En
+ENSG00000011028	MRC2	mannose receptor, C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	ENSG00000011028	GO:0016021	integral component of membrane	MRC2	grey	En
+ENSG00000143126	CELSR2	cadherin, EGF LAG seven-pass G-type receptor 2 [Source:HGNC Symbol;Acc:HGNC:3231]	ENSG00000143126	GO:0016021	integral component of membrane	CELSR2	grey	En
+ENSG00000168140	VASN	vasorin [Source:HGNC Symbol;Acc:HGNC:18517]	ENSG00000168140	GO:0016021	integral component of membrane	VASN	grey	En
+ENSG00000167614	TTYH1	tweety family member 1 [Source:HGNC Symbol;Acc:HGNC:13476]	ENSG00000167614	GO:0016021	integral component of membrane	TTYH1	grey	En
+ENSG00000143858	SYT2	synaptotagmin II [Source:HGNC Symbol;Acc:HGNC:11510]	ENSG00000143858	GO:0016021	integral component of membrane	SYT2	grey	En
+ENSG00000117394	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:11005]	ENSG00000117394	GO:0016021	integral component of membrane	SLC2A1	grey	En
+ENSG00000008952	SEC62	SEC62 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:11846]	ENSG00000008952	GO:0016021	integral component of membrane	SEC62	grey	En
+ENSG00000143603	KCNN3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3 [Source:HGNC Symbol;Acc:HGNC:6292]	ENSG00000143603	GO:0016021	integral component of membrane	KCNN3	grey	En
+ENSG00000171903	CYP4F11	cytochrome P450, family 4, subfamily F, polypeptide 11 [Source:HGNC Symbol;Acc:HGNC:13265]	ENSG00000171903	GO:0016021	integral component of membrane	CYP4F11	grey	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0016021	integral component of membrane	ITGB3	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0042219	cellular modified amino acid catabolic process	GGT1	grey	En
+ENSG00000100033	PRODH	proline dehydrogenase (oxidase) 1 [Source:HGNC Symbol;Acc:HGNC:9453]	ENSG00000100033	GO:0042219	cellular modified amino acid catabolic process	PRODH	grey	En
+ENSG00000160200	CBS	cystathionine-beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550]	ENSG00000160200	GO:0042219	cellular modified amino acid catabolic process	CBS	grey	En
+ENSG00000150625	GPM6A	glycoprotein M6A [Source:HGNC Symbol;Acc:HGNC:4460]	ENSG00000150625	GO:0051491	positive regulation of filopodium assembly	GPM6A	grey	En
+ENSG00000115091	ACTR3	ARP3 actin-related protein 3 homolog (yeast) [Source:HGNC Symbol;Acc:HGNC:170]	ENSG00000115091	GO:0051491	positive regulation of filopodium assembly	ACTR3	grey	En
+ENSG00000113657	DPYSL3	dihydropyrimidinase-like 3 [Source:HGNC Symbol;Acc:HGNC:3015]	ENSG00000113657	GO:0051491	positive regulation of filopodium assembly	DPYSL3	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0005833	hemoglobin complex	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0005833	hemoglobin complex	HBB	grey	En
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	ENSG00000223609	GO:0005833	hemoglobin complex	HBD	grey	En
+ENSG00000171503	ETFDH	electron-transferring-flavoprotein dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3483]	ENSG00000171503	GO:0044455	mitochondrial membrane part	ETFDH	grey	En
+ENSG00000100347	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	ENSG00000100347	GO:0044455	mitochondrial membrane part	SAMM50	grey	En
+ENSG00000186010	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 [Source:HGNC Symbol;Acc:HGNC:17194]	ENSG00000186010	GO:0044455	mitochondrial membrane part	NDUFA13	grey	En
+ENSG00000140990	NDUFB10	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10, 22kDa [Source:HGNC Symbol;Acc:HGNC:7696]	ENSG00000140990	GO:0044455	mitochondrial membrane part	NDUFB10	grey	En
+ENSG00000108179	PPIF	peptidylprolyl isomerase F [Source:HGNC Symbol;Acc:HGNC:9259]	ENSG00000108179	GO:0044455	mitochondrial membrane part	PPIF	grey	En
+ENSG00000130414	NDUFA10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 10, 42kDa [Source:HGNC Symbol;Acc:HGNC:7684]	ENSG00000130414	GO:0044455	mitochondrial membrane part	NDUFA10	grey	En
+ENSG00000214253	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:21689]	ENSG00000214253	GO:0044455	mitochondrial membrane part	FIS1	grey	En
+ENSG00000112992	NNT	nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863]	ENSG00000112992	GO:0044455	mitochondrial membrane part	NNT	grey	En
+ENSG00000145494	NDUFS6	NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7713]	ENSG00000145494	GO:0044455	mitochondrial membrane part	NDUFS6	grey	En
+ENSG00000105409	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide [Source:HGNC Symbol;Acc:HGNC:801]	ENSG00000105409	GO:0098662	inorganic cation transmembrane transport	ATP1A3	grey	En
+ENSG00000148482	SLC39A12	solute carrier family 39 (zinc transporter), member 12 [Source:HGNC Symbol;Acc:HGNC:20860]	ENSG00000148482	GO:0098662	inorganic cation transmembrane transport	SLC39A12	grey	En
+ENSG00000150625	GPM6A	glycoprotein M6A [Source:HGNC Symbol;Acc:HGNC:4460]	ENSG00000150625	GO:0098662	inorganic cation transmembrane transport	GPM6A	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:0098662	inorganic cation transmembrane transport	STOML2	grey	En
+ENSG00000129244	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide [Source:HGNC Symbol;Acc:HGNC:805]	ENSG00000129244	GO:0098662	inorganic cation transmembrane transport	ATP1B2	grey	En
+ENSG00000143153	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide [Source:HGNC Symbol;Acc:HGNC:804]	ENSG00000143153	GO:0098662	inorganic cation transmembrane transport	ATP1B1	grey	En
+ENSG00000112992	NNT	nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863]	ENSG00000112992	GO:0098662	inorganic cation transmembrane transport	NNT	grey	En
+ENSG00000143603	KCNN3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3 [Source:HGNC Symbol;Acc:HGNC:6292]	ENSG00000143603	GO:0098662	inorganic cation transmembrane transport	KCNN3	grey	En
+ENSG00000178537	SLC25A20	solute carrier family 25 (carnitine/acylcarnitine translocase), member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	ENSG00000178537	GO:0098662	inorganic cation transmembrane transport	SLC25A20	grey	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0098662	inorganic cation transmembrane transport	ITPR2	grey	En
+ENSG00000167614	TTYH1	tweety family member 1 [Source:HGNC Symbol;Acc:HGNC:13476]	ENSG00000167614	GO:0098662	inorganic cation transmembrane transport	TTYH1	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0005506	iron ion binding	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0005506	iron ion binding	HBB	grey	En
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	ENSG00000223609	GO:0005506	iron ion binding	HBD	grey	En
+ENSG00000171903	CYP4F11	cytochrome P450, family 4, subfamily F, polypeptide 11 [Source:HGNC Symbol;Acc:HGNC:13265]	ENSG00000171903	GO:0005506	iron ion binding	CYP4F11	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0001676	long-chain fatty acid metabolic process	GGT1	grey	En
+ENSG00000184227	ACOT1	acyl-CoA thioesterase 1 [Source:HGNC Symbol;Acc:HGNC:33128]	ENSG00000184227	GO:0001676	long-chain fatty acid metabolic process	ACOT1	grey	En
+ENSG00000106853	PTGR1	prostaglandin reductase 1 [Source:HGNC Symbol;Acc:HGNC:18429]	ENSG00000106853	GO:0001676	long-chain fatty acid metabolic process	PTGR1	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	GO:0001676	long-chain fatty acid metabolic process	LTA4H	grey	En
+ENSG00000116171	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	ENSG00000116171	GO:0001676	long-chain fatty acid metabolic process	SCP2	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0015671	oxygen transport	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0015671	oxygen transport	HBB	grey	En
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	ENSG00000223609	GO:0015671	oxygen transport	HBD	grey	En
+ENSG00000162174	ASRGL1	asparaginase like 1 [Source:HGNC Symbol;Acc:HGNC:16448]	ENSG00000162174	GO:1901606	alpha-amino acid catabolic process	ASRGL1	grey	En
+ENSG00000131844	MCCC2	methylcrotonoyl-CoA carboxylase 2 (beta) [Source:HGNC Symbol;Acc:HGNC:6937]	ENSG00000131844	GO:1901606	alpha-amino acid catabolic process	MCCC2	grey	En
+ENSG00000100033	PRODH	proline dehydrogenase (oxidase) 1 [Source:HGNC Symbol;Acc:HGNC:9453]	ENSG00000100033	GO:1901606	alpha-amino acid catabolic process	PRODH	grey	En
+ENSG00000153904	DDAH1	dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:2715]	ENSG00000153904	GO:1901606	alpha-amino acid catabolic process	DDAH1	grey	En
+ENSG00000160200	CBS	cystathionine-beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550]	ENSG00000160200	GO:1901606	alpha-amino acid catabolic process	CBS	grey	En
+ENSG00000213722	DDAH2	dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]	ENSG00000213722	GO:1901606	alpha-amino acid catabolic process	DDAH2	grey	En
+ENSG00000119711	ALDH6A1	aldehyde dehydrogenase 6 family, member A1 [Source:HGNC Symbol;Acc:HGNC:7179]	ENSG00000119711	GO:1901606	alpha-amino acid catabolic process	ALDH6A1	grey	En
+ENSG00000084073	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	ENSG00000084073	GO:0016485	protein processing	ZMPSTE24	grey	En
+ENSG00000109472	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	ENSG00000109472	GO:0016485	protein processing	CPE	grey	En
+ENSG00000249915	PDCD6	programmed cell death 6 [Source:HGNC Symbol;Acc:HGNC:8765]	ENSG00000249915	GO:0016485	protein processing	PDCD6	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0016485	protein processing	GGT1	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:0016485	protein processing	STOML2	grey	En
+ENSG00000156709	AIFM1	apoptosis-inducing factor, mitochondrion-associated, 1 [Source:HGNC Symbol;Acc:HGNC:8768]	ENSG00000156709	GO:0016485	protein processing	AIFM1	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0016485	protein processing	P2RX7	grey	En
+ENSG00000102109	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	ENSG00000102109	GO:0016485	protein processing	PCSK1N	grey	En
+ENSG00000115380	EFEMP1	EGF containing fibulin-like extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	ENSG00000115380	GO:0070851	growth factor receptor binding	EFEMP1	grey	En
+ENSG00000164307	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	ENSG00000164307	GO:0070851	growth factor receptor binding	ERAP1	grey	En
+ENSG00000113578	FGF1	fibroblast growth factor 1 (acidic) [Source:HGNC Symbol;Acc:HGNC:3665]	ENSG00000113578	GO:0070851	growth factor receptor binding	FGF1	grey	En
+ENSG00000137575	SDCBP	syndecan binding protein (syntenin) [Source:HGNC Symbol;Acc:HGNC:10662]	ENSG00000137575	GO:0070851	growth factor receptor binding	SDCBP	grey	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0070851	growth factor receptor binding	ITGB3	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0034103	regulation of tissue remodeling	P2RX7	grey	En
+ENSG00000101439	CST3	cystatin C [Source:HGNC Symbol;Acc:HGNC:2475]	ENSG00000101439	GO:0034103	regulation of tissue remodeling	CST3	grey	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0034103	regulation of tissue remodeling	ITGB3	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0000096	sulfur amino acid metabolic process	GGT1	grey	En
+ENSG00000133313	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family) [Source:HGNC Symbol;Acc:HGNC:24437]	ENSG00000133313	GO:0000096	sulfur amino acid metabolic process	CNDP2	grey	En
+ENSG00000128311	TST	thiosulfate sulfurtransferase (rhodanese) [Source:HGNC Symbol;Acc:HGNC:12388]	ENSG00000128311	GO:0000096	sulfur amino acid metabolic process	TST	grey	En
+ENSG00000160200	CBS	cystathionine-beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550]	ENSG00000160200	GO:0000096	sulfur amino acid metabolic process	CBS	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0072593	reactive oxygen species metabolic process	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0072593	reactive oxygen species metabolic process	HBB	grey	En
+ENSG00000186010	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 [Source:HGNC Symbol;Acc:HGNC:17194]	ENSG00000186010	GO:0072593	reactive oxygen species metabolic process	NDUFA13	grey	En
+ENSG00000112992	NNT	nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863]	ENSG00000112992	GO:0072593	reactive oxygen species metabolic process	NNT	grey	En
+ENSG00000213722	DDAH2	dimethylarginine dimethylaminohydrolase 2 [Source:HGNC Symbol;Acc:HGNC:2716]	ENSG00000213722	GO:0072593	reactive oxygen species metabolic process	DDAH2	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0072593	reactive oxygen species metabolic process	P2RX7	grey	En
+ENSG00000214253	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:21689]	ENSG00000214253	GO:0008053	mitochondrial fusion	FIS1	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:0008053	mitochondrial fusion	STOML2	grey	En
+ENSG00000106554	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3 [Source:HGNC Symbol;Acc:HGNC:21906]	ENSG00000106554	GO:0008053	mitochondrial fusion	CHCHD3	grey	En
+ENSG00000135318	NT5E	5'-nucleotidase, ecto (CD73) [Source:HGNC Symbol;Acc:HGNC:8021]	ENSG00000135318	GO:0046033	AMP metabolic process	NT5E	grey	En
+ENSG00000156110	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	ENSG00000156110	GO:0046033	AMP metabolic process	ADK	grey	En
+ENSG00000162433	AK4	adenylate kinase 4 [Source:HGNC Symbol;Acc:HGNC:363]	ENSG00000162433	GO:0046033	AMP metabolic process	AK4	grey	En
+ENSG00000153904	DDAH1	dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:2715]	ENSG00000153904	GO:0045766	positive regulation of angiogenesis	DDAH1	grey	En
+ENSG00000087274	ADD1	adducin 1 (alpha) [Source:HGNC Symbol;Acc:HGNC:243]	ENSG00000087274	GO:0045766	positive regulation of angiogenesis	ADD1	grey	En
+ENSG00000164307	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	ENSG00000164307	GO:0045766	positive regulation of angiogenesis	ERAP1	grey	En
+ENSG00000249915	PDCD6	programmed cell death 6 [Source:HGNC Symbol;Acc:HGNC:8765]	ENSG00000249915	GO:0045766	positive regulation of angiogenesis	PDCD6	grey	En
+ENSG00000113578	FGF1	fibroblast growth factor 1 (acidic) [Source:HGNC Symbol;Acc:HGNC:3665]	ENSG00000113578	GO:0045766	positive regulation of angiogenesis	FGF1	grey	En
+ENSG00000214253	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:21689]	ENSG00000214253	GO:0006839	mitochondrial transport	FIS1	grey	En
+ENSG00000100347	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	ENSG00000100347	GO:0006839	mitochondrial transport	SAMM50	grey	En
+ENSG00000128311	TST	thiosulfate sulfurtransferase (rhodanese) [Source:HGNC Symbol;Acc:HGNC:12388]	ENSG00000128311	GO:0006839	mitochondrial transport	TST	grey	En
+ENSG00000186010	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 [Source:HGNC Symbol;Acc:HGNC:17194]	ENSG00000186010	GO:0006839	mitochondrial transport	NDUFA13	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:0006839	mitochondrial transport	STOML2	grey	En
+ENSG00000167588	GPD1	glycerol-3-phosphate dehydrogenase 1 (soluble) [Source:HGNC Symbol;Acc:HGNC:4455]	ENSG00000167588	GO:0006839	mitochondrial transport	GPD1	grey	En
+ENSG00000178537	SLC25A20	solute carrier family 25 (carnitine/acylcarnitine translocase), member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	ENSG00000178537	GO:0006839	mitochondrial transport	SLC25A20	grey	En
+ENSG00000128654	MTX2	metaxin 2 [Source:HGNC Symbol;Acc:HGNC:7506]	ENSG00000128654	GO:0006839	mitochondrial transport	MTX2	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0051259	protein oligomerization	HBA1	grey	En
+ENSG00000100427	MLC1	megalencephalic leukoencephalopathy with subcortical cysts 1 [Source:HGNC Symbol;Acc:HGNC:17082]	ENSG00000100427	GO:0051259	protein oligomerization	MLC1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0051259	protein oligomerization	HBB	grey	En
+ENSG00000214253	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:21689]	ENSG00000214253	GO:0051259	protein oligomerization	FIS1	grey	En
+ENSG00000108231	LGI1	leucine-rich, glioma inactivated 1 [Source:HGNC Symbol;Acc:HGNC:6572]	ENSG00000108231	GO:0051259	protein oligomerization	LGI1	grey	En
+ENSG00000254999	BRK1	BRICK1, SCAR/WAVE actin-nucleating complex subunit [Source:HGNC Symbol;Acc:HGNC:23057]	ENSG00000254999	GO:0051259	protein oligomerization	BRK1	grey	En
+ENSG00000113657	DPYSL3	dihydropyrimidinase-like 3 [Source:HGNC Symbol;Acc:HGNC:3015]	ENSG00000113657	GO:0051259	protein oligomerization	DPYSL3	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:0051259	protein oligomerization	STOML2	grey	En
+ENSG00000158270	COLEC12	collectin sub-family member 12 [Source:HGNC Symbol;Acc:HGNC:16016]	ENSG00000158270	GO:0051259	protein oligomerization	COLEC12	grey	En
+ENSG00000198959	TGM2	transglutaminase 2 [Source:HGNC Symbol;Acc:HGNC:11778]	ENSG00000198959	GO:0051259	protein oligomerization	TGM2	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0051259	protein oligomerization	P2RX7	grey	En
+ENSG00000184743	ATL3	atlastin GTPase 3 [Source:HGNC Symbol;Acc:HGNC:24526]	ENSG00000184743	GO:0051259	protein oligomerization	ATL3	grey	En
+ENSG00000157103	SLC6A1	solute carrier family 6 (neurotransmitter transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:11042]	ENSG00000157103	GO:0051259	protein oligomerization	SLC6A1	grey	En
+ENSG00000105372	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	ENSG00000105372	GO:0051259	protein oligomerization	RPS19	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0044273	sulfur compound catabolic process	GGT1	grey	En
+ENSG00000182492	BGN	biglycan [Source:HGNC Symbol;Acc:HGNC:1044]	ENSG00000182492	GO:0044273	sulfur compound catabolic process	BGN	grey	En
+ENSG00000128311	TST	thiosulfate sulfurtransferase (rhodanese) [Source:HGNC Symbol;Acc:HGNC:12388]	ENSG00000128311	GO:0044273	sulfur compound catabolic process	TST	grey	En
+ENSG00000160200	CBS	cystathionine-beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550]	ENSG00000160200	GO:0044273	sulfur compound catabolic process	CBS	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0019825	oxygen binding	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0019825	oxygen binding	HBB	grey	En
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	ENSG00000223609	GO:0019825	oxygen binding	HBD	grey	En
+ENSG00000109472	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	ENSG00000109472	GO:0043603	cellular amide metabolic process	CPE	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0043603	cellular amide metabolic process	GGT1	grey	En
+ENSG00000133313	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family) [Source:HGNC Symbol;Acc:HGNC:24437]	ENSG00000133313	GO:0043603	cellular amide metabolic process	CNDP2	grey	En
+ENSG00000123992	DNPEP	aspartyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:2981]	ENSG00000123992	GO:0043603	cellular amide metabolic process	DNPEP	grey	En
+ENSG00000173599	PC	pyruvate carboxylase [Source:HGNC Symbol;Acc:HGNC:8636]	ENSG00000173599	GO:0043603	cellular amide metabolic process	PC	grey	En
+ENSG00000162174	ASRGL1	asparaginase like 1 [Source:HGNC Symbol;Acc:HGNC:16448]	ENSG00000162174	GO:0043603	cellular amide metabolic process	ASRGL1	grey	En
+ENSG00000131844	MCCC2	methylcrotonoyl-CoA carboxylase 2 (beta) [Source:HGNC Symbol;Acc:HGNC:6937]	ENSG00000131844	GO:0043603	cellular amide metabolic process	MCCC2	grey	En
+ENSG00000102109	PCSK1N	proprotein convertase subtilisin/kexin type 1 inhibitor [Source:HGNC Symbol;Acc:HGNC:17301]	ENSG00000102109	GO:0043603	cellular amide metabolic process	PCSK1N	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	GO:0043603	cellular amide metabolic process	LTA4H	grey	En
+ENSG00000134184	GSTM1	glutathione S-transferase mu 1 [Source:HGNC Symbol;Acc:HGNC:4632]	ENSG00000134184	GO:0043603	cellular amide metabolic process	GSTM1	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0032368	regulation of lipid transport	P2RX7	grey	En
+ENSG00000116171	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	ENSG00000116171	GO:0032368	regulation of lipid transport	SCP2	grey	En
+ENSG00000165119	HNRNPK	heterogeneous nuclear ribonucleoprotein K [Source:HGNC Symbol;Acc:HGNC:5044]	ENSG00000165119	GO:0032368	regulation of lipid transport	HNRNPK	grey	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0032368	regulation of lipid transport	ITGB3	grey	En
+ENSG00000084073	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	ENSG00000084073	GO:0008238	exopeptidase activity	ZMPSTE24	grey	En
+ENSG00000109472	CPE	carboxypeptidase E [Source:HGNC Symbol;Acc:HGNC:2303]	ENSG00000109472	GO:0008238	exopeptidase activity	CPE	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0008238	exopeptidase activity	GGT1	grey	En
+ENSG00000133313	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family) [Source:HGNC Symbol;Acc:HGNC:24437]	ENSG00000133313	GO:0008238	exopeptidase activity	CNDP2	grey	En
+ENSG00000123992	DNPEP	aspartyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:2981]	ENSG00000123992	GO:0008238	exopeptidase activity	DNPEP	grey	En
+ENSG00000162174	ASRGL1	asparaginase like 1 [Source:HGNC Symbol;Acc:HGNC:16448]	ENSG00000162174	GO:0008238	exopeptidase activity	ASRGL1	grey	En
+ENSG00000164307	ERAP1	endoplasmic reticulum aminopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:18173]	ENSG00000164307	GO:0008238	exopeptidase activity	ERAP1	grey	En
+ENSG00000215440	NPEPL1	aminopeptidase-like 1 [Source:HGNC Symbol;Acc:HGNC:16244]	ENSG00000215440	GO:0008238	exopeptidase activity	NPEPL1	grey	En
+ENSG00000150656	CNDP1	carnosine dipeptidase 1 (metallopeptidase M20 family) [Source:HGNC Symbol;Acc:HGNC:20675]	ENSG00000150656	GO:0008238	exopeptidase activity	CNDP1	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	GO:0008238	exopeptidase activity	LTA4H	grey	En
+ENSG00000174684	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]	ENSG00000174684	GO:1901137	carbohydrate derivative biosynthetic process	B4GAT1	grey	En
+ENSG00000071242	RPS6KA2	ribosomal protein S6 kinase, 90kDa, polypeptide 2 [Source:HGNC Symbol;Acc:HGNC:10431]	ENSG00000071242	GO:1901137	carbohydrate derivative biosynthetic process	RPS6KA2	grey	En
+ENSG00000163931	TKT	transketolase [Source:HGNC Symbol;Acc:HGNC:11834]	ENSG00000163931	GO:1901137	carbohydrate derivative biosynthetic process	TKT	grey	En
+ENSG00000156110	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	ENSG00000156110	GO:1901137	carbohydrate derivative biosynthetic process	ADK	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:1901137	carbohydrate derivative biosynthetic process	STOML2	grey	En
+ENSG00000162433	AK4	adenylate kinase 4 [Source:HGNC Symbol;Acc:HGNC:363]	ENSG00000162433	GO:1901137	carbohydrate derivative biosynthetic process	AK4	grey	En
+ENSG00000173540	GMPPB	GDP-mannose pyrophosphorylase B [Source:HGNC Symbol;Acc:HGNC:22932]	ENSG00000173540	GO:1901137	carbohydrate derivative biosynthetic process	GMPPB	grey	En
+ENSG00000135318	NT5E	5'-nucleotidase, ecto (CD73) [Source:HGNC Symbol;Acc:HGNC:8021]	ENSG00000135318	GO:1901137	carbohydrate derivative biosynthetic process	NT5E	grey	En
+ENSG00000105409	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide [Source:HGNC Symbol;Acc:HGNC:801]	ENSG00000105409	GO:1901137	carbohydrate derivative biosynthetic process	ATP1A3	grey	En
+ENSG00000100504	PYGL	phosphorylase, glycogen, liver [Source:HGNC Symbol;Acc:HGNC:9725]	ENSG00000100504	GO:1901137	carbohydrate derivative biosynthetic process	PYGL	grey	En
+ENSG00000182492	BGN	biglycan [Source:HGNC Symbol;Acc:HGNC:1044]	ENSG00000182492	GO:1901137	carbohydrate derivative biosynthetic process	BGN	grey	En
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	GO:0046906	tetrapyrrole binding	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	GO:0046906	tetrapyrrole binding	HBB	grey	En
+ENSG00000148334	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	ENSG00000148334	GO:0046906	tetrapyrrole binding	PTGES2	grey	En
+ENSG00000160200	CBS	cystathionine-beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550]	ENSG00000160200	GO:0046906	tetrapyrrole binding	CBS	grey	En
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	ENSG00000223609	GO:0046906	tetrapyrrole binding	HBD	grey	En
+ENSG00000171903	CYP4F11	cytochrome P450, family 4, subfamily F, polypeptide 11 [Source:HGNC Symbol;Acc:HGNC:13265]	ENSG00000171903	GO:0046906	tetrapyrrole binding	CYP4F11	grey	En
+ENSG00000084073	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	ENSG00000084073	GO:0019866	organelle inner membrane	ZMPSTE24	grey	En
+ENSG00000182902	SLC25A18	solute carrier family 25 (glutamate carrier), member 18 [Source:HGNC Symbol;Acc:HGNC:10988]	ENSG00000182902	GO:0019866	organelle inner membrane	SLC25A18	grey	En
+ENSG00000100033	PRODH	proline dehydrogenase (oxidase) 1 [Source:HGNC Symbol;Acc:HGNC:9453]	ENSG00000100033	GO:0019866	organelle inner membrane	PRODH	grey	En
+ENSG00000100347	SAMM50	SAMM50 sorting and assembly machinery component [Source:HGNC Symbol;Acc:HGNC:24276]	ENSG00000100347	GO:0019866	organelle inner membrane	SAMM50	grey	En
+ENSG00000128311	TST	thiosulfate sulfurtransferase (rhodanese) [Source:HGNC Symbol;Acc:HGNC:12388]	ENSG00000128311	GO:0019866	organelle inner membrane	TST	grey	En
+ENSG00000186010	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13 [Source:HGNC Symbol;Acc:HGNC:17194]	ENSG00000186010	GO:0019866	organelle inner membrane	NDUFA13	grey	En
+ENSG00000140990	NDUFB10	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10, 22kDa [Source:HGNC Symbol;Acc:HGNC:7696]	ENSG00000140990	GO:0019866	organelle inner membrane	NDUFB10	grey	En
+ENSG00000108179	PPIF	peptidylprolyl isomerase F [Source:HGNC Symbol;Acc:HGNC:9259]	ENSG00000108179	GO:0019866	organelle inner membrane	PPIF	grey	En
+ENSG00000165283	STOML2	stomatin (EPB72)-like 2 [Source:HGNC Symbol;Acc:HGNC:14559]	ENSG00000165283	GO:0019866	organelle inner membrane	STOML2	grey	En
+ENSG00000106554	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3 [Source:HGNC Symbol;Acc:HGNC:21906]	ENSG00000106554	GO:0019866	organelle inner membrane	CHCHD3	grey	En
+ENSG00000173599	PC	pyruvate carboxylase [Source:HGNC Symbol;Acc:HGNC:8636]	ENSG00000173599	GO:0019866	organelle inner membrane	PC	grey	En
+ENSG00000130414	NDUFA10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 10, 42kDa [Source:HGNC Symbol;Acc:HGNC:7684]	ENSG00000130414	GO:0019866	organelle inner membrane	NDUFA10	grey	En
+ENSG00000171503	ETFDH	electron-transferring-flavoprotein dehydrogenase [Source:HGNC Symbol;Acc:HGNC:3483]	ENSG00000171503	GO:0019866	organelle inner membrane	ETFDH	grey	En
+ENSG00000112992	NNT	nicotinamide nucleotide transhydrogenase [Source:HGNC Symbol;Acc:HGNC:7863]	ENSG00000112992	GO:0019866	organelle inner membrane	NNT	grey	En
+ENSG00000156709	AIFM1	apoptosis-inducing factor, mitochondrion-associated, 1 [Source:HGNC Symbol;Acc:HGNC:8768]	ENSG00000156709	GO:0019866	organelle inner membrane	AIFM1	grey	En
+ENSG00000178537	SLC25A20	solute carrier family 25 (carnitine/acylcarnitine translocase), member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	ENSG00000178537	GO:0019866	organelle inner membrane	SLC25A20	grey	En
+ENSG00000016391	CHDH	choline dehydrogenase [Source:HGNC Symbol;Acc:HGNC:24288]	ENSG00000016391	GO:0019866	organelle inner membrane	CHDH	grey	En
+ENSG00000145494	NDUFS6	NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7713]	ENSG00000145494	GO:0019866	organelle inner membrane	NDUFS6	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	GO:0006691	leukotriene metabolic process	GGT1	grey	En
+ENSG00000106853	PTGR1	prostaglandin reductase 1 [Source:HGNC Symbol;Acc:HGNC:18429]	ENSG00000106853	GO:0006691	leukotriene metabolic process	PTGR1	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	GO:0006691	leukotriene metabolic process	LTA4H	grey	En
+ENSG00000089041	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:HGNC Symbol;Acc:HGNC:8537]	ENSG00000089041	GO:0051480	cytosolic calcium ion homeostasis	P2RX7	grey	En
+ENSG00000172137	CALB2	calbindin 2 [Source:HGNC Symbol;Acc:HGNC:1435]	ENSG00000172137	GO:0051480	cytosolic calcium ion homeostasis	CALB2	grey	En
+ENSG00000100362	PVALB	parvalbumin [Source:HGNC Symbol;Acc:HGNC:9704]	ENSG00000100362	GO:0051480	cytosolic calcium ion homeostasis	PVALB	grey	En
+ENSG00000214253	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:21689]	ENSG00000214253	GO:0051480	cytosolic calcium ion homeostasis	FIS1	grey	En
+ENSG00000198959	TGM2	transglutaminase 2 [Source:HGNC Symbol;Acc:HGNC:11778]	ENSG00000198959	GO:0051480	cytosolic calcium ion homeostasis	TGM2	grey	En
+ENSG00000156709	AIFM1	apoptosis-inducing factor, mitochondrion-associated, 1 [Source:HGNC Symbol;Acc:HGNC:8768]	ENSG00000156709	GO:0044085	cellular component biogenesis	AIFM1	grey	En
+ENSG00000182774	RPS17	ribosomal protein S17 [Source:HGNC Symbol;Acc:HGNC:10397]	ENSG00000182774	GO:0044085	cellular component biogenesis	RPS17	grey	En
+ENSG00000122406	RPL5	ribosomal protein L5 [Source:HGNC Symbol;Acc:HGNC:10360]	ENSG00000122406	GO:0044085	cellular component biogenesis	RPL5	grey	En
+ENSG00000105372	RPS19	ribosomal protein S19 [Source:HGNC Symbol;Acc:HGNC:10402]	ENSG00000105372	GO:0044085	cellular component biogenesis	RPS19	grey	En
+ENSG00000115415	STAT1	signal transducer and activator of transcription 1, 91kDa [Source:HGNC Symbol;Acc:HGNC:11362]	ENSG00000115415	GO:0000981	sequence-specific DNA binding RNA polymerase II transcription factor activity	STAT1	grey	En
+ENSG00000165119	HNRNPK	heterogeneous nuclear ribonucleoprotein K [Source:HGNC Symbol;Acc:HGNC:5044]	ENSG00000165119	GO:0000981	sequence-specific DNA binding RNA polymerase II transcription factor activity	HNRNPK	grey	En
+ENSG00000106554	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3 [Source:HGNC Symbol;Acc:HGNC:21906]	ENSG00000106554	GO:0000981	sequence-specific DNA binding RNA polymerase II transcription factor activity	CHCHD3	grey	En
+ENSG00000174684	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]	ENSG00000174684	GO:0005976	polysaccharide metabolic process	B4GAT1	grey	En
+ENSG00000068976	PYGM	phosphorylase, glycogen, muscle [Source:HGNC Symbol;Acc:HGNC:9726]	ENSG00000068976	GO:0005976	polysaccharide metabolic process	PYGM	grey	En
+ENSG00000162688	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase [Source:HGNC Symbol;Acc:HGNC:321]	ENSG00000162688	GO:0005976	polysaccharide metabolic process	AGL	grey	En
+ENSG00000100504	PYGL	phosphorylase, glycogen, liver [Source:HGNC Symbol;Acc:HGNC:9725]	ENSG00000100504	GO:0005976	polysaccharide metabolic process	PYGL	grey	En
+ENSG00000071242	RPS6KA2	ribosomal protein S6 kinase, 90kDa, polypeptide 2 [Source:HGNC Symbol;Acc:HGNC:10431]	ENSG00000071242	GO:0005976	polysaccharide metabolic process	RPS6KA2	grey	En
+ENSG00000174684	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]	ENSG00000174684	GO:0016758	transferase activity, transferring hexosyl groups	B4GAT1	grey	En
+ENSG00000068976	PYGM	phosphorylase, glycogen, muscle [Source:HGNC Symbol;Acc:HGNC:9726]	ENSG00000068976	GO:0016758	transferase activity, transferring hexosyl groups	PYGM	grey	En
+ENSG00000162688	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase [Source:HGNC Symbol;Acc:HGNC:321]	ENSG00000162688	GO:0016758	transferase activity, transferring hexosyl groups	AGL	grey	En
+ENSG00000100504	PYGL	phosphorylase, glycogen, liver [Source:HGNC Symbol;Acc:HGNC:9725]	ENSG00000100504	GO:0016758	transferase activity, transferring hexosyl groups	PYGL	grey	En
+ENSG00000106991	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	ENSG00000106991	GO:0019199	transmembrane receptor protein kinase activity	ENG	grey	En
+ENSG00000148053	NTRK2	neurotrophic tyrosine kinase, receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:8032]	ENSG00000148053	GO:0019199	transmembrane receptor protein kinase activity	NTRK2	grey	En
+ENSG00000115380	EFEMP1	EGF containing fibulin-like extracellular matrix protein 1 [Source:HGNC Symbol;Acc:HGNC:3218]	ENSG00000115380	GO:0019199	transmembrane receptor protein kinase activity	EFEMP1	grey	En
+ENSG00000106991	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	ENSG00000106991	GO:0005534	galactose binding	ENG	grey	En
+ENSG00000108479	GALK1	galactokinase 1 [Source:HGNC Symbol;Acc:HGNC:4118]	ENSG00000108479	GO:0005534	galactose binding	GALK1	grey	En
+ENSG00000158270	COLEC12	collectin sub-family member 12 [Source:HGNC Symbol;Acc:HGNC:16016]	ENSG00000158270	GO:0005534	galactose binding	COLEC12	grey	En
+ENSG00000106991	ENG	endoglin [Source:HGNC Symbol;Acc:HGNC:3349]	ENSG00000106991	GO:0001936	regulation of endothelial cell proliferation	ENG	grey	En
+ENSG00000115415	STAT1	signal transducer and activator of transcription 1, 91kDa [Source:HGNC Symbol;Acc:HGNC:11362]	ENSG00000115415	GO:0001936	regulation of endothelial cell proliferation	STAT1	grey	En
+ENSG00000249915	PDCD6	programmed cell death 6 [Source:HGNC Symbol;Acc:HGNC:8765]	ENSG00000249915	GO:0001936	regulation of endothelial cell proliferation	PDCD6	grey	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0001936	regulation of endothelial cell proliferation	ITGB3	grey	En

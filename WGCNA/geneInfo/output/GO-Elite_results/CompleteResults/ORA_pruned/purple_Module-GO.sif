@@ -1,0 +1,840 @@
+positive regulation of blood circulation	pr	ENSG00000120915:EPHX2
+positive regulation of blood circulation	pr	ENSG00000105974:CAV1
+positive regulation of blood circulation	pr	ENSG00000146648:EGFR
+positive regulation of blood circulation	pr	ENSG00000174437:ATP2A2
+cellular response to starvation	pr	ENSG00000105974:CAV1
+cellular response to starvation	pr	ENSG00000044574:HSPA5
+cellular response to starvation	pr	ENSG00000093010:COMT
+regulation of fatty acid metabolic process	pr	ENSG00000168291:PDHB
+regulation of fatty acid metabolic process	pr	ENSG00000105974:CAV1
+regulation of fatty acid metabolic process	pr	ENSG00000110090:CPT1A
+regulation of fatty acid metabolic process	pr	ENSG00000150768:DLAT
+thioester biosynthetic process	pr	ENSG00000154930:ACSS1
+thioester biosynthetic process	pr	ENSG00000168291:PDHB
+thioester biosynthetic process	pr	ENSG00000149084:HSD17B12
+thioester biosynthetic process	pr	ENSG00000100075:SLC25A1
+protein folding	pr	ENSG00000143256:PFDN2
+protein folding	pr	ENSG00000166598:HSP90B1
+protein folding	pr	ENSG00000110917:MLEC
+protein folding	pr	ENSG00000136731:UGGT1
+protein folding	pr	ENSG00000074695:LMAN1
+protein folding	pr	ENSG00000179218:CALR
+protein folding	pr	ENSG00000127022:CANX
+protein folding	pr	ENSG00000143870:PDIA6
+protein folding	pr	ENSG00000173486:FKBP2
+protein folding	pr	ENSG00000089248:ERP29
+protein folding	pr	ENSG00000166794:PPIB
+protein folding	pr	ENSG00000023318:ERP44
+protein folding	pr	ENSG00000089597:GANAB
+protein folding	pr	ENSG00000130175:PRKCSH
+protein folding	pr	ENSG00000155660:PDIA4
+protein folding	pr	ENSG00000185624:P4HB
+protein folding	pr	ENSG00000123131:PRDX4
+protein folding	pr	ENSG00000167004:PDIA3
+protein folding	pr	ENSG00000239264:TXNDC5
+protein folding	pr	ENSG00000163956:LRPAP1
+collagen trimer	pr	ENSG00000142173:COL6A2
+collagen trimer	pr	ENSG00000142156:COL6A1
+collagen trimer	pr	ENSG00000163359:COL6A3
+steroid metabolic process	pr	ENSG00000137642:SORL1
+steroid metabolic process	pr	ENSG00000159348:CYB5R1
+steroid metabolic process	pr	ENSG00000100243:CYB5R3
+steroid metabolic process	pr	ENSG00000123384:LRP1
+steroid metabolic process	pr	ENSG00000141458:NPC1
+steroid metabolic process	pr	ENSG00000149084:HSD17B12
+steroid metabolic process	pr	ENSG00000093010:COMT
+steroid metabolic process	pr	ENSG00000139180:NDUFA9
+oxidative phosphorylation	pr	ENSG00000010256:UQCRC1
+oxidative phosphorylation	pr	ENSG00000156467:UQCRB
+oxidative phosphorylation	pr	ENSG00000140740:UQCRC2
+oxidoreductase complex	pr	ENSG00000117118:SDHB
+oxidoreductase complex	pr	ENSG00000213619:NDUFS3
+oxidoreductase complex	pr	ENSG00000178127:NDUFV2
+oxidoreductase complex	pr	ENSG00000168291:PDHB
+oxidoreductase complex	pr	ENSG00000169021:UQCRFS1
+oxidoreductase complex	pr	ENSG00000023228:NDUFS1
+oxidoreductase complex	pr	ENSG00000147684:NDUFB9
+oxidoreductase complex	pr	ENSG00000158864:NDUFS2
+oxidoreductase complex	pr	ENSG00000010256:UQCRC1
+oxidoreductase complex	pr	ENSG00000167792:NDUFV1
+oxidoreductase complex	pr	ENSG00000131495:NDUFA2
+oxidoreductase complex	pr	ENSG00000073578:SDHA
+oxidoreductase complex	pr	ENSG00000128609:NDUFA5
+oxidoreductase complex	pr	ENSG00000168653:NDUFS5
+oxidoreductase complex	pr	ENSG00000139180:NDUFA9
+oxidoreductase complex	pr	ENSG00000156467:UQCRB
+oxidoreductase complex	pr	ENSG00000150768:DLAT
+oxidoreductase complex	pr	ENSG00000115159:GPD2
+oxidoreductase complex	pr	ENSG00000105953:OGDH
+oxidoreductase complex	pr	ENSG00000185624:P4HB
+oxidoreductase complex	pr	ENSG00000140740:UQCRC2
+mitochondrion	pr	ENSG00000072210:ALDH3A2
+mitochondrion	pr	ENSG00000117118:SDHB
+mitochondrion	pr	ENSG00000213619:NDUFS3
+mitochondrion	pr	ENSG00000138029:HADHB
+mitochondrion	pr	ENSG00000143256:PFDN2
+mitochondrion	pr	ENSG00000159348:CYB5R1
+mitochondrion	pr	ENSG00000154930:ACSS1
+mitochondrion	pr	ENSG00000178127:NDUFV2
+mitochondrion	pr	ENSG00000168291:PDHB
+mitochondrion	pr	ENSG00000100243:CYB5R3
+mitochondrion	pr	ENSG00000134333:LDHA
+mitochondrion	pr	ENSG00000075415:SLC25A3
+mitochondrion	pr	ENSG00000135940:COX5B
+mitochondrion	pr	ENSG00000213585:VDAC1
+mitochondrion	pr	ENSG00000108528:SLC25A11
+mitochondrion	pr	ENSG00000169021:UQCRFS1
+mitochondrion	pr	ENSG00000165637:VDAC2
+mitochondrion	pr	ENSG00000151729:SLC25A4
+mitochondrion	pr	ENSG00000023228:NDUFS1
+mitochondrion	pr	ENSG00000147684:NDUFB9
+mitochondrion	pr	ENSG00000215021:PHB2
+mitochondrion	pr	ENSG00000158864:NDUFS2
+mitochondrion	pr	ENSG00000122873:CISD1
+mitochondrion	pr	ENSG00000115840:SLC25A12
+mitochondrion	pr	ENSG00000107819:SFXN3
+mitochondrion	pr	ENSG00000105854:PON2
+mitochondrion	pr	ENSG00000010256:UQCRC1
+mitochondrion	pr	ENSG00000044574:HSPA5
+mitochondrion	pr	ENSG00000143653:SCCPDH
+mitochondrion	pr	ENSG00000167792:NDUFV1
+mitochondrion	pr	ENSG00000131495:NDUFA2
+mitochondrion	pr	ENSG00000073578:SDHA
+mitochondrion	pr	ENSG00000164466:SFXN1
+mitochondrion	pr	ENSG00000128609:NDUFA5
+mitochondrion	pr	ENSG00000189221:MAOA
+mitochondrion	pr	ENSG00000100075:SLC25A1
+mitochondrion	pr	ENSG00000093010:COMT
+mitochondrion	pr	ENSG00000168653:NDUFS5
+mitochondrion	pr	ENSG00000126267:COX6B1
+mitochondrion	pr	ENSG00000184047:DIABLO
+mitochondrion	pr	ENSG00000110090:CPT1A
+mitochondrion	pr	ENSG00000156467:UQCRB
+mitochondrion	pr	ENSG00000150768:DLAT
+mitochondrion	pr	ENSG00000131143:COX4I1
+mitochondrion	pr	ENSG00000115159:GPD2
+mitochondrion	pr	ENSG00000132305:IMMT
+mitochondrion	pr	ENSG00000105953:OGDH
+mitochondrion	pr	ENSG00000078668:VDAC3
+mitochondrion	pr	ENSG00000085491:SLC25A24
+mitochondrion	pr	ENSG00000179091:CYC1
+mitochondrion	pr	ENSG00000178741:COX5A
+mitochondrion	pr	ENSG00000109919:MTCH2
+mitochondrion	pr	ENSG00000140740:UQCRC2
+mitochondrion	pr	ENSG00000075142:SRI
+mitochondrion	pr	ENSG00000123131:PRDX4
+mitochondrion	pr	ENSG00000197879:MYO1C
+mitochondrion	pr	ENSG00000198836:OPA1
+double-stranded telomeric DNA binding	pr	ENSG00000196419:XRCC6
+double-stranded telomeric DNA binding	pr	ENSG00000185129:PURA
+double-stranded telomeric DNA binding	pr	ENSG00000079246:XRCC5
+transmembrane signaling receptor activity	pr	ENSG00000137642:SORL1
+transmembrane signaling receptor activity	pr	ENSG00000134243:SORT1
+transmembrane signaling receptor activity	pr	ENSG00000003056:M6PR
+transmembrane signaling receptor activity	pr	ENSG00000183715:OPCML
+transmembrane signaling receptor activity	pr	ENSG00000113721:PDGFRB
+transmembrane signaling receptor activity	pr	ENSG00000146648:EGFR
+transmembrane signaling receptor activity	pr	ENSG00000168959:GRM5
+transmembrane signaling receptor activity	pr	ENSG00000141458:NPC1
+transmembrane signaling receptor activity	pr	ENSG00000145864:GABRB2
+transmembrane signaling receptor activity	pr	ENSG00000260314:MRC1
+transmembrane signaling receptor activity	pr	ENSG00000187244:BCAM
+DNA geometric change	pr	ENSG00000196419:XRCC6
+DNA geometric change	pr	ENSG00000185129:PURA
+DNA geometric change	pr	ENSG00000079246:XRCC5
+endoplasmic reticulum-Golgi intermediate compartment membrane	pr	ENSG00000184840:TMED9
+endoplasmic reticulum-Golgi intermediate compartment membrane	pr	ENSG00000074695:LMAN1
+endoplasmic reticulum-Golgi intermediate compartment membrane	pr	ENSG00000169223:LMAN2
+endoplasmic reticulum-Golgi intermediate compartment membrane	pr	ENSG00000170348:TMED10
+endoplasmic reticulum-Golgi intermediate compartment membrane	pr	ENSG00000113719:ERGIC1
+membrane budding	pr	ENSG00000182718:ANXA2
+membrane budding	pr	ENSG00000170348:TMED10
+membrane budding	pr	ENSG00000196535:MYO18A
+endoplasmic reticulum membrane	pr	ENSG00000072210:ALDH3A2
+endoplasmic reticulum membrane	pr	ENSG00000134243:SORT1
+endoplasmic reticulum membrane	pr	ENSG00000166598:HSP90B1
+endoplasmic reticulum membrane	pr	ENSG00000100243:CYB5R3
+endoplasmic reticulum membrane	pr	ENSG00000110917:MLEC
+endoplasmic reticulum membrane	pr	ENSG00000118705:RPN2
+endoplasmic reticulum membrane	pr	ENSG00000146648:EGFR
+endoplasmic reticulum membrane	pr	ENSG00000138279:ANXA7
+endoplasmic reticulum membrane	pr	ENSG00000184840:TMED9
+endoplasmic reticulum membrane	pr	ENSG00000074695:LMAN1
+endoplasmic reticulum membrane	pr	ENSG00000169223:LMAN2
+endoplasmic reticulum membrane	pr	ENSG00000163902:RPN1
+endoplasmic reticulum membrane	pr	ENSG00000185813:PCYT2
+endoplasmic reticulum membrane	pr	ENSG00000147475:ERLIN2
+endoplasmic reticulum membrane	pr	ENSG00000044574:HSPA5
+endoplasmic reticulum membrane	pr	ENSG00000127022:CANX
+endoplasmic reticulum membrane	pr	ENSG00000143870:PDIA6
+endoplasmic reticulum membrane	pr	ENSG00000143819:EPHX1
+endoplasmic reticulum membrane	pr	ENSG00000149084:HSD17B12
+endoplasmic reticulum membrane	pr	ENSG00000173486:FKBP2
+endoplasmic reticulum membrane	pr	ENSG00000148660:CAMK2G
+endoplasmic reticulum membrane	pr	ENSG00000174437:ATP2A2
+endoplasmic reticulum membrane	pr	ENSG00000023318:ERP44
+endoplasmic reticulum membrane	pr	ENSG00000170348:TMED10
+endoplasmic reticulum membrane	pr	ENSG00000198363:ASPH
+endoplasmic reticulum membrane	pr	ENSG00000075142:SRI
+endoplasmic reticulum membrane	pr	ENSG00000113719:ERGIC1
+4 iron, 4 sulfur cluster binding	pr	ENSG00000117118:SDHB
+4 iron, 4 sulfur cluster binding	pr	ENSG00000023228:NDUFS1
+4 iron, 4 sulfur cluster binding	pr	ENSG00000158864:NDUFS2
+4 iron, 4 sulfur cluster binding	pr	ENSG00000167792:NDUFV1
+2 iron, 2 sulfur cluster binding	pr	ENSG00000117118:SDHB
+2 iron, 2 sulfur cluster binding	pr	ENSG00000178127:NDUFV2
+2 iron, 2 sulfur cluster binding	pr	ENSG00000169021:UQCRFS1
+2 iron, 2 sulfur cluster binding	pr	ENSG00000023228:NDUFS1
+2 iron, 2 sulfur cluster binding	pr	ENSG00000122873:CISD1
+organelle inner membrane	pr	ENSG00000072210:ALDH3A2
+organelle inner membrane	pr	ENSG00000117118:SDHB
+organelle inner membrane	pr	ENSG00000213619:NDUFS3
+organelle inner membrane	pr	ENSG00000138029:HADHB
+organelle inner membrane	pr	ENSG00000178127:NDUFV2
+organelle inner membrane	pr	ENSG00000100243:CYB5R3
+organelle inner membrane	pr	ENSG00000075415:SLC25A3
+organelle inner membrane	pr	ENSG00000135940:COX5B
+organelle inner membrane	pr	ENSG00000213585:VDAC1
+organelle inner membrane	pr	ENSG00000108528:SLC25A11
+organelle inner membrane	pr	ENSG00000169021:UQCRFS1
+organelle inner membrane	pr	ENSG00000165637:VDAC2
+organelle inner membrane	pr	ENSG00000151729:SLC25A4
+organelle inner membrane	pr	ENSG00000023228:NDUFS1
+organelle inner membrane	pr	ENSG00000147684:NDUFB9
+organelle inner membrane	pr	ENSG00000215021:PHB2
+organelle inner membrane	pr	ENSG00000158864:NDUFS2
+organelle inner membrane	pr	ENSG00000115840:SLC25A12
+organelle inner membrane	pr	ENSG00000010256:UQCRC1
+organelle inner membrane	pr	ENSG00000167792:NDUFV1
+organelle inner membrane	pr	ENSG00000141338:ABCA8
+organelle inner membrane	pr	ENSG00000131495:NDUFA2
+organelle inner membrane	pr	ENSG00000073578:SDHA
+organelle inner membrane	pr	ENSG00000164466:SFXN1
+organelle inner membrane	pr	ENSG00000128609:NDUFA5
+organelle inner membrane	pr	ENSG00000100075:SLC25A1
+organelle inner membrane	pr	ENSG00000170876:TMEM43
+organelle inner membrane	pr	ENSG00000168653:NDUFS5
+organelle inner membrane	pr	ENSG00000139180:NDUFA9
+organelle inner membrane	pr	ENSG00000126267:COX6B1
+organelle inner membrane	pr	ENSG00000110090:CPT1A
+organelle inner membrane	pr	ENSG00000156467:UQCRB
+organelle inner membrane	pr	ENSG00000131143:COX4I1
+organelle inner membrane	pr	ENSG00000115159:GPD2
+organelle inner membrane	pr	ENSG00000132305:IMMT
+organelle inner membrane	pr	ENSG00000085491:SLC25A24
+organelle inner membrane	pr	ENSG00000179091:CYC1
+organelle inner membrane	pr	ENSG00000178741:COX5A
+organelle inner membrane	pr	ENSG00000109919:MTCH2
+organelle inner membrane	pr	ENSG00000140740:UQCRC2
+organelle inner membrane	pr	ENSG00000198836:OPA1
+cytochrome complex	pr	ENSG00000169021:UQCRFS1
+cytochrome complex	pr	ENSG00000010256:UQCRC1
+cytochrome complex	pr	ENSG00000156467:UQCRB
+cytochrome complex	pr	ENSG00000140740:UQCRC2
+regulation of sulfur metabolic process	pr	ENSG00000168291:PDHB
+regulation of sulfur metabolic process	pr	ENSG00000093010:COMT
+regulation of sulfur metabolic process	pr	ENSG00000150768:DLAT
+xenobiotic metabolic process	pr	ENSG00000101444:AHCY
+xenobiotic metabolic process	pr	ENSG00000120915:EPHX2
+xenobiotic metabolic process	pr	ENSG00000154930:ACSS1
+xenobiotic metabolic process	pr	ENSG00000144959:NCEH1
+xenobiotic metabolic process	pr	ENSG00000189221:MAOA
+xenobiotic metabolic process	pr	ENSG00000093010:COMT
+xenobiotic metabolic process	pr	ENSG00000168906:MAT2A
+hydrolase activity, acting on ether bonds	pr	ENSG00000101444:AHCY
+hydrolase activity, acting on ether bonds	pr	ENSG00000120915:EPHX2
+hydrolase activity, acting on ether bonds	pr	ENSG00000143819:EPHX1
+sequestering of metal ion	pr	ENSG00000166598:HSP90B1
+sequestering of metal ion	pr	ENSG00000179218:CALR
+sequestering of metal ion	pr	ENSG00000075142:SRI
+reactive oxygen species metabolic process	pr	ENSG00000213619:NDUFS3
+reactive oxygen species metabolic process	pr	ENSG00000120915:EPHX2
+reactive oxygen species metabolic process	pr	ENSG00000105974:CAV1
+reactive oxygen species metabolic process	pr	ENSG00000146648:EGFR
+reactive oxygen species metabolic process	pr	ENSG00000023228:NDUFS1
+reactive oxygen species metabolic process	pr	ENSG00000124126:PREX1
+reactive oxygen species metabolic process	pr	ENSG00000123131:PRDX4
+Golgi organization	pr	ENSG00000184840:TMED9
+Golgi organization	pr	ENSG00000074695:LMAN1
+Golgi organization	pr	ENSG00000170348:TMED10
+Golgi organization	pr	ENSG00000196535:MYO18A
+endoplasmic reticulum	pr	ENSG00000072210:ALDH3A2
+endoplasmic reticulum	pr	ENSG00000137642:SORL1
+endoplasmic reticulum	pr	ENSG00000138029:HADHB
+endoplasmic reticulum	pr	ENSG00000117906:RCN2
+endoplasmic reticulum	pr	ENSG00000149428:HYOU1
+endoplasmic reticulum	pr	ENSG00000105974:CAV1
+endoplasmic reticulum	pr	ENSG00000166598:HSP90B1
+endoplasmic reticulum	pr	ENSG00000100243:CYB5R3
+endoplasmic reticulum	pr	ENSG00000110917:MLEC
+endoplasmic reticulum	pr	ENSG00000118705:RPN2
+endoplasmic reticulum	pr	ENSG00000184840:TMED9
+endoplasmic reticulum	pr	ENSG00000234745:HLA-B
+endoplasmic reticulum	pr	ENSG00000136731:UGGT1
+endoplasmic reticulum	pr	ENSG00000144959:NCEH1
+endoplasmic reticulum	pr	ENSG00000179218:CALR
+endoplasmic reticulum	pr	ENSG00000163902:RPN1
+endoplasmic reticulum	pr	ENSG00000070081:NUCB2
+endoplasmic reticulum	pr	ENSG00000176658:MYO1D
+endoplasmic reticulum	pr	ENSG00000147475:ERLIN2
+endoplasmic reticulum	pr	ENSG00000044574:HSPA5
+endoplasmic reticulum	pr	ENSG00000145050:MANF
+endoplasmic reticulum	pr	ENSG00000127022:CANX
+endoplasmic reticulum	pr	ENSG00000143870:PDIA6
+endoplasmic reticulum	pr	ENSG00000141458:NPC1
+endoplasmic reticulum	pr	ENSG00000173486:FKBP2
+endoplasmic reticulum	pr	ENSG00000170876:TMEM43
+endoplasmic reticulum	pr	ENSG00000089248:ERP29
+endoplasmic reticulum	pr	ENSG00000174437:ATP2A2
+endoplasmic reticulum	pr	ENSG00000166794:PPIB
+endoplasmic reticulum	pr	ENSG00000130175:PRKCSH
+endoplasmic reticulum	pr	ENSG00000154096:THY1
+endoplasmic reticulum	pr	ENSG00000257727:CNPY2
+endoplasmic reticulum	pr	ENSG00000155660:PDIA4
+endoplasmic reticulum	pr	ENSG00000128595:CALU
+endoplasmic reticulum	pr	ENSG00000170348:TMED10
+endoplasmic reticulum	pr	ENSG00000198363:ASPH
+endoplasmic reticulum	pr	ENSG00000185624:P4HB
+endoplasmic reticulum	pr	ENSG00000075142:SRI
+endoplasmic reticulum	pr	ENSG00000123131:PRDX4
+endoplasmic reticulum	pr	ENSG00000167004:PDIA3
+endoplasmic reticulum	pr	ENSG00000149257:SERPINH1
+endoplasmic reticulum	pr	ENSG00000049449:RCN1
+endoplasmic reticulum	pr	ENSG00000239264:TXNDC5
+endoplasmic reticulum	pr	ENSG00000163956:LRPAP1
+endoplasmic reticulum lumen	pr	ENSG00000117906:RCN2
+endoplasmic reticulum lumen	pr	ENSG00000149428:HYOU1
+endoplasmic reticulum lumen	pr	ENSG00000166598:HSP90B1
+endoplasmic reticulum lumen	pr	ENSG00000142173:COL6A2
+endoplasmic reticulum lumen	pr	ENSG00000136731:UGGT1
+endoplasmic reticulum lumen	pr	ENSG00000198848:CES1
+endoplasmic reticulum lumen	pr	ENSG00000179218:CALR
+endoplasmic reticulum lumen	pr	ENSG00000117862:TXNDC12
+endoplasmic reticulum lumen	pr	ENSG00000142156:COL6A1
+endoplasmic reticulum lumen	pr	ENSG00000044574:HSPA5
+endoplasmic reticulum lumen	pr	ENSG00000127022:CANX
+endoplasmic reticulum lumen	pr	ENSG00000143870:PDIA6
+endoplasmic reticulum lumen	pr	ENSG00000163359:COL6A3
+endoplasmic reticulum lumen	pr	ENSG00000089248:ERP29
+endoplasmic reticulum lumen	pr	ENSG00000166794:PPIB
+endoplasmic reticulum lumen	pr	ENSG00000023318:ERP44
+endoplasmic reticulum lumen	pr	ENSG00000089597:GANAB
+endoplasmic reticulum lumen	pr	ENSG00000130175:PRKCSH
+endoplasmic reticulum lumen	pr	ENSG00000155660:PDIA4
+endoplasmic reticulum lumen	pr	ENSG00000128595:CALU
+endoplasmic reticulum lumen	pr	ENSG00000198363:ASPH
+endoplasmic reticulum lumen	pr	ENSG00000185624:P4HB
+endoplasmic reticulum lumen	pr	ENSG00000167004:PDIA3
+endoplasmic reticulum lumen	pr	ENSG00000149257:SERPINH1
+endoplasmic reticulum lumen	pr	ENSG00000049449:RCN1
+endoplasmic reticulum lumen	pr	ENSG00000239264:TXNDC5
+endoplasmic reticulum lumen	pr	ENSG00000163956:LRPAP1
+membrane raft organization	pr	ENSG00000105974:CAV1
+membrane raft organization	pr	ENSG00000141458:NPC1
+membrane raft organization	pr	ENSG00000182718:ANXA2
+electron transport chain	pr	ENSG00000117118:SDHB
+electron transport chain	pr	ENSG00000213619:NDUFS3
+electron transport chain	pr	ENSG00000178127:NDUFV2
+electron transport chain	pr	ENSG00000135940:COX5B
+electron transport chain	pr	ENSG00000169021:UQCRFS1
+electron transport chain	pr	ENSG00000023228:NDUFS1
+electron transport chain	pr	ENSG00000147684:NDUFB9
+electron transport chain	pr	ENSG00000158864:NDUFS2
+electron transport chain	pr	ENSG00000010256:UQCRC1
+electron transport chain	pr	ENSG00000167792:NDUFV1
+electron transport chain	pr	ENSG00000131495:NDUFA2
+electron transport chain	pr	ENSG00000073578:SDHA
+electron transport chain	pr	ENSG00000128609:NDUFA5
+electron transport chain	pr	ENSG00000168653:NDUFS5
+electron transport chain	pr	ENSG00000139180:NDUFA9
+electron transport chain	pr	ENSG00000126267:COX6B1
+electron transport chain	pr	ENSG00000156467:UQCRB
+electron transport chain	pr	ENSG00000131143:COX4I1
+electron transport chain	pr	ENSG00000179091:CYC1
+electron transport chain	pr	ENSG00000178741:COX5A
+electron transport chain	pr	ENSG00000140740:UQCRC2
+porin activity	pr	ENSG00000213585:VDAC1
+porin activity	pr	ENSG00000165637:VDAC2
+porin activity	pr	ENSG00000078668:VDAC3
+NADH dehydrogenase activity	pr	ENSG00000213619:NDUFS3
+NADH dehydrogenase activity	pr	ENSG00000178127:NDUFV2
+NADH dehydrogenase activity	pr	ENSG00000023228:NDUFS1
+NADH dehydrogenase activity	pr	ENSG00000147684:NDUFB9
+NADH dehydrogenase activity	pr	ENSG00000158864:NDUFS2
+NADH dehydrogenase activity	pr	ENSG00000167792:NDUFV1
+NADH dehydrogenase activity	pr	ENSG00000131495:NDUFA2
+NADH dehydrogenase activity	pr	ENSG00000128609:NDUFA5
+NADH dehydrogenase activity	pr	ENSG00000168653:NDUFS5
+NADH dehydrogenase activity	pr	ENSG00000139180:NDUFA9
+unfolded protein binding	pr	ENSG00000143256:PFDN2
+unfolded protein binding	pr	ENSG00000166598:HSP90B1
+unfolded protein binding	pr	ENSG00000136731:UGGT1
+unfolded protein binding	pr	ENSG00000074695:LMAN1
+unfolded protein binding	pr	ENSG00000179218:CALR
+unfolded protein binding	pr	ENSG00000044574:HSPA5
+unfolded protein binding	pr	ENSG00000127022:CANX
+unfolded protein binding	pr	ENSG00000166794:PPIB
+unfolded protein binding	pr	ENSG00000149257:SERPINH1
+unfolded protein binding	pr	ENSG00000163956:LRPAP1
+DNA-dependent ATPase activity	pr	ENSG00000196419:XRCC6
+DNA-dependent ATPase activity	pr	ENSG00000079246:XRCC5
+DNA-dependent ATPase activity	pr	ENSG00000196535:MYO18A
+heme-copper terminal oxidase activity	pr	ENSG00000135940:COX5B
+heme-copper terminal oxidase activity	pr	ENSG00000126267:COX6B1
+heme-copper terminal oxidase activity	pr	ENSG00000131143:COX4I1
+heme-copper terminal oxidase activity	pr	ENSG00000178741:COX5A
+Golgi apparatus	pr	ENSG00000137642:SORL1
+Golgi apparatus	pr	ENSG00000134243:SORT1
+Golgi apparatus	pr	ENSG00000143256:PFDN2
+Golgi apparatus	pr	ENSG00000105974:CAV1
+Golgi apparatus	pr	ENSG00000184840:TMED9
+Golgi apparatus	pr	ENSG00000111801:BTN3A3
+Golgi apparatus	pr	ENSG00000234745:HLA-B
+Golgi apparatus	pr	ENSG00000074695:LMAN1
+Golgi apparatus	pr	ENSG00000169223:LMAN2
+Golgi apparatus	pr	ENSG00000179218:CALR
+Golgi apparatus	pr	ENSG00000070081:NUCB2
+Golgi apparatus	pr	ENSG00000154917:RAB6B
+Golgi apparatus	pr	ENSG00000141458:NPC1
+Golgi apparatus	pr	ENSG00000170876:TMEM43
+Golgi apparatus	pr	ENSG00000089597:GANAB
+Golgi apparatus	pr	ENSG00000104805:NUCB1
+Golgi apparatus	pr	ENSG00000128595:CALU
+Golgi apparatus	pr	ENSG00000170348:TMED10
+Golgi apparatus	pr	ENSG00000004059:ARF5
+Golgi apparatus	pr	ENSG00000090863:GLG1
+Golgi apparatus	pr	ENSG00000034713:GABARAPL2
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000184840:TMED9
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000136731:UGGT1
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000074695:LMAN1
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000169223:LMAN2
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000070081:NUCB2
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000044574:HSPA5
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000143870:PDIA6
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000023318:ERP44
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000104805:NUCB1
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000170348:TMED10
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000185624:P4HB
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000149257:SERPINH1
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000113719:ERGIC1
+endoplasmic reticulum-Golgi intermediate compartment	pr	ENSG00000196535:MYO18A
+mitochondrial intermembrane space	pr	ENSG00000023228:NDUFS1
+mitochondrial intermembrane space	pr	ENSG00000168653:NDUFS5
+mitochondrial intermembrane space	pr	ENSG00000126267:COX6B1
+mitochondrial intermembrane space	pr	ENSG00000184047:DIABLO
+mitochondrial intermembrane space	pr	ENSG00000198836:OPA1
+S100 protein binding	pr	ENSG00000163191:S100A11
+S100 protein binding	pr	ENSG00000174437:ATP2A2
+S100 protein binding	pr	ENSG00000182718:ANXA2
+cholesterol homeostasis	pr	ENSG00000120915:EPHX2
+cholesterol homeostasis	pr	ENSG00000105974:CAV1
+cholesterol homeostasis	pr	ENSG00000110047:EHD1
+cholesterol homeostasis	pr	ENSG00000141458:NPC1
+Golgi membrane	pr	ENSG00000134243:SORT1
+Golgi membrane	pr	ENSG00000105974:CAV1
+Golgi membrane	pr	ENSG00000146648:EGFR
+Golgi membrane	pr	ENSG00000184840:TMED9
+Golgi membrane	pr	ENSG00000234745:HLA-B
+Golgi membrane	pr	ENSG00000074695:LMAN1
+Golgi membrane	pr	ENSG00000169223:LMAN2
+Golgi membrane	pr	ENSG00000154917:RAB6B
+Golgi membrane	pr	ENSG00000170348:TMED10
+Golgi membrane	pr	ENSG00000090863:GLG1
+Golgi membrane	pr	ENSG00000034713:GABARAPL2
+Golgi membrane	pr	ENSG00000113719:ERGIC1
+Golgi membrane	pr	ENSG00000196535:MYO18A
+mannose binding	pr	ENSG00000003056:M6PR
+mannose binding	pr	ENSG00000074695:LMAN1
+mannose binding	pr	ENSG00000169223:LMAN2
+mannose binding	pr	ENSG00000260314:MRC1
+secondary active transmembrane transporter activity	pr	ENSG00000004939:SLC4A1
+secondary active transmembrane transporter activity	pr	ENSG00000124140:SLC12A5
+secondary active transmembrane transporter activity	pr	ENSG00000079215:SLC1A3
+secondary active transmembrane transporter activity	pr	ENSG00000075415:SLC25A3
+secondary active transmembrane transporter activity	pr	ENSG00000108528:SLC25A11
+secondary active transmembrane transporter activity	pr	ENSG00000132164:SLC6A11
+transmembrane transport	pr	ENSG00000004939:SLC4A1
+transmembrane transport	pr	ENSG00000124140:SLC12A5
+transmembrane transport	pr	ENSG00000079215:SLC1A3
+transmembrane transport	pr	ENSG00000059804:SLC2A3
+transmembrane transport	pr	ENSG00000075415:SLC25A3
+transmembrane transport	pr	ENSG00000135940:COX5B
+transmembrane transport	pr	ENSG00000213585:VDAC1
+transmembrane transport	pr	ENSG00000169021:UQCRFS1
+transmembrane transport	pr	ENSG00000165637:VDAC2
+transmembrane transport	pr	ENSG00000151729:SLC25A4
+transmembrane transport	pr	ENSG00000115840:SLC25A12
+transmembrane transport	pr	ENSG00000107819:SFXN3
+transmembrane transport	pr	ENSG00000010256:UQCRC1
+transmembrane transport	pr	ENSG00000132164:SLC6A11
+transmembrane transport	pr	ENSG00000141338:ABCA8
+transmembrane transport	pr	ENSG00000164466:SFXN1
+transmembrane transport	pr	ENSG00000100075:SLC25A1
+transmembrane transport	pr	ENSG00000174437:ATP2A2
+transmembrane transport	pr	ENSG00000126267:COX6B1
+transmembrane transport	pr	ENSG00000110090:CPT1A
+transmembrane transport	pr	ENSG00000131143:COX4I1
+transmembrane transport	pr	ENSG00000078668:VDAC3
+transmembrane transport	pr	ENSG00000085491:SLC25A24
+transmembrane transport	pr	ENSG00000145864:GABRB2
+transmembrane transport	pr	ENSG00000198363:ASPH
+transmembrane transport	pr	ENSG00000178741:COX5A
+transmembrane transport	pr	ENSG00000116005:PCYOX1
+cargo receptor activity	pr	ENSG00000177575:CD163
+cargo receptor activity	pr	ENSG00000010327:STAB1
+cargo receptor activity	pr	ENSG00000163956:LRPAP1
+extracellular matrix	pr	ENSG00000142173:COL6A2
+extracellular matrix	pr	ENSG00000179218:CALR
+extracellular matrix	pr	ENSG00000152583:SPARCL1
+extracellular matrix	pr	ENSG00000142156:COL6A1
+extracellular matrix	pr	ENSG00000149084:HSD17B12
+extracellular matrix	pr	ENSG00000120708:TGFBI
+extracellular matrix	pr	ENSG00000163359:COL6A3
+extracellular matrix	pr	ENSG00000166147:FBN1
+extracellular matrix	pr	ENSG00000182718:ANXA2
+extracellular matrix	pr	ENSG00000090863:GLG1
+organic acid transmembrane transporter activity	pr	ENSG00000079215:SLC1A3
+organic acid transmembrane transporter activity	pr	ENSG00000108528:SLC25A11
+organic acid transmembrane transporter activity	pr	ENSG00000115840:SLC25A12
+organic acid transmembrane transporter activity	pr	ENSG00000132164:SLC6A11
+organic acid transmembrane transporter activity	pr	ENSG00000100075:SLC25A1
+intrinsic component of plasma membrane	pr	ENSG00000177575:CD163
+intrinsic component of plasma membrane	pr	ENSG00000137642:SORL1
+intrinsic component of plasma membrane	pr	ENSG00000004939:SLC4A1
+intrinsic component of plasma membrane	pr	ENSG00000003056:M6PR
+intrinsic component of plasma membrane	pr	ENSG00000183715:OPCML
+intrinsic component of plasma membrane	pr	ENSG00000105974:CAV1
+intrinsic component of plasma membrane	pr	ENSG00000113721:PDGFRB
+intrinsic component of plasma membrane	pr	ENSG00000075415:SLC25A3
+intrinsic component of plasma membrane	pr	ENSG00000123384:LRP1
+intrinsic component of plasma membrane	pr	ENSG00000108528:SLC25A11
+intrinsic component of plasma membrane	pr	ENSG00000234745:HLA-B
+intrinsic component of plasma membrane	pr	ENSG00000168959:GRM5
+intrinsic component of plasma membrane	pr	ENSG00000151729:SLC25A4
+intrinsic component of plasma membrane	pr	ENSG00000169223:LMAN2
+intrinsic component of plasma membrane	pr	ENSG00000165457:FOLR2
+intrinsic component of plasma membrane	pr	ENSG00000141458:NPC1
+intrinsic component of plasma membrane	pr	ENSG00000132164:SLC6A11
+intrinsic component of plasma membrane	pr	ENSG00000174437:ATP2A2
+intrinsic component of plasma membrane	pr	ENSG00000113441:LNPEP
+intrinsic component of plasma membrane	pr	ENSG00000154096:THY1
+intrinsic component of plasma membrane	pr	ENSG00000257727:CNPY2
+intrinsic component of plasma membrane	pr	ENSG00000010327:STAB1
+intrinsic component of plasma membrane	pr	ENSG00000145864:GABRB2
+intrinsic component of plasma membrane	pr	ENSG00000260314:MRC1
+intrinsic component of plasma membrane	pr	ENSG00000187244:BCAM
+intrinsic component of endoplasmic reticulum membrane	pr	ENSG00000234745:HLA-B
+intrinsic component of endoplasmic reticulum membrane	pr	ENSG00000179218:CALR
+intrinsic component of endoplasmic reticulum membrane	pr	ENSG00000044574:HSPA5
+intrinsic component of endoplasmic reticulum membrane	pr	ENSG00000127022:CANX
+intrinsic component of endoplasmic reticulum membrane	pr	ENSG00000198363:ASPH
+calcium ion binding	pr	ENSG00000117906:RCN2
+calcium ion binding	pr	ENSG00000166598:HSP90B1
+calcium ion binding	pr	ENSG00000123384:LRP1
+calcium ion binding	pr	ENSG00000138279:ANXA7
+calcium ion binding	pr	ENSG00000110047:EHD1
+calcium ion binding	pr	ENSG00000179218:CALR
+calcium ion binding	pr	ENSG00000070081:NUCB2
+calcium ion binding	pr	ENSG00000152583:SPARCL1
+calcium ion binding	pr	ENSG00000115840:SLC25A12
+calcium ion binding	pr	ENSG00000044574:HSPA5
+calcium ion binding	pr	ENSG00000127022:CANX
+calcium ion binding	pr	ENSG00000163191:S100A11
+calcium ion binding	pr	ENSG00000166147:FBN1
+calcium ion binding	pr	ENSG00000182718:ANXA2
+calcium ion binding	pr	ENSG00000023318:ERP44
+calcium ion binding	pr	ENSG00000115159:GPD2
+calcium ion binding	pr	ENSG00000130175:PRKCSH
+calcium ion binding	pr	ENSG00000085491:SLC25A24
+calcium ion binding	pr	ENSG00000104805:NUCB1
+calcium ion binding	pr	ENSG00000155660:PDIA4
+calcium ion binding	pr	ENSG00000010327:STAB1
+calcium ion binding	pr	ENSG00000128595:CALU
+calcium ion binding	pr	ENSG00000086289:EPDR1
+calcium ion binding	pr	ENSG00000198363:ASPH
+calcium ion binding	pr	ENSG00000185624:P4HB
+calcium ion binding	pr	ENSG00000075142:SRI
+calcium ion binding	pr	ENSG00000049449:RCN1
+post-translational protein modification	pr	ENSG00000110917:MLEC
+post-translational protein modification	pr	ENSG00000118705:RPN2
+post-translational protein modification	pr	ENSG00000136731:UGGT1
+post-translational protein modification	pr	ENSG00000074695:LMAN1
+post-translational protein modification	pr	ENSG00000179218:CALR
+post-translational protein modification	pr	ENSG00000163902:RPN1
+post-translational protein modification	pr	ENSG00000127022:CANX
+post-translational protein modification	pr	ENSG00000089597:GANAB
+post-translational protein modification	pr	ENSG00000130175:PRKCSH
+post-translational protein modification	pr	ENSG00000167004:PDIA3
+response to toxic substance	pr	ENSG00000120915:EPHX2
+response to toxic substance	pr	ENSG00000079215:SLC1A3
+response to toxic substance	pr	ENSG00000113721:PDGFRB
+response to toxic substance	pr	ENSG00000169021:UQCRFS1
+response to toxic substance	pr	ENSG00000198848:CES1
+response to toxic substance	pr	ENSG00000044574:HSPA5
+response to toxic substance	pr	ENSG00000143819:EPHX1
+integral component of membrane	pr	ENSG00000072210:ALDH3A2
+integral component of membrane	pr	ENSG00000177575:CD163
+integral component of membrane	pr	ENSG00000137642:SORL1
+integral component of membrane	pr	ENSG00000134243:SORT1
+integral component of membrane	pr	ENSG00000004939:SLC4A1
+integral component of membrane	pr	ENSG00000159348:CYB5R1
+integral component of membrane	pr	ENSG00000124140:SLC12A5
+integral component of membrane	pr	ENSG00000003056:M6PR
+integral component of membrane	pr	ENSG00000079215:SLC1A3
+integral component of membrane	pr	ENSG00000059804:SLC2A3
+integral component of membrane	pr	ENSG00000183715:OPCML
+integral component of membrane	pr	ENSG00000105974:CAV1
+integral component of membrane	pr	ENSG00000113721:PDGFRB
+integral component of membrane	pr	ENSG00000075415:SLC25A3
+integral component of membrane	pr	ENSG00000123384:LRP1
+integral component of membrane	pr	ENSG00000110917:MLEC
+integral component of membrane	pr	ENSG00000118705:RPN2
+integral component of membrane	pr	ENSG00000146648:EGFR
+integral component of membrane	pr	ENSG00000108528:SLC25A11
+integral component of membrane	pr	ENSG00000184840:TMED9
+integral component of membrane	pr	ENSG00000111801:BTN3A3
+integral component of membrane	pr	ENSG00000234745:HLA-B
+integral component of membrane	pr	ENSG00000074695:LMAN1
+integral component of membrane	pr	ENSG00000101474:APMAP
+integral component of membrane	pr	ENSG00000168959:GRM5
+integral component of membrane	pr	ENSG00000144959:NCEH1
+integral component of membrane	pr	ENSG00000151729:SLC25A4
+integral component of membrane	pr	ENSG00000169223:LMAN2
+integral component of membrane	pr	ENSG00000179218:CALR
+integral component of membrane	pr	ENSG00000163902:RPN1
+integral component of membrane	pr	ENSG00000122873:CISD1
+integral component of membrane	pr	ENSG00000115840:SLC25A12
+integral component of membrane	pr	ENSG00000107819:SFXN3
+integral component of membrane	pr	ENSG00000147475:ERLIN2
+integral component of membrane	pr	ENSG00000169896:ITGAM
+integral component of membrane	pr	ENSG00000044574:HSPA5
+integral component of membrane	pr	ENSG00000127022:CANX
+integral component of membrane	pr	ENSG00000141458:NPC1
+integral component of membrane	pr	ENSG00000132164:SLC6A11
+integral component of membrane	pr	ENSG00000141338:ABCA8
+integral component of membrane	pr	ENSG00000143819:EPHX1
+integral component of membrane	pr	ENSG00000149084:HSD17B12
+integral component of membrane	pr	ENSG00000164466:SFXN1
+integral component of membrane	pr	ENSG00000189221:MAOA
+integral component of membrane	pr	ENSG00000100075:SLC25A1
+integral component of membrane	pr	ENSG00000170876:TMEM43
+integral component of membrane	pr	ENSG00000093010:COMT
+integral component of membrane	pr	ENSG00000174437:ATP2A2
+integral component of membrane	pr	ENSG00000001561:ENPP4
+integral component of membrane	pr	ENSG00000138119:MYOF
+integral component of membrane	pr	ENSG00000113441:LNPEP
+integral component of membrane	pr	ENSG00000110090:CPT1A
+integral component of membrane	pr	ENSG00000132305:IMMT
+integral component of membrane	pr	ENSG00000085491:SLC25A24
+integral component of membrane	pr	ENSG00000154096:THY1
+integral component of membrane	pr	ENSG00000257727:CNPY2
+integral component of membrane	pr	ENSG00000010327:STAB1
+integral component of membrane	pr	ENSG00000179091:CYC1
+integral component of membrane	pr	ENSG00000145864:GABRB2
+integral component of membrane	pr	ENSG00000170348:TMED10
+integral component of membrane	pr	ENSG00000090863:GLG1
+integral component of membrane	pr	ENSG00000198363:ASPH
+integral component of membrane	pr	ENSG00000109919:MTCH2
+integral component of membrane	pr	ENSG00000260314:MRC1
+integral component of membrane	pr	ENSG00000113719:ERGIC1
+integral component of membrane	pr	ENSG00000198836:OPA1
+integral component of membrane	pr	ENSG00000163956:LRPAP1
+integral component of membrane	pr	ENSG00000187244:BCAM
+positive regulation of calcium ion transport into cytosol	pr	ENSG00000105974:CAV1
+positive regulation of calcium ion transport into cytosol	pr	ENSG00000154096:THY1
+positive regulation of calcium ion transport into cytosol	pr	ENSG00000198363:ASPH
+positive regulation of calcium ion transport into cytosol	pr	ENSG00000075142:SRI
+trans-Golgi network transport vesicle	pr	ENSG00000134243:SORT1
+trans-Golgi network transport vesicle	pr	ENSG00000184840:TMED9
+trans-Golgi network transport vesicle	pr	ENSG00000170348:TMED10
+protein N-linked glycosylation via asparagine	pr	ENSG00000110917:MLEC
+protein N-linked glycosylation via asparagine	pr	ENSG00000118705:RPN2
+protein N-linked glycosylation via asparagine	pr	ENSG00000136731:UGGT1
+protein N-linked glycosylation via asparagine	pr	ENSG00000074695:LMAN1
+protein N-linked glycosylation via asparagine	pr	ENSG00000179218:CALR
+protein N-linked glycosylation via asparagine	pr	ENSG00000163902:RPN1
+protein N-linked glycosylation via asparagine	pr	ENSG00000127022:CANX
+protein N-linked glycosylation via asparagine	pr	ENSG00000089597:GANAB
+protein N-linked glycosylation via asparagine	pr	ENSG00000130175:PRKCSH
+protein N-linked glycosylation via asparagine	pr	ENSG00000167004:PDIA3
+protein maturation	pr	ENSG00000137642:SORL1
+protein maturation	pr	ENSG00000179218:CALR
+protein maturation	pr	ENSG00000123131:PRDX4
+protein maturation	pr	ENSG00000149257:SERPINH1
+cell surface	pr	ENSG00000134243:SORT1
+cell surface	pr	ENSG00000079215:SLC1A3
+cell surface	pr	ENSG00000113721:PDGFRB
+cell surface	pr	ENSG00000146648:EGFR
+cell surface	pr	ENSG00000234745:HLA-B
+cell surface	pr	ENSG00000101474:APMAP
+cell surface	pr	ENSG00000169223:LMAN2
+cell surface	pr	ENSG00000179218:CALR
+cell surface	pr	ENSG00000169896:ITGAM
+cell surface	pr	ENSG00000044574:HSPA5
+cell surface	pr	ENSG00000089248:ERP29
+cell surface	pr	ENSG00000182718:ANXA2
+cell surface	pr	ENSG00000023318:ERP44
+cell surface	pr	ENSG00000154096:THY1
+cell surface	pr	ENSG00000155660:PDIA4
+cell surface	pr	ENSG00000260314:MRC1
+cell surface	pr	ENSG00000167004:PDIA3
+cell surface	pr	ENSG00000163956:LRPAP1
+cell surface	pr	ENSG00000187244:BCAM
+organelle outer membrane	pr	ENSG00000138029:HADHB
+organelle outer membrane	pr	ENSG00000100243:CYB5R3
+organelle outer membrane	pr	ENSG00000213585:VDAC1
+organelle outer membrane	pr	ENSG00000165637:VDAC2
+organelle outer membrane	pr	ENSG00000070081:NUCB2
+organelle outer membrane	pr	ENSG00000122873:CISD1
+organelle outer membrane	pr	ENSG00000189221:MAOA
+organelle outer membrane	pr	ENSG00000110090:CPT1A
+organelle outer membrane	pr	ENSG00000078668:VDAC3
+organelle outer membrane	pr	ENSG00000198836:OPA1
+ER-nucleus signaling pathway	pr	ENSG00000149428:HYOU1
+ER-nucleus signaling pathway	pr	ENSG00000166598:HSP90B1
+ER-nucleus signaling pathway	pr	ENSG00000179218:CALR
+ER-nucleus signaling pathway	pr	ENSG00000044574:HSPA5
+ER-nucleus signaling pathway	pr	ENSG00000143870:PDIA6
+ER-nucleus signaling pathway	pr	ENSG00000174437:ATP2A2
+mitochondrial membrane part	pr	ENSG00000117118:SDHB
+mitochondrial membrane part	pr	ENSG00000213619:NDUFS3
+mitochondrial membrane part	pr	ENSG00000178127:NDUFV2
+mitochondrial membrane part	pr	ENSG00000169021:UQCRFS1
+mitochondrial membrane part	pr	ENSG00000023228:NDUFS1
+mitochondrial membrane part	pr	ENSG00000147684:NDUFB9
+mitochondrial membrane part	pr	ENSG00000158864:NDUFS2
+mitochondrial membrane part	pr	ENSG00000010256:UQCRC1
+mitochondrial membrane part	pr	ENSG00000167792:NDUFV1
+mitochondrial membrane part	pr	ENSG00000131495:NDUFA2
+mitochondrial membrane part	pr	ENSG00000073578:SDHA
+mitochondrial membrane part	pr	ENSG00000128609:NDUFA5
+mitochondrial membrane part	pr	ENSG00000168653:NDUFS5
+mitochondrial membrane part	pr	ENSG00000139180:NDUFA9
+mitochondrial membrane part	pr	ENSG00000110090:CPT1A
+mitochondrial membrane part	pr	ENSG00000156467:UQCRB
+mitochondrial membrane part	pr	ENSG00000140740:UQCRC2
+mitochondrial membrane part	pr	ENSG00000198836:OPA1
+oxidoreductase activity, acting on a heme group of donors	pr	ENSG00000135940:COX5B
+oxidoreductase activity, acting on a heme group of donors	pr	ENSG00000126267:COX6B1
+oxidoreductase activity, acting on a heme group of donors	pr	ENSG00000131143:COX4I1
+oxidoreductase activity, acting on a heme group of donors	pr	ENSG00000178741:COX5A
+tricarboxylic acid cycle	pr	ENSG00000117118:SDHB
+tricarboxylic acid cycle	pr	ENSG00000168291:PDHB
+tricarboxylic acid cycle	pr	ENSG00000073578:SDHA
+tricarboxylic acid cycle	pr	ENSG00000150768:DLAT
+tricarboxylic acid cycle	pr	ENSG00000105953:OGDH
+pigment granule	pr	ENSG00000101444:AHCY
+pigment granule	pr	ENSG00000166598:HSP90B1
+pigment granule	pr	ENSG00000163902:RPN1
+pigment granule	pr	ENSG00000044574:HSPA5
+pigment granule	pr	ENSG00000127022:CANX
+pigment granule	pr	ENSG00000143870:PDIA6
+pigment granule	pr	ENSG00000089248:ERP29
+pigment granule	pr	ENSG00000166794:PPIB
+pigment granule	pr	ENSG00000182718:ANXA2
+pigment granule	pr	ENSG00000089597:GANAB
+pigment granule	pr	ENSG00000155660:PDIA4
+pigment granule	pr	ENSG00000128595:CALU
+pigment granule	pr	ENSG00000170348:TMED10
+pigment granule	pr	ENSG00000185624:P4HB
+pigment granule	pr	ENSG00000167004:PDIA3
+response to salt stress	pr	ENSG00000196419:XRCC6
+response to salt stress	pr	ENSG00000138279:ANXA7
+response to salt stress	pr	ENSG00000079246:XRCC5
+pore complex	pr	ENSG00000213585:VDAC1
+pore complex	pr	ENSG00000165637:VDAC2
+pore complex	pr	ENSG00000078668:VDAC3
+pore complex	pr	ENSG00000197879:MYO1C
+retrograde vesicle-mediated transport, Golgi to ER	pr	ENSG00000169223:LMAN2
+retrograde vesicle-mediated transport, Golgi to ER	pr	ENSG00000154917:RAB6B
+retrograde vesicle-mediated transport, Golgi to ER	pr	ENSG00000170348:TMED10
+receptor-mediated endocytosis	pr	ENSG00000177575:CD163
+receptor-mediated endocytosis	pr	ENSG00000137642:SORL1
+receptor-mediated endocytosis	pr	ENSG00000003056:M6PR
+receptor-mediated endocytosis	pr	ENSG00000105974:CAV1
+receptor-mediated endocytosis	pr	ENSG00000123384:LRP1
+receptor-mediated endocytosis	pr	ENSG00000127022:CANX
+receptor-mediated endocytosis	pr	ENSG00000010327:STAB1
+receptor-mediated endocytosis	pr	ENSG00000260314:MRC1
+receptor-mediated endocytosis	pr	ENSG00000163956:LRPAP1
+lysosomal transport	pr	ENSG00000137642:SORL1
+lysosomal transport	pr	ENSG00000134243:SORT1
+lysosomal transport	pr	ENSG00000003056:M6PR
+lysosomal transport	pr	ENSG00000141458:NPC1
+apoptotic cell clearance	pr	ENSG00000123384:LRP1
+apoptotic cell clearance	pr	ENSG00000143870:PDIA6
+apoptotic cell clearance	pr	ENSG00000239264:TXNDC5
+lipid particle	pr	ENSG00000105974:CAV1
+lipid particle	pr	ENSG00000100243:CYB5R3
+lipid particle	pr	ENSG00000110047:EHD1
+lipid particle	pr	ENSG00000143653:SCCPDH
+lipid particle	pr	ENSG00000182718:ANXA2
+ER-associated ubiquitin-dependent protein catabolic process	pr	ENSG00000166598:HSP90B1
+ER-associated ubiquitin-dependent protein catabolic process	pr	ENSG00000147475:ERLIN2
+ER-associated ubiquitin-dependent protein catabolic process	pr	ENSG00000044574:HSPA5
+maintenance of protein location	pr	ENSG00000137642:SORL1
+maintenance of protein location	pr	ENSG00000105974:CAV1
+maintenance of protein location	pr	ENSG00000044574:HSPA5
+maintenance of protein location	pr	ENSG00000166147:FBN1
+maintenance of protein location	pr	ENSG00000075142:SRI
+maintenance of protein location	pr	ENSG00000167004:PDIA3
+negative regulation of binding	pr	ENSG00000137642:SORL1
+negative regulation of binding	pr	ENSG00000105974:CAV1
+negative regulation of binding	pr	ENSG00000075142:SRI
+negative regulation of binding	pr	ENSG00000163956:LRPAP1
+cellular respiration	pr	ENSG00000117118:SDHB
+cellular respiration	pr	ENSG00000023228:NDUFS1
+cellular respiration	pr	ENSG00000010256:UQCRC1
+cellular respiration	pr	ENSG00000156467:UQCRB
+cellular respiration	pr	ENSG00000140740:UQCRC2
+sensory organ development	pr	ENSG00000146648:EGFR
+sensory organ development	pr	ENSG00000115159:GPD2
+sensory organ development	pr	ENSG00000049449:RCN1
+anion transmembrane transporter activity	pr	ENSG00000004939:SLC4A1
+anion transmembrane transporter activity	pr	ENSG00000124140:SLC12A5
+anion transmembrane transporter activity	pr	ENSG00000079215:SLC1A3
+anion transmembrane transporter activity	pr	ENSG00000075415:SLC25A3
+anion transmembrane transporter activity	pr	ENSG00000213585:VDAC1
+anion transmembrane transporter activity	pr	ENSG00000108528:SLC25A11
+anion transmembrane transporter activity	pr	ENSG00000165637:VDAC2
+anion transmembrane transporter activity	pr	ENSG00000115840:SLC25A12
+anion transmembrane transporter activity	pr	ENSG00000132164:SLC6A11
+anion transmembrane transporter activity	pr	ENSG00000100075:SLC25A1
+anion transmembrane transporter activity	pr	ENSG00000078668:VDAC3
+anion transmembrane transporter activity	pr	ENSG00000085491:SLC25A24
+anion transmembrane transporter activity	pr	ENSG00000145864:GABRB2
+anion transmembrane transporter activity	pr	ENSG00000116005:PCYOX1
+respiratory chain	pr	ENSG00000010256:UQCRC1
+respiratory chain	pr	ENSG00000156467:UQCRB
+respiratory chain	pr	ENSG00000179091:CYC1
+protein disulfide isomerase activity	pr	ENSG00000143870:PDIA6
+protein disulfide isomerase activity	pr	ENSG00000089248:ERP29
+protein disulfide isomerase activity	pr	ENSG00000023318:ERP44
+protein disulfide isomerase activity	pr	ENSG00000155660:PDIA4
+protein disulfide isomerase activity	pr	ENSG00000185624:P4HB
+protein disulfide isomerase activity	pr	ENSG00000167004:PDIA3
+protein disulfide isomerase activity	pr	ENSG00000239264:TXNDC5
+carboxylic ester hydrolase activity	pr	ENSG00000101474:APMAP
+carboxylic ester hydrolase activity	pr	ENSG00000144959:NCEH1
+carboxylic ester hydrolase activity	pr	ENSG00000198848:CES1
+carboxylic ester hydrolase activity	pr	ENSG00000105854:PON2
+carboxylic ester hydrolase activity	pr	ENSG00000100997:ABHD12
+cell redox homeostasis	pr	ENSG00000117862:TXNDC12
+cell redox homeostasis	pr	ENSG00000143870:PDIA6
+cell redox homeostasis	pr	ENSG00000023318:ERP44
+cell redox homeostasis	pr	ENSG00000155660:PDIA4
+cell redox homeostasis	pr	ENSG00000185624:P4HB
+cell redox homeostasis	pr	ENSG00000123131:PRDX4
+cell redox homeostasis	pr	ENSG00000167004:PDIA3
+cell redox homeostasis	pr	ENSG00000239264:TXNDC5
+response to endoplasmic reticulum stress	pr	ENSG00000149428:HYOU1
+response to endoplasmic reticulum stress	pr	ENSG00000166598:HSP90B1
+response to endoplasmic reticulum stress	pr	ENSG00000179218:CALR
+response to endoplasmic reticulum stress	pr	ENSG00000044574:HSPA5
+response to endoplasmic reticulum stress	pr	ENSG00000143870:PDIA6
+response to endoplasmic reticulum stress	pr	ENSG00000023318:ERP44
+response to endoplasmic reticulum stress	pr	ENSG00000078140:UBE2K
+response to endoplasmic reticulum stress	pr	ENSG00000155660:PDIA4
+response to endoplasmic reticulum stress	pr	ENSG00000185624:P4HB
+response to endoplasmic reticulum stress	pr	ENSG00000167004:PDIA3
+response to endoplasmic reticulum stress	pr	ENSG00000239264:TXNDC5

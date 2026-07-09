@@ -1,0 +1,151 @@
+Ensembl	symbol	WikiPathways
+ENSG00000115415	STAT1	Endoderm Differentiation:WP2853
+ENSG00000115415	STAT1	IL-5 Signaling Pathway:WP127
+ENSG00000206172	HBA1	Vitamin B12 Metabolism:WP1533
+ENSG00000160200	CBS	Vitamin B12 Metabolism:WP1533
+ENSG00000196136	SERPINA3	Vitamin B12 Metabolism:WP1533
+ENSG00000117394	SLC2A1	Insulin Signaling:WP481
+ENSG00000168118	RAB4A	Insulin Signaling:WP481
+ENSG00000071242	RPS6KA2	Insulin Signaling:WP481
+ENSG00000165119	HNRNPK	mRNA Processing:WP411
+ENSG00000117394	SLC2A1	Glycolysis and Gluconeogenesis:WP534
+ENSG00000173599	PC	Glycolysis and Gluconeogenesis:WP534
+ENSG00000148053	NTRK2	BDNF signaling pathway:WP2380
+ENSG00000120251	GRIA2	BDNF signaling pathway:WP2380
+ENSG00000115415	STAT1	BDNF signaling pathway:WP2380
+ENSG00000115415	STAT1	IL-9 Signaling Pathway:WP22
+ENSG00000259207	ITGB3	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000169756	LIMS1	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000173599	PC	Alanine and aspartate metabolism:WP106
+ENSG00000157103	SLC6A1	NRF2 pathway:WP2884
+ENSG00000117394	SLC2A1	NRF2 pathway:WP2884
+ENSG00000148482	SLC39A12	NRF2 pathway:WP2884
+ENSG00000100031	GGT1	NRF2 pathway:WP2884
+ENSG00000106853	PTGR1	NRF2 pathway:WP2884
+ENSG00000134184	GSTM1	NRF2 pathway:WP2884
+ENSG00000197894	ADH5	Folate-Alcohol and Cancer Pathway:WP1589
+ENSG00000160200	CBS	Folate-Alcohol and Cancer Pathway:WP1589
+ENSG00000162688	AGL	Glycogen Metabolism:WP500
+ENSG00000068976	PYGM	Glycogen Metabolism:WP500
+ENSG00000100504	PYGL	Glycogen Metabolism:WP500
+ENSG00000156709	AIFM1	Apoptosis Modulation by HSP70:WP384
+ENSG00000115415	STAT1	RANKL/RANK Signaling Pathway:WP2018
+ENSG00000145349	CAMK2D	SRF and miRs in Smooth Muscle Differentiation and Proliferation:WP1991
+ENSG00000100031	GGT1	Glutathione metabolism:WP100
+ENSG00000163931	TKT	Pentose Phosphate Pathway:WP134
+ENSG00000065534	MYLK	Focal Adhesion:WP306
+ENSG00000115415	STAT1	Toll-like receptor signaling pathway:WP75
+ENSG00000160200	CBS	Trans-sulfuration and one carbon metabolism:WP2525
+ENSG00000113578	FGF1	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000115415	STAT1	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000115415	STAT1	IL-2 Signaling Pathway:WP49
+ENSG00000134184	GSTM1	Aflatoxin B1 metabolism:WP699
+ENSG00000150540	HNMT	Metapathway biotransformation:WP702
+ENSG00000134184	GSTM1	Metapathway biotransformation:WP702
+ENSG00000171903	CYP4F11	Metapathway biotransformation:WP702
+ENSG00000084073	ZMPSTE24	Adipogenesis:WP236
+ENSG00000115415	STAT1	Adipogenesis:WP236
+ENSG00000143126	CELSR2	GPCRs, Other:WP117
+ENSG00000115415	STAT1	Allograft Rejection:KEGG-hsa05330:WP2328
+ENSG00000065534	MYLK	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+ENSG00000145349	CAMK2D	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+ENSG00000120251	GRIA2	Hypothetical Network for Drug Addiction:WP666
+ENSG00000160200	CBS	Trans-sulfuration pathway:WP2333
+ENSG00000115053	NCL	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000115415	STAT1	Type III interferon signaling:WP2113
+ENSG00000085832	EPS15	EGF/EGFR Signaling Pathway:WP437
+ENSG00000071242	RPS6KA2	EGF/EGFR Signaling Pathway:WP437
+ENSG00000115415	STAT1	EGF/EGFR Signaling Pathway:WP437
+ENSG00000111348	ARHGDIB	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000115415	STAT1	IL-6 signaling pathway:WP364
+ENSG00000134184	GSTM1	Estrogen metabolism:WP697
+ENSG00000145349	CAMK2D	Cardiac Hypertrophic Response:WP2795
+ENSG00000115415	STAT1	IL-4 Signaling Pathway:WP395
+ENSG00000117394	SLC2A1	Cori Cycle:WP1946
+ENSG00000065534	MYLK	Regulation of Actin Cytoskeleton:WP51
+ENSG00000113578	FGF1	Regulation of Actin Cytoskeleton:WP51
+ENSG00000154380	ENAH	Regulation of Actin Cytoskeleton:WP51
+ENSG00000133818	RRAS2	Regulation of Actin Cytoskeleton:WP51
+ENSG00000206172	HBA1	Folate Metabolism:WP176
+ENSG00000160200	CBS	Folate Metabolism:WP176
+ENSG00000115415	STAT1	Regulation of toll-like receptor signaling pathway:WP1449
+ENSG00000115415	STAT1	Leptin signaling pathway:WP2034
+ENSG00000122729	ACO1	TCA Cycle and PDHc:WP2453
+ENSG00000173599	PC	TCA Cycle and PDHc:WP2453
+ENSG00000167588	GPD1	Triacylglyceride Synthesis:WP325
+ENSG00000173599	PC	Fatty Acid Biosynthesis:WP357
+ENSG00000197170	PSMD12	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000110801	PSMD9	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000105372	RPS19	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000122406	RPL5	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000182774	RPS17	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000161016	RPL8	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000071242	RPS6KA2	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000111348	ARHGDIB	G13 Signaling Pathway:WP524
+ENSG00000115415	STAT1	IL-7 Signaling Pathway:WP205
+ENSG00000106991	ENG	TGF Beta Signaling Pathway:WP560
+ENSG00000115415	STAT1	TGF Beta Signaling Pathway:WP560
+ENSG00000115415	STAT1	Endochondral Ossification:WP474
+ENSG00000083720	OXCT1	Synthesis and Degradation of Ketone Bodies:WP311
+ENSG00000148334	PTGES2	Eicosanoid Synthesis:WP167
+ENSG00000100031	GGT1	Eicosanoid Synthesis:WP167
+ENSG00000111144	LTA4H	Eicosanoid Synthesis:WP167
+ENSG00000116171	SCP2	PPAR Alpha Pathway:WP2878
+ENSG00000155368	DBI	PPAR Alpha Pathway:WP2878
+ENSG00000122729	ACO1	Iron metabolism in placenta:WP2007
+ENSG00000065534	MYLK	Endothelin Pathways:WP2197
+ENSG00000123104	ITPR2	Alzheimers Disease:WP2059
+ENSG00000145494	NDUFS6	Electron Transport Chain:WP111
+ENSG00000140990	NDUFB10	Electron Transport Chain:WP111
+ENSG00000130414	NDUFA10	Electron Transport Chain:WP111
+ENSG00000147509	RGS20	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000145349	CAMK2D	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000123104	ITPR2	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000115415	STAT1	TSLP Signaling Pathway:WP2203
+ENSG00000145349	CAMK2D	Physiological and Pathological Hypertrophy  of the Heart:WP1528
+ENSG00000100504	PYGL	BCL-XL prevents the binding of truncated BID to BAX. This is prevented by BAD. BAD can displace tBID from BCL-XL.   :WP231
+ENSG00000113140	SPARC	Senescence and Autophagy in Cancer:WP615
+ENSG00000113578	FGF1	Differentiation Pathway:WP2848
+ENSG00000135318	NT5E	Differentiation Pathway:WP2848
+ENSG00000145494	NDUFS6	Oxidative phosphorylation:WP623
+ENSG00000140990	NDUFB10	Oxidative phosphorylation:WP623
+ENSG00000130414	NDUFA10	Oxidative phosphorylation:WP623
+ENSG00000156709	AIFM1	Apoptosis Modulation and Signaling:WP1772
+ENSG00000115415	STAT1	EPO Receptor Signaling:WP581
+ENSG00000115415	STAT1	TSH signaling pathway:WP2032
+ENSG00000171903	CYP4F11	Oxidation by Cytochrome P450:WP43
+ENSG00000206172	HBA1	Effects of Nitric Oxide:WP1995
+ENSG00000100031	GGT1	Selenium Micronutrient Network:WP15
+ENSG00000206172	HBA1	Selenium Micronutrient Network:WP15
+ENSG00000160200	CBS	Selenium Micronutrient Network:WP15
+ENSG00000196136	SERPINA3	Selenium Micronutrient Network:WP15
+ENSG00000155368	DBI	SREBP signalling:WP1982
+ENSG00000079332	SAR1A	SREBP signalling:WP1982
+ENSG00000115415	STAT1	Interleukin-11 Signaling Pathway:WP2332
+ENSG00000137575	SDCBP	Ectoderm Differentiation:WP2858
+ENSG00000143126	CELSR2	Ectoderm Differentiation:WP2858
+ENSG00000117228	GBP1	Type II interferon signaling (IFNG):WP619
+ENSG00000115415	STAT1	Type II interferon signaling (IFNG):WP619
+ENSG00000178537	SLC25A20	Fatty Acid Beta Oxidation:WP143
+ENSG00000115415	STAT1	Interferon type I signaling pathways:WP585
+ENSG00000105409	ATP1A3	SIDS Susceptibility Pathways:WP706
+ENSG00000101400	SNTA1	SIDS Susceptibility Pathways:WP706
+ENSG00000148053	NTRK2	SIDS Susceptibility Pathways:WP706
+ENSG00000259207	ITGB3	MFAP5-mediated ovarian cancer cell motility and invasiveness:WP3301
+ENSG00000197170	PSMD12	Proteasome Degradation:WP183
+ENSG00000110801	PSMD9	Proteasome Degradation:WP183
+ENSG00000147509	RGS20	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000145349	CAMK2D	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000123104	ITPR2	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000143153	ATP1B1	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000129244	ATP1B2	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000178537	SLC25A20	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+ENSG00000116171	SCP2	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+ENSG00000115415	STAT1	AGE/RAGE pathway:WP2324
+ENSG00000115415	STAT1	p38 MAPK Signaling Pathway:WP400
+ENSG00000115415	STAT1	Oncostatin M Signaling Pathway:WP2374
+ENSG00000116171	SCP2	DNA Damage Response (only ATM dependent):WP710
+ENSG00000115415	STAT1	Kit receptor signaling pathway:WP304
+ENSG00000120705	ETF1	Translation Factors:WP107
+ENSG00000150540	HNMT	Methylation Pathways:WP704
+ENSG00000157103	SLC6A1	Monoamine Transport:WP727

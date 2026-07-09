@@ -1,0 +1,3 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Glycolysis and Gluconeogenesis:WP534	6	29	52	20.6896551724	55.7692307692	5.08909309799	0.0	0.948	 	 	ALDOA|ENO2|GOT1|MDH1|PGK1|TPI1
+Cori Cycle:WP1946	3	11	16	27.2727272727	68.75	4.28533964618	0.008	0.948	 	 	G6PD|PGK1|TPI1

@@ -1,0 +1,7 @@
+
+Warning!!! Critical Python incompatiblity encoutered.
+This can occur if the users calls the GO-Elite python source code WITHIN A COMPILED version directory which results in critical conflicts between the compiled distributed binaries and the operating systems installed version of python. If this applies, either:
+(A) double-click on the executable GO-Elite file (GO-Elite or GO-Elite.exe) or
+(B) download the Source-Code version of GO-Elite and run this version (after installing any needed dependencies (see our Wiki or Documentation). Otherwise, contact us at: genmapp@gladstone.ucsf.edu
+
+Installation Wiki: http://code.google.com/p/go-elite/wiki/Installation

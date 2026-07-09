@@ -1,0 +1,3 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Glial Cell Differentiation:WP2276	4	7	8	57.1428571429	87.5	6.56277384948	0.0	0.8295	 	 	CNP|MAG|MBP|PLP1
+Ectoderm Differentiation:WP2858	3	18	144	16.6666666667	12.5	2.41526031054	0.043	1.0	 	 	CTNNA2|CTNNB1|SERPINB6

@@ -1,0 +1,1009 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0034116	positive regulation of heterotypic cell-cell adhesion		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0034116	positive regulation of heterotypic cell-cell adhesion		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0034116	positive regulation of heterotypic cell-cell adhesion		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0045907	positive regulation of vasoconstriction		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0045907	positive regulation of vasoconstriction		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0045907	positive regulation of vasoconstriction		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0045907	positive regulation of vasoconstriction		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000119655	NPC2	Niemann-Pick disease, type C2 [Source:HGNC Symbol;Acc:HGNC:14537]	ENSG00000119655	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000173486	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:HGNC:3718]	ENSG00000173486	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000257727	CNPY2	canopy FGF signaling regulator 2 [Source:HGNC Symbol;Acc:HGNC:13529]	ENSG00000257727	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000170876	TMEM43	transmembrane protein 43 [Source:HGNC Symbol;Acc:HGNC:28472]	ENSG00000170876	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000117906	RCN2	reticulocalbin 2, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9935]	ENSG00000117906	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000101856	PGRMC1	progesterone receptor membrane component 1 [Source:HGNC Symbol;Acc:HGNC:16090]	ENSG00000101856	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000184743	ATL3	atlastin GTPase 3 [Source:HGNC Symbol;Acc:HGNC:24526]	ENSG00000184743	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000079332	SAR1A	secretion associated, Ras related GTPase 1A [Source:HGNC Symbol;Acc:HGNC:10534]	ENSG00000079332	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000145050	MANF	mesencephalic astrocyte-derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	ENSG00000145050	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000116661	FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	ENSG00000116661	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000136026	CKAP4	cytoskeleton-associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	ENSG00000136026	GO:0005783	endoplasmic reticulum		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0022625	cytosolic large ribosomal subunit		green	En
+ENSG00000120708	TGFBI	transforming growth factor, beta-induced, 68kDa [Source:HGNC Symbol;Acc:HGNC:11771]	ENSG00000120708	GO:0005518	collagen binding		green	En
+ENSG00000011028	MRC2	mannose receptor, C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	ENSG00000011028	GO:0005518	collagen binding		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0005518	collagen binding		green	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0005518	collagen binding		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0005518	collagen binding		green	En
+ENSG00000122359	ANXA11	annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]	ENSG00000122359	GO:0048770	pigment granule		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0048770	pigment granule		green	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0048770	pigment granule		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0048770	pigment granule		green	En
+ENSG00000101444	AHCY	adenosylhomocysteinase [Source:HGNC Symbol;Acc:HGNC:343]	ENSG00000101444	GO:0048770	pigment granule		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0048770	pigment granule		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0048770	pigment granule		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0048770	pigment granule		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0048770	pigment granule		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0048770	pigment granule		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0048770	pigment granule		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0048770	pigment granule		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0048770	pigment granule		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0048770	pigment granule		green	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0048770	pigment granule		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0048770	pigment granule		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0048770	pigment granule		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0048770	pigment granule		green	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0034358	plasma lipoprotein particle		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0034358	plasma lipoprotein particle		green	En
+ENSG00000091583	APOH	apolipoprotein H (beta-2-glycoprotein I) [Source:HGNC Symbol;Acc:HGNC:616]	ENSG00000091583	GO:0034358	plasma lipoprotein particle		green	En
+ENSG00000116005	PCYOX1	prenylcysteine oxidase 1 [Source:HGNC Symbol;Acc:HGNC:20588]	ENSG00000116005	GO:0034358	plasma lipoprotein particle		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0006984	ER-nucleus signaling pathway		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0006984	ER-nucleus signaling pathway		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0006984	ER-nucleus signaling pathway		green	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0006984	ER-nucleus signaling pathway		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0006984	ER-nucleus signaling pathway		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0006984	ER-nucleus signaling pathway		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0031983	vesicle lumen		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0031983	vesicle lumen		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0031983	vesicle lumen		green	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0031983	vesicle lumen		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0031983	vesicle lumen		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0031983	vesicle lumen		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0031983	vesicle lumen		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0019058	viral life cycle		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0019058	viral life cycle		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0019058	viral life cycle		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0019058	viral life cycle		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0019058	viral life cycle		green	En
+ENSG00000082898	XPO1	exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825]	ENSG00000082898	GO:0019058	viral life cycle		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0019058	viral life cycle		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0019058	viral life cycle		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0019058	viral life cycle		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0019058	viral life cycle		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0019058	viral life cycle		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0019058	viral life cycle		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0019058	viral life cycle		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0019058	viral life cycle		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0019058	viral life cycle		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0019058	viral life cycle		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0019058	viral life cycle		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0043687	post-translational protein modification		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0043687	post-translational protein modification		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0043687	post-translational protein modification		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0043687	post-translational protein modification		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0043687	post-translational protein modification		green	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0043687	post-translational protein modification		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0043687	post-translational protein modification		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0043687	post-translational protein modification		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0043687	post-translational protein modification		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0043687	post-translational protein modification		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000104805	NUCB1	nucleobindin 1 [Source:HGNC Symbol;Acc:HGNC:8043]	ENSG00000104805	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment		green	En
+ENSG00000122359	ANXA11	annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]	ENSG00000122359	GO:0051592	response to calcium ion		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0051592	response to calcium ion		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0051592	response to calcium ion		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0051592	response to calcium ion		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0051592	response to calcium ion		green	En
+ENSG00000140575	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	ENSG00000140575	GO:0051592	response to calcium ion		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0051592	response to calcium ion		green	En
+ENSG00000169504	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	ENSG00000169504	GO:0051592	response to calcium ion		green	En
+ENSG00000162517	PEF1	penta-EF-hand domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30009]	ENSG00000162517	GO:0051592	response to calcium ion		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0051592	response to calcium ion		green	En
+ENSG00000164050	PLXNB1	plexin B1 [Source:HGNC Symbol;Acc:HGNC:9103]	ENSG00000164050	GO:0008360	regulation of cell shape		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0008360	regulation of cell shape		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0008360	regulation of cell shape		green	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0008360	regulation of cell shape		green	En
+ENSG00000196576	PLXNB2	plexin B2 [Source:HGNC Symbol;Acc:HGNC:9104]	ENSG00000196576	GO:0008360	regulation of cell shape		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0008360	regulation of cell shape		green	En
+ENSG00000116266	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	ENSG00000116266	GO:0030168	platelet activation		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0030168	platelet activation		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0030168	platelet activation		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0030168	platelet activation		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0030168	platelet activation		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0030168	platelet activation		green	En
+ENSG00000088256	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class) [Source:HGNC Symbol;Acc:HGNC:4379]	ENSG00000088256	GO:0030168	platelet activation		green	En
+ENSG00000071127	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	ENSG00000071127	GO:0030168	platelet activation		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0030168	platelet activation		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0030168	platelet activation		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0030168	platelet activation		green	En
+ENSG00000103496	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	ENSG00000103496	GO:0030168	platelet activation		green	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0030168	platelet activation		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0030168	platelet activation		green	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0043230	extracellular organelle		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0043230	extracellular organelle		green	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0043230	extracellular organelle		green	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0043230	extracellular organelle		green	En
+ENSG00000101444	AHCY	adenosylhomocysteinase [Source:HGNC Symbol;Acc:HGNC:343]	ENSG00000101444	GO:0043230	extracellular organelle		green	En
+ENSG00000071127	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	ENSG00000071127	GO:0043230	extracellular organelle		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0043230	extracellular organelle		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0043230	extracellular organelle		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0043230	extracellular organelle		green	En
+ENSG00000100804	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5 [Source:HGNC Symbol;Acc:HGNC:9542]	ENSG00000100804	GO:0043230	extracellular organelle		green	En
+ENSG00000090863	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	ENSG00000090863	GO:0043230	extracellular organelle		green	En
+ENSG00000119655	NPC2	Niemann-Pick disease, type C2 [Source:HGNC Symbol;Acc:HGNC:14537]	ENSG00000119655	GO:0043230	extracellular organelle		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0043230	extracellular organelle		green	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0043230	extracellular organelle		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0043230	extracellular organelle		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0043230	extracellular organelle		green	En
+ENSG00000116661	FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	ENSG00000116661	GO:0043230	extracellular organelle		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0043230	extracellular organelle		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0043230	extracellular organelle		green	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0043230	extracellular organelle		green	En
+ENSG00000091583	APOH	apolipoprotein H (beta-2-glycoprotein I) [Source:HGNC Symbol;Acc:HGNC:616]	ENSG00000091583	GO:0043230	extracellular organelle		green	En
+ENSG00000113552	GNPDA1	glucosamine-6-phosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:4417]	ENSG00000113552	GO:0043230	extracellular organelle		green	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0043230	extracellular organelle		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0043230	extracellular organelle		green	En
+ENSG00000092964	DPYSL2	dihydropyrimidinase-like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	ENSG00000092964	GO:0043230	extracellular organelle		green	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0043230	extracellular organelle		green	En
+ENSG00000197879	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	ENSG00000197879	GO:0043230	extracellular organelle		green	En
+ENSG00000140575	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	ENSG00000140575	GO:0043230	extracellular organelle		green	En
+ENSG00000277443	MARCKS	myristoylated alanine-rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	ENSG00000277443	GO:0043230	extracellular organelle		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0043230	extracellular organelle		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0043230	extracellular organelle		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0043230	extracellular organelle		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0043230	extracellular organelle		green	En
+ENSG00000169504	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	ENSG00000169504	GO:0043230	extracellular organelle		green	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0043230	extracellular organelle		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0043230	extracellular organelle		green	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0043230	extracellular organelle		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0043230	extracellular organelle		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0043230	extracellular organelle		green	En
+ENSG00000079332	SAR1A	secretion associated, Ras related GTPase 1A [Source:HGNC Symbol;Acc:HGNC:10534]	ENSG00000079332	GO:0043230	extracellular organelle		green	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0043230	extracellular organelle		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0043230	extracellular organelle		green	En
+ENSG00000088256	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class) [Source:HGNC Symbol;Acc:HGNC:4379]	ENSG00000088256	GO:0043230	extracellular organelle		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0043230	extracellular organelle		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0043230	extracellular organelle		green	En
+ENSG00000196576	PLXNB2	plexin B2 [Source:HGNC Symbol;Acc:HGNC:9104]	ENSG00000196576	GO:0043230	extracellular organelle		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0043230	extracellular organelle		green	En
+ENSG00000148943	LIN7C	lin-7 homolog C (C. elegans) [Source:HGNC Symbol;Acc:HGNC:17789]	ENSG00000148943	GO:0043230	extracellular organelle		green	En
+ENSG00000122359	ANXA11	annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]	ENSG00000122359	GO:0043230	extracellular organelle		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0043230	extracellular organelle		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0043230	extracellular organelle		green	En
+ENSG00000174684	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]	ENSG00000174684	GO:0043230	extracellular organelle		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0043230	extracellular organelle		green	En
+ENSG00000092841	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle [Source:HGNC Symbol;Acc:HGNC:7587]	ENSG00000092841	GO:0043230	extracellular organelle		green	En
+ENSG00000122218	COPA	coatomer protein complex, subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	ENSG00000122218	GO:0043230	extracellular organelle		green	En
+ENSG00000132670	PTPRA	protein tyrosine phosphatase, receptor type, A [Source:HGNC Symbol;Acc:HGNC:9664]	ENSG00000132670	GO:0043230	extracellular organelle		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0043230	extracellular organelle		green	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0043230	extracellular organelle		green	En
+ENSG00000120708	TGFBI	transforming growth factor, beta-induced, 68kDa [Source:HGNC Symbol;Acc:HGNC:11771]	ENSG00000120708	GO:0043230	extracellular organelle		green	En
+ENSG00000162517	PEF1	penta-EF-hand domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30009]	ENSG00000162517	GO:0043230	extracellular organelle		green	En
+ENSG00000169764	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	ENSG00000169764	GO:0043230	extracellular organelle		green	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0043230	extracellular organelle		green	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0043230	extracellular organelle		green	En
+ENSG00000135932	CAB39	calcium binding protein 39 [Source:HGNC Symbol;Acc:HGNC:20292]	ENSG00000135932	GO:0043230	extracellular organelle		green	En
+ENSG00000131378	RFTN1	raftlin, lipid raft linker 1 [Source:HGNC Symbol;Acc:HGNC:30278]	ENSG00000131378	GO:0043230	extracellular organelle		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0043230	extracellular organelle		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0043230	extracellular organelle		green	En
+ENSG00000103496	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	ENSG00000103496	GO:0043230	extracellular organelle		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0043230	extracellular organelle		green	En
+ENSG00000152556	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	ENSG00000152556	GO:0043230	extracellular organelle		green	En
+ENSG00000178921	PFAS	phosphoribosylformylglycinamidine synthase [Source:HGNC Symbol;Acc:HGNC:8863]	ENSG00000178921	GO:0043230	extracellular organelle		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0043230	extracellular organelle		green	En
+ENSG00000182919	C11orf54	chromosome 11 open reading frame 54 [Source:HGNC Symbol;Acc:HGNC:30204]	ENSG00000182919	GO:0043230	extracellular organelle		green	En
+ENSG00000101474	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]	ENSG00000101474	GO:0043230	extracellular organelle		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0043230	extracellular organelle		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0043230	extracellular organelle		green	En
+ENSG00000079819	EPB41L2	erythrocyte membrane protein band 4.1-like 2 [Source:HGNC Symbol;Acc:HGNC:3379]	ENSG00000079819	GO:0043230	extracellular organelle		green	En
+ENSG00000081237	PTPRC	protein tyrosine phosphatase, receptor type, C [Source:HGNC Symbol;Acc:HGNC:9666]	ENSG00000081237	GO:0043230	extracellular organelle		green	En
+ENSG00000136026	CKAP4	cytoskeleton-associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	ENSG00000136026	GO:0043230	extracellular organelle		green	En
+ENSG00000149218	ENDOD1	endonuclease domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29129]	ENSG00000149218	GO:0043230	extracellular organelle		green	En
+ENSG00000090013	BLVRB	biliverdin reductase B (flavin reductase (NADPH)) [Source:HGNC Symbol;Acc:HGNC:1063]	ENSG00000090013	GO:0043230	extracellular organelle		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0043230	extracellular organelle		green	En
+ENSG00000104805	NUCB1	nucleobindin 1 [Source:HGNC Symbol;Acc:HGNC:8043]	ENSG00000104805	GO:0043230	extracellular organelle		green	En
+ENSG00000084073	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	ENSG00000084073	GO:0043230	extracellular organelle		green	En
+ENSG00000167815	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	ENSG00000167815	GO:0043230	extracellular organelle		green	En
+ENSG00000198478	SH3BGRL2	SH3 domain binding glutamate-rich protein like 2 [Source:HGNC Symbol;Acc:HGNC:15567]	ENSG00000198478	GO:0043230	extracellular organelle		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0043230	extracellular organelle		green	En
+ENSG00000026025	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	ENSG00000026025	GO:0043230	extracellular organelle		green	En
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	ENSG00000102144	GO:0043230	extracellular organelle		green	En
+ENSG00000111530	CAND1	cullin-associated and neddylation-dissociated 1 [Source:HGNC Symbol;Acc:HGNC:30688]	ENSG00000111530	GO:0043230	extracellular organelle		green	En
+ENSG00000116266	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	ENSG00000116266	GO:0043230	extracellular organelle		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0043230	extracellular organelle		green	En
+ENSG00000101856	PGRMC1	progesterone receptor membrane component 1 [Source:HGNC Symbol;Acc:HGNC:16090]	ENSG00000101856	GO:0043230	extracellular organelle		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0043230	extracellular organelle		green	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0043230	extracellular organelle		green	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0043230	extracellular organelle		green	En
+ENSG00000173486	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:HGNC:3718]	ENSG00000173486	GO:0043230	extracellular organelle		green	En
+ENSG00000100983	GSS	glutathione synthetase [Source:HGNC Symbol;Acc:HGNC:4624]	ENSG00000100983	GO:0043230	extracellular organelle		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0043230	extracellular organelle		green	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0043230	extracellular organelle		green	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0043230	extracellular organelle		green	En
+ENSG00000116005	PCYOX1	prenylcysteine oxidase 1 [Source:HGNC Symbol;Acc:HGNC:20588]	ENSG00000116005	GO:0043230	extracellular organelle		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0043230	extracellular organelle		green	En
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	ENSG00000130741	GO:0043230	extracellular organelle		green	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0043230	extracellular organelle		green	En
+ENSG00000169504	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	ENSG00000169504	GO:0009566	fertilization		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0009566	fertilization		green	En
+ENSG00000113552	GNPDA1	glucosamine-6-phosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:4417]	ENSG00000113552	GO:0009566	fertilization		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0010883	regulation of lipid storage		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0010883	regulation of lipid storage		green	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0010883	regulation of lipid storage		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0016758	transferase activity, transferring hexosyl groups		green	En
+ENSG00000100504	PYGL	phosphorylase, glycogen, liver [Source:HGNC Symbol;Acc:HGNC:9725]	ENSG00000100504	GO:0016758	transferase activity, transferring hexosyl groups		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0016758	transferase activity, transferring hexosyl groups		green	En
+ENSG00000174684	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]	ENSG00000174684	GO:0016758	transferase activity, transferring hexosyl groups		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0016758	transferase activity, transferring hexosyl groups		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0006457	protein folding		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0006457	protein folding		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0006457	protein folding		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0006457	protein folding		green	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0006457	protein folding		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0006457	protein folding		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0006457	protein folding		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0006457	protein folding		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0006457	protein folding		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0006457	protein folding		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0006457	protein folding		green	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0006457	protein folding		green	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0006457	protein folding		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0006457	protein folding		green	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0006457	protein folding		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0006457	protein folding		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0006457	protein folding		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0006457	protein folding		green	En
+ENSG00000173486	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:HGNC:3718]	ENSG00000173486	GO:0006457	protein folding		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0006457	protein folding		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0006457	protein folding		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0019083	viral transcription		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0019083	viral transcription		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0019083	viral transcription		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0019083	viral transcription		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0019083	viral transcription		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0019083	viral transcription		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0019083	viral transcription		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0019083	viral transcription		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0019083	viral transcription		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0019083	viral transcription		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0019083	viral transcription		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0019083	viral transcription		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0019083	viral transcription		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0019083	viral transcription		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0019083	viral transcription		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0019083	viral transcription		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0006614	SRP-dependent cotranslational protein targeting to membrane		green	En
+ENSG00000122359	ANXA11	annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]	ENSG00000122359	GO:0003676	nucleic acid binding		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0003676	nucleic acid binding		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0003676	nucleic acid binding		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0003676	nucleic acid binding		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0003676	nucleic acid binding		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0003676	nucleic acid binding		green	En
+ENSG00000082898	XPO1	exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825]	ENSG00000082898	GO:0003676	nucleic acid binding		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0003676	nucleic acid binding		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0003676	nucleic acid binding		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0003676	nucleic acid binding		green	En
+ENSG00000162517	PEF1	penta-EF-hand domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30009]	ENSG00000162517	GO:0003676	nucleic acid binding		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0003676	nucleic acid binding		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0003676	nucleic acid binding		green	En
+ENSG00000104805	NUCB1	nucleobindin 1 [Source:HGNC Symbol;Acc:HGNC:8043]	ENSG00000104805	GO:0003676	nucleic acid binding		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0003676	nucleic acid binding		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0003676	nucleic acid binding		green	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0003676	nucleic acid binding		green	En
+ENSG00000149218	ENDOD1	endonuclease domain containing 1 [Source:HGNC Symbol;Acc:HGNC:29129]	ENSG00000149218	GO:0003676	nucleic acid binding		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0003676	nucleic acid binding		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0003676	nucleic acid binding		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0003676	nucleic acid binding		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0003676	nucleic acid binding		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0003676	nucleic acid binding		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0003676	nucleic acid binding		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0003676	nucleic acid binding		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0003676	nucleic acid binding		green	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0003676	nucleic acid binding		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0003676	nucleic acid binding		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0003676	nucleic acid binding		green	En
+ENSG00000131378	RFTN1	raftlin, lipid raft linker 1 [Source:HGNC Symbol;Acc:HGNC:30278]	ENSG00000131378	GO:0003676	nucleic acid binding		green	En
+ENSG00000026025	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	ENSG00000026025	GO:0003676	nucleic acid binding		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0003676	nucleic acid binding		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0003676	nucleic acid binding		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0003676	nucleic acid binding		green	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0003676	nucleic acid binding		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0003676	nucleic acid binding		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0003676	nucleic acid binding		green	En
+ENSG00000136026	CKAP4	cytoskeleton-associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	ENSG00000136026	GO:0003676	nucleic acid binding		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0003676	nucleic acid binding		green	En
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	ENSG00000253729	GO:0003676	nucleic acid binding		green	En
+ENSG00000145050	MANF	mesencephalic astrocyte-derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	ENSG00000145050	GO:0003676	nucleic acid binding		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0003676	nucleic acid binding		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0003676	nucleic acid binding		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0003676	nucleic acid binding		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0003676	nucleic acid binding		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0003676	nucleic acid binding		green	En
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	ENSG00000130741	GO:0003676	nucleic acid binding		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0051223	regulation of protein transport		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0051223	regulation of protein transport		green	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0051223	regulation of protein transport		green	En
+ENSG00000197879	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	ENSG00000197879	GO:0051223	regulation of protein transport		green	En
+ENSG00000108946	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha [Source:HGNC Symbol;Acc:HGNC:9388]	ENSG00000108946	GO:0051223	regulation of protein transport		green	En
+ENSG00000140575	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	ENSG00000140575	GO:0051223	regulation of protein transport		green	En
+ENSG00000277443	MARCKS	myristoylated alanine-rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	ENSG00000277443	GO:0051223	regulation of protein transport		green	En
+ENSG00000082898	XPO1	exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825]	ENSG00000082898	GO:0051223	regulation of protein transport		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0051223	regulation of protein transport		green	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0051223	regulation of protein transport		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0051223	regulation of protein transport		green	En
+ENSG00000152556	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	ENSG00000152556	GO:0051223	regulation of protein transport		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0051223	regulation of protein transport		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0051223	regulation of protein transport		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0051223	regulation of protein transport		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0051223	regulation of protein transport		green	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0035337	fatty-acyl-CoA metabolic process		green	En
+ENSG00000133835	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4 [Source:HGNC Symbol;Acc:HGNC:5213]	ENSG00000133835	GO:0035337	fatty-acyl-CoA metabolic process		green	En
+ENSG00000164398	ACSL6	acyl-CoA synthetase long-chain family member 6 [Source:HGNC Symbol;Acc:HGNC:16496]	ENSG00000164398	GO:0035337	fatty-acyl-CoA metabolic process		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0006888	ER to Golgi vesicle-mediated transport		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0006888	ER to Golgi vesicle-mediated transport		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0006888	ER to Golgi vesicle-mediated transport		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0006888	ER to Golgi vesicle-mediated transport		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000127463	EMC1	ER membrane protein complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:28957]	ENSG00000127463	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000143819	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic) [Source:HGNC Symbol;Acc:HGNC:3401]	ENSG00000143819	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000211456	SACM1L	SAC1 suppressor of actin mutations 1-like (yeast) [Source:HGNC Symbol;Acc:HGNC:17059]	ENSG00000211456	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000084073	ZMPSTE24	zinc metallopeptidase STE24 [Source:HGNC Symbol;Acc:HGNC:12877]	ENSG00000084073	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000198848	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	ENSG00000198848	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000184743	ATL3	atlastin GTPase 3 [Source:HGNC Symbol;Acc:HGNC:24526]	ENSG00000184743	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000117906	RCN2	reticulocalbin 2, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9935]	ENSG00000117906	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000101856	PGRMC1	progesterone receptor membrane component 1 [Source:HGNC Symbol;Acc:HGNC:16090]	ENSG00000101856	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000173486	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:HGNC:3718]	ENSG00000173486	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000164398	ACSL6	acyl-CoA synthetase long-chain family member 6 [Source:HGNC Symbol;Acc:HGNC:16496]	ENSG00000164398	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000117862	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:24626]	ENSG00000117862	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000136026	CKAP4	cytoskeleton-associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	ENSG00000136026	GO:0044432	endoplasmic reticulum part		green	En
+ENSG00000169504	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	ENSG00000169504	GO:0016363	nuclear matrix		green	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0016363	nuclear matrix		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0016363	nuclear matrix		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0001948	glycoprotein binding		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0001948	glycoprotein binding		green	En
+ENSG00000091583	APOH	apolipoprotein H (beta-2-glycoprotein I) [Source:HGNC Symbol;Acc:HGNC:616]	ENSG00000091583	GO:0001948	glycoprotein binding		green	En
+ENSG00000026025	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	ENSG00000026025	GO:0001948	glycoprotein binding		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0001948	glycoprotein binding		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0001948	glycoprotein binding		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0001948	glycoprotein binding		green	En
+ENSG00000116661	FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	ENSG00000116661	GO:0001948	glycoprotein binding		green	En
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	ENSG00000000971	GO:0001948	glycoprotein binding		green	En
+ENSG00000081237	PTPRC	protein tyrosine phosphatase, receptor type, C [Source:HGNC Symbol;Acc:HGNC:9666]	ENSG00000081237	GO:0001948	glycoprotein binding		green	En
+ENSG00000092841	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle [Source:HGNC Symbol;Acc:HGNC:7587]	ENSG00000092841	GO:0030898	actin-dependent ATPase activity		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0030898	actin-dependent ATPase activity		green	En
+ENSG00000197879	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	ENSG00000197879	GO:0030898	actin-dependent ATPase activity		green	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0030898	actin-dependent ATPase activity		green	En
+ENSG00000092841	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle [Source:HGNC Symbol;Acc:HGNC:7587]	ENSG00000092841	GO:0008307	structural constituent of muscle		green	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0008307	structural constituent of muscle		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0008307	structural constituent of muscle		green	En
+ENSG00000116266	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	ENSG00000116266	GO:0050817	coagulation		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0050817	coagulation		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0050817	coagulation		green	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0050817	coagulation		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0050817	coagulation		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0050817	coagulation		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0050817	coagulation		green	En
+ENSG00000090863	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	ENSG00000090863	GO:0050817	coagulation		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0050817	coagulation		green	En
+ENSG00000088256	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class) [Source:HGNC Symbol;Acc:HGNC:4379]	ENSG00000088256	GO:0050817	coagulation		green	En
+ENSG00000071127	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	ENSG00000071127	GO:0050817	coagulation		green	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0050817	coagulation		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0050817	coagulation		green	En
+ENSG00000108946	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha [Source:HGNC Symbol;Acc:HGNC:9388]	ENSG00000108946	GO:0050817	coagulation		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0050817	coagulation		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0050817	coagulation		green	En
+ENSG00000103496	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	ENSG00000103496	GO:0050817	coagulation		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0050817	coagulation		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0050817	coagulation		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0050817	coagulation		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0005938	cell cortex		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0005938	cell cortex		green	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0005938	cell cortex		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0005938	cell cortex		green	En
+ENSG00000277443	MARCKS	myristoylated alanine-rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	ENSG00000277443	GO:0005938	cell cortex		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0005938	cell cortex		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0005938	cell cortex		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0051238	sequestering of metal ion		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0051238	sequestering of metal ion		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0051238	sequestering of metal ion		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0031091	platelet alpha granule		green	En
+ENSG00000116266	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	ENSG00000116266	GO:0031091	platelet alpha granule		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0031091	platelet alpha granule		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0031091	platelet alpha granule		green	En
+ENSG00000122218	COPA	coatomer protein complex, subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	ENSG00000122218	GO:0006890	retrograde vesicle-mediated transport, Golgi to ER		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0006890	retrograde vesicle-mediated transport, Golgi to ER		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0006890	retrograde vesicle-mediated transport, Golgi to ER		green	En
+ENSG00000154917	RAB6B	RAB6B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14902]	ENSG00000154917	GO:0006890	retrograde vesicle-mediated transport, Golgi to ER		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0005840	ribosome		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0005840	ribosome		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0005840	ribosome		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0005840	ribosome		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0005840	ribosome		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0005840	ribosome		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0005840	ribosome		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0005840	ribosome		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0005840	ribosome		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0005840	ribosome		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0005840	ribosome		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0005840	ribosome		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0005840	ribosome		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0005840	ribosome		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0005840	ribosome		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0051604	protein maturation		green	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0051604	protein maturation		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0051604	protein maturation		green	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0051604	protein maturation		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0032481	positive regulation of type I interferon production		green	En
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	ENSG00000253729	GO:0032481	positive regulation of type I interferon production		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0032481	positive regulation of type I interferon production		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0016460	myosin II complex		green	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0016460	myosin II complex		green	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0016460	myosin II complex		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:1902042	negative regulation of extrinsic apoptotic signaling pathway via death domain receptors		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0060193	positive regulation of lipase activity		green	En
+ENSG00000091583	APOH	apolipoprotein H (beta-2-glycoprotein I) [Source:HGNC Symbol;Acc:HGNC:616]	ENSG00000091583	GO:0060193	positive regulation of lipase activity		green	En
+ENSG00000108946	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha [Source:HGNC Symbol;Acc:HGNC:9388]	ENSG00000108946	GO:0060193	positive regulation of lipase activity		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0060193	positive regulation of lipase activity		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0060193	positive regulation of lipase activity		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0060193	positive regulation of lipase activity		green	En
+ENSG00000091583	APOH	apolipoprotein H (beta-2-glycoprotein I) [Source:HGNC Symbol;Acc:HGNC:616]	ENSG00000091583	GO:0006869	lipid transport		green	En
+ENSG00000164398	ACSL6	acyl-CoA synthetase long-chain family member 6 [Source:HGNC Symbol;Acc:HGNC:16496]	ENSG00000164398	GO:0006869	lipid transport		green	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0006869	lipid transport		green	En
+ENSG00000119655	NPC2	Niemann-Pick disease, type C2 [Source:HGNC Symbol;Acc:HGNC:14537]	ENSG00000119655	GO:0006869	lipid transport		green	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0006869	lipid transport		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0006869	lipid transport		green	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane		green	En
+ENSG00000140575	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	ENSG00000140575	GO:0071241	cellular response to inorganic substance		green	En
+ENSG00000169504	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	ENSG00000169504	GO:0071241	cellular response to inorganic substance		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0071241	cellular response to inorganic substance		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0071241	cellular response to inorganic substance		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0009792	embryo development ending in birth or egg hatching		green	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0009792	embryo development ending in birth or egg hatching		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0009792	embryo development ending in birth or egg hatching		green	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0009792	embryo development ending in birth or egg hatching		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0009792	embryo development ending in birth or egg hatching		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0009792	embryo development ending in birth or egg hatching		green	En
+ENSG00000174684	B3GNT1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15685]	ENSG00000174684	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000211456	SACM1L	SAC1 suppressor of actin mutations 1-like (yeast) [Source:HGNC Symbol;Acc:HGNC:17059]	ENSG00000211456	GO:0031301	integral component of organelle membrane		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0009651	response to salt stress		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0009651	response to salt stress		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0009651	response to salt stress		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0008544	epidermis development		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0008544	epidermis development		green	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0008544	epidermis development		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0031095	platelet dense tubular network membrane		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0031095	platelet dense tubular network membrane		green	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0031095	platelet dense tubular network membrane		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000081237	PTPRC	protein tyrosine phosphatase, receptor type, C [Source:HGNC Symbol;Acc:HGNC:9666]	ENSG00000081237	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0072507	divalent inorganic cation homeostasis		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0030667	secretory granule membrane		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0030667	secretory granule membrane		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0030667	secretory granule membrane		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0030667	secretory granule membrane		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0030667	secretory granule membrane		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0010212	response to ionizing radiation		green	En
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	ENSG00000253729	GO:0010212	response to ionizing radiation		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0010212	response to ionizing radiation		green	En
+ENSG00000081237	PTPRC	protein tyrosine phosphatase, receptor type, C [Source:HGNC Symbol;Acc:HGNC:9666]	ENSG00000081237	GO:0010212	response to ionizing radiation		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0000726	non-recombinational repair		green	En
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	ENSG00000253729	GO:0000726	non-recombinational repair		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0000726	non-recombinational repair		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:1900024	regulation of substrate adhesion-dependent cell spreading		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:1900024	regulation of substrate adhesion-dependent cell spreading		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:1900024	regulation of substrate adhesion-dependent cell spreading		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:1900024	regulation of substrate adhesion-dependent cell spreading		green	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0051082	unfolded protein binding		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0051082	unfolded protein binding		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0051082	unfolded protein binding		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0051082	unfolded protein binding		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0051082	unfolded protein binding		green	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0051082	unfolded protein binding		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0051082	unfolded protein binding		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0051082	unfolded protein binding		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0051082	unfolded protein binding		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0051082	unfolded protein binding		green	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0003756	protein disulfide isomerase activity		green	En
+ENSG00000198478	SH3BGRL2	SH3 domain binding glutamate-rich protein like 2 [Source:HGNC Symbol;Acc:HGNC:15567]	ENSG00000198478	GO:0016667	oxidoreductase activity, acting on a sulfur group of donors		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0016667	oxidoreductase activity, acting on a sulfur group of donors		green	En
+ENSG00000117862	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:24626]	ENSG00000117862	GO:0016667	oxidoreductase activity, acting on a sulfur group of donors		green	En
+ENSG00000116005	PCYOX1	prenylcysteine oxidase 1 [Source:HGNC Symbol;Acc:HGNC:20588]	ENSG00000116005	GO:0016667	oxidoreductase activity, acting on a sulfur group of donors		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0022613	ribonucleoprotein complex biogenesis		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0022613	ribonucleoprotein complex biogenesis		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0022613	ribonucleoprotein complex biogenesis		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0022613	ribonucleoprotein complex biogenesis		green	En
+ENSG00000122359	ANXA11	annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]	ENSG00000122359	GO:0005509	calcium ion binding		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0005509	calcium ion binding		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005509	calcium ion binding		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0005509	calcium ion binding		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0005509	calcium ion binding		green	En
+ENSG00000140575	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	ENSG00000140575	GO:0005509	calcium ion binding		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0005509	calcium ion binding		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0005509	calcium ion binding		green	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0005509	calcium ion binding		green	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0005509	calcium ion binding		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0005509	calcium ion binding		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0005509	calcium ion binding		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0005509	calcium ion binding		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0005509	calcium ion binding		green	En
+ENSG00000092841	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle [Source:HGNC Symbol;Acc:HGNC:7587]	ENSG00000092841	GO:0005509	calcium ion binding		green	En
+ENSG00000162517	PEF1	penta-EF-hand domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30009]	ENSG00000162517	GO:0005509	calcium ion binding		green	En
+ENSG00000117906	RCN2	reticulocalbin 2, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9935]	ENSG00000117906	GO:0005509	calcium ion binding		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0005509	calcium ion binding		green	En
+ENSG00000104805	NUCB1	nucleobindin 1 [Source:HGNC Symbol;Acc:HGNC:8043]	ENSG00000104805	GO:0005509	calcium ion binding		green	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0005509	calcium ion binding		green	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0005509	calcium ion binding		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0048609	multicellular organismal reproductive process		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000122218	COPA	coatomer protein complex, subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	ENSG00000122218	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000071127	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	ENSG00000071127	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000116266	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	ENSG00000116266	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000108946	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha [Source:HGNC Symbol;Acc:HGNC:9388]	ENSG00000108946	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000090863	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	ENSG00000090863	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000103496	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	ENSG00000103496	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000088256	GNA11	guanine nucleotide binding protein (G protein), alpha 11 (Gq class) [Source:HGNC Symbol;Acc:HGNC:4379]	ENSG00000088256	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000120063	GNA13	guanine nucleotide binding protein (G protein), alpha 13 [Source:HGNC Symbol;Acc:HGNC:4381]	ENSG00000120063	GO:0050878	regulation of body fluid levels		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0032508	DNA duplex unwinding		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0032508	DNA duplex unwinding		green	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0032508	DNA duplex unwinding		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0032508	DNA duplex unwinding		green	En
+ENSG00000100997	ABHD12	abhydrolase domain containing 12 [Source:HGNC Symbol;Acc:HGNC:15868]	ENSG00000100997	GO:0052689	carboxylic ester hydrolase activity		green	En
+ENSG00000105854	PON2	paraoxonase 2 [Source:HGNC Symbol;Acc:HGNC:9205]	ENSG00000105854	GO:0052689	carboxylic ester hydrolase activity		green	En
+ENSG00000198848	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	ENSG00000198848	GO:0052689	carboxylic ester hydrolase activity		green	En
+ENSG00000101474	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]	ENSG00000101474	GO:0052689	carboxylic ester hydrolase activity		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0030246	carbohydrate binding		green	En
+ENSG00000003056	M6PR	mannose-6-phosphate receptor (cation dependent) [Source:HGNC Symbol;Acc:HGNC:6752]	ENSG00000003056	GO:0030246	carbohydrate binding		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0030246	carbohydrate binding		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0030246	carbohydrate binding		green	En
+ENSG00000116661	FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	ENSG00000116661	GO:0030246	carbohydrate binding		green	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0030246	carbohydrate binding		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0030246	carbohydrate binding		green	En
+ENSG00000169764	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	ENSG00000169764	GO:0030246	carbohydrate binding		green	En
+ENSG00000100504	PYGL	phosphorylase, glycogen, liver [Source:HGNC Symbol;Acc:HGNC:9725]	ENSG00000100504	GO:0030246	carbohydrate binding		green	En
+ENSG00000011028	MRC2	mannose receptor, C type 2 [Source:HGNC Symbol;Acc:HGNC:16875]	ENSG00000011028	GO:0030246	carbohydrate binding		green	En
+ENSG00000152556	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	ENSG00000152556	GO:0030246	carbohydrate binding		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000108946	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha [Source:HGNC Symbol;Acc:HGNC:9388]	ENSG00000108946	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000140575	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	ENSG00000140575	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000277443	MARCKS	myristoylated alanine-rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	ENSG00000277443	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000152556	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	ENSG00000152556	GO:0046883	regulation of hormone secretion		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0045454	cell redox homeostasis		green	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0045454	cell redox homeostasis		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0045454	cell redox homeostasis		green	En
+ENSG00000198478	SH3BGRL2	SH3 domain binding glutamate-rich protein like 2 [Source:HGNC Symbol;Acc:HGNC:15567]	ENSG00000198478	GO:0045454	cell redox homeostasis		green	En
+ENSG00000117862	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:24626]	ENSG00000117862	GO:0045454	cell redox homeostasis		green	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0045454	cell redox homeostasis		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0045454	cell redox homeostasis		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0045454	cell redox homeostasis		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0045454	cell redox homeostasis		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0009986	cell surface		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0009986	cell surface		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0009986	cell surface		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0009986	cell surface		green	En
+ENSG00000091583	APOH	apolipoprotein H (beta-2-glycoprotein I) [Source:HGNC Symbol;Acc:HGNC:616]	ENSG00000091583	GO:0009986	cell surface		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0009986	cell surface		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0009986	cell surface		green	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0009986	cell surface		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0009986	cell surface		green	En
+ENSG00000101474	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]	ENSG00000101474	GO:0009986	cell surface		green	En
+ENSG00000081237	PTPRC	protein tyrosine phosphatase, receptor type, C [Source:HGNC Symbol;Acc:HGNC:9666]	ENSG00000081237	GO:0009986	cell surface		green	En
+ENSG00000169504	CLIC4	chloride intracellular channel 4 [Source:HGNC Symbol;Acc:HGNC:13518]	ENSG00000169504	GO:0009986	cell surface		green	En
+ENSG00000103496	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	ENSG00000103496	GO:0009986	cell surface		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0009986	cell surface		green	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0009986	cell surface		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0009986	cell surface		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0009986	cell surface		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0009986	cell surface		green	En
+ENSG00000091583	APOH	apolipoprotein H (beta-2-glycoprotein I) [Source:HGNC Symbol;Acc:HGNC:616]	ENSG00000091583	GO:0008201	heparin binding		green	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0008201	heparin binding		green	En
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	ENSG00000000971	GO:0008201	heparin binding		green	En
+ENSG00000081237	PTPRC	protein tyrosine phosphatase, receptor type, C [Source:HGNC Symbol;Acc:HGNC:9666]	ENSG00000081237	GO:0008201	heparin binding		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0008201	heparin binding		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0008201	heparin binding		green	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0007030	Golgi organization		green	En
+ENSG00000184743	ATL3	atlastin GTPase 3 [Source:HGNC Symbol;Acc:HGNC:24526]	ENSG00000184743	GO:0007030	Golgi organization		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0007030	Golgi organization		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0007030	Golgi organization		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0007030	Golgi organization		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0051100	negative regulation of binding		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0051100	negative regulation of binding		green	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0051100	negative regulation of binding		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0051100	negative regulation of binding		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0070374	positive regulation of ERK1 and ERK2 cascade		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0070374	positive regulation of ERK1 and ERK2 cascade		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0070374	positive regulation of ERK1 and ERK2 cascade		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0070374	positive regulation of ERK1 and ERK2 cascade		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0070374	positive regulation of ERK1 and ERK2 cascade		green	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0034976	response to endoplasmic reticulum stress		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0000184	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay		green	En
+ENSG00000122218	COPA	coatomer protein complex, subunit alpha [Source:HGNC Symbol;Acc:HGNC:2230]	ENSG00000122218	GO:0048205	COPI coating of Golgi vesicle		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0048205	COPI coating of Golgi vesicle		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0048205	COPI coating of Golgi vesicle		green	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0048205	COPI coating of Golgi vesicle		green	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0008210	estrogen metabolic process		green	En
+ENSG00000133835	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4 [Source:HGNC Symbol;Acc:HGNC:5213]	ENSG00000133835	GO:0008210	estrogen metabolic process		green	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0008210	estrogen metabolic process		green	En
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	ENSG00000100345	GO:0032982	myosin filament		green	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0032982	myosin filament		green	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0032982	myosin filament		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0002576	platelet degranulation		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0002576	platelet degranulation		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0002576	platelet degranulation		green	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0002576	platelet degranulation		green	En
+ENSG00000071127	WDR1	WD repeat domain 1 [Source:HGNC Symbol;Acc:HGNC:12754]	ENSG00000071127	GO:0002576	platelet degranulation		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0002576	platelet degranulation		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0002576	platelet degranulation		green	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0002576	platelet degranulation		green	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0005811	lipid particle		green	En
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	ENSG00000185825	GO:0005811	lipid particle		green	En
+ENSG00000105355	PLIN3	perilipin 3 [Source:HGNC Symbol;Acc:HGNC:16893]	ENSG00000105355	GO:0005811	lipid particle		green	En
+ENSG00000136026	CKAP4	cytoskeleton-associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	ENSG00000136026	GO:0005811	lipid particle		green	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0005811	lipid particle		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0003735	structural constituent of ribosome		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0010467	gene expression		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0010467	gene expression		green	En
+ENSG00000082898	XPO1	exportin 1 [Source:HGNC Symbol;Acc:HGNC:12825]	ENSG00000082898	GO:0010467	gene expression		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0010467	gene expression		green	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0010467	gene expression		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0010467	gene expression		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0010467	gene expression		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0010467	gene expression		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0010467	gene expression		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0010467	gene expression		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0010467	gene expression		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0010467	gene expression		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0010467	gene expression		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0010467	gene expression		green	En
+ENSG00000100804	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5 [Source:HGNC Symbol;Acc:HGNC:9542]	ENSG00000100804	GO:0010467	gene expression		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0010467	gene expression		green	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0010467	gene expression		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0010467	gene expression		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0010467	gene expression		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0010467	gene expression		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0010467	gene expression		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0010467	gene expression		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0010467	gene expression		green	En
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	ENSG00000130741	GO:0010467	gene expression		green	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0018279	protein N-linked glycosylation via asparagine		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0070419	nonhomologous end joining complex		green	En
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	ENSG00000253729	GO:0070419	nonhomologous end joining complex		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0070419	nonhomologous end joining complex		green	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0016229	steroid dehydrogenase activity		green	En
+ENSG00000133835	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4 [Source:HGNC Symbol;Acc:HGNC:5213]	ENSG00000133835	GO:0016229	steroid dehydrogenase activity		green	En
+ENSG00000090013	BLVRB	biliverdin reductase B (flavin reductase (NADPH)) [Source:HGNC Symbol;Acc:HGNC:1063]	ENSG00000090013	GO:0016229	steroid dehydrogenase activity		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0004003	ATP-dependent DNA helicase activity		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0004003	ATP-dependent DNA helicase activity		green	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0004003	ATP-dependent DNA helicase activity		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0004003	ATP-dependent DNA helicase activity		green	En
+ENSG00000122359	ANXA11	annexin A11 [Source:HGNC Symbol;Acc:HGNC:535]	ENSG00000122359	GO:0042581	specific granule		green	En
+ENSG00000103496	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	ENSG00000103496	GO:0042581	specific granule		green	En
+ENSG00000116266	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	ENSG00000116266	GO:0042581	specific granule		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:2000352	negative regulation of endothelial cell apoptotic process		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:2000352	negative regulation of endothelial cell apoptotic process		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:2000352	negative regulation of endothelial cell apoptotic process		green	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0030433	ER-associated ubiquitin-dependent protein catabolic process		green	En
+ENSG00000116661	FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	ENSG00000116661	GO:0030433	ER-associated ubiquitin-dependent protein catabolic process		green	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0030433	ER-associated ubiquitin-dependent protein catabolic process		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0030433	ER-associated ubiquitin-dependent protein catabolic process		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000111530	CAND1	cullin-associated and neddylation-dissociated 1 [Source:HGNC Symbol;Acc:HGNC:30688]	ENSG00000111530	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000103496	STX4	syntaxin 4 [Source:HGNC Symbol;Acc:HGNC:11439]	ENSG00000103496	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000086598	TMED2	transmembrane emp24 domain trafficking protein 2 [Source:HGNC Symbol;Acc:HGNC:16996]	ENSG00000086598	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0043623	cellular protein complex assembly		green	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0050750	low-density lipoprotein particle receptor binding		green	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0050750	low-density lipoprotein particle receptor binding		green	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0050750	low-density lipoprotein particle receptor binding		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0006310	DNA recombination		green	En
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	ENSG00000253729	GO:0006310	DNA recombination		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0006310	DNA recombination		green	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0006310	DNA recombination		green	En
+ENSG00000183207	RUVBL2	RuvB-like AAA ATPase 2 [Source:HGNC Symbol;Acc:HGNC:10475]	ENSG00000183207	GO:0006310	DNA recombination		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000108946	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha [Source:HGNC Symbol;Acc:HGNC:9388]	ENSG00000108946	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000140575	IQGAP1	IQ motif containing GTPase activating protein 1 [Source:HGNC Symbol;Acc:HGNC:6110]	ENSG00000140575	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000277443	MARCKS	myristoylated alanine-rich protein kinase C substrate [Source:HGNC Symbol;Acc:HGNC:6759]	ENSG00000277443	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000123104	ITPR2	inositol 1,4,5-trisphosphate receptor, type 2 [Source:HGNC Symbol;Acc:HGNC:6181]	ENSG00000123104	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000154229	PRKCA	protein kinase C, alpha [Source:HGNC Symbol;Acc:HGNC:9393]	ENSG00000154229	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000152556	PFKM	phosphofructokinase, muscle [Source:HGNC Symbol;Acc:HGNC:8877]	ENSG00000152556	GO:0002791	regulation of peptide secretion		green	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0032200	telomere organization		green	En
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	ENSG00000253729	GO:0032200	telomere organization		green	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0032200	telomere organization		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0070527	platelet aggregation		green	En
+ENSG00000116266	STXBP3	syntaxin binding protein 3 [Source:HGNC Symbol;Acc:HGNC:11446]	ENSG00000116266	GO:0070527	platelet aggregation		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0070527	platelet aggregation		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0070527	platelet aggregation		green	En
+ENSG00000259207	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61) [Source:HGNC Symbol;Acc:HGNC:6156]	ENSG00000259207	GO:0070527	platelet aggregation		green	En
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	ENSG00000171557	GO:0005577	fibrinogen complex		green	En
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	ENSG00000171564	GO:0005577	fibrinogen complex		green	En
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	ENSG00000171560	GO:0005577	fibrinogen complex		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0006415	translational termination		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0006415	translational termination		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0006415	translational termination		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0006415	translational termination		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0006415	translational termination		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0006415	translational termination		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0006415	translational termination		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0006415	translational termination		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0006415	translational termination		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0006415	translational termination		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0006415	translational termination		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0006415	translational termination		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0006415	translational termination		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0006415	translational termination		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0006415	translational termination		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0006415	translational termination		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0006414	translational elongation		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0006414	translational elongation		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0006414	translational elongation		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0006414	translational elongation		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0006414	translational elongation		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0006414	translational elongation		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0006414	translational elongation		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0006414	translational elongation		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0006414	translational elongation		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0006414	translational elongation		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0006414	translational elongation		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0006414	translational elongation		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0006414	translational elongation		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0006414	translational elongation		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0006414	translational elongation		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0006414	translational elongation		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0006413	translational initiation		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0006413	translational initiation		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0006413	translational initiation		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0006413	translational initiation		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0006413	translational initiation		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0006413	translational initiation		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0006413	translational initiation		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0006413	translational initiation		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0006413	translational initiation		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0006413	translational initiation		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0006413	translational initiation		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0006413	translational initiation		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0006413	translational initiation		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0006413	translational initiation		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0006413	translational initiation		green	En
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	ENSG00000130741	GO:0006413	translational initiation		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0006413	translational initiation		green	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0006412	translation		green	En
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	ENSG00000174444	GO:0006412	translation		green	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	GO:0006412	translation		green	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	GO:0006412	translation		green	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	GO:0006412	translation		green	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	GO:0006412	translation		green	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0006412	translation		green	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	GO:0006412	translation		green	En
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	ENSG00000147604	GO:0006412	translation		green	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0006412	translation		green	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0006412	translation		green	En
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	ENSG00000174748	GO:0006412	translation		green	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0006412	translation		green	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	GO:0006412	translation		green	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	GO:0006412	translation		green	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	GO:0006412	translation		green	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	GO:0006412	translation		green	En
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	ENSG00000130741	GO:0006412	translation		green	En
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	ENSG00000161016	GO:0006412	translation		green	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0006412	translation		green	En

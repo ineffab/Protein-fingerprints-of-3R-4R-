@@ -1,0 +1,46 @@
+Ensembl	symbol	WikiPathways
+ENSG00000126861	OMG	Spinal Cord Injury:WP2431
+ENSG00000166333	ILK	Eukaryotic Transcription Initiation:WP405
+ENSG00000130702	LAMA5	Focal Adhesion:WP306
+ENSG00000172037	LAMB2	Focal Adhesion:WP306
+ENSG00000135862	LAMC1	Focal Adhesion:WP306
+ENSG00000166333	ILK	Focal Adhesion:WP306
+ENSG00000112769	LAMA4	Focal Adhesion:WP306
+ENSG00000092841	MYL6	Focal Adhesion:WP306
+ENSG00000135862	LAMC1	Endoderm Differentiation:WP2853
+ENSG00000166333	ILK	Integrin-mediated Cell Adhesion:WP185
+ENSG00000084674	APOB	Vitamin B12 Metabolism:WP1533
+ENSG00000162551	ALPL	Endochondral Ossification:WP474
+ENSG00000134202	GSTM3	Metapathway biotransformation:WP702
+ENSG00000053371	AKR7A2	Metapathway biotransformation:WP702
+ENSG00000084674	APOB	Selenium Micronutrient Network:WP15
+ENSG00000162551	ALPL	NOTCH1 regulation of human endothelial cell calcification:WP3413
+ENSG00000162551	ALPL	BDNF signaling pathway:WP2380
+ENSG00000130702	LAMA5	Inflammatory Response Pathway:WP453
+ENSG00000172037	LAMB2	Inflammatory Response Pathway:WP453
+ENSG00000135862	LAMC1	Inflammatory Response Pathway:WP453
+ENSG00000079739	PGM1	Ectoderm Differentiation:WP2858
+ENSG00000130702	LAMA5	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000172037	LAMB2	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000188157	AGRN	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000166333	ILK	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000134202	GSTM3	NRF2 pathway:WP2884
+ENSG00000079739	PGM1	Glucuronidation:WP698
+ENSG00000138413	IDH1	TCA Cycle and PDHc:WP2453
+ENSG00000117298	ECE1	SIDS Susceptibility Pathways:WP706
+ENSG00000138413	IDH1	Glutathione metabolism:WP100
+ENSG00000140545	MFGE8	Extracellular vesicle-mediated signaling in recipient cells:WP2870
+ENSG00000117298	ECE1	Corticotropin-releasing hormone:WP2355
+ENSG00000162551	ALPL	AGE/RAGE pathway:WP2324
+ENSG00000053371	AKR7A2	Aflatoxin B1 metabolism:WP699
+ENSG00000172037	LAMB2	miRNA targets in ECM and membrane receptors:WP2911
+ENSG00000135862	LAMC1	miRNA targets in ECM and membrane receptors:WP2911
+ENSG00000112769	LAMA4	miRNA targets in ECM and membrane receptors:WP2911
+ENSG00000134202	GSTM3	Diurnally Regulated Genes with Circadian Orthologs:WP410
+ENSG00000084674	APOB	Statin Pathway:WP430
+ENSG00000117298	ECE1	Endothelin Pathways:WP2197
+ENSG00000130702	LAMA5	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000172037	LAMB2	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000135862	LAMC1	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000079739	PGM1	Glycogen Metabolism:WP500
+ENSG00000171766	GATM	Urea cycle and metabolism of amino groups:WP497

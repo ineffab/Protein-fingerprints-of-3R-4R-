@@ -1,0 +1,386 @@
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000134308:YWHAQ
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000169032:MAP2K1
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000055130:CUL1
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000104695:PPP2CB
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000213639:PPP1CB
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000143933:CALM2
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000112640:PPP2R5D
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000138814:PPP3CA
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000154001:PPP2R5E
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000164924:YWHAZ
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000128245:YWHAH
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000070808:CAMK2A
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000170027:YWHAG
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000164742:ADCY1
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000107758:PPP3CB
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000142875:PRKACB
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000102882:MAPK3
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000221823:PPP3R1
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000187446:CHP1
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000166913:YWHAB
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000105568:PPP2R1A
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000100030:MAPK1
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000078295:ADCY2
+Oocyte meiosis:KEGG-hsa04114	pr	ENSG00000108953:YWHAE
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000100554:ATP6V1D
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000136888:ATP6V1G1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000114573:ATP6V1A
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000033627:ATP6V0A1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000131100:ATP6V1E1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000047249:ATP6V1H
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000159720:ATP6V0D1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000155097:ATP6V1C1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000213760:ATP6V1G2
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000128524:ATP6V1F
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000147416:ATP6V1B2
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000158290:CUL4B
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000055130:CUL1
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000086758:HUWE1
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000159202:UBE2Z
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000033178:UBA6
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000103266:STUB1
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000108094:CUL2
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000177889:UBE2N
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000175931:UBE2O
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000130985:UBA1
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000144744:UBA3
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000036257:CUL3
+Ubiquitin mediated proteolysis:KEGG-hsa04120	pr	ENSG00000166266:CUL5
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000169032:MAP2K1
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000138814:PPP3CA
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000126934:MAP2K2
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000107758:PPP3CB
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000177885:GRB2
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000102882:MAPK3
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000221823:PPP3R1
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000187446:CHP1
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000077264:PAK3
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000010810:FYN
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000149269:PAK1
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000075711:DLG1
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000100030:MAPK1
+T cell receptor signaling pathway:KEGG-hsa04660	pr	ENSG00000071051:NCK2
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000254087:LYN
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000169032:MAP2K1
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000065559:MAP2K4
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000126934:MAP2K2
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000171132:PRKCE
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000177885:GRB2
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000102882:MAPK3
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000010810:FYN
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000100030:MAPK1
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000109339:MAPK10
+Fc epsilon RI signaling pathway:KEGG-hsa04664	pr	ENSG00000166501:PRKCB
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000087470:DNM1L
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000254087:LYN
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000169032:MAP2K1
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000126583:PRKCG
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000136950:ARPC5L
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000163466:ARPC2
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000106976:DNM1
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000099942:CRKL
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000197959:DNM3
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000112290:WASF1
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000106299:WASL
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000171132:PRKCE
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000102882:MAPK3
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000149269:PAK1
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000165410:CFL2
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000186111:PIP5K1C
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000100030:MAPK1
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000167193:CRK
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000078053:AMPH
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000162704:ARPC5
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000172757:CFL1
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000111229:ARPC3
+Fc gamma R-mediated phagocytosis:KEGG-hsa04666	pr	ENSG00000166501:PRKCB
+Type II diabetes mellitus:KEGG-hsa04930	pr	ENSG00000198793:MTOR
+Type II diabetes mellitus:KEGG-hsa04930	pr	ENSG00000171132:PRKCE
+Type II diabetes mellitus:KEGG-hsa04930	pr	ENSG00000102882:MAPK3
+Type II diabetes mellitus:KEGG-hsa04930	pr	ENSG00000156515:HK1
+Type II diabetes mellitus:KEGG-hsa04930	pr	ENSG00000100030:MAPK1
+Type II diabetes mellitus:KEGG-hsa04930	pr	ENSG00000109339:MAPK10
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000126583:PRKCG
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000100554:ATP6V1D
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000136888:ATP6V1G1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000114573:ATP6V1A
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000033627:ATP6V0A1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000131100:ATP6V1E1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000142875:PRKACB
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000184009:ACTG1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000047249:ATP6V1H
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000064651:SLC12A2
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000159720:ATP6V0D1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000155097:ATP6V1C1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000143761:ARF1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000213760:ATP6V1G2
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000128524:ATP6V1F
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000147416:ATP6V1B2
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000166501:PRKCB
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000137312:FLOT1
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000169032:MAP2K1
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000213639:PPP1CB
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000143933:CALM2
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000099942:CRKL
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000198793:MTOR
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000142949:PTPRF
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000126934:MAP2K2
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000177885:GRB2
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000142875:PRKACB
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000102882:MAPK3
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000156515:HK1
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000005249:PRKAR2B
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000100030:MAPK1
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000132589:FLOT2
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000167193:CRK
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000109339:MAPK10
+Insulin signaling pathway:KEGG-hsa04910	pr	ENSG00000114302:PRKAR2A
+Shigellosis:KEGG-hsa05131	pr	ENSG00000136950:ARPC5L
+Shigellosis:KEGG-hsa05131	pr	ENSG00000163466:ARPC2
+Shigellosis:KEGG-hsa05131	pr	ENSG00000035403:VCL
+Shigellosis:KEGG-hsa05131	pr	ENSG00000099942:CRKL
+Shigellosis:KEGG-hsa05131	pr	ENSG00000112290:WASF1
+Shigellosis:KEGG-hsa05131	pr	ENSG00000070087:PFN2
+Shigellosis:KEGG-hsa05131	pr	ENSG00000106299:WASL
+Shigellosis:KEGG-hsa05131	pr	ENSG00000184009:ACTG1
+Shigellosis:KEGG-hsa05131	pr	ENSG00000102882:MAPK3
+Shigellosis:KEGG-hsa05131	pr	ENSG00000085733:CTTN
+Shigellosis:KEGG-hsa05131	pr	ENSG00000100030:MAPK1
+Shigellosis:KEGG-hsa05131	pr	ENSG00000167193:CRK
+Shigellosis:KEGG-hsa05131	pr	ENSG00000162704:ARPC5
+Shigellosis:KEGG-hsa05131	pr	ENSG00000109339:MAPK10
+Shigellosis:KEGG-hsa05131	pr	ENSG00000111229:ARPC3
+Shigellosis:KEGG-hsa05131	pr	ENSG00000134318:ROCK2
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000100554:ATP6V1D
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000136888:ATP6V1G1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000114573:ATP6V1A
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000033627:ATP6V0A1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000131100:ATP6V1E1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000159720:ATP6V0D1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000155097:ATP6V1C1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000213760:ATP6V1G2
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000128524:ATP6V1F
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000147416:ATP6V1B2
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000254087:LYN
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000169032:MAP2K1
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000138814:PPP3CA
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000126934:MAP2K2
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000107758:PPP3CB
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000177885:GRB2
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000102882:MAPK3
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000221823:PPP3R1
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000187446:CHP1
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000100030:MAPK1
+B cell receptor signaling pathway:KEGG-hsa04662	pr	ENSG00000166501:PRKCB
+Endocytosis:KEGG-hsa04144	pr	ENSG00000124209:RAB22A
+Endocytosis:KEGG-hsa04144	pr	ENSG00000087470:DNM1L
+Endocytosis:KEGG-hsa04144	pr	ENSG00000175416:CLTB
+Endocytosis:KEGG-hsa04144	pr	ENSG00000074319:TSG101
+Endocytosis:KEGG-hsa04144	pr	ENSG00000183020:AP2A2
+Endocytosis:KEGG-hsa04144	pr	ENSG00000156011:PSD3
+Endocytosis:KEGG-hsa04144	pr	ENSG00000009844:VTA1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000196961:AP2A1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000170248:PDCD6IP
+Endocytosis:KEGG-hsa04144	pr	ENSG00000106976:DNM1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000168461:RAB31
+Endocytosis:KEGG-hsa04144	pr	ENSG00000132612:VPS4A
+Endocytosis:KEGG-hsa04144	pr	ENSG00000140600:SH3GL3
+Endocytosis:KEGG-hsa04144	pr	ENSG00000108262:GIT1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000197959:DNM3
+Endocytosis:KEGG-hsa04144	pr	ENSG00000148341:SH3GLB2
+Endocytosis:KEGG-hsa04144	pr	ENSG00000161203:AP2M1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000141985:SH3GL1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000136631:VPS45
+Endocytosis:KEGG-hsa04144	pr	ENSG00000101421:CHMP4B
+Endocytosis:KEGG-hsa04144	pr	ENSG00000006125:AP2B1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000131475:VPS25
+Endocytosis:KEGG-hsa04144	pr	ENSG00000029725:RABEP1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000144711:IQSEC1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000063245:EPN1
+Endocytosis:KEGG-hsa04144	pr	ENSG00000122705:CLTA
+Endocytosis:KEGG-hsa04144	pr	ENSG00000107295:SH3GL2
+Endocytosis:KEGG-hsa04144	pr	ENSG00000141367:CLTC
+Endocytosis:KEGG-hsa04144	pr	ENSG00000186111:PIP5K1C
+Endocytosis:KEGG-hsa04144	pr	ENSG00000116675:DNAJC6
+Endocytosis:KEGG-hsa04144	pr	ENSG00000013016:EHD3
+Endocytosis:KEGG-hsa04144	pr	ENSG00000136738:STAM
+Endocytosis:KEGG-hsa04144	pr	ENSG00000185359:HGS
+Endocytosis:KEGG-hsa04144	pr	ENSG00000097033:SH3GLB1
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000169032:MAP2K1
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000126583:PRKCG
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000065559:MAP2K4
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000099942:CRKL
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000198793:MTOR
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000126934:MAP2K2
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000070808:CAMK2A
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000177885:GRB2
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000102882:MAPK3
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000077264:PAK3
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000149269:PAK1
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000100030:MAPK1
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000167193:CRK
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000109339:MAPK10
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000166501:PRKCB
+ErbB signaling pathway:KEGG-hsa04012	pr	ENSG00000071051:NCK2
+Axon guidance:KEGG-hsa04360	pr	ENSG00000116106:EPHA4
+Axon guidance:KEGG-hsa04360	pr	ENSG00000133216:EPHB2
+Axon guidance:KEGG-hsa04360	pr	ENSG00000138814:PPP3CA
+Axon guidance:KEGG-hsa04360	pr	ENSG00000127955:GNAI1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000107758:PPP3CB
+Axon guidance:KEGG-hsa04360	pr	ENSG00000102882:MAPK3
+Axon guidance:KEGG-hsa04360	pr	ENSG00000221823:PPP3R1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000187446:CHP1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000077264:PAK3
+Axon guidance:KEGG-hsa04360	pr	ENSG00000010810:FYN
+Axon guidance:KEGG-hsa04360	pr	ENSG00000266028:SRGAP2
+Axon guidance:KEGG-hsa04360	pr	ENSG00000136040:PLXNC1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000149269:PAK1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000165410:CFL2
+Axon guidance:KEGG-hsa04360	pr	ENSG00000196220:SRGAP3
+Axon guidance:KEGG-hsa04360	pr	ENSG00000100030:MAPK1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000114554:PLXNA1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000172757:CFL1
+Axon guidance:KEGG-hsa04360	pr	ENSG00000196914:ARHGEF12
+Axon guidance:KEGG-hsa04360	pr	ENSG00000164885:CDK5
+Axon guidance:KEGG-hsa04360	pr	ENSG00000076356:PLXNA2
+Axon guidance:KEGG-hsa04360	pr	ENSG00000134318:ROCK2
+Axon guidance:KEGG-hsa04360	pr	ENSG00000071051:NCK2
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000254087:LYN
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000100554:ATP6V1D
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000065559:MAP2K4
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000136888:ATP6V1G1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000108262:GIT1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000114573:ATP6V1A
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000033627:ATP6V0A1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000131100:ATP6V1E1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000047249:ATP6V1H
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000179295:PTPN11
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000159720:ATP6V0D1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000155097:ATP6V1C1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000149269:PAK1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000213760:ATP6V1G2
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000109339:MAPK10
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000128524:ATP6V1F
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000147416:ATP6V1B2
+NOD-like receptor signaling pathway:KEGG-hsa04621	pr	ENSG00000080824:HSP90AA1
+NOD-like receptor signaling pathway:KEGG-hsa04621	pr	ENSG00000102882:MAPK3
+NOD-like receptor signaling pathway:KEGG-hsa04621	pr	ENSG00000165416:SUGT1
+NOD-like receptor signaling pathway:KEGG-hsa04621	pr	ENSG00000100030:MAPK1
+NOD-like receptor signaling pathway:KEGG-hsa04621	pr	ENSG00000109339:MAPK10
+NOD-like receptor signaling pathway:KEGG-hsa04621	pr	ENSG00000096384:HSP90AB1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000087470:DNM1L
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000175416:CLTB
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000126583:PRKCG
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000183023:SLC8A1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000183020:AP2A2
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000196961:AP2A1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000106976:DNM1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000197959:DNM3
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000161203:AP2M1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000006125:AP2B1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000163399:ATP1A1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000142875:PRKACB
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000122705:CLTA
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000069849:ATP1B3
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000141367:CLTC
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000070961:ATP2B1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000182621:PLCB1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000104327:CALB1
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000166501:PRKCB
+Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961	pr	ENSG00000018625:ATP1A2
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000134308:YWHAQ
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000136950:ARPC5L
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000163466:ARPC2
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000137267:TUBB2A
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000258947:TUBB3
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000164924:YWHAZ
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000106299:WASL
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000104833:TUBB4A
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000188229:TUBB4B
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000196230:TUBB
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000116584:ARHGEF2
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000123416:TUBA1B
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000184009:ACTG1
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000127824:TUBA4A
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000010810:FYN
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000085733:CTTN
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000162704:ARPC5
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000111229:ARPC3
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000134318:ROCK2
+Pathogenic Escherichia coli infection:KEGG-hsa05130	pr	ENSG00000071051:NCK2
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000169032:MAP2K1
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000099942:CRKL
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000126934:MAP2K2
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000177885:GRB2
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000102882:MAPK3
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000179295:PTPN11
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000100030:MAPK1
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000167193:CRK
+Chronic myeloid leukemia:KEGG-hsa05220	pr	ENSG00000159692:CTBP1
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000169032:MAP2K1
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000080824:HSP90AA1
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000164742:ADCY1
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000127955:GNAI1
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000142875:PRKACB
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000102882:MAPK3
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000100030:MAPK1
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000078295:ADCY2
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000109339:MAPK10
+Progesterone-mediated oocyte maturation:KEGG-hsa04914	pr	ENSG00000096384:HSP90AB1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000126583:PRKCG
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000138814:PPP3CA
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000164742:ADCY1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000110436:SLC1A2
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000127955:GNAI1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000107758:PPP3CB
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000142875:PRKACB
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000102882:MAPK3
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000221823:PPP3R1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000186469:GNG2
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000187446:CHP1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000168243:GNG4
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000152413:HOMER1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000172354:GNB2
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000198822:GRM3
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000100030:MAPK1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000078295:ADCY2
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000182621:PLCB1
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000132535:DLG4
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000069966:GNB5
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000166501:PRKCB
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000104888:SLC17A7
+Glutamatergic synapse:KEGG-hsa04724	pr	ENSG00000164082:GRM2
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000169032:MAP2K1
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000126583:PRKCG
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000138814:PPP3CA
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000126934:MAP2K2
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000107758:PPP3CB
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000177885:GRB2
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000102882:MAPK3
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000221823:PPP3R1
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000179295:PTPN11
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000187446:CHP1
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000010810:FYN
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000149269:PAK1
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000100030:MAPK1
+Natural killer cell mediated cytotoxicity:KEGG-hsa04650	pr	ENSG00000166501:PRKCB
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000126583:PRKCG
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000055130:CUL1
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000104695:PPP2CB
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000112640:PPP2R5D
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000138814:PPP3CA
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000154001:PPP2R5E
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000070808:CAMK2A
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000107758:PPP3CB
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000101266:CSNK2A1
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000116161:CACYBP
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000142875:PRKACB
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000221823:PPP3R1
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000187446:CHP1
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000105568:PPP2R1A
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000182621:PLCB1
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000109339:MAPK10
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000159692:CTBP1
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000070770:CSNK2A2
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000166501:PRKCB
+Wnt signaling pathway:KEGG-hsa04310	pr	ENSG00000134318:ROCK2

@@ -1,0 +1,86 @@
+Ensembl	symbol	KEGG
+ENSG00000130702	LAMA5	Pathways in cancer:KEGG-hsa05200
+ENSG00000172037	LAMB2	Pathways in cancer:KEGG-hsa05200
+ENSG00000135862	LAMC1	Pathways in cancer:KEGG-hsa05200
+ENSG00000112769	LAMA4	Pathways in cancer:KEGG-hsa05200
+ENSG00000138413	IDH1	Citrate cycle (TCA cycle):KEGG-hsa00020
+ENSG00000204388	HSPA1B	Endocytosis:KEGG-hsa04144
+ENSG00000102189	EEA1	Endocytosis:KEGG-hsa04144
+ENSG00000233276	GPX1	Amyotrophic lateral sclerosis (ALS):KEGG-hsa05014
+ENSG00000133392	MYH11	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000092841	MYL6	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000130702	LAMA5	Small cell lung cancer:KEGG-hsa05222
+ENSG00000172037	LAMB2	Small cell lung cancer:KEGG-hsa05222
+ENSG00000135862	LAMC1	Small cell lung cancer:KEGG-hsa05222
+ENSG00000112769	LAMA4	Small cell lung cancer:KEGG-hsa05222
+ENSG00000166333	ILK	Endometrial cancer:KEGG-hsa05213
+ENSG00000233276	GPX1	Huntington's disease:KEGG-hsa05016
+ENSG00000131471	AOC3	beta-Alanine metabolism:KEGG-hsa00410
+ENSG00000134202	GSTM3	Metabolism of xenobiotics by cytochrome P450:KEGG-hsa00980
+ENSG00000079739	PGM1	Starch and sucrose metabolism:KEGG-hsa00500
+ENSG00000079739	PGM1	Purine metabolism:KEGG-hsa00230
+ENSG00000134202	GSTM3	Glutathione metabolism:KEGG-hsa00480
+ENSG00000233276	GPX1	Glutathione metabolism:KEGG-hsa00480
+ENSG00000138413	IDH1	Glutathione metabolism:KEGG-hsa00480
+ENSG00000138413	IDH1	Peroxisome:KEGG-hsa04146
+ENSG00000084674	APOB	Vitamin digestion and absorption:KEGG-hsa04977
+ENSG00000166333	ILK	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000204388	HSPA1B	Spliceosome:KEGG-hsa03040
+ENSG00000204388	HSPA1B	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000134575	ACP2	Riboflavin metabolism:KEGG-hsa00740
+ENSG00000131471	AOC3	Glycine, serine and threonine metabolism:KEGG-hsa00260
+ENSG00000171766	GATM	Glycine, serine and threonine metabolism:KEGG-hsa00260
+ENSG00000133392	MYH11	Viral myocarditis:KEGG-hsa05416
+ENSG00000079739	PGM1	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000204388	HSPA1B	Measles:KEGG-hsa05162
+ENSG00000082212	ME2	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000134202	GSTM3	Drug metabolism - cytochrome P450:KEGG-hsa00982
+ENSG00000167986	DDB1	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000167986	DDB1	Nucleotide excision repair:KEGG-hsa03420
+ENSG00000175198	PCCA	Valine, leucine and isoleucine degradation:KEGG-hsa00280
+ENSG00000166333	ILK	PPAR signaling pathway:KEGG-hsa03320
+ENSG00000131471	AOC3	Tyrosine metabolism:KEGG-hsa00350
+ENSG00000103876	FAH	Tyrosine metabolism:KEGG-hsa00350
+ENSG00000130702	LAMA5	Focal adhesion:KEGG-hsa04510
+ENSG00000172037	LAMB2	Focal adhesion:KEGG-hsa04510
+ENSG00000135862	LAMC1	Focal adhesion:KEGG-hsa04510
+ENSG00000166333	ILK	Focal adhesion:KEGG-hsa04510
+ENSG00000112769	LAMA4	Focal adhesion:KEGG-hsa04510
+ENSG00000175198	PCCA	Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630
+ENSG00000162551	ALPL	Folate biosynthesis:KEGG-hsa00790
+ENSG00000204388	HSPA1B	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000204388	HSPA1B	Prion diseases:KEGG-hsa05020
+ENSG00000135862	LAMC1	Prion diseases:KEGG-hsa05020
+ENSG00000134575	ACP2	Lysosome:KEGG-hsa04142
+ENSG00000079739	PGM1	Galactose metabolism:KEGG-hsa00052
+ENSG00000133392	MYH11	Tight junction:KEGG-hsa04530
+ENSG00000159423	ALDH4A1	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000243989	ACY1	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000171766	GATM	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000204388	HSPA1B	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000233276	GPX1	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000131471	AOC3	Phenylalanine metabolism:KEGG-hsa00360
+ENSG00000130702	LAMA5	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000172037	LAMB2	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000142798	HSPG2	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000135862	LAMC1	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000188157	AGRN	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000112769	LAMA4	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000102189	EEA1	Phagosome:KEGG-hsa04145
+ENSG00000112769	LAMA4	African trypanosomiasis:KEGG-hsa05143
+ENSG00000130702	LAMA5	Toxoplasmosis:KEGG-hsa05145
+ENSG00000172037	LAMB2	Toxoplasmosis:KEGG-hsa05145
+ENSG00000204388	HSPA1B	Toxoplasmosis:KEGG-hsa05145
+ENSG00000135862	LAMC1	Toxoplasmosis:KEGG-hsa05145
+ENSG00000112769	LAMA4	Toxoplasmosis:KEGG-hsa05145
+ENSG00000159423	ALDH4A1	Alanine, aspartate and glutamate metabolism:KEGG-hsa00250
+ENSG00000130702	LAMA5	Amoebiasis:KEGG-hsa05146
+ENSG00000172037	LAMB2	Amoebiasis:KEGG-hsa05146
+ENSG00000135862	LAMC1	Amoebiasis:KEGG-hsa05146
+ENSG00000112769	LAMA4	Amoebiasis:KEGG-hsa05146
+ENSG00000084674	APOB	Fat digestion and absorption:KEGG-hsa04975
+ENSG00000111058	ACSS3	Propanoate metabolism:KEGG-hsa00640
+ENSG00000175198	PCCA	Propanoate metabolism:KEGG-hsa00640
+ENSG00000079739	PGM1	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000102189	EEA1	Tuberculosis:KEGG-hsa05152
+ENSG00000079739	PGM1	Amino sugar and nucleotide sugar metabolism:KEGG-hsa00520

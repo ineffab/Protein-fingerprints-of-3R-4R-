@@ -1,0 +1,8 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	1	0.5	ENSG00000197971	Glial Cell Differentiation:WP2276
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	1	0.5	ENSG00000173786	Glial Cell Differentiation:WP2276
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	1	0.5	ENSG00000168036	Ectoderm Differentiation:WP2858
+ENSG00000124570	SERPINB6	serpin peptidase inhibitor, clade B (ovalbumin), member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	1	0.5	ENSG00000124570	Ectoderm Differentiation:WP2858
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	1	0.5	ENSG00000123560	Glial Cell Differentiation:WP2276
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	1	0.5	ENSG00000105695	Glial Cell Differentiation:WP2276
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	1	0.5	ENSG00000066032	Ectoderm Differentiation:WP2858

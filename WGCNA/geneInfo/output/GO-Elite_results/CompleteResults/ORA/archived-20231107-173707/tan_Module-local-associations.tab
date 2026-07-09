@@ -1,0 +1,74 @@
+Ensembl	symbol	WikiPathways
+ENSG00000111640	GAPDH	Cori Cycle:WP1946
+ENSG00000072110	ACTN1	Focal Adhesion:WP306
+ENSG00000167468	GPX4	Selenium Metabolism and Selenoproteins:WP28
+ENSG00000127884	ECHS1	Fatty Acid Biosynthesis:WP357
+ENSG00000138796	HADH	Fatty Acid Biosynthesis:WP357
+ENSG00000104823	ECH1	Fatty Acid Biosynthesis:WP357
+ENSG00000104325	DECR1	Fatty Acid Biosynthesis:WP357
+ENSG00000104687	GSR	Metapathway biotransformation:WP702
+ENSG00000167468	GPX4	Metapathway biotransformation:WP702
+ENSG00000104687	GSR	Selenium Micronutrient Network:WP15
+ENSG00000167815	PRDX2	Selenium Micronutrient Network:WP15
+ENSG00000167468	GPX4	Selenium Micronutrient Network:WP15
+ENSG00000116288	PARK7	Androgen receptor signaling pathway:WP138
+ENSG00000072110	ACTN1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000169764	UGP2	Diurnally Regulated Genes with Circadian Orthologs:WP410
+ENSG00000072110	ACTN1	Regulation of Actin Cytoskeleton:WP51
+ENSG00000111640	GAPDH	Glycolysis and Gluconeogenesis:WP534
+ENSG00000067225	PKM	Glycolysis and Gluconeogenesis:WP534
+ENSG00000111716	LDHB	Glycolysis and Gluconeogenesis:WP534
+ENSG00000091140	DLD	Glycolysis and Gluconeogenesis:WP534
+ENSG00000074800	ENO1	Glycolysis and Gluconeogenesis:WP534
+ENSG00000125166	GOT2	Glycolysis and Gluconeogenesis:WP534
+ENSG00000146701	MDH2	Glycolysis and Gluconeogenesis:WP534
+ENSG00000185627	PSMD13	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000165916	PSMC3	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000113013	HSPA9	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000167468	GPX4	Folate Metabolism:WP176
+ENSG00000075239	ACAT1	Tryptophan metabolism:WP465
+ENSG00000127884	ECHS1	Tryptophan metabolism:WP465
+ENSG00000138796	HADH	Tryptophan metabolism:WP465
+ENSG00000111275	ALDH2	Tryptophan metabolism:WP465
+ENSG00000186432	KPNA4	Leptin signaling pathway:WP2034
+ENSG00000183044	ABAT	Alanine and aspartate metabolism:WP106
+ENSG00000125166	GOT2	Alanine and aspartate metabolism:WP106
+ENSG00000075239	ACAT1	Fatty Acid Beta Oxidation:WP143
+ENSG00000127884	ECHS1	Fatty Acid Beta Oxidation:WP143
+ENSG00000138796	HADH	Fatty Acid Beta Oxidation:WP143
+ENSG00000104325	DECR1	Fatty Acid Beta Oxidation:WP143
+ENSG00000091140	DLD	Fatty Acid Beta Oxidation:WP143
+ENSG00000104687	GSR	NRF2 pathway:WP2884
+ENSG00000169764	UGP2	Glucuronidation:WP698
+ENSG00000116288	PARK7	Synaptic Vesicle Pathway:WP2267
+ENSG00000091140	DLD	TCA Cycle and PDHc:WP2453
+ENSG00000111640	GAPDH	SIDS Susceptibility Pathways:WP706
+ENSG00000008018	PSMB1	Proteasome Degradation:WP183
+ENSG00000185627	PSMD13	Proteasome Degradation:WP183
+ENSG00000106588	PSMA2	Proteasome Degradation:WP183
+ENSG00000165916	PSMC3	Proteasome Degradation:WP183
+ENSG00000129084	PSMA1	Proteasome Degradation:WP183
+ENSG00000100902	PSMA6	Proteasome Degradation:WP183
+ENSG00000136930	PSMB7	Proteasome Degradation:WP183
+ENSG00000143106	PSMA5	Proteasome Degradation:WP183
+ENSG00000100567	PSMA3	Proteasome Degradation:WP183
+ENSG00000126067	PSMB2	Proteasome Degradation:WP183
+ENSG00000101182	PSMA7	Proteasome Degradation:WP183
+ENSG00000138796	HADH	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+ENSG00000198755	RPL10A	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000188846	RPL14	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000091140	DLD	TCA Cycle:WP78
+ENSG00000100412	ACO2	TCA Cycle:WP78
+ENSG00000146701	MDH2	TCA Cycle:WP78
+ENSG00000169764	UGP2	Glycogen Metabolism:WP500
+ENSG00000111275	ALDH2	Fatty Acid Omega Oxidation:WP206
+ENSG00000103257	SLC7A5	Aryl Hydrocarbon Receptor Pathway:WP2873
+ENSG00000075239	ACAT1	Synthesis and Degradation of Ketone Bodies:WP311
+ENSG00000116288	PARK7	Parkinsons Disease Pathway:WP2371
+ENSG00000111640	GAPDH	Alzheimers Disease:WP2059
+ENSG00000104687	GSR	Sulfation Biotransformation Reaction:WP692
+ENSG00000143621	ILF2	B Cell Receptor Signaling Pathway:WP23
+ENSG00000104687	GSR	Oxidative Stress:WP408
+ENSG00000104687	GSR	Glutathione metabolism:WP100
+ENSG00000167468	GPX4	Glutathione metabolism:WP100
+ENSG00000148672	GLUD1	Urea cycle and metabolism of amino groups:WP497

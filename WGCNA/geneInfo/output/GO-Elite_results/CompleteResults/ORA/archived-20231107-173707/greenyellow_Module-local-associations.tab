@@ -1,0 +1,55 @@
+Ensembl	symbol	WikiPathways
+ENSG00000111669	TPI1	Cori Cycle:WP1946
+ENSG00000160211	G6PD	Cori Cycle:WP1946
+ENSG00000102144	PGK1	Cori Cycle:WP1946
+ENSG00000162734	PEA15	Apoptosis Modulation and Signaling:WP1772
+ENSG00000100442	FKBP3	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000135932	CAB39	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000135932	CAB39	Endochondral Ossification:WP474
+ENSG00000148834	GSTO1	Metapathway biotransformation:WP702
+ENSG00000108439	PNPO	Selenium Micronutrient Network:WP15
+ENSG00000160752	FDPS	SREBP signalling:WP1982
+ENSG00000014641	MDH1	SREBP signalling:WP1982
+ENSG00000108518	PFN1	Regulation of Actin Cytoskeleton:WP51
+ENSG00000160752	FDPS	Cholesterol Biosynthesis:WP197
+ENSG00000011052	NME2	Nucleotide Metabolism:WP404
+ENSG00000159251	ACTC1	Striated Muscle Contraction:WP383
+ENSG00000120053	GOT1	Alanine and aspartate metabolism:WP106
+ENSG00000111669	TPI1	Fatty Acid Beta Oxidation:WP143
+ENSG00000160211	G6PD	NRF2 pathway:WP2884
+ENSG00000133731	IMPA1	Integrated Breast Cancer Pathway:WP1984
+ENSG00000203879	GDI1	Integrated Breast Cancer Pathway:WP1984
+ENSG00000014641	MDH1	TCA Cycle and PDHc:WP2453
+ENSG00000149925	ALDOA	SIDS Susceptibility Pathways:WP706
+ENSG00000135932	CAB39	AMPK Signaling:WP1403
+ENSG00000120053	GOT1	Trans-sulfuration pathway:WP2333
+ENSG00000091844	RGS17	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000170606	HSPA4	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000185651	UBE2L3	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000109971	HSPA8	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000108518	PFN1	G13 Signaling Pathway:WP524
+ENSG00000014641	MDH1	Glycolysis and Gluconeogenesis:WP534
+ENSG00000111669	TPI1	Glycolysis and Gluconeogenesis:WP534
+ENSG00000102144	PGK1	Glycolysis and Gluconeogenesis:WP534
+ENSG00000120053	GOT1	Glycolysis and Gluconeogenesis:WP534
+ENSG00000111674	ENO2	Glycolysis and Gluconeogenesis:WP534
+ENSG00000149925	ALDOA	Glycolysis and Gluconeogenesis:WP534
+ENSG00000175792	RUVBL1	Gastric Cancer Network 1:WP2361
+ENSG00000113558	SKP1	Notch Signaling Pathway:WP61
+ENSG00000162736	NCSTN	Notch Signaling Pathway:WP61
+ENSG00000109971	HSPA8	Diurnally Regulated Genes with Circadian Orthologs:WP410
+ENSG00000089220	PEBP1	EGF/EGFR Signaling Pathway:WP437
+ENSG00000159251	ACTC1	Cardiac Progenitor Differentiation:WP2406
+ENSG00000185651	UBE2L3	Parkinsons Disease Pathway:WP2371
+ENSG00000113558	SKP1	TGF beta Signaling Pathway:WP366
+ENSG00000162736	NCSTN	Alzheimers Disease:WP2059
+ENSG00000148834	GSTO1	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000159251	ACTC1	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000091844	RGS17	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000160211	G6PD	Sulfation Biotransformation Reaction:WP692
+ENSG00000109971	HSPA8	MAPK Signaling Pathway:WP382
+ENSG00000113558	SKP1	BCL-XL prevents the binding of truncated BID to BAX. This is prevented by BAD. BAD can displace tBID from BCL-XL.   :WP231
+ENSG00000160211	G6PD	Glutathione metabolism:WP100
+ENSG00000160211	G6PD	Pentose Phosphate Pathway:WP134
+ENSG00000084623	EIF3I	Translation Factors:WP107
+ENSG00000162736	NCSTN	Notch Signaling Pathway:WP268

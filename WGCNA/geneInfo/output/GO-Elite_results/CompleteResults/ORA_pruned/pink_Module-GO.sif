@@ -1,0 +1,232 @@
+proteasome regulatory particle	pr	ENSG00000173692:PSMD1
+proteasome regulatory particle	pr	ENSG00000108344:PSMD3
+proteasome regulatory particle	pr	ENSG00000103035:PSMD7
+chaperonin-containing T-complex	pr	ENSG00000115484:CCT4
+chaperonin-containing T-complex	pr	ENSG00000146731:CCT6A
+chaperonin-containing T-complex	pr	ENSG00000163468:CCT3
+chaperonin-containing T-complex	pr	ENSG00000120438:TCP1
+ATP hydrolysis coupled proton transport	pr	ENSG00000114573:ATP6V1A
+ATP hydrolysis coupled proton transport	pr	ENSG00000159720:ATP6V0D1
+ATP hydrolysis coupled proton transport	pr	ENSG00000155097:ATP6V1C1
+ATP hydrolysis coupled proton transport	pr	ENSG00000128524:ATP6V1F
+ATP hydrolysis coupled proton transport	pr	ENSG00000131100:ATP6V1E1
+ATP hydrolysis coupled proton transport	pr	ENSG00000147416:ATP6V1B2
+ATP hydrolysis coupled proton transport	pr	ENSG00000047249:ATP6V1H
+ATP hydrolysis coupled proton transport	pr	ENSG00000033627:ATP6V0A1
+synaptic vesicle membrane	pr	ENSG00000104888:SLC17A7
+synaptic vesicle membrane	pr	ENSG00000159164:SV2A
+synaptic vesicle membrane	pr	ENSG00000185518:SV2B
+synaptic vesicle membrane	pr	ENSG00000102003:SYP
+synaptic vesicle membrane	pr	ENSG00000197106:SLC6A17
+synaptic vesicle	pr	ENSG00000104888:SLC17A7
+synaptic vesicle	pr	ENSG00000159164:SV2A
+synaptic vesicle	pr	ENSG00000185518:SV2B
+synaptic vesicle	pr	ENSG00000102003:SYP
+synaptic vesicle	pr	ENSG00000182985:CADM1
+synaptic vesicle	pr	ENSG00000159720:ATP6V0D1
+synaptic vesicle	pr	ENSG00000197106:SLC6A17
+insulin receptor signaling pathway	pr	ENSG00000114573:ATP6V1A
+insulin receptor signaling pathway	pr	ENSG00000159720:ATP6V0D1
+insulin receptor signaling pathway	pr	ENSG00000155097:ATP6V1C1
+insulin receptor signaling pathway	pr	ENSG00000128524:ATP6V1F
+insulin receptor signaling pathway	pr	ENSG00000213760:ATP6V1G2
+insulin receptor signaling pathway	pr	ENSG00000131100:ATP6V1E1
+insulin receptor signaling pathway	pr	ENSG00000147416:ATP6V1B2
+insulin receptor signaling pathway	pr	ENSG00000047249:ATP6V1H
+insulin receptor signaling pathway	pr	ENSG00000033627:ATP6V0A1
+hydrogen-exporting ATPase activity	pr	ENSG00000114573:ATP6V1A
+hydrogen-exporting ATPase activity	pr	ENSG00000159720:ATP6V0D1
+hydrogen-exporting ATPase activity	pr	ENSG00000155097:ATP6V1C1
+hydrogen-exporting ATPase activity	pr	ENSG00000128524:ATP6V1F
+hydrogen-exporting ATPase activity	pr	ENSG00000131100:ATP6V1E1
+hydrogen-exporting ATPase activity	pr	ENSG00000147416:ATP6V1B2
+hydrogen-exporting ATPase activity	pr	ENSG00000047249:ATP6V1H
+clathrin-coated vesicle membrane	pr	ENSG00000104888:SLC17A7
+clathrin-coated vesicle membrane	pr	ENSG00000141367:CLTC
+clathrin-coated vesicle membrane	pr	ENSG00000122705:CLTA
+endocytic vesicle membrane	pr	ENSG00000070808:CAMK2A
+endocytic vesicle membrane	pr	ENSG00000075785:RAB7A
+endocytic vesicle membrane	pr	ENSG00000159720:ATP6V0D1
+endocytic vesicle membrane	pr	ENSG00000141367:CLTC
+endocytic vesicle membrane	pr	ENSG00000033627:ATP6V0A1
+endocytic vesicle membrane	pr	ENSG00000122705:CLTA
+poly(A) RNA binding	pr	ENSG00000115484:CCT4
+poly(A) RNA binding	pr	ENSG00000069275:NUCKS1
+poly(A) RNA binding	pr	ENSG00000088247:KHSRP
+poly(A) RNA binding	pr	ENSG00000115306:SPTBN1
+poly(A) RNA binding	pr	ENSG00000146731:CCT6A
+poly(A) RNA binding	pr	ENSG00000171530:TBCA
+poly(A) RNA binding	pr	ENSG00000141367:CLTC
+poly(A) RNA binding	pr	ENSG00000156110:ADK
+poly(A) RNA binding	pr	ENSG00000156976:EIF4A2
+poly(A) RNA binding	pr	ENSG00000163468:CCT3
+poly(A) RNA binding	pr	ENSG00000197535:MYO5A
+poly(A) RNA binding	pr	ENSG00000120438:TCP1
+poly(A) RNA binding	pr	ENSG00000132341:RAN
+phagosome maturation	pr	ENSG00000114573:ATP6V1A
+phagosome maturation	pr	ENSG00000075785:RAB7A
+phagosome maturation	pr	ENSG00000159720:ATP6V0D1
+phagosome maturation	pr	ENSG00000155097:ATP6V1C1
+phagosome maturation	pr	ENSG00000128524:ATP6V1F
+phagosome maturation	pr	ENSG00000213760:ATP6V1G2
+phagosome maturation	pr	ENSG00000131100:ATP6V1E1
+phagosome maturation	pr	ENSG00000147416:ATP6V1B2
+phagosome maturation	pr	ENSG00000047249:ATP6V1H
+phagosome maturation	pr	ENSG00000033627:ATP6V0A1
+zona pellucida receptor complex	pr	ENSG00000115484:CCT4
+zona pellucida receptor complex	pr	ENSG00000146731:CCT6A
+zona pellucida receptor complex	pr	ENSG00000163468:CCT3
+zona pellucida receptor complex	pr	ENSG00000120438:TCP1
+microvillus	pr	ENSG00000114573:ATP6V1A
+microvillus	pr	ENSG00000131100:ATP6V1E1
+microvillus	pr	ENSG00000147416:ATP6V1B2
+mitotic cell cycle process	pr	ENSG00000138107:ACTR1A
+mitotic cell cycle process	pr	ENSG00000070808:CAMK2A
+mitotic cell cycle process	pr	ENSG00000115306:SPTBN1
+mitotic cell cycle process	pr	ENSG00000173692:PSMD1
+mitotic cell cycle process	pr	ENSG00000141367:CLTC
+mitotic cell cycle process	pr	ENSG00000108344:PSMD3
+mitotic cell cycle process	pr	ENSG00000103035:PSMD7
+mitotic cell cycle process	pr	ENSG00000132341:RAN
+neurotransmitter transport	pr	ENSG00000104888:SLC17A7
+neurotransmitter transport	pr	ENSG00000159164:SV2A
+neurotransmitter transport	pr	ENSG00000185518:SV2B
+neurotransmitter transport	pr	ENSG00000021645:NRXN3
+neurotransmitter transport	pr	ENSG00000197106:SLC6A17
+proton-transporting two-sector ATPase complex	pr	ENSG00000114573:ATP6V1A
+proton-transporting two-sector ATPase complex	pr	ENSG00000159720:ATP6V0D1
+proton-transporting two-sector ATPase complex	pr	ENSG00000155097:ATP6V1C1
+proton-transporting two-sector ATPase complex	pr	ENSG00000128524:ATP6V1F
+proton-transporting two-sector ATPase complex	pr	ENSG00000213760:ATP6V1G2
+proton-transporting two-sector ATPase complex	pr	ENSG00000131100:ATP6V1E1
+ATP binding	pr	ENSG00000115073:ACTR1B
+ATP binding	pr	ENSG00000114573:ATP6V1A
+ATP binding	pr	ENSG00000138107:ACTR1A
+ATP binding	pr	ENSG00000115484:CCT4
+ATP binding	pr	ENSG00000070808:CAMK2A
+ATP binding	pr	ENSG00000146731:CCT6A
+ATP binding	pr	ENSG00000075785:RAB7A
+ATP binding	pr	ENSG00000156110:ADK
+ATP binding	pr	ENSG00000156976:EIF4A2
+ATP binding	pr	ENSG00000163468:CCT3
+ATP binding	pr	ENSG00000124406:ATP8A1
+ATP binding	pr	ENSG00000197535:MYO5A
+ATP binding	pr	ENSG00000147416:ATP6V1B2
+ATP binding	pr	ENSG00000120438:TCP1
+ATP binding	pr	ENSG00000116120:FARSB
+chromatin	pr	ENSG00000132471:WBP2
+chromatin	pr	ENSG00000120438:TCP1
+chromatin	pr	ENSG00000132341:RAN
+'de novo' posttranslational protein folding	pr	ENSG00000115484:CCT4
+'de novo' posttranslational protein folding	pr	ENSG00000146731:CCT6A
+'de novo' posttranslational protein folding	pr	ENSG00000171530:TBCA
+'de novo' posttranslational protein folding	pr	ENSG00000163468:CCT3
+'de novo' posttranslational protein folding	pr	ENSG00000120438:TCP1
+unfolded protein binding	pr	ENSG00000115484:CCT4
+unfolded protein binding	pr	ENSG00000146731:CCT6A
+unfolded protein binding	pr	ENSG00000171530:TBCA
+unfolded protein binding	pr	ENSG00000163468:CCT3
+unfolded protein binding	pr	ENSG00000120438:TCP1
+binding of sperm to zona pellucida	pr	ENSG00000115484:CCT4
+binding of sperm to zona pellucida	pr	ENSG00000146731:CCT6A
+binding of sperm to zona pellucida	pr	ENSG00000163468:CCT3
+binding of sperm to zona pellucida	pr	ENSG00000120438:TCP1
+nuclear part	pr	ENSG00000111911:HINT3
+nuclear part	pr	ENSG00000107317:PTGDS
+nuclear part	pr	ENSG00000070808:CAMK2A
+nuclear part	pr	ENSG00000088247:KHSRP
+nuclear part	pr	ENSG00000115306:SPTBN1
+nuclear part	pr	ENSG00000173692:PSMD1
+nuclear part	pr	ENSG00000156052:GNAQ
+nuclear part	pr	ENSG00000171530:TBCA
+nuclear part	pr	ENSG00000130227:XPO7
+nuclear part	pr	ENSG00000108344:PSMD3
+nuclear part	pr	ENSG00000132471:WBP2
+nuclear part	pr	ENSG00000120438:TCP1
+nuclear part	pr	ENSG00000103035:PSMD7
+nuclear part	pr	ENSG00000132341:RAN
+cellular iron ion homeostasis	pr	ENSG00000114573:ATP6V1A
+cellular iron ion homeostasis	pr	ENSG00000159720:ATP6V0D1
+cellular iron ion homeostasis	pr	ENSG00000155097:ATP6V1C1
+cellular iron ion homeostasis	pr	ENSG00000128524:ATP6V1F
+cellular iron ion homeostasis	pr	ENSG00000213760:ATP6V1G2
+cellular iron ion homeostasis	pr	ENSG00000131100:ATP6V1E1
+cellular iron ion homeostasis	pr	ENSG00000147416:ATP6V1B2
+cellular iron ion homeostasis	pr	ENSG00000047249:ATP6V1H
+cellular iron ion homeostasis	pr	ENSG00000033627:ATP6V0A1
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	pr	ENSG00000114573:ATP6V1A
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	pr	ENSG00000155097:ATP6V1C1
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	pr	ENSG00000128524:ATP6V1F
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	pr	ENSG00000131100:ATP6V1E1
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	pr	ENSG00000147416:ATP6V1B2
+ATPase activity, coupled to transmembrane movement of ions, rotational mechanism	pr	ENSG00000047249:ATP6V1H
+interaction with host	pr	ENSG00000114573:ATP6V1A
+interaction with host	pr	ENSG00000159720:ATP6V0D1
+interaction with host	pr	ENSG00000155097:ATP6V1C1
+interaction with host	pr	ENSG00000128524:ATP6V1F
+interaction with host	pr	ENSG00000213760:ATP6V1G2
+interaction with host	pr	ENSG00000131100:ATP6V1E1
+interaction with host	pr	ENSG00000147416:ATP6V1B2
+interaction with host	pr	ENSG00000047249:ATP6V1H
+interaction with host	pr	ENSG00000033627:ATP6V0A1
+presynaptic active zone	pr	ENSG00000104888:SLC17A7
+presynaptic active zone	pr	ENSG00000159164:SV2A
+presynaptic active zone	pr	ENSG00000102003:SYP
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	pr	ENSG00000115073:ACTR1B
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	pr	ENSG00000138107:ACTR1A
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	pr	ENSG00000075785:RAB7A
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	pr	ENSG00000141367:CLTC
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II	pr	ENSG00000122705:CLTA
+proton-transporting two-sector ATPase complex, catalytic domain	pr	ENSG00000114573:ATP6V1A
+proton-transporting two-sector ATPase complex, catalytic domain	pr	ENSG00000155097:ATP6V1C1
+proton-transporting two-sector ATPase complex, catalytic domain	pr	ENSG00000128524:ATP6V1F
+proton-transporting two-sector ATPase complex, catalytic domain	pr	ENSG00000131100:ATP6V1E1
+proton-transporting two-sector ATPase complex, catalytic domain	pr	ENSG00000147416:ATP6V1B2
+proton-transporting two-sector ATPase complex, catalytic domain	pr	ENSG00000047249:ATP6V1H
+apical plasma membrane	pr	ENSG00000114573:ATP6V1A
+apical plasma membrane	pr	ENSG00000112697:TMEM30A
+apical plasma membrane	pr	ENSG00000159720:ATP6V0D1
+apical plasma membrane	pr	ENSG00000131100:ATP6V1E1
+trivalent inorganic cation transport	pr	ENSG00000114573:ATP6V1A
+trivalent inorganic cation transport	pr	ENSG00000159720:ATP6V0D1
+trivalent inorganic cation transport	pr	ENSG00000141367:CLTC
+trivalent inorganic cation transport	pr	ENSG00000155097:ATP6V1C1
+trivalent inorganic cation transport	pr	ENSG00000128524:ATP6V1F
+trivalent inorganic cation transport	pr	ENSG00000213760:ATP6V1G2
+trivalent inorganic cation transport	pr	ENSG00000131100:ATP6V1E1
+trivalent inorganic cation transport	pr	ENSG00000147416:ATP6V1B2
+trivalent inorganic cation transport	pr	ENSG00000047249:ATP6V1H
+trivalent inorganic cation transport	pr	ENSG00000033627:ATP6V0A1
+lysosomal membrane	pr	ENSG00000114573:ATP6V1A
+lysosomal membrane	pr	ENSG00000156052:GNAQ
+lysosomal membrane	pr	ENSG00000075785:RAB7A
+lysosomal membrane	pr	ENSG00000159720:ATP6V0D1
+lysosomal membrane	pr	ENSG00000155097:ATP6V1C1
+lysosomal membrane	pr	ENSG00000131100:ATP6V1E1
+lysosomal membrane	pr	ENSG00000147416:ATP6V1B2
+lysosomal membrane	pr	ENSG00000047249:ATP6V1H
+pigment granule	pr	ENSG00000115484:CCT4
+pigment granule	pr	ENSG00000075785:RAB7A
+pigment granule	pr	ENSG00000141367:CLTC
+pigment granule	pr	ENSG00000197535:MYO5A
+pigment granule	pr	ENSG00000213760:ATP6V1G2
+pigment granule	pr	ENSG00000147416:ATP6V1B2
+pigment granule	pr	ENSG00000033627:ATP6V0A1
+pigment granule	pr	ENSG00000132341:RAN
+centrosome	pr	ENSG00000115073:ACTR1B
+centrosome	pr	ENSG00000138107:ACTR1A
+centrosome	pr	ENSG00000115484:CCT4
+centrosome	pr	ENSG00000159720:ATP6V0D1
+centrosome	pr	ENSG00000120438:TCP1
+presynaptic membrane	pr	ENSG00000198910:L1CAM
+presynaptic membrane	pr	ENSG00000070808:CAMK2A
+presynaptic membrane	pr	ENSG00000102003:SYP
+acrosomal vesicle	pr	ENSG00000185518:SV2B
+acrosomal vesicle	pr	ENSG00000146731:CCT6A
+acrosomal vesicle	pr	ENSG00000120438:TCP1
+purine nucleoside monophosphate metabolic process	pr	ENSG00000114573:ATP6V1A
+purine nucleoside monophosphate metabolic process	pr	ENSG00000156110:ADK
+purine nucleoside monophosphate metabolic process	pr	ENSG00000156976:EIF4A2
+purine nucleoside monophosphate metabolic process	pr	ENSG00000128524:ATP6V1F
+purine nucleoside monophosphate metabolic process	pr	ENSG00000147416:ATP6V1B2
+purine nucleoside monophosphate metabolic process	pr	ENSG00000047249:ATP6V1H

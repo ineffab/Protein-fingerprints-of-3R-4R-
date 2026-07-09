@@ -1,0 +1,41 @@
+Ensembl	symbol	WikiPathways
+ENSG00000130287	NCAN	Spinal Cord Injury:WP2431
+ENSG00000132341	RAN	miRNA Biogenesis:WP2338
+ENSG00000070808	CAMK2A	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000156052	GNAQ	TSH signaling pathway:WP2032
+ENSG00000131236	CAP1	Insulin Signaling:WP481
+ENSG00000132341	RAN	Androgen receptor signaling pathway:WP138
+ENSG00000141367	CLTC	Complement and Coagulation Cascades:WP558
+ENSG00000070808	CAMK2A	BDNF signaling pathway:WP2380
+ENSG00000124406	ATP8A1	Peptide GPCRs:WP24
+ENSG00000197106	SLC6A17	NRF2 pathway:WP2884
+ENSG00000104888	SLC17A7	Synaptic Vesicle Pathway:WP2267
+ENSG00000102003	SYP	Synaptic Vesicle Pathway:WP2267
+ENSG00000141367	CLTC	Synaptic Vesicle Pathway:WP2267
+ENSG00000122705	CLTA	Synaptic Vesicle Pathway:WP2267
+ENSG00000115306	SPTBN1	SIDS Susceptibility Pathways:WP706
+ENSG00000070808	CAMK2A	ErbB Signaling Pathway:WP673
+ENSG00000173692	PSMD1	Proteasome Degradation:WP183
+ENSG00000108344	PSMD3	Proteasome Degradation:WP183
+ENSG00000103035	PSMD7	Proteasome Degradation:WP183
+ENSG00000070808	CAMK2A	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000156052	GNAQ	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000156052	GNAQ	Serotonin Receptor 2 and STAT3 Signaling:WP733
+ENSG00000173692	PSMD1	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000108344	PSMD3	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000103035	PSMD7	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000070808	CAMK2A	Corticotropin-releasing hormone:WP2355
+ENSG00000156052	GNAQ	Corticotropin-releasing hormone:WP2355
+ENSG00000156052	GNAQ	G Protein Signaling Pathways:WP35
+ENSG00000070808	CAMK2A	EGF/EGFR Signaling Pathway:WP437
+ENSG00000107317	PTGDS	Eicosanoid Synthesis:WP167
+ENSG00000107317	PTGDS	Prostaglandin Synthesis and Regulation:WP98
+ENSG00000156052	GNAQ	Serotonin Receptor 2 and ELK-SRF/GATA4 signaling:WP732
+ENSG00000115306	SPTBN1	TGF beta Signaling Pathway:WP366
+ENSG00000070808	CAMK2A	B Cell Receptor Signaling Pathway:WP23
+ENSG00000070808	CAMK2A	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000156052	GNAQ	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000088247	KHSRP	Preimplantation Embryo:WP3527
+ENSG00000156052	GNAQ	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000156052	GNAQ	Alzheimers Disease:WP2059
+ENSG00000156976	EIF4A2	Translation Factors:WP107

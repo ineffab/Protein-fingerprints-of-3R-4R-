@@ -1,0 +1,38 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	Proteasome Degradation:WP183	Proteasome Degradation:WP183	PSMA7	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	Tryptophan metabolism:WP465	Tryptophan metabolism:WP465	ACAT1	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	Tryptophan metabolism:WP465	Tryptophan metabolism:WP465	HADH	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	Tryptophan metabolism:WP465	Tryptophan metabolism:WP465	ECHS1	tan	En
+ENSG00000111275	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	ENSG00000111275	Tryptophan metabolism:WP465	Tryptophan metabolism:WP465	ALDH2	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	GOT2	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	DLD	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	GAPDH	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	LDHB	tan	En
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	ENSG00000074800	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	ENO1	tan	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	PKM	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	MDH2	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	Fatty Acid Beta Oxidation:WP143	Fatty Acid Beta Oxidation:WP143	ACAT1	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	Fatty Acid Beta Oxidation:WP143	Fatty Acid Beta Oxidation:WP143	HADH	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	Fatty Acid Beta Oxidation:WP143	Fatty Acid Beta Oxidation:WP143	DECR1	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	Fatty Acid Beta Oxidation:WP143	Fatty Acid Beta Oxidation:WP143	ECHS1	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	Fatty Acid Beta Oxidation:WP143	Fatty Acid Beta Oxidation:WP143	DLD	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	Selenium Micronutrient Network:WP15	Selenium Micronutrient Network:WP15	GSR	tan	En
+ENSG00000167815	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	ENSG00000167815	Selenium Micronutrient Network:WP15	Selenium Micronutrient Network:WP15	PRDX2	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	Selenium Micronutrient Network:WP15	Selenium Micronutrient Network:WP15	GPX4	tan	En
+ENSG00000100412	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:118]	ENSG00000100412	TCA Cycle:WP78	TCA Cycle:WP78	ACO2	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	TCA Cycle:WP78	TCA Cycle:WP78	DLD	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	TCA Cycle:WP78	TCA Cycle:WP78	MDH2	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	Fatty Acid Biosynthesis:WP357	Fatty Acid Biosynthesis:WP357	HADH	tan	En
+ENSG00000104823	ECH1	enoyl CoA hydratase 1, peroxisomal [Source:HGNC Symbol;Acc:HGNC:3149]	ENSG00000104823	Fatty Acid Biosynthesis:WP357	Fatty Acid Biosynthesis:WP357	ECH1	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	Fatty Acid Biosynthesis:WP357	Fatty Acid Biosynthesis:WP357	DECR1	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	Fatty Acid Biosynthesis:WP357	Fatty Acid Biosynthesis:WP357	ECHS1	tan	En

@@ -1,0 +1,276 @@
+Ensembl	symbol	WikiPathways
+ENSG00000152661	GJA1	TarBasePathway:WP1992
+ENSG00000142192	APP	Endoderm Differentiation:WP2853
+ENSG00000154229	PRKCA	Wnt Signaling Pathway and Pluripotency:WP399
+ENSG00000026508	CD44	Wnt Signaling Pathway and Pluripotency:WP399
+ENSG00000090339	ICAM1	Vitamin B12 Metabolism:WP1533
+ENSG00000116266	STXBP3	Insulin Signaling:WP481
+ENSG00000092531	SNAP23	Insulin Signaling:WP481
+ENSG00000154229	PRKCA	Insulin Signaling:WP481
+ENSG00000024422	EHD2	Insulin Signaling:WP481
+ENSG00000131236	CAP1	Insulin Signaling:WP481
+ENSG00000103496	STX4	Insulin Signaling:WP481
+ENSG00000095637	SORBS1	Insulin Signaling:WP481
+ENSG00000091409	ITGA6	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000082781	ITGB5	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000170624	SGCD	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000170558	CDH2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000135424	ITGA7	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000161638	ITGA5	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000152661	GJA1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000138448	ITGAV	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000164171	ITGA2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000132470	ITGB4	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000005884	ITGA3	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000150093	ITGB1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000147065	MSN	Glial Cell Differentiation:WP2276
+ENSG00000164708	PGAM2	Glycolysis and Gluconeogenesis:WP534
+ENSG00000142583	SLC2A5	Glycolysis and Gluconeogenesis:WP534
+ENSG00000170558	CDH2	BDNF signaling pathway:WP2380
+ENSG00000197702	PARVA	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000137076	TLN1	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000138760	SCARB2	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000170558	CDH2	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000138448	ITGAV	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000132470	ITGB4	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000005884	ITGA3	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000152818	UTRN	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000150093	ITGB1	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000117592	PRDX6	NRF2 pathway:WP2884
+ENSG00000117450	PRDX1	NRF2 pathway:WP2884
+ENSG00000213366	GSTM2	NRF2 pathway:WP2884
+ENSG00000125257	ABCC4	NRF2 pathway:WP2884
+ENSG00000142583	SLC2A5	NRF2 pathway:WP2884
+ENSG00000087086	FTL	NRF2 pathway:WP2884
+ENSG00000087460	GNAS	Serotonin Receptor 4/6/7 and NR3C Signaling:WP734
+ENSG00000165092	ALDH1A1	Folate-Alcohol and Cancer Pathway:WP1589
+ENSG00000144908	ALDH1L1	Folate-Alcohol and Cancer Pathway:WP1589
+ENSG00000154229	PRKCA	Signaling Pathways in Glioblastoma:WP2261
+ENSG00000154229	PRKCA	Kit receptor signaling pathway:WP304
+ENSG00000165092	ALDH1A1	Fatty Acid Omega Oxidation:WP206
+ENSG00000164111	ANXA5	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000142192	APP	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000144908	ALDH1L1	One Carbon Metabolism:WP241
+ENSG00000091409	ITGA6	TGF beta Signaling Pathway:WP366
+ENSG00000164171	ITGA2	TGF beta Signaling Pathway:WP366
+ENSG00000132470	ITGB4	TGF beta Signaling Pathway:WP366
+ENSG00000041982	TNC	TGF beta Signaling Pathway:WP366
+ENSG00000142192	APP	TGF beta Signaling Pathway:WP366
+ENSG00000150093	ITGB1	TGF beta Signaling Pathway:WP366
+ENSG00000172115	CYCS	Apoptosis Modulation by HSP70:WP384
+ENSG00000171885	AQP4	SIDS Susceptibility Pathways:WP706
+ENSG00000108946	PRKAR1A	SIDS Susceptibility Pathways:WP706
+ENSG00000152661	GJA1	SIDS Susceptibility Pathways:WP706
+ENSG00000081237	PTPRC	B Cell Receptor Signaling Pathway:WP23
+ENSG00000090339	ICAM1	RANKL/RANK Signaling Pathway:WP2018
+ENSG00000125257	ABCC4	Fluoropyrimidine Activity:WP1601
+ENSG00000133433	GSTT2B	Oxidative Stress:WP408
+ENSG00000133433	GSTT2B	Glutathione metabolism:WP100
+ENSG00000099998	GGT5	Glutathione metabolism:WP100
+ENSG00000091409	ITGA6	Focal Adhesion:WP306
+ENSG00000082781	ITGB5	Focal Adhesion:WP306
+ENSG00000137076	TLN1	Focal Adhesion:WP306
+ENSG00000108821	COL1A1	Focal Adhesion:WP306
+ENSG00000160255	ITGB2	Focal Adhesion:WP306
+ENSG00000135424	ITGA7	Focal Adhesion:WP306
+ENSG00000140678	ITGAX	Focal Adhesion:WP306
+ENSG00000127314	RAP1B	Focal Adhesion:WP306
+ENSG00000161638	ITGA5	Focal Adhesion:WP306
+ENSG00000138448	ITGAV	Focal Adhesion:WP306
+ENSG00000164171	ITGA2	Focal Adhesion:WP306
+ENSG00000132470	ITGB4	Focal Adhesion:WP306
+ENSG00000196924	FLNA	Focal Adhesion:WP306
+ENSG00000041982	TNC	Focal Adhesion:WP306
+ENSG00000005884	ITGA3	Focal Adhesion:WP306
+ENSG00000150093	ITGB1	Focal Adhesion:WP306
+ENSG00000170458	CD14	Toll-like receptor signaling pathway:WP75
+ENSG00000092621	PHGDH	Trans-sulfuration and one carbon metabolism:WP2525
+ENSG00000154229	PRKCA	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000135046	ANXA1	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000142192	APP	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000087086	FTL	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000133433	GSTT2B	Metapathway biotransformation:WP702
+ENSG00000213366	GSTM2	Metapathway biotransformation:WP702
+ENSG00000196139	AKR1C3	Metapathway biotransformation:WP702
+ENSG00000117450	PRDX1	Androgen receptor signaling pathway:WP138
+ENSG00000196924	FLNA	Androgen receptor signaling pathway:WP138
+ENSG00000206503	HLA-A	Allograft Rejection:KEGG-hsa05330:WP2328
+ENSG00000169313	P2RY12	GPCRs, Class A Rhodopsin-like:WP455
+ENSG00000132670	PTPRA	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000154229	PRKCA	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000156052	GNAQ	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000196139	AKR1C3	Benzo(a)pyrene metabolism:WP696
+ENSG00000128309	MPST	Trans-sulfuration pathway:WP2333
+ENSG00000127314	RAP1B	MAPK Signaling Pathway:WP382
+ENSG00000196924	FLNA	MAPK Signaling Pathway:WP382
+ENSG00000170458	CD14	MAPK Signaling Pathway:WP382
+ENSG00000156052	GNAQ	Serotonin Receptor 2 and STAT3 Signaling:WP733
+ENSG00000138448	ITGAV	Osteopontin Signaling:WP1434
+ENSG00000092820	EZR	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000154229	PRKCA	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000170458	CD14	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000150093	ITGB1	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000065135	GNAI3	G Protein Signaling Pathways:WP35
+ENSG00000120063	GNA13	G Protein Signaling Pathways:WP35
+ENSG00000154229	PRKCA	G Protein Signaling Pathways:WP35
+ENSG00000108946	PRKAR1A	G Protein Signaling Pathways:WP35
+ENSG00000114353	GNAI2	G Protein Signaling Pathways:WP35
+ENSG00000087460	GNAS	G Protein Signaling Pathways:WP35
+ENSG00000172380	GNG12	G Protein Signaling Pathways:WP35
+ENSG00000156052	GNAQ	G Protein Signaling Pathways:WP35
+ENSG00000126458	RRAS	G Protein Signaling Pathways:WP35
+ENSG00000087460	GNAS	Estrogen signaling pathway:WP712
+ENSG00000154229	PRKCA	Wnt Signaling Pathway:WP428
+ENSG00000154229	PRKCA	EGF/EGFR Signaling Pathway:WP437
+ENSG00000152661	GJA1	EGF/EGFR Signaling Pathway:WP437
+ENSG00000129219	PLD2	EGF/EGFR Signaling Pathway:WP437
+ENSG00000135046	ANXA1	Prostaglandin Synthesis and Regulation:WP98
+ENSG00000196975	ANXA4	Prostaglandin Synthesis and Regulation:WP98
+ENSG00000164111	ANXA5	Prostaglandin Synthesis and Regulation:WP98
+ENSG00000104763	ASAH1	Sphingolipid Metabolism:WP1422
+ENSG00000150093	ITGB1	Rac1/Pak1/p38/MMP-2 pathway:WP3303
+ENSG00000139684	ESD	Phase I biotransformations, non P450:WP136
+ENSG00000091409	ITGA6	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000154229	PRKCA	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000132470	ITGB4	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000154229	PRKCA	Cardiac Hypertrophic Response:WP2795
+ENSG00000165092	ALDH1A1	Dopaminergic Neurogenesis:WP2855
+ENSG00000132670	PTPRA	Spinal Cord Injury:WP2431
+ENSG00000171885	AQP4	Spinal Cord Injury:WP2431
+ENSG00000154229	PRKCA	Spinal Cord Injury:WP2431
+ENSG00000135046	ANXA1	Spinal Cord Injury:WP2431
+ENSG00000152661	GJA1	Spinal Cord Injury:WP2431
+ENSG00000090339	ICAM1	Spinal Cord Injury:WP2431
+ENSG00000065135	GNAI3	Signal Transduction of S1P Receptor:WP26
+ENSG00000114353	GNAI2	Signal Transduction of S1P Receptor:WP26
+ENSG00000104763	ASAH1	Signal Transduction of S1P Receptor:WP26
+ENSG00000154229	PRKCA	FSH signaling pathway:WP2035
+ENSG00000172115	CYCS	miRNA Regulation of DNA Damage Response:WP1530
+ENSG00000117525	F3	Complement and Coagulation Cascades:WP558
+ENSG00000092820	EZR	Regulation of Actin Cytoskeleton:WP51
+ENSG00000120063	GNA13	Regulation of Actin Cytoskeleton:WP51
+ENSG00000147065	MSN	Regulation of Actin Cytoskeleton:WP51
+ENSG00000172380	GNG12	Regulation of Actin Cytoskeleton:WP51
+ENSG00000137710	RDX	Regulation of Actin Cytoskeleton:WP51
+ENSG00000170458	CD14	Regulation of Actin Cytoskeleton:WP51
+ENSG00000126458	RRAS	Regulation of Actin Cytoskeleton:WP51
+ENSG00000170558	CDH2	Neural Crest Differentiation:WP2064
+ENSG00000150093	ITGB1	Neural Crest Differentiation:WP2064
+ENSG00000108821	COL1A1	Inflammatory Response Pathway:WP453
+ENSG00000090339	ICAM1	IL1 and megakaryotyces in obesity:WP2865
+ENSG00000170458	CD14	Regulation of toll-like receptor signaling pathway:WP1449
+ENSG00000165092	ALDH1A1	Vitamin A and Carotenoid Metabolism:WP716
+ENSG00000091409	ITGA6	T-Cell Receptor and Co-stimulatory Signaling:WP2583
+ENSG00000154229	PRKCA	T-Cell Receptor and Co-stimulatory Signaling:WP2583
+ENSG00000108821	COL1A1	Osteoblast Signaling:WP322
+ENSG00000138448	ITGAV	Osteoblast Signaling:WP322
+ENSG00000168615	ADAM9	Copper homeostasis:WP3286
+ENSG00000137845	ADAM10	Copper homeostasis:WP3286
+ENSG00000142192	APP	Copper homeostasis:WP3286
+ENSG00000091409	ITGA6	ErbB Signaling Pathway:WP673
+ENSG00000154229	PRKCA	ErbB Signaling Pathway:WP673
+ENSG00000126803	HSPA2	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000126458	RRAS	MAPK Cascade:WP422
+ENSG00000120063	GNA13	G13 Signaling Pathway:WP524
+ENSG00000172270	BSG	Matrix Metalloproteinases:WP129
+ENSG00000172115	CYCS	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000006747	SCIN	Endochondral Ossification:WP474
+ENSG00000156052	GNAQ	Serotonin Receptor 2 and ELK-SRF/GATA4 signaling:WP732
+ENSG00000172115	CYCS	Parkinsons Disease Pathway:WP2371
+ENSG00000154229	PRKCA	Endothelin Pathways:WP2197
+ENSG00000087460	GNAS	Endothelin Pathways:WP2197
+ENSG00000172115	CYCS	Alzheimers Disease:WP2059
+ENSG00000162909	CAPN2	Alzheimers Disease:WP2059
+ENSG00000137845	ADAM10	Alzheimers Disease:WP2059
+ENSG00000142192	APP	Alzheimers Disease:WP2059
+ENSG00000156052	GNAQ	Alzheimers Disease:WP2059
+ENSG00000119421	NDUFA8	Electron Transport Chain:WP111
+ENSG00000169100	SLC25A6	Electron Transport Chain:WP111
+ENSG00000005022	SLC25A5	Electron Transport Chain:WP111
+ENSG00000154229	PRKCA	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000114450	GNB4	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000108946	PRKAR1A	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000087460	GNAS	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000152661	GJA1	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000172380	GNG12	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000156052	GNAQ	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000154229	PRKCA	miRs in Muscle Cell Differentiation:WP2012
+ENSG00000108946	PRKAR1A	miRs in Muscle Cell Differentiation:WP2012
+ENSG00000108821	COL1A1	Senescence and Autophagy in Cancer:WP615
+ENSG00000005893	LAMP2	Senescence and Autophagy in Cancer:WP615
+ENSG00000185896	LAMP1	Senescence and Autophagy in Cancer:WP615
+ENSG00000026508	CD44	Senescence and Autophagy in Cancer:WP615
+ENSG00000196924	FLNA	IL-4 Signaling Pathway:WP395
+ENSG00000125257	ABCC4	Drug Induction of Bile Acid Pathway:WP2289
+ENSG00000119421	NDUFA8	Oxidative phosphorylation:WP623
+ENSG00000091409	ITGA6	EPO Receptor Signaling:WP581
+ENSG00000081237	PTPRC	EPO Receptor Signaling:WP581
+ENSG00000091409	ITGA6	Integrin-mediated Cell Adhesion:WP185
+ENSG00000082781	ITGB5	Integrin-mediated Cell Adhesion:WP185
+ENSG00000137076	TLN1	Integrin-mediated Cell Adhesion:WP185
+ENSG00000160255	ITGB2	Integrin-mediated Cell Adhesion:WP185
+ENSG00000135424	ITGA7	Integrin-mediated Cell Adhesion:WP185
+ENSG00000140678	ITGAX	Integrin-mediated Cell Adhesion:WP185
+ENSG00000126247	CAPNS1	Integrin-mediated Cell Adhesion:WP185
+ENSG00000162909	CAPN2	Integrin-mediated Cell Adhesion:WP185
+ENSG00000127314	RAP1B	Integrin-mediated Cell Adhesion:WP185
+ENSG00000161638	ITGA5	Integrin-mediated Cell Adhesion:WP185
+ENSG00000138448	ITGAV	Integrin-mediated Cell Adhesion:WP185
+ENSG00000164171	ITGA2	Integrin-mediated Cell Adhesion:WP185
+ENSG00000132470	ITGB4	Integrin-mediated Cell Adhesion:WP185
+ENSG00000005884	ITGA3	Integrin-mediated Cell Adhesion:WP185
+ENSG00000149260	CAPN5	Integrin-mediated Cell Adhesion:WP185
+ENSG00000095637	SORBS1	Integrin-mediated Cell Adhesion:WP185
+ENSG00000150093	ITGB1	Integrin-mediated Cell Adhesion:WP185
+ENSG00000065135	GNAI3	TSH signaling pathway:WP2032
+ENSG00000120063	GNA13	TSH signaling pathway:WP2032
+ENSG00000114353	GNAI2	TSH signaling pathway:WP2032
+ENSG00000087460	GNAS	TSH signaling pathway:WP2032
+ENSG00000127314	RAP1B	TSH signaling pathway:WP2032
+ENSG00000156052	GNAQ	TSH signaling pathway:WP2032
+ENSG00000117450	PRDX1	Selenium Micronutrient Network:WP15
+ENSG00000090339	ICAM1	Selenium Micronutrient Network:WP15
+ENSG00000127314	RAP1B	Signaling of Hepatocyte Growth Factor Receptor:WP313
+ENSG00000150093	ITGB1	Signaling of Hepatocyte Growth Factor Receptor:WP313
+ENSG00000164171	ITGA2	Interleukin-11 Signaling Pathway:WP2332
+ENSG00000090339	ICAM1	Interleukin-11 Signaling Pathway:WP2332
+ENSG00000082781	ITGB5	miRNA targets in ECM and membrane receptors:WP2911
+ENSG00000125257	ABCC4	Ectoderm Differentiation:WP2858
+ENSG00000165092	ALDH1A1	Tryptophan metabolism:WP465
+ENSG00000069535	MAOB	Tryptophan metabolism:WP465
+ENSG00000165168	CYBB	Type II interferon signaling (IFNG):WP619
+ENSG00000090339	ICAM1	Type II interferon signaling (IFNG):WP619
+ENSG00000081237	PTPRC	Interferon type I signaling pathways:WP585
+ENSG00000135046	ANXA1	Integrated Breast Cancer Pathway:WP1984
+ENSG00000154229	PRKCA	Transcriptional activation by NRF2:WP3
+ENSG00000154229	PRKCA	TOR Signaling:WP1471
+ENSG00000138448	ITGAV	MFAP5-mediated ovarian cancer cell motility and invasiveness:WP3301
+ENSG00000206503	HLA-A	Proteasome Degradation:WP183
+ENSG00000100911	PSME2	Proteasome Degradation:WP183
+ENSG00000065135	GNAI3	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000154229	PRKCA	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000114450	GNB4	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000108946	PRKAR1A	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000114353	GNAI2	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000087460	GNAS	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000152661	GJA1	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000172380	GNG12	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000156052	GNAQ	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000154229	PRKCA	Corticotropin-releasing hormone:WP2355
+ENSG00000114353	GNAI2	Corticotropin-releasing hormone:WP2355
+ENSG00000087460	GNAS	Corticotropin-releasing hormone:WP2355
+ENSG00000127314	RAP1B	Corticotropin-releasing hormone:WP2355
+ENSG00000152661	GJA1	Corticotropin-releasing hormone:WP2355
+ENSG00000156052	GNAQ	Corticotropin-releasing hormone:WP2355
+ENSG00000092820	EZR	AGE/RAGE pathway:WP2324
+ENSG00000154229	PRKCA	AGE/RAGE pathway:WP2324
+ENSG00000172115	CYCS	AGE/RAGE pathway:WP2324
+ENSG00000147065	MSN	AGE/RAGE pathway:WP2324
+ENSG00000069535	MAOB	Dopamine metabolism:WP2436
+ENSG00000137845	ADAM10	Hypertrophy Model:WP516
+ENSG00000154229	PRKCA	Oncostatin M Signaling Pathway:WP2374
+ENSG00000108946	PRKAR1A	Mesodermal Commitment Pathway:WP2857
+ENSG00000154229	PRKCA	Wnt Signaling Pathway Netpath:WP363
+ENSG00000152661	GJA1	Wnt Signaling Pathway Netpath:WP363
+ENSG00000172115	CYCS	Apoptosis:WP254
+ENSG00000172115	CYCS	DNA Damage Response:WP707

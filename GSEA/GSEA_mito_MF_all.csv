@@ -1,0 +1,2 @@
+"","ID","Description","setSize","enrichmentScore","NES","pvalue","p.adjust","qvalue","rank","leading_edge","core_enrichment"
+"GO:0030020","GO:0030020","extracellular matrix structural constituent conferring tensile strength",3,-0.995037220843672,-1.61342511083158,4.20387687238978e-06,0.00287545178071461,0.00270375659897911,6,"tags=100%, list=1%, signal=99%","1291/1292"

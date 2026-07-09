@@ -1,0 +1,34 @@
+Ontology-ID	Ontology Name	Ontology Type	Number Changed	Number Measured	Number in Ontology	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+GO:0005605	basal lamina	cellular_component	7	11	19	63.6363636364	57.8947368421	12.6149469164	0.0	0.269027777778	basement membrane|extracellular matrix|extracellular region|extracellular structure organization	laminin complex	AGRN|HSPG2|LAMA4|LAMA5|LAMB2|LAMC1|NID1
+GO:0043256	laminin complex	cellular_component	4	5	10	80.0	50.0	10.7684899037	0.0	0.269027777778	basal lamina|basement membrane|extracellular matrix|extracellular region|extracellular structure organization	 	LAMA4|LAMA5|LAMB2|LAMC1
+GO:0005604	basement membrane	cellular_component	8	23	85	34.7826086957	27.0588235294	9.64379543288	0.0	0.269027777778	extracellular matrix|extracellular region|extracellular structure organization	basal lamina|laminin complex	AGRN|HSPG2|LAMA4|LAMA5|LAMB2|LAMC1|NID1|NID2
+GO:0031012	extracellular matrix	cellular_component	11	52	362	21.1538461538	14.364640884	8.42091953138	0.0	0.269027777778	 	basal lamina|basement membrane|extracellular matrix structural constituent|laminin binding|laminin complex	AGRN|ALPL|HSPG2|LAMA4|LAMA5|LAMB2|LAMC1|MFGE8|NID1|NID2|TINAGL1
+GO:0009584	detection of visible light	biological_process	4	15	109	26.6666666667	13.7614678899	5.8070481393	0.001	0.358703703704	 	retinoid metabolic process	AGRN|APOB|FNTA|HSPG2
+GO:0034446	substrate adhesion-dependent cell spreading	biological_process	3	9	32	33.3333333333	28.125	5.7370219471	0.0	0.269027777778	extracellular structure organization	 	ILK|LAMA5|LAMC1
+GO:0005201	extracellular matrix structural constituent	molecular_function	3	9	72	33.3333333333	12.5	5.7370219471	0.002	0.624838709677	extracellular matrix|extracellular region	 	LAMA4|LAMC1|TINAGL1
+GO:0001523	retinoid metabolic process	biological_process	3	10	83	30.0	12.0481927711	5.39182704912	0.0025	0.733712121212	detection of visible light|extracellular region|extracellular space	 	AGRN|APOB|HSPG2
+GO:0043062	extracellular structure organization	biological_process	10	87	379	11.4942528736	22.9551451187	5.25941288557	0.0	0.269027777778	 	basal lamina|basement membrane|cell-matrix adhesion|cellular component assembly involved in morphogenesis|laminin complex|substrate adhesion-dependent cell spreading	AGRN|HSPG2|ILK|LAMA4|LAMA5|LAMB2|LAMC1|MYH11|NID1|NID2
+GO:0001667	ameboidal-type cell migration	biological_process	3	12	127	25.0	9.44881889764	4.82923342111	0.004	0.900930232558	 	 	GPX1|ILK|LAMA5
+GO:0005576	extracellular region	cellular_component	12	133	1680	9.02255639098	7.91666666667	4.75119068989	0.0	0.269027777778	 	basal lamina|basement membrane|extracellular matrix structural constituent|laminin binding|laminin complex|retinoid metabolic process	AGRN|APOB|HSPG2|LAMA4|LAMA5|LAMB2|LAMC1|MFGE8|NID1|NID2|PCCA|TINAGL1
+GO:0009888	tissue development	biological_process	7	58	667	12.0689655172	8.69565217391	4.53373960546	0.0005	0.269027777778	 	developmental growth|response to nutrient	ALPL|GATM|GPX1|HSPG2|LAMB2|LAMC1|MYL6
+GO:0043236	laminin binding	molecular_function	3	14	29	21.4285714286	48.275862069	4.38497870634	0.0035	0.869166666667	extracellular matrix|extracellular region	 	AGRN|NID1|TINAGL1
+GO:1901681	sulfur compound binding	molecular_function	5	36	215	13.8888888889	16.7441860465	4.23470143439	0.004	0.900930232558	 	 	AGRN|APOB|GPX1|GSTM3|PCCA
+GO:0010927	cellular component assembly involved in morphogenesis	biological_process	3	18	177	16.6666666667	10.1694915254	3.71519660594	0.013	1.0	extracellular structure organization	 	ILK|LAMA5|MYH11
+GO:0002064	epithelial cell development	biological_process	3	18	109	16.6666666667	16.5137614679	3.71519660594	0.0095	1.0	 	 	GPX1|GSTM3|LAMB2
+GO:0072341	modified amino acid binding	molecular_function	3	19	53	15.7894736842	35.8490566038	3.57906934952	0.013	1.0	 	 	GPX1|GSTM3|MFGE8
+GO:0031099	regeneration	biological_process	3	19	104	15.7894736842	18.2692307692	3.57906934952	0.014	1.0	 	 	GATM|GPX1|OMG
+GO:0005178	integrin binding	molecular_function	4	33	99	12.1212121212	33.3333333333	3.41337842168	0.0135	1.0	 	 	ILK|LAMA5|LAMB2|MFGE8
+GO:0006790	sulfur compound metabolic process	biological_process	6	65	322	9.23076923077	20.1863354037	3.35942875687	0.006	1.0	 	 	AGRN|GPX1|GSTM3|HSPG2|IDH1|PCCA
+GO:0046872	metal ion binding	molecular_function	19	391	4328	4.85933503836	9.03419593346	3.07868390305	0.005	0.93125	 	 	ACY1|AGRN|ALPL|AOC3|CRYZ|ECE1|EEA1|FAH|FAHD2A|HSPG2|IDH1|ME2|MOXD1|MYL6|NID1|NID2|PCCA|PDLIM5|PGM1
+GO:0033218	amide binding	molecular_function	4	38	262	10.5263157895	14.5038167939	3.05015627755	0.0175	1.0	 	 	ECE1|GPX1|GSTM3|PCCA
+GO:0007584	response to nutrient	biological_process	3	24	145	12.5	16.5517241379	3.01944347555	0.031	1.0	tissue development	 	ALPL|GATM|GPX1
+GO:0048598	embryonic morphogenesis	biological_process	3	25	422	12.0	5.92417061611	2.92603789593	0.0295	1.0	 	 	ECE1|HSPG2|LAMA5
+GO:0001525	angiogenesis	biological_process	4	40	249	10.0	16.0642570281	2.92184894999	0.027	1.0	 	 	GPX1|HSPG2|LAMA5|MFGE8
+GO:0043436	oxoacid metabolic process	biological_process	11	189	957	5.82010582011	19.7492163009	2.86551624263	0.0095	1.0	 	 	ACY1|AGRN|ALDH4A1|FAH|GATM|GPX1|HSPG2|IDH1|ME2|PCCA|PGM1
+GO:0048589	developmental growth	biological_process	3	26	170	11.5384615385	15.2941176471	2.83742660708	0.0285	1.0	tissue development	 	GATM|GPX1|LAMB2
+GO:0009636	response to toxic substance	biological_process	3	28	141	10.7142857143	19.8581560284	2.67289302143	0.0345	1.0	 	 	ALPL|AOC3|GPX1
+GO:0007160	cell-matrix adhesion	biological_process	3	29	100	10.3448275862	29.0	2.59625161362	0.04	1.0	extracellular structure organization	 	ILK|NID1|NID2
+GO:0048545	response to steroid hormone	biological_process	4	46	315	8.69565217391	14.6031746032	2.5814204763	0.026	1.0	 	 	ALPL|GPX1|GSTM3|IDH1
+GO:0048638	regulation of developmental growth	biological_process	3	30	233	10.0	12.8755364807	2.52295087155	0.0485	1.0	 	 	AGRN|ILK|OMG
+GO:0044449	contractile fiber part	cellular_component	4	49	193	8.16326530612	25.3886010363	2.43158492928	0.0445	1.0	 	 	AHNAK2|ILK|MYH11|PDLIM5
+GO:0005615	extracellular space	cellular_component	9	163	1245	5.52147239264	13.0923694779	2.3899239452	0.0275	1.0	 	retinoid metabolic process	AGRN|ALPL|APOB|DDB1|HSPG2|LAMA5|LAMC1|MFGE8|TINAGL1

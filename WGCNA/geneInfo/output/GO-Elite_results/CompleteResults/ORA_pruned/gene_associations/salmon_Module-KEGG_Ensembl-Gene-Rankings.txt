@@ -1,0 +1,15 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	6	0.75	ENSG00000172037	Pathways in cancer:KEGG-hsa05200 // ECM-receptor interaction:KEGG-hsa04512 // Focal adhesion:KEGG-hsa04510 // Amoebiasis:KEGG-hsa05146 // Small cell lung cancer:KEGG-hsa05222 // Toxoplasmosis:KEGG-hsa05145
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	6	0.75	ENSG00000135862	Pathways in cancer:KEGG-hsa05200 // ECM-receptor interaction:KEGG-hsa04512 // Focal adhesion:KEGG-hsa04510 // Amoebiasis:KEGG-hsa05146 // Small cell lung cancer:KEGG-hsa05222 // Toxoplasmosis:KEGG-hsa05145
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	6	0.75	ENSG00000130702	Pathways in cancer:KEGG-hsa05200 // ECM-receptor interaction:KEGG-hsa04512 // Focal adhesion:KEGG-hsa04510 // Amoebiasis:KEGG-hsa05146 // Small cell lung cancer:KEGG-hsa05222 // Toxoplasmosis:KEGG-hsa05145
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	6	0.75	ENSG00000112769	Pathways in cancer:KEGG-hsa05200 // ECM-receptor interaction:KEGG-hsa04512 // Focal adhesion:KEGG-hsa04510 // Amoebiasis:KEGG-hsa05146 // Small cell lung cancer:KEGG-hsa05222 // Toxoplasmosis:KEGG-hsa05145
+ENSG00000243989	ACY1	aminoacylase 1 [Source:HGNC Symbol;Acc:HGNC:177]	1	0.125	ENSG00000243989	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	1	0.125	ENSG00000233276	Glutathione metabolism:KEGG-hsa00480
+ENSG00000204388	HSPA1B	heat shock 70kDa protein 1B [Source:HGNC Symbol;Acc:HGNC:5233]	1	0.125	ENSG00000204388	Toxoplasmosis:KEGG-hsa05145
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	1	0.125	ENSG00000188157	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000171766	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase) [Source:HGNC Symbol;Acc:HGNC:4175]	1	0.125	ENSG00000171766	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	1	0.125	ENSG00000166333	Focal adhesion:KEGG-hsa04510
+ENSG00000159423	ALDH4A1	aldehyde dehydrogenase 4 family, member A1 [Source:HGNC Symbol;Acc:HGNC:406]	1	0.125	ENSG00000159423	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	1	0.125	ENSG00000142798	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000138413	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble [Source:HGNC Symbol;Acc:HGNC:5382]	1	0.125	ENSG00000138413	Glutathione metabolism:KEGG-hsa00480
+ENSG00000134202	GSTM3	glutathione S-transferase mu 3 (brain) [Source:HGNC Symbol;Acc:HGNC:4635]	1	0.125	ENSG00000134202	Glutathione metabolism:KEGG-hsa00480

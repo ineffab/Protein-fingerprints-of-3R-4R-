@@ -1,0 +1,233 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0008021	synaptic vesicle		pink	En
+ENSG00000159164	SV2A	synaptic vesicle glycoprotein 2A [Source:HGNC Symbol;Acc:HGNC:20566]	ENSG00000159164	GO:0008021	synaptic vesicle		pink	En
+ENSG00000104888	SLC17A7	solute carrier family 17 (vesicular glutamate transporter), member 7 [Source:HGNC Symbol;Acc:HGNC:16704]	ENSG00000104888	GO:0008021	synaptic vesicle		pink	En
+ENSG00000197106	SLC6A17	solute carrier family 6 (neutral amino acid transporter), member 17 [Source:HGNC Symbol;Acc:HGNC:31399]	ENSG00000197106	GO:0008021	synaptic vesicle		pink	En
+ENSG00000185518	SV2B	synaptic vesicle glycoprotein 2B [Source:HGNC Symbol;Acc:HGNC:16874]	ENSG00000185518	GO:0008021	synaptic vesicle		pink	En
+ENSG00000102003	SYP	synaptophysin [Source:HGNC Symbol;Acc:HGNC:11506]	ENSG00000102003	GO:0008021	synaptic vesicle		pink	En
+ENSG00000182985	CADM1	cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:5951]	ENSG00000182985	GO:0008021	synaptic vesicle		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0036442	hydrogen-exporting ATPase activity		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0036442	hydrogen-exporting ATPase activity		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0036442	hydrogen-exporting ATPase activity		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0036442	hydrogen-exporting ATPase activity		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0036442	hydrogen-exporting ATPase activity		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0036442	hydrogen-exporting ATPase activity		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0036442	hydrogen-exporting ATPase activity		pink	En
+ENSG00000197535	MYO5A	myosin VA (heavy chain 12, myoxin) [Source:HGNC Symbol;Acc:HGNC:7602]	ENSG00000197535	GO:0048770	pigment granule		pink	En
+ENSG00000213760	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	ENSG00000213760	GO:0048770	pigment granule		pink	En
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	ENSG00000141367	GO:0048770	pigment granule		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0048770	pigment granule		pink	En
+ENSG00000075785	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	ENSG00000075785	GO:0048770	pigment granule		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0048770	pigment granule		pink	En
+ENSG00000132341	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	ENSG00000132341	GO:0048770	pigment granule		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0048770	pigment granule		pink	En
+ENSG00000070808	CAMK2A	calcium/calmodulin-dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	ENSG00000070808	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000173692	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1 [Source:HGNC Symbol;Acc:HGNC:9554]	ENSG00000173692	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000115306	SPTBN1	spectrin, beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	ENSG00000115306	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000138107	ACTR1A	ARP1 actin-related protein 1 homolog A, centractin alpha (yeast) [Source:HGNC Symbol;Acc:HGNC:167]	ENSG00000138107	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	ENSG00000141367	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000103035	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 [Source:HGNC Symbol;Acc:HGNC:9565]	ENSG00000103035	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000132341	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	ENSG00000132341	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000108344	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9560]	ENSG00000108344	GO:1903047	mitotic cell cycle process		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0005902	microvillus		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0005902	microvillus		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0005902	microvillus		pink	En
+ENSG00000132471	WBP2	WW domain binding protein 2 [Source:HGNC Symbol;Acc:HGNC:12738]	ENSG00000132471	GO:0000785	chromatin		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0000785	chromatin		pink	En
+ENSG00000132341	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	ENSG00000132341	GO:0000785	chromatin		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0005832	chaperonin-containing T-complex		pink	En
+ENSG00000163468	CCT3	chaperonin containing TCP1, subunit 3 (gamma) [Source:HGNC Symbol;Acc:HGNC:1616]	ENSG00000163468	GO:0005832	chaperonin-containing T-complex		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0005832	chaperonin-containing T-complex		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0005832	chaperonin-containing T-complex		pink	En
+ENSG00000213760	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	ENSG00000213760	GO:0090382	phagosome maturation		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0090382	phagosome maturation		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0090382	phagosome maturation		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0090382	phagosome maturation		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0090382	phagosome maturation		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0090382	phagosome maturation		pink	En
+ENSG00000075785	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	ENSG00000075785	GO:0090382	phagosome maturation		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0090382	phagosome maturation		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0090382	phagosome maturation		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0090382	phagosome maturation		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0009126	purine nucleoside monophosphate metabolic process		pink	En
+ENSG00000156110	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	ENSG00000156110	GO:0009126	purine nucleoside monophosphate metabolic process		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0009126	purine nucleoside monophosphate metabolic process		pink	En
+ENSG00000156976	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	ENSG00000156976	GO:0009126	purine nucleoside monophosphate metabolic process		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0009126	purine nucleoside monophosphate metabolic process		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0009126	purine nucleoside monophosphate metabolic process		pink	En
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	ENSG00000141367	GO:0030665	clathrin-coated vesicle membrane		pink	En
+ENSG00000104888	SLC17A7	solute carrier family 17 (vesicular glutamate transporter), member 7 [Source:HGNC Symbol;Acc:HGNC:16704]	ENSG00000104888	GO:0030665	clathrin-coated vesicle membrane		pink	En
+ENSG00000122705	CLTA	clathrin, light chain A [Source:HGNC Symbol;Acc:HGNC:2090]	ENSG00000122705	GO:0030665	clathrin-coated vesicle membrane		pink	En
+ENSG00000070808	CAMK2A	calcium/calmodulin-dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	ENSG00000070808	GO:0030666	endocytic vesicle membrane		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0030666	endocytic vesicle membrane		pink	En
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	ENSG00000141367	GO:0030666	endocytic vesicle membrane		pink	En
+ENSG00000075785	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	ENSG00000075785	GO:0030666	endocytic vesicle membrane		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0030666	endocytic vesicle membrane		pink	En
+ENSG00000122705	CLTA	clathrin, light chain A [Source:HGNC Symbol;Acc:HGNC:2090]	ENSG00000122705	GO:0030666	endocytic vesicle membrane		pink	En
+ENSG00000173692	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1 [Source:HGNC Symbol;Acc:HGNC:9554]	ENSG00000173692	GO:0005838	proteasome regulatory particle		pink	En
+ENSG00000103035	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 [Source:HGNC Symbol;Acc:HGNC:9565]	ENSG00000103035	GO:0005838	proteasome regulatory particle		pink	En
+ENSG00000108344	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9560]	ENSG00000108344	GO:0005838	proteasome regulatory particle		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0015991	ATP hydrolysis coupled proton transport		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0051084	'de novo' posttranslational protein folding		pink	En
+ENSG00000163468	CCT3	chaperonin containing TCP1, subunit 3 (gamma) [Source:HGNC Symbol;Acc:HGNC:1616]	ENSG00000163468	GO:0051084	'de novo' posttranslational protein folding		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0051084	'de novo' posttranslational protein folding		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0051084	'de novo' posttranslational protein folding		pink	En
+ENSG00000171530	TBCA	tubulin folding cofactor A [Source:HGNC Symbol;Acc:HGNC:11579]	ENSG00000171530	GO:0051084	'de novo' posttranslational protein folding		pink	En
+ENSG00000138107	ACTR1A	ARP1 actin-related protein 1 homolog A, centractin alpha (yeast) [Source:HGNC Symbol;Acc:HGNC:167]	ENSG00000138107	GO:0005813	centrosome		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0005813	centrosome		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0005813	centrosome		pink	En
+ENSG00000115073	ACTR1B	ARP1 actin-related protein 1 homolog B, centractin beta (yeast) [Source:HGNC Symbol;Acc:HGNC:168]	ENSG00000115073	GO:0005813	centrosome		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0005813	centrosome		pink	En
+ENSG00000159164	SV2A	synaptic vesicle glycoprotein 2A [Source:HGNC Symbol;Acc:HGNC:20566]	ENSG00000159164	GO:0048786	presynaptic active zone		pink	En
+ENSG00000104888	SLC17A7	solute carrier family 17 (vesicular glutamate transporter), member 7 [Source:HGNC Symbol;Acc:HGNC:16704]	ENSG00000104888	GO:0048786	presynaptic active zone		pink	En
+ENSG00000102003	SYP	synaptophysin [Source:HGNC Symbol;Acc:HGNC:11506]	ENSG00000102003	GO:0048786	presynaptic active zone		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0051082	unfolded protein binding		pink	En
+ENSG00000163468	CCT3	chaperonin containing TCP1, subunit 3 (gamma) [Source:HGNC Symbol;Acc:HGNC:1616]	ENSG00000163468	GO:0051082	unfolded protein binding		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0051082	unfolded protein binding		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0051082	unfolded protein binding		pink	En
+ENSG00000171530	TBCA	tubulin folding cofactor A [Source:HGNC Symbol;Acc:HGNC:11579]	ENSG00000171530	GO:0051082	unfolded protein binding		pink	En
+ENSG00000197535	MYO5A	myosin VA (heavy chain 12, myoxin) [Source:HGNC Symbol;Acc:HGNC:7602]	ENSG00000197535	GO:0005524	ATP binding		pink	En
+ENSG00000138107	ACTR1A	ARP1 actin-related protein 1 homolog A, centractin alpha (yeast) [Source:HGNC Symbol;Acc:HGNC:167]	ENSG00000138107	GO:0005524	ATP binding		pink	En
+ENSG00000156976	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	ENSG00000156976	GO:0005524	ATP binding		pink	En
+ENSG00000115073	ACTR1B	ARP1 actin-related protein 1 homolog B, centractin beta (yeast) [Source:HGNC Symbol;Acc:HGNC:168]	ENSG00000115073	GO:0005524	ATP binding		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0005524	ATP binding		pink	En
+ENSG00000156110	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	ENSG00000156110	GO:0005524	ATP binding		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0005524	ATP binding		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0005524	ATP binding		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0005524	ATP binding		pink	En
+ENSG00000075785	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	ENSG00000075785	GO:0005524	ATP binding		pink	En
+ENSG00000116120	FARSB	phenylalanyl-tRNA synthetase, beta subunit [Source:HGNC Symbol;Acc:HGNC:17800]	ENSG00000116120	GO:0005524	ATP binding		pink	En
+ENSG00000163468	CCT3	chaperonin containing TCP1, subunit 3 (gamma) [Source:HGNC Symbol;Acc:HGNC:1616]	ENSG00000163468	GO:0005524	ATP binding		pink	En
+ENSG00000124406	ATP8A1	ATPase, aminophospholipid transporter (APLT), class I, type 8A, member 1 [Source:HGNC Symbol;Acc:HGNC:13531]	ENSG00000124406	GO:0005524	ATP binding		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0005524	ATP binding		pink	En
+ENSG00000070808	CAMK2A	calcium/calmodulin-dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	ENSG00000070808	GO:0005524	ATP binding		pink	En
+ENSG00000213760	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	ENSG00000213760	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0008286	insulin receptor signaling pathway		pink	En
+ENSG00000213760	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	ENSG00000213760	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0006879	cellular iron ion homeostasis		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0016324	apical plasma membrane		pink	En
+ENSG00000112697	TMEM30A	transmembrane protein 30A [Source:HGNC Symbol;Acc:HGNC:16667]	ENSG00000112697	GO:0016324	apical plasma membrane		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0016324	apical plasma membrane		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0016324	apical plasma membrane		pink	En
+ENSG00000197535	MYO5A	myosin VA (heavy chain 12, myoxin) [Source:HGNC Symbol;Acc:HGNC:7602]	ENSG00000197535	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	ENSG00000141367	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000088247	KHSRP	KH-type splicing regulatory protein [Source:HGNC Symbol;Acc:HGNC:6316]	ENSG00000088247	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000156110	ADK	adenosine kinase [Source:HGNC Symbol;Acc:HGNC:257]	ENSG00000156110	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000115306	SPTBN1	spectrin, beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	ENSG00000115306	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000069275	NUCKS1	nuclear casein kinase and cyclin-dependent kinase substrate 1 [Source:HGNC Symbol;Acc:HGNC:29923]	ENSG00000069275	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000156976	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	ENSG00000156976	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000163468	CCT3	chaperonin containing TCP1, subunit 3 (gamma) [Source:HGNC Symbol;Acc:HGNC:1616]	ENSG00000163468	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000132341	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	ENSG00000132341	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000171530	TBCA	tubulin folding cofactor A [Source:HGNC Symbol;Acc:HGNC:11579]	ENSG00000171530	GO:0044822	poly(A) RNA binding		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0007339	binding of sperm to zona pellucida		pink	En
+ENSG00000163468	CCT3	chaperonin containing TCP1, subunit 3 (gamma) [Source:HGNC Symbol;Acc:HGNC:1616]	ENSG00000163468	GO:0007339	binding of sperm to zona pellucida		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0007339	binding of sperm to zona pellucida		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0007339	binding of sperm to zona pellucida		pink	En
+ENSG00000159164	SV2A	synaptic vesicle glycoprotein 2A [Source:HGNC Symbol;Acc:HGNC:20566]	ENSG00000159164	GO:0006836	neurotransmitter transport		pink	En
+ENSG00000104888	SLC17A7	solute carrier family 17 (vesicular glutamate transporter), member 7 [Source:HGNC Symbol;Acc:HGNC:16704]	ENSG00000104888	GO:0006836	neurotransmitter transport		pink	En
+ENSG00000197106	SLC6A17	solute carrier family 6 (neutral amino acid transporter), member 17 [Source:HGNC Symbol;Acc:HGNC:31399]	ENSG00000197106	GO:0006836	neurotransmitter transport		pink	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0006836	neurotransmitter transport		pink	En
+ENSG00000185518	SV2B	synaptic vesicle glycoprotein 2B [Source:HGNC Symbol;Acc:HGNC:16874]	ENSG00000185518	GO:0006836	neurotransmitter transport		pink	En
+ENSG00000213760	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	ENSG00000213760	GO:0051701	interaction with host		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0051701	interaction with host		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0051701	interaction with host		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0051701	interaction with host		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0051701	interaction with host		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0051701	interaction with host		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0051701	interaction with host		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0051701	interaction with host		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0051701	interaction with host		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0044769	ATPase activity, coupled to transmembrane movement of ions, rotational mechanism		pink	En
+ENSG00000138107	ACTR1A	ARP1 actin-related protein 1 homolog A, centractin alpha (yeast) [Source:HGNC Symbol;Acc:HGNC:167]	ENSG00000138107	GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II		pink	En
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	ENSG00000141367	GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II		pink	En
+ENSG00000122705	CLTA	clathrin, light chain A [Source:HGNC Symbol;Acc:HGNC:2090]	ENSG00000122705	GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II		pink	En
+ENSG00000075785	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	ENSG00000075785	GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II		pink	En
+ENSG00000115073	ACTR1B	ARP1 actin-related protein 1 homolog B, centractin beta (yeast) [Source:HGNC Symbol;Acc:HGNC:168]	ENSG00000115073	GO:0002504	antigen processing and presentation of peptide or polysaccharide antigen via MHC class II		pink	En
+ENSG00000159164	SV2A	synaptic vesicle glycoprotein 2A [Source:HGNC Symbol;Acc:HGNC:20566]	ENSG00000159164	GO:0030672	synaptic vesicle membrane		pink	En
+ENSG00000104888	SLC17A7	solute carrier family 17 (vesicular glutamate transporter), member 7 [Source:HGNC Symbol;Acc:HGNC:16704]	ENSG00000104888	GO:0030672	synaptic vesicle membrane		pink	En
+ENSG00000197106	SLC6A17	solute carrier family 6 (neutral amino acid transporter), member 17 [Source:HGNC Symbol;Acc:HGNC:31399]	ENSG00000197106	GO:0030672	synaptic vesicle membrane		pink	En
+ENSG00000185518	SV2B	synaptic vesicle glycoprotein 2B [Source:HGNC Symbol;Acc:HGNC:16874]	ENSG00000185518	GO:0030672	synaptic vesicle membrane		pink	En
+ENSG00000102003	SYP	synaptophysin [Source:HGNC Symbol;Acc:HGNC:11506]	ENSG00000102003	GO:0030672	synaptic vesicle membrane		pink	En
+ENSG00000102003	SYP	synaptophysin [Source:HGNC Symbol;Acc:HGNC:11506]	ENSG00000102003	GO:0042734	presynaptic membrane		pink	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0042734	presynaptic membrane		pink	En
+ENSG00000070808	CAMK2A	calcium/calmodulin-dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	ENSG00000070808	GO:0042734	presynaptic membrane		pink	En
+ENSG00000213760	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	ENSG00000213760	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	ENSG00000141367	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000033627	ATP6V0A1	ATPase, H+ transporting, lysosomal V0 subunit a1 [Source:HGNC Symbol;Acc:HGNC:865]	ENSG00000033627	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0072512	trivalent inorganic cation transport		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0033178	proton-transporting two-sector ATPase complex, catalytic domain		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0005765	lysosomal membrane		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0005765	lysosomal membrane		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0005765	lysosomal membrane		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0005765	lysosomal membrane		pink	En
+ENSG00000147416	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2 [Source:HGNC Symbol;Acc:HGNC:854]	ENSG00000147416	GO:0005765	lysosomal membrane		pink	En
+ENSG00000075785	RAB7A	RAB7A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9788]	ENSG00000075785	GO:0005765	lysosomal membrane		pink	En
+ENSG00000047249	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H [Source:HGNC Symbol;Acc:HGNC:18303]	ENSG00000047249	GO:0005765	lysosomal membrane		pink	En
+ENSG00000156052	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide [Source:HGNC Symbol;Acc:HGNC:4390]	ENSG00000156052	GO:0005765	lysosomal membrane		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0002199	zona pellucida receptor complex		pink	En
+ENSG00000163468	CCT3	chaperonin containing TCP1, subunit 3 (gamma) [Source:HGNC Symbol;Acc:HGNC:1616]	ENSG00000163468	GO:0002199	zona pellucida receptor complex		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0002199	zona pellucida receptor complex		pink	En
+ENSG00000115484	CCT4	chaperonin containing TCP1, subunit 4 (delta) [Source:HGNC Symbol;Acc:HGNC:1617]	ENSG00000115484	GO:0002199	zona pellucida receptor complex		pink	En
+ENSG00000111911	HINT3	histidine triad nucleotide binding protein 3 [Source:HGNC Symbol;Acc:HGNC:18468]	ENSG00000111911	GO:0044428	nuclear part		pink	En
+ENSG00000107317	PTGDS	prostaglandin D2 synthase 21kDa (brain) [Source:HGNC Symbol;Acc:HGNC:9592]	ENSG00000107317	GO:0044428	nuclear part		pink	En
+ENSG00000070808	CAMK2A	calcium/calmodulin-dependent protein kinase II alpha [Source:HGNC Symbol;Acc:HGNC:1460]	ENSG00000070808	GO:0044428	nuclear part		pink	En
+ENSG00000173692	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1 [Source:HGNC Symbol;Acc:HGNC:9554]	ENSG00000173692	GO:0044428	nuclear part		pink	En
+ENSG00000088247	KHSRP	KH-type splicing regulatory protein [Source:HGNC Symbol;Acc:HGNC:6316]	ENSG00000088247	GO:0044428	nuclear part		pink	En
+ENSG00000115306	SPTBN1	spectrin, beta, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11275]	ENSG00000115306	GO:0044428	nuclear part		pink	En
+ENSG00000132471	WBP2	WW domain binding protein 2 [Source:HGNC Symbol;Acc:HGNC:12738]	ENSG00000132471	GO:0044428	nuclear part		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0044428	nuclear part		pink	En
+ENSG00000103035	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 [Source:HGNC Symbol;Acc:HGNC:9565]	ENSG00000103035	GO:0044428	nuclear part		pink	En
+ENSG00000130227	XPO7	exportin 7 [Source:HGNC Symbol;Acc:HGNC:14108]	ENSG00000130227	GO:0044428	nuclear part		pink	En
+ENSG00000132341	RAN	RAN, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9846]	ENSG00000132341	GO:0044428	nuclear part		pink	En
+ENSG00000171530	TBCA	tubulin folding cofactor A [Source:HGNC Symbol;Acc:HGNC:11579]	ENSG00000171530	GO:0044428	nuclear part		pink	En
+ENSG00000108344	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9560]	ENSG00000108344	GO:0044428	nuclear part		pink	En
+ENSG00000156052	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide [Source:HGNC Symbol;Acc:HGNC:4390]	ENSG00000156052	GO:0044428	nuclear part		pink	En
+ENSG00000185518	SV2B	synaptic vesicle glycoprotein 2B [Source:HGNC Symbol;Acc:HGNC:16874]	ENSG00000185518	GO:0001669	acrosomal vesicle		pink	En
+ENSG00000146731	CCT6A	chaperonin containing TCP1, subunit 6A (zeta 1) [Source:HGNC Symbol;Acc:HGNC:1620]	ENSG00000146731	GO:0001669	acrosomal vesicle		pink	En
+ENSG00000120438	TCP1	t-complex 1 [Source:HGNC Symbol;Acc:HGNC:11655]	ENSG00000120438	GO:0001669	acrosomal vesicle		pink	En
+ENSG00000213760	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2 [Source:HGNC Symbol;Acc:HGNC:862]	ENSG00000213760	GO:0016469	proton-transporting two-sector ATPase complex		pink	En
+ENSG00000159720	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1 [Source:HGNC Symbol;Acc:HGNC:13724]	ENSG00000159720	GO:0016469	proton-transporting two-sector ATPase complex		pink	En
+ENSG00000114573	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A [Source:HGNC Symbol;Acc:HGNC:851]	ENSG00000114573	GO:0016469	proton-transporting two-sector ATPase complex		pink	En
+ENSG00000131100	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1 [Source:HGNC Symbol;Acc:HGNC:857]	ENSG00000131100	GO:0016469	proton-transporting two-sector ATPase complex		pink	En
+ENSG00000155097	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1 [Source:HGNC Symbol;Acc:HGNC:856]	ENSG00000155097	GO:0016469	proton-transporting two-sector ATPase complex		pink	En
+ENSG00000128524	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F [Source:HGNC Symbol;Acc:HGNC:16832]	ENSG00000128524	GO:0016469	proton-transporting two-sector ATPase complex		pink	En

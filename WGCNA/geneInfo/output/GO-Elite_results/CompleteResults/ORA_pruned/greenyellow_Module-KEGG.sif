@@ -1,0 +1,16 @@
+Pentose phosphate pathway:KEGG-hsa00030	pr	ENSG00000130988:RGN
+Pentose phosphate pathway:KEGG-hsa00030	pr	ENSG00000160211:G6PD
+Pentose phosphate pathway:KEGG-hsa00030	pr	ENSG00000149925:ALDOA
+Fructose and mannose metabolism:KEGG-hsa00051	pr	ENSG00000111669:TPI1
+Fructose and mannose metabolism:KEGG-hsa00051	pr	ENSG00000149925:ALDOA
+Fructose and mannose metabolism:KEGG-hsa00051	pr	ENSG00000178802:MPI
+Inositol phosphate metabolism:KEGG-hsa00562	pr	ENSG00000111669:TPI1
+Inositol phosphate metabolism:KEGG-hsa00562	pr	ENSG00000133731:IMPA1
+Inositol phosphate metabolism:KEGG-hsa00562	pr	ENSG00000105655:ISYNA1
+Cysteine and methionine metabolism:KEGG-hsa00270	pr	ENSG00000099810:MTAP
+Cysteine and methionine metabolism:KEGG-hsa00270	pr	ENSG00000120053:GOT1
+Cysteine and methionine metabolism:KEGG-hsa00270	pr	ENSG00000145293:ENOPH1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000111669:TPI1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000102144:PGK1
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000111674:ENO2
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000149925:ALDOA

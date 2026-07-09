@@ -1,0 +1,434 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0006633	fatty acid biosynthetic process	PLP1	magenta	En
+ENSG00000107317	PTGDS	prostaglandin D2 synthase 21kDa (brain) [Source:HGNC Symbol;Acc:HGNC:9592]	ENSG00000107317	GO:0006633	fatty acid biosynthetic process	PTGDS	magenta	En
+ENSG00000176393	RNPEP	arginyl aminopeptidase (aminopeptidase B) [Source:HGNC Symbol;Acc:HGNC:10078]	ENSG00000176393	GO:0006633	fatty acid biosynthetic process	RNPEP	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0006959	humoral immune response	CLU	magenta	En
+ENSG00000211895	IGHA1	immunoglobulin heavy constant alpha 1 [Source:HGNC Symbol;Acc:HGNC:5478]	ENSG00000211895	GO:0006959	humoral immune response	IGHA1	magenta	En
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	ENSG00000000971	GO:0006959	humoral immune response	CFH	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0050808	synapse organization	TNR	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0050808	synapse organization	CTNNB1	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0050808	synapse organization	NRXN3	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0050808	synapse organization	NRCAM	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0050808	synapse organization	NFASC	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0032102	negative regulation of response to external stimulus	TNR	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0032102	negative regulation of response to external stimulus	CTNNA2	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0032102	negative regulation of response to external stimulus	SIRT2	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0032102	negative regulation of response to external stimulus	APOE	magenta	En
+ENSG00000122756	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	ENSG00000122756	GO:0019221	cytokine-mediated signaling pathway	CNTFR	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0019221	cytokine-mediated signaling pathway	CAMK2B	magenta	En
+ENSG00000143947	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	ENSG00000143947	GO:0019221	cytokine-mediated signaling pathway	RPS27A	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0019221	cytokine-mediated signaling pathway	NCAM1	magenta	En
+ENSG00000109846	CRYAB	crystallin, alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	ENSG00000109846	GO:0030308	negative regulation of cell growth	CRYAB	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0030308	negative regulation of cell growth	TNR	magenta	En
+ENSG00000164530	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]	ENSG00000164530	GO:0030308	negative regulation of cell growth	PI16	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0007626	locomotory behavior	TNR	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0007626	locomotory behavior	CHL1	magenta	En
+ENSG00000185565	LSAMP	limbic system-associated membrane protein [Source:HGNC Symbol;Acc:HGNC:6705]	ENSG00000185565	GO:0007626	locomotory behavior	LSAMP	magenta	En
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	ENSG00000172260	GO:0007626	locomotory behavior	NEGR1	magenta	En
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	ENSG00000173786	GO:0007626	locomotory behavior	CNP	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0007626	locomotory behavior	ADAM22	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0022412	cellular process involved in reproduction in multicellular organism	CD9	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0022412	cellular process involved in reproduction in multicellular organism	CTNNB1	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0022412	cellular process involved in reproduction in multicellular organism	JAM3	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0050807	regulation of synapse organization	CTNNA2	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0050807	regulation of synapse organization	NRXN3	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0050807	regulation of synapse organization	CAMK2B	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0050806	positive regulation of synaptic transmission	TNR	magenta	En
+ENSG00000135821	GLUL	glutamate-ammonia ligase [Source:HGNC Symbol;Acc:HGNC:4341]	ENSG00000135821	GO:0050806	positive regulation of synaptic transmission	GLUL	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	GO:0050806	positive regulation of synaptic transmission	LAMA2	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0050806	positive regulation of synaptic transmission	CA2	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0030301	cholesterol transport	CLU	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0030301	cholesterol transport	APOE	magenta	En
+ENSG00000119655	NPC2	Niemann-Pick disease, type C2 [Source:HGNC Symbol;Acc:HGNC:14537]	ENSG00000119655	GO:0030301	cholesterol transport	NPC2	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0010942	positive regulation of cell death	CTNNB1	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0010942	positive regulation of cell death	APOE	magenta	En
+ENSG00000086061	DNAJA1	DnaJ (Hsp40) homolog, subfamily A, member 1 [Source:HGNC Symbol;Acc:HGNC:5229]	ENSG00000086061	GO:0010942	positive regulation of cell death	DNAJA1	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0010942	positive regulation of cell death	SIRT2	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0010942	positive regulation of cell death	CLU	magenta	En
+ENSG00000115541	HSPE1	heat shock 10kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:5269]	ENSG00000115541	GO:0010942	positive regulation of cell death	HSPE1	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0010942	positive regulation of cell death	HSPD1	magenta	En
+ENSG00000143947	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	ENSG00000143947	GO:0010942	positive regulation of cell death	RPS27A	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0010942	positive regulation of cell death	CAMK2B	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0051147	regulation of muscle cell differentiation	CTNNA2	magenta	En
+ENSG00000164530	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]	ENSG00000164530	GO:0051147	regulation of muscle cell differentiation	PI16	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0051147	regulation of muscle cell differentiation	CTNNB1	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0098552	side of membrane	CD9	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0098552	side of membrane	CTNNB1	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0098552	side of membrane	L1CAM	magenta	En
+ENSG00000170017	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	ENSG00000170017	GO:0098552	side of membrane	ALCAM	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0098552	side of membrane	NCAM1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0098552	side of membrane	NRCAM	magenta	En
+ENSG00000109846	CRYAB	crystallin, alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	ENSG00000109846	GO:0061061	muscle structure development	CRYAB	magenta	En
+ENSG00000122756	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	ENSG00000122756	GO:0061061	muscle structure development	CNTFR	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	GO:0061061	muscle structure development	LAMA2	magenta	En
+ENSG00000151012	SLC7A11	solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	ENSG00000151012	GO:0005791	rough endoplasmic reticulum	SLC7A11	magenta	En
+ENSG00000107317	PTGDS	prostaglandin D2 synthase 21kDa (brain) [Source:HGNC Symbol;Acc:HGNC:9592]	ENSG00000107317	GO:0005791	rough endoplasmic reticulum	PTGDS	magenta	En
+ENSG00000135821	GLUL	glutamate-ammonia ligase [Source:HGNC Symbol;Acc:HGNC:4341]	ENSG00000135821	GO:0005791	rough endoplasmic reticulum	GLUL	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0007272	ensheathment of neurons	PLP1	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0007272	ensheathment of neurons	MBP	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0007272	ensheathment of neurons	JAM3	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0007272	ensheathment of neurons	SIRT2	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0007272	ensheathment of neurons	ADAM22	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0007272	ensheathment of neurons	NFASC	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	GO:0007272	ensheathment of neurons	LAMA2	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0043220	Schmidt-Lanterman incisure	SIRT2	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0043220	Schmidt-Lanterman incisure	MAG	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0043220	Schmidt-Lanterman incisure	JAM3	magenta	En
+ENSG00000144566	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	ENSG00000144566	GO:0048168	regulation of neuronal synaptic plasticity	RAB5A	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0048168	regulation of neuronal synaptic plasticity	CAMK2B	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0048168	regulation of neuronal synaptic plasticity	APOE	magenta	En
+ENSG00000182667	NTM	neurotrimin [Source:HGNC Symbol;Acc:HGNC:17941]	ENSG00000182667	GO:0031225	anchored component of membrane	NTM	magenta	En
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	ENSG00000172260	GO:0031225	anchored component of membrane	NEGR1	magenta	En
+ENSG00000185565	LSAMP	limbic system-associated membrane protein [Source:HGNC Symbol;Acc:HGNC:6705]	ENSG00000185565	GO:0031225	anchored component of membrane	LSAMP	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0031225	anchored component of membrane	PRNP	magenta	En
+ENSG00000122756	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	ENSG00000122756	GO:0031225	anchored component of membrane	CNTFR	magenta	En
+ENSG00000176956	LY6H	lymphocyte antigen 6 complex, locus H [Source:HGNC Symbol;Acc:HGNC:6728]	ENSG00000176956	GO:0031225	anchored component of membrane	LY6H	magenta	En
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	ENSG00000018236	GO:0031225	anchored component of membrane	CNTN1	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0031225	anchored component of membrane	NCAM1	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0010001	glial cell differentiation	PLP1	magenta	En
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	ENSG00000173786	GO:0010001	glial cell differentiation	CNP	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:0010001	glial cell differentiation	PTPRZ1	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0010001	glial cell differentiation	ADAM22	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0010001	glial cell differentiation	APOE	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0050839	cell adhesion molecule binding	CD9	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0050839	cell adhesion molecule binding	CTNNB1	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0050839	cell adhesion molecule binding	JAM3	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0050839	cell adhesion molecule binding	NRXN3	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0050839	cell adhesion molecule binding	L1CAM	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0050839	cell adhesion molecule binding	ADAM22	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0050839	cell adhesion molecule binding	CTNNA2	magenta	En
+ENSG00000086061	DNAJA1	DnaJ (Hsp40) homolog, subfamily A, member 1 [Source:HGNC Symbol;Acc:HGNC:5229]	ENSG00000086061	GO:0030522	intracellular receptor signaling pathway	DNAJA1	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0030522	intracellular receptor signaling pathway	CTNNB1	magenta	En
+ENSG00000143947	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	ENSG00000143947	GO:0030522	intracellular receptor signaling pathway	RPS27A	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0005615	extracellular space	CD9	magenta	En
+ENSG00000107317	PTGDS	prostaglandin D2 synthase 21kDa (brain) [Source:HGNC Symbol;Acc:HGNC:9592]	ENSG00000107317	GO:0005615	extracellular space	PTGDS	magenta	En
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	ENSG00000038427	GO:0005615	extracellular space	VCAN	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0005615	extracellular space	JAM3	magenta	En
+ENSG00000164530	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]	ENSG00000164530	GO:0005615	extracellular space	PI16	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0005615	extracellular space	APOE	magenta	En
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	ENSG00000173786	GO:0005615	extracellular space	CNP	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0005615	extracellular space	CA2	magenta	En
+ENSG00000050165	DKK3	dickkopf WNT signaling pathway inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:2893]	ENSG00000050165	GO:0005615	extracellular space	DKK3	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0005615	extracellular space	CLU	magenta	En
+ENSG00000124570	SERPINB6	serpin peptidase inhibitor, clade B (ovalbumin), member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	ENSG00000124570	GO:0005615	extracellular space	SERPINB6	magenta	En
+ENSG00000108679	LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	ENSG00000108679	GO:0005615	extracellular space	LGALS3BP	magenta	En
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	ENSG00000000971	GO:0005615	extracellular space	CFH	magenta	En
+ENSG00000176393	RNPEP	arginyl aminopeptidase (aminopeptidase B) [Source:HGNC Symbol;Acc:HGNC:10078]	ENSG00000176393	GO:0005615	extracellular space	RNPEP	magenta	En
+ENSG00000211895	IGHA1	immunoglobulin heavy constant alpha 1 [Source:HGNC Symbol;Acc:HGNC:5478]	ENSG00000211895	GO:0005615	extracellular space	IGHA1	magenta	En
+ENSG00000021355	SERPINB1	serpin peptidase inhibitor, clade B (ovalbumin), member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	ENSG00000021355	GO:0005615	extracellular space	SERPINB1	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0005615	extracellular space	HSPD1	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0043209	myelin sheath	CA2	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0043209	myelin sheath	PLP1	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0043209	myelin sheath	MBP	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0043209	myelin sheath	SIRT2	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0043209	myelin sheath	MAG	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0016021	integral component of membrane	PLP1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0016021	integral component of membrane	NRCAM	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0016021	integral component of membrane	NRXN3	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0016021	integral component of membrane	L1CAM	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0016021	integral component of membrane	NFASC	magenta	En
+ENSG00000148468	FAM171A1	family with sequence similarity 171, member A1 [Source:HGNC Symbol;Acc:HGNC:23522]	ENSG00000148468	GO:0016021	integral component of membrane	FAM171A1	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0016021	integral component of membrane	CHL1	magenta	En
+ENSG00000170017	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	ENSG00000170017	GO:0016021	integral component of membrane	ALCAM	magenta	En
+ENSG00000085117	CD82	CD82 molecule [Source:HGNC Symbol;Acc:HGNC:6210]	ENSG00000085117	GO:0016021	integral component of membrane	CD82	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	GO:0016021	integral component of membrane	NCAM2	magenta	En
+ENSG00000105767	CADM4	cell adhesion molecule 4 [Source:HGNC Symbol;Acc:HGNC:30825]	ENSG00000105767	GO:0016021	integral component of membrane	CADM4	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0016021	integral component of membrane	JAM3	magenta	En
+ENSG00000164530	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]	ENSG00000164530	GO:0016021	integral component of membrane	PI16	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:0016021	integral component of membrane	PTPRZ1	magenta	En
+ENSG00000110651	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	ENSG00000110651	GO:0016021	integral component of membrane	CD81	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0016021	integral component of membrane	ADAM22	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0016021	integral component of membrane	CD9	magenta	En
+ENSG00000204655	MOG	myelin oligodendrocyte glycoprotein [Source:HGNC Symbol;Acc:HGNC:7197]	ENSG00000204655	GO:0016021	integral component of membrane	MOG	magenta	En
+ENSG00000198053	SIRPA	signal-regulatory protein alpha [Source:HGNC Symbol;Acc:HGNC:9662]	ENSG00000198053	GO:0016021	integral component of membrane	SIRPA	magenta	En
+ENSG00000151012	SLC7A11	solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	ENSG00000151012	GO:0016021	integral component of membrane	SLC7A11	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0016021	integral component of membrane	MAG	magenta	En
+ENSG00000070214	SLC44A1	solute carrier family 44 (choline transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:18798]	ENSG00000070214	GO:0016021	integral component of membrane	SLC44A1	magenta	En
+ENSG00000168003	SLC3A2	solute carrier family 3 (amino acid transporter heavy chain), member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	ENSG00000168003	GO:0016021	integral component of membrane	SLC3A2	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0016021	integral component of membrane	NCAM1	magenta	En
+ENSG00000157445	CACNA2D3	calcium channel, voltage-dependent, alpha 2/delta subunit 3 [Source:HGNC Symbol;Acc:HGNC:15460]	ENSG00000157445	GO:0016021	integral component of membrane	CACNA2D3	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0051087	chaperone binding	PRNP	magenta	En
+ENSG00000115541	HSPE1	heat shock 10kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:5269]	ENSG00000115541	GO:0051087	chaperone binding	HSPE1	magenta	En
+ENSG00000086061	DNAJA1	DnaJ (Hsp40) homolog, subfamily A, member 1 [Source:HGNC Symbol;Acc:HGNC:5229]	ENSG00000086061	GO:0051087	chaperone binding	DNAJA1	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0051087	chaperone binding	HSPD1	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0072562	blood microparticle	CLU	magenta	En
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	ENSG00000000971	GO:0072562	blood microparticle	CFH	magenta	En
+ENSG00000211895	IGHA1	immunoglobulin heavy constant alpha 1 [Source:HGNC Symbol;Acc:HGNC:5478]	ENSG00000211895	GO:0072562	blood microparticle	IGHA1	magenta	En
+ENSG00000108679	LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	ENSG00000108679	GO:0072562	blood microparticle	LGALS3BP	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0072562	blood microparticle	APOE	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0035640	exploration behavior	TNR	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0035640	exploration behavior	CHL1	magenta	En
+ENSG00000185565	LSAMP	limbic system-associated membrane protein [Source:HGNC Symbol;Acc:HGNC:6705]	ENSG00000185565	GO:0035640	exploration behavior	LSAMP	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0097485	neuron projection guidance	TNR	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0097485	neuron projection guidance	MYH10	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0097485	neuron projection guidance	NRXN3	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0097485	neuron projection guidance	CHL1	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0097485	neuron projection guidance	L1CAM	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0097485	neuron projection guidance	PRNP	magenta	En
+ENSG00000170017	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	ENSG00000170017	GO:0097485	neuron projection guidance	ALCAM	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0097485	neuron projection guidance	NCAM1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0097485	neuron projection guidance	NRCAM	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0097485	neuron projection guidance	NFASC	magenta	En
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	ENSG00000018236	GO:0097485	neuron projection guidance	CNTN1	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	GO:0097485	neuron projection guidance	LAMA2	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:2000177	regulation of neural precursor cell proliferation	CTNNB1	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:2000177	regulation of neural precursor cell proliferation	PTPRZ1	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:2000177	regulation of neural precursor cell proliferation	SIRT2	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0002020	protease binding	MBP	magenta	En
+ENSG00000124570	SERPINB6	serpin peptidase inhibitor, clade B (ovalbumin), member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	ENSG00000124570	GO:0002020	protease binding	SERPINB6	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0002020	protease binding	CHL1	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0033010	paranodal junction	NFASC	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0033010	paranodal junction	SIRT2	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0033010	paranodal junction	JAM3	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0046686	response to cadmium ion	PRNP	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0046686	response to cadmium ion	CTNNB1	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0046686	response to cadmium ion	CAMK2B	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0022610	biological adhesion	TNR	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0022610	biological adhesion	ADAM22	magenta	En
+ENSG00000108679	LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	ENSG00000108679	GO:0022610	biological adhesion	LGALS3BP	magenta	En
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	ENSG00000172260	GO:0022610	biological adhesion	NEGR1	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0022610	biological adhesion	L1CAM	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0022610	biological adhesion	NFASC	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0022610	biological adhesion	CTNNB1	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0022610	biological adhesion	MYH10	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0022610	biological adhesion	CHL1	magenta	En
+ENSG00000182667	NTM	neurotrimin [Source:HGNC Symbol;Acc:HGNC:17941]	ENSG00000182667	GO:0022610	biological adhesion	NTM	magenta	En
+ENSG00000170017	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	ENSG00000170017	GO:0022610	biological adhesion	ALCAM	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0022610	biological adhesion	HSPD1	magenta	En
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	ENSG00000018236	GO:0022610	biological adhesion	CNTN1	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	GO:0022610	biological adhesion	LAMA2	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	GO:0022610	biological adhesion	NCAM2	magenta	En
+ENSG00000132702	HAPLN2	hyaluronan and proteoglycan link protein 2 [Source:HGNC Symbol;Acc:HGNC:17410]	ENSG00000132702	GO:0022610	biological adhesion	HAPLN2	magenta	En
+ENSG00000105767	CADM4	cell adhesion molecule 4 [Source:HGNC Symbol;Acc:HGNC:30825]	ENSG00000105767	GO:0022610	biological adhesion	CADM4	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0022610	biological adhesion	JAM3	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0022610	biological adhesion	NRXN3	magenta	En
+ENSG00000110651	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	ENSG00000110651	GO:0022610	biological adhesion	CD81	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0022610	biological adhesion	NRCAM	magenta	En
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	ENSG00000038427	GO:0022610	biological adhesion	VCAN	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0022610	biological adhesion	CD9	magenta	En
+ENSG00000204655	MOG	myelin oligodendrocyte glycoprotein [Source:HGNC Symbol;Acc:HGNC:7197]	ENSG00000204655	GO:0022610	biological adhesion	MOG	magenta	En
+ENSG00000198053	SIRPA	signal-regulatory protein alpha [Source:HGNC Symbol;Acc:HGNC:9662]	ENSG00000198053	GO:0022610	biological adhesion	SIRPA	magenta	En
+ENSG00000151012	SLC7A11	solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	ENSG00000151012	GO:0022610	biological adhesion	SLC7A11	magenta	En
+ENSG00000185565	LSAMP	limbic system-associated membrane protein [Source:HGNC Symbol;Acc:HGNC:6705]	ENSG00000185565	GO:0022610	biological adhesion	LSAMP	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0022610	biological adhesion	MAG	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0022610	biological adhesion	NCAM1	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0022610	biological adhesion	CTNNA2	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0005576	extracellular region	TNR	magenta	En
+ENSG00000107317	PTGDS	prostaglandin D2 synthase 21kDa (brain) [Source:HGNC Symbol;Acc:HGNC:9592]	ENSG00000107317	GO:0005576	extracellular region	PTGDS	magenta	En
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	ENSG00000038427	GO:0005576	extracellular region	VCAN	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0005576	extracellular region	APOE	magenta	En
+ENSG00000176393	RNPEP	arginyl aminopeptidase (aminopeptidase B) [Source:HGNC Symbol;Acc:HGNC:10078]	ENSG00000176393	GO:0005576	extracellular region	RNPEP	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0005576	extracellular region	CLU	magenta	En
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	ENSG00000000971	GO:0005576	extracellular region	CFH	magenta	En
+ENSG00000211895	IGHA1	immunoglobulin heavy constant alpha 1 [Source:HGNC Symbol;Acc:HGNC:5478]	ENSG00000211895	GO:0005576	extracellular region	IGHA1	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	GO:0005576	extracellular region	LAMA2	magenta	En
+ENSG00000050165	DKK3	dickkopf WNT signaling pathway inhibitor 3 [Source:HGNC Symbol;Acc:HGNC:2893]	ENSG00000050165	GO:0005576	extracellular region	DKK3	magenta	En
+ENSG00000117154	IGSF21	immunoglobin superfamily, member 21 [Source:HGNC Symbol;Acc:HGNC:28246]	ENSG00000117154	GO:0005576	extracellular region	IGSF21	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0008285	negative regulation of cell proliferation	CD9	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0008285	negative regulation of cell proliferation	CTNNB1	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0008285	negative regulation of cell proliferation	APOE	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0008285	negative regulation of cell proliferation	SIRT2	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0008285	negative regulation of cell proliferation	PRNP	magenta	En
+ENSG00000167996	FTH1	ferritin, heavy polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:3976]	ENSG00000167996	GO:0008285	negative regulation of cell proliferation	FTH1	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0061564	axon development	PLP1	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0061564	axon development	JAM3	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0061564	axon development	CHL1	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0061564	axon development	APOE	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0050877	neurological system process	TNR	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0050877	neurological system process	NRCAM	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0050877	neurological system process	MYH10	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0050877	neurological system process	CHL1	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0050877	neurological system process	JAM3	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0050877	neurological system process	NRXN3	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0050877	neurological system process	PRNP	magenta	En
+ENSG00000184117	NIPSNAP1	nipsnap homolog 1 (C. elegans) [Source:HGNC Symbol;Acc:HGNC:7827]	ENSG00000184117	GO:0050877	neurological system process	NIPSNAP1	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:0050877	neurological system process	PTPRZ1	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0050877	neurological system process	NFASC	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	GO:0050877	neurological system process	NCAM2	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0050877	neurological system process	CAMK2B	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0010721	negative regulation of cell development	TNR	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0010721	negative regulation of cell development	CTNNB1	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0010721	negative regulation of cell development	APOE	magenta	En
+ENSG00000164530	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]	ENSG00000164530	GO:0010721	negative regulation of cell development	PI16	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0010721	negative regulation of cell development	SIRT2	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0010721	negative regulation of cell development	MAG	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0010721	negative regulation of cell development	MBP	magenta	En
+ENSG00000162813	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:1096]	ENSG00000162813	GO:0048731	system development	BPNT1	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0048731	system development	CTNNB1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0048731	system development	NRCAM	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0048731	system development	APOE	magenta	En
+ENSG00000144566	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	ENSG00000144566	GO:0048731	system development	RAB5A	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:0048731	system development	PTPRZ1	magenta	En
+ENSG00000185565	LSAMP	limbic system-associated membrane protein [Source:HGNC Symbol;Acc:HGNC:6705]	ENSG00000185565	GO:0048731	system development	LSAMP	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0048731	system development	L1CAM	magenta	En
+ENSG00000122756	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	ENSG00000122756	GO:0048731	system development	CNTFR	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0048731	system development	ADAM22	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0048731	system development	NFASC	magenta	En
+ENSG00000176956	LY6H	lymphocyte antigen 6 complex, locus H [Source:HGNC Symbol;Acc:HGNC:6728]	ENSG00000176956	GO:0048731	system development	LY6H	magenta	En
+ENSG00000204655	MOG	myelin oligodendrocyte glycoprotein [Source:HGNC Symbol;Acc:HGNC:7197]	ENSG00000204655	GO:0048731	system development	MOG	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0048731	system development	MBP	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0045177	apical part of cell	CTNNB1	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0045177	apical part of cell	CHL1	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0045177	apical part of cell	CA2	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0048468	cell development	CD9	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0048468	cell development	PLP1	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0048468	cell development	CTNNB1	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0048468	cell development	MYH10	magenta	En
+ENSG00000150867	PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha [Source:HGNC Symbol;Acc:HGNC:8997]	ENSG00000150867	GO:0048468	cell development	PIP4K2A	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0048468	cell development	JAM3	magenta	En
+ENSG00000132702	HAPLN2	hyaluronan and proteoglycan link protein 2 [Source:HGNC Symbol;Acc:HGNC:17410]	ENSG00000132702	GO:0048468	cell development	HAPLN2	magenta	En
+ENSG00000182667	NTM	neurotrimin [Source:HGNC Symbol;Acc:HGNC:17941]	ENSG00000182667	GO:0008038	neuron recognition	NTM	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	GO:0008038	neuron recognition	NCAM2	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0008038	neuron recognition	NRCAM	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0045597	positive regulation of cell differentiation	CTNNB1	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0045597	positive regulation of cell differentiation	APOE	magenta	En
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	ENSG00000172260	GO:0045597	positive regulation of cell differentiation	NEGR1	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0045597	positive regulation of cell differentiation	SIRT2	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0045597	positive regulation of cell differentiation	CA2	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0045597	positive regulation of cell differentiation	NRCAM	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0045597	positive regulation of cell differentiation	CTNNA2	magenta	En
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	ENSG00000018236	GO:0045597	positive regulation of cell differentiation	CNTN1	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0045597	positive regulation of cell differentiation	CAMK2B	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0032481	positive regulation of type I interferon production	CTNNB1	magenta	En
+ENSG00000143947	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	ENSG00000143947	GO:0032481	positive regulation of type I interferon production	RPS27A	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0032481	positive regulation of type I interferon production	HSPD1	magenta	En
+ENSG00000110651	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	ENSG00000110651	GO:0046488	phosphatidylinositol metabolic process	CD81	magenta	En
+ENSG00000150867	PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha [Source:HGNC Symbol;Acc:HGNC:8997]	ENSG00000150867	GO:0046488	phosphatidylinositol metabolic process	PIP4K2A	magenta	En
+ENSG00000162813	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1 [Source:HGNC Symbol;Acc:HGNC:1096]	ENSG00000162813	GO:0046488	phosphatidylinositol metabolic process	BPNT1	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0007409	axonogenesis	CTNNA2	magenta	En
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	ENSG00000173786	GO:0007409	axonogenesis	CNP	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:0007409	axonogenesis	PTPRZ1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0007409	axonogenesis	NRCAM	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0007409	axonogenesis	MYH10	magenta	En
+ENSG00000109846	CRYAB	crystallin, alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	ENSG00000109846	GO:0005886	plasma membrane	CRYAB	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0005886	plasma membrane	PLP1	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0005886	plasma membrane	MBP	magenta	En
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	ENSG00000172260	GO:0005886	plasma membrane	NEGR1	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0005886	plasma membrane	L1CAM	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0005886	plasma membrane	MYH10	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0005886	plasma membrane	NFASC	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0005886	plasma membrane	CAMK2B	magenta	En
+ENSG00000070214	SLC44A1	solute carrier family 44 (choline transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:18798]	ENSG00000070214	GO:0005886	plasma membrane	SLC44A1	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0005886	plasma membrane	CTNNB1	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0005886	plasma membrane	JAM3	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0005886	plasma membrane	CHL1	magenta	En
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	ENSG00000173786	GO:0005886	plasma membrane	CNP	magenta	En
+ENSG00000122756	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	ENSG00000122756	GO:0005886	plasma membrane	CNTFR	magenta	En
+ENSG00000141540	TTYH2	tweety family member 2 [Source:HGNC Symbol;Acc:HGNC:13877]	ENSG00000141540	GO:0005886	plasma membrane	TTYH2	magenta	En
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	ENSG00000018236	GO:0005886	plasma membrane	CNTN1	magenta	En
+ENSG00000085117	CD82	CD82 molecule [Source:HGNC Symbol;Acc:HGNC:6210]	ENSG00000085117	GO:0005886	plasma membrane	CD82	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	GO:0005886	plasma membrane	NCAM2	magenta	En
+ENSG00000182667	NTM	neurotrimin [Source:HGNC Symbol;Acc:HGNC:17941]	ENSG00000182667	GO:0005886	plasma membrane	NTM	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0005886	plasma membrane	APOE	magenta	En
+ENSG00000144566	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	ENSG00000144566	GO:0005886	plasma membrane	RAB5A	magenta	En
+ENSG00000150867	PIP4K2A	phosphatidylinositol-5-phosphate 4-kinase, type II, alpha [Source:HGNC Symbol;Acc:HGNC:8997]	ENSG00000150867	GO:0005886	plasma membrane	PIP4K2A	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0005886	plasma membrane	HSPD1	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0005886	plasma membrane	CA2	magenta	En
+ENSG00000110651	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	ENSG00000110651	GO:0005886	plasma membrane	CD81	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0005886	plasma membrane	SIRT2	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0005886	plasma membrane	NRCAM	magenta	En
+ENSG00000176393	RNPEP	arginyl aminopeptidase (aminopeptidase B) [Source:HGNC Symbol;Acc:HGNC:10078]	ENSG00000176393	GO:0005886	plasma membrane	RNPEP	magenta	En
+ENSG00000143947	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	ENSG00000143947	GO:0005886	plasma membrane	RPS27A	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0005886	plasma membrane	CD9	magenta	En
+ENSG00000204655	MOG	myelin oligodendrocyte glycoprotein [Source:HGNC Symbol;Acc:HGNC:7197]	ENSG00000204655	GO:0005886	plasma membrane	MOG	magenta	En
+ENSG00000254986	DPP3	dipeptidyl-peptidase 3 [Source:HGNC Symbol;Acc:HGNC:3008]	ENSG00000254986	GO:0005886	plasma membrane	DPP3	magenta	En
+ENSG00000198053	SIRPA	signal-regulatory protein alpha [Source:HGNC Symbol;Acc:HGNC:9662]	ENSG00000198053	GO:0005886	plasma membrane	SIRPA	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	GO:0005886	plasma membrane	LAMA2	magenta	En
+ENSG00000151012	SLC7A11	solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	ENSG00000151012	GO:0005886	plasma membrane	SLC7A11	magenta	En
+ENSG00000185565	LSAMP	limbic system-associated membrane protein [Source:HGNC Symbol;Acc:HGNC:6705]	ENSG00000185565	GO:0005886	plasma membrane	LSAMP	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0005886	plasma membrane	MAG	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0005886	plasma membrane	PRNP	magenta	En
+ENSG00000168003	SLC3A2	solute carrier family 3 (amino acid transporter heavy chain), member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	ENSG00000168003	GO:0005886	plasma membrane	SLC3A2	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0005886	plasma membrane	NCAM1	magenta	En
+ENSG00000176956	LY6H	lymphocyte antigen 6 complex, locus H [Source:HGNC Symbol;Acc:HGNC:6728]	ENSG00000176956	GO:0005886	plasma membrane	LY6H	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0033270	paranode region of axon	SIRT2	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0033270	paranode region of axon	MAG	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0033270	paranode region of axon	NFASC	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:1901214	regulation of neuron death	CTNNB1	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:1901214	regulation of neuron death	CLU	magenta	En
+ENSG00000122756	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	ENSG00000122756	GO:1901214	regulation of neuron death	CNTFR	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:1901214	regulation of neuron death	CHL1	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:1901214	regulation of neuron death	APOE	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	GO:0050848	regulation of calcium-mediated signaling	PRNP	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0050848	regulation of calcium-mediated signaling	L1CAM	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0050848	regulation of calcium-mediated signaling	NCAM1	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0040011	locomotion	TNR	magenta	En
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	ENSG00000038427	GO:0040011	locomotion	VCAN	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0040011	locomotion	CTNNB1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0040011	locomotion	NRCAM	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	GO:0040011	locomotion	JAM3	magenta	En
+ENSG00000198053	SIRPA	signal-regulatory protein alpha [Source:HGNC Symbol;Acc:HGNC:9662]	ENSG00000198053	GO:0040011	locomotion	SIRPA	magenta	En
+ENSG00000151012	SLC7A11	solute carrier family 7 (anionic amino acid transporter light chain, xc- system), member 11 [Source:HGNC Symbol;Acc:HGNC:11059]	ENSG00000151012	GO:0040011	locomotion	SLC7A11	magenta	En
+ENSG00000086061	DNAJA1	DnaJ (Hsp40) homolog, subfamily A, member 1 [Source:HGNC Symbol;Acc:HGNC:5229]	ENSG00000086061	GO:0040011	locomotion	DNAJA1	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0040011	locomotion	CHL1	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0040011	locomotion	MAG	magenta	En
+ENSG00000110651	CD81	CD81 molecule [Source:HGNC Symbol;Acc:HGNC:1701]	ENSG00000110651	GO:0040011	locomotion	CD81	magenta	En
+ENSG00000168003	SLC3A2	solute carrier family 3 (amino acid transporter heavy chain), member 2 [Source:HGNC Symbol;Acc:HGNC:11026]	ENSG00000168003	GO:0040011	locomotion	SLC3A2	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	GO:0040011	locomotion	L1CAM	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0040011	locomotion	MYH10	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0040011	locomotion	CTNNA2	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0030534	adult behavior	CHL1	magenta	En
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	ENSG00000173786	GO:0030534	adult behavior	CNP	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0030534	adult behavior	NRXN3	magenta	En
+ENSG00000008277	ADAM22	ADAM metallopeptidase domain 22 [Source:HGNC Symbol;Acc:HGNC:201]	ENSG00000008277	GO:0030534	adult behavior	ADAM22	magenta	En
+ENSG00000123560	PLP1	proteolipid protein 1 [Source:HGNC Symbol;Acc:HGNC:9086]	ENSG00000123560	GO:0048857	neural nucleus development	PLP1	magenta	En
+ENSG00000173786	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase [Source:HGNC Symbol;Acc:HGNC:2158]	ENSG00000173786	GO:0048857	neural nucleus development	CNP	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0048857	neural nucleus development	MBP	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0048857	neural nucleus development	SIRT2	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0048857	neural nucleus development	MAG	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0035966	response to topologically incorrect protein	CLU	magenta	En
+ENSG00000115541	HSPE1	heat shock 10kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:5269]	ENSG00000115541	GO:0035966	response to topologically incorrect protein	HSPE1	magenta	En
+ENSG00000086061	DNAJA1	DnaJ (Hsp40) homolog, subfamily A, member 1 [Source:HGNC Symbol;Acc:HGNC:5229]	ENSG00000086061	GO:0035966	response to topologically incorrect protein	DNAJA1	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0035966	response to topologically incorrect protein	HSPD1	magenta	En
+ENSG00000132702	HAPLN2	hyaluronan and proteoglycan link protein 2 [Source:HGNC Symbol;Acc:HGNC:17410]	ENSG00000132702	GO:0005539	glycosaminoglycan binding	HAPLN2	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0005539	glycosaminoglycan binding	APOE	magenta	En
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	ENSG00000038427	GO:0005539	glycosaminoglycan binding	VCAN	magenta	En
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	ENSG00000000971	GO:0005539	glycosaminoglycan binding	CFH	magenta	En
+ENSG00000010278	CD9	CD9 molecule [Source:HGNC Symbol;Acc:HGNC:1709]	ENSG00000010278	GO:0010927	cellular component assembly involved in morphogenesis	CD9	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0010927	cellular component assembly involved in morphogenesis	MYH10	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0010927	cellular component assembly involved in morphogenesis	NFASC	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0051960	regulation of nervous system development	TNR	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0051960	regulation of nervous system development	CTNNB1	magenta	En
+ENSG00000104722	NEFM	neurofilament, medium polypeptide [Source:HGNC Symbol;Acc:HGNC:7734]	ENSG00000104722	GO:0051960	regulation of nervous system development	NEFM	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0051960	regulation of nervous system development	APOE	magenta	En
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	ENSG00000172260	GO:0051960	regulation of nervous system development	NEGR1	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	GO:0051960	regulation of nervous system development	NRXN3	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0051960	regulation of nervous system development	SIRT2	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:0051960	regulation of nervous system development	PTPRZ1	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	GO:0051960	regulation of nervous system development	MAG	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0051960	regulation of nervous system development	NRCAM	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0051960	regulation of nervous system development	MBP	magenta	En
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	ENSG00000018236	GO:0051960	regulation of nervous system development	CNTN1	magenta	En
+ENSG00000058404	CAMK2B	calcium/calmodulin-dependent protein kinase II beta [Source:HGNC Symbol;Acc:HGNC:1461]	ENSG00000058404	GO:0051960	regulation of nervous system development	CAMK2B	magenta	En
+ENSG00000104722	NEFM	neurofilament, medium polypeptide [Source:HGNC Symbol;Acc:HGNC:7734]	ENSG00000104722	GO:0030424	axon	NEFM	magenta	En
+ENSG00000133026	MYH10	myosin, heavy chain 10, non-muscle [Source:HGNC Symbol;Acc:HGNC:7568]	ENSG00000133026	GO:0030424	axon	MYH10	magenta	En
+ENSG00000144566	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	ENSG00000144566	GO:0030424	axon	RAB5A	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0030424	axon	CA2	magenta	En
+ENSG00000170017	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	ENSG00000170017	GO:0030424	axon	ALCAM	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	GO:0030424	axon	NCAM1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	GO:0030424	axon	NRCAM	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	GO:0030424	axon	NFASC	magenta	En
+ENSG00000066032	CTNNA2	catenin (cadherin-associated protein), alpha 2 [Source:HGNC Symbol;Acc:HGNC:2510]	ENSG00000066032	GO:0030424	axon	CTNNA2	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	GO:0030424	axon	NCAM2	magenta	En
+ENSG00000109846	CRYAB	crystallin, alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	ENSG00000109846	GO:0030162	regulation of proteolysis	CRYAB	magenta	En
+ENSG00000130203	APOE	apolipoprotein E [Source:HGNC Symbol;Acc:HGNC:613]	ENSG00000130203	GO:0030162	regulation of proteolysis	APOE	magenta	En
+ENSG00000164530	PI16	peptidase inhibitor 16 [Source:HGNC Symbol;Acc:HGNC:21245]	ENSG00000164530	GO:0030162	regulation of proteolysis	PI16	magenta	En
+ENSG00000068903	SIRT2	sirtuin 2 [Source:HGNC Symbol;Acc:HGNC:10886]	ENSG00000068903	GO:0030162	regulation of proteolysis	SIRT2	magenta	En
+ENSG00000120885	CLU	clusterin [Source:HGNC Symbol;Acc:HGNC:2095]	ENSG00000120885	GO:0030162	regulation of proteolysis	CLU	magenta	En
+ENSG00000115541	HSPE1	heat shock 10kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:5269]	ENSG00000115541	GO:0030162	regulation of proteolysis	HSPE1	magenta	En
+ENSG00000144381	HSPD1	heat shock 60kDa protein 1 (chaperonin) [Source:HGNC Symbol;Acc:HGNC:5261]	ENSG00000144381	GO:0030162	regulation of proteolysis	HSPD1	magenta	En
+ENSG00000124570	SERPINB6	serpin peptidase inhibitor, clade B (ovalbumin), member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	ENSG00000124570	GO:0030162	regulation of proteolysis	SERPINB6	magenta	En
+ENSG00000021355	SERPINB1	serpin peptidase inhibitor, clade B (ovalbumin), member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	ENSG00000021355	GO:0030162	regulation of proteolysis	SERPINB1	magenta	En
+ENSG00000143947	RPS27A	ribosomal protein S27a [Source:HGNC Symbol;Acc:HGNC:10417]	ENSG00000143947	GO:0030162	regulation of proteolysis	RPS27A	magenta	En
+ENSG00000116147	TNR	tenascin R [Source:HGNC Symbol;Acc:HGNC:11953]	ENSG00000116147	GO:0005578	proteinaceous extracellular matrix	TNR	magenta	En
+ENSG00000132702	HAPLN2	hyaluronan and proteoglycan link protein 2 [Source:HGNC Symbol;Acc:HGNC:17410]	ENSG00000132702	GO:0005578	proteinaceous extracellular matrix	HAPLN2	magenta	En
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	ENSG00000038427	GO:0005578	proteinaceous extracellular matrix	VCAN	magenta	En
+ENSG00000108679	LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein [Source:HGNC Symbol;Acc:HGNC:6564]	ENSG00000108679	GO:0005578	proteinaceous extracellular matrix	LGALS3BP	magenta	En
+ENSG00000134121	CHL1	cell adhesion molecule L1-like [Source:HGNC Symbol;Acc:HGNC:1939]	ENSG00000134121	GO:0005578	proteinaceous extracellular matrix	CHL1	magenta	En
+ENSG00000106278	PTPRZ1	protein tyrosine phosphatase, receptor-type, Z polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:9685]	ENSG00000106278	GO:0005578	proteinaceous extracellular matrix	PTPRZ1	magenta	En
+ENSG00000095713	CRTAC1	cartilage acidic protein 1 [Source:HGNC Symbol;Acc:HGNC:14882]	ENSG00000095713	GO:0005578	proteinaceous extracellular matrix	CRTAC1	magenta	En
+ENSG00000109846	CRYAB	crystallin, alpha B [Source:HGNC Symbol;Acc:HGNC:2389]	ENSG00000109846	GO:0048545	response to steroid hormone	CRYAB	magenta	En
+ENSG00000197971	MBP	myelin basic protein [Source:HGNC Symbol;Acc:HGNC:6925]	ENSG00000197971	GO:0048545	response to steroid hormone	MBP	magenta	En
+ENSG00000107317	PTGDS	prostaglandin D2 synthase 21kDa (brain) [Source:HGNC Symbol;Acc:HGNC:9592]	ENSG00000107317	GO:0048545	response to steroid hormone	PTGDS	magenta	En
+ENSG00000168036	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa [Source:HGNC Symbol;Acc:HGNC:2514]	ENSG00000168036	GO:0048545	response to steroid hormone	CTNNB1	magenta	En
+ENSG00000104267	CA2	carbonic anhydrase II [Source:HGNC Symbol;Acc:HGNC:1373]	ENSG00000104267	GO:0048545	response to steroid hormone	CA2	magenta	En

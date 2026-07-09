@@ -1,0 +1,10 @@
+3prime-IVT.AFFX_README.NetAffx-CSV-Files.txt	11/03/2015
+HG-Focus.na29.annot.csv	11/03/2015
+HG-U133_Plus_2.na29.annot.csv	11/03/2015
+HG_U95Av2.na29.annot.csv	11/03/2015
+HG_U95B.na29.annot.csv	11/03/2015
+HG_U95C.na29.annot.csv	11/03/2015
+HG_U95D.na29.annot.csv	11/03/2015
+HG_U95E.na29.annot.csv	11/03/2015
+HuGene-1_0-st-v1.na29.AFFX_README.NetAffx-CSV-Files.txt	11/03/2015
+HuGene-1_0-st-v1.na29.hg18.transcript.csv	11/03/2015

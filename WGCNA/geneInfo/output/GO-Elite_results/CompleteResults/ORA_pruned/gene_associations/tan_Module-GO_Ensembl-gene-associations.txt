@@ -1,0 +1,467 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000183044	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	ENSG00000183044	GO:0042133	neurotransmitter metabolic process	ABAT	tan	En
+ENSG00000111275	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	ENSG00000111275	GO:0042133	neurotransmitter metabolic process	ALDH2	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0042133	neurotransmitter metabolic process	ALDH5A1	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0019773	proteasome core complex, alpha-subunit complex	PSMA5	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0019773	proteasome core complex, alpha-subunit complex	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0019773	proteasome core complex, alpha-subunit complex	PSMA2	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0019773	proteasome core complex, alpha-subunit complex	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0019773	proteasome core complex, alpha-subunit complex	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0019773	proteasome core complex, alpha-subunit complex	PSMA7	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0010565	regulation of cellular ketone metabolic process	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0010565	regulation of cellular ketone metabolic process	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0010565	regulation of cellular ketone metabolic process	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0010565	regulation of cellular ketone metabolic process	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0010565	regulation of cellular ketone metabolic process	PSMA2	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0010565	regulation of cellular ketone metabolic process	DLD	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0010565	regulation of cellular ketone metabolic process	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0010565	regulation of cellular ketone metabolic process	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0010565	regulation of cellular ketone metabolic process	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0010565	regulation of cellular ketone metabolic process	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0010565	regulation of cellular ketone metabolic process	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0010565	regulation of cellular ketone metabolic process	PSMA7	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0042743	hydrogen peroxide metabolic process	PARK7	tan	En
+ENSG00000167815	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	ENSG00000167815	GO:0042743	hydrogen peroxide metabolic process	PRDX2	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0042743	hydrogen peroxide metabolic process	GPX4	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0044843	cell cycle G1/S phase transition	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0044843	cell cycle G1/S phase transition	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0044843	cell cycle G1/S phase transition	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0044843	cell cycle G1/S phase transition	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0044843	cell cycle G1/S phase transition	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0044843	cell cycle G1/S phase transition	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0044843	cell cycle G1/S phase transition	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0044843	cell cycle G1/S phase transition	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0044843	cell cycle G1/S phase transition	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0044843	cell cycle G1/S phase transition	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0044843	cell cycle G1/S phase transition	PSMA7	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0051437	positive regulation of ubiquitin-protein ligase activity involved in regulation of mitotic cell cycle transition	PSMA7	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0072350	tricarboxylic acid metabolic process	GLUD1	tan	En
+ENSG00000100412	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:118]	ENSG00000100412	GO:0072350	tricarboxylic acid metabolic process	ACO2	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0072350	tricarboxylic acid metabolic process	DLD	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0072350	tricarboxylic acid metabolic process	MDH2	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0000209	protein polyubiquitination	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0000209	protein polyubiquitination	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0000209	protein polyubiquitination	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0000209	protein polyubiquitination	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0000209	protein polyubiquitination	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0000209	protein polyubiquitination	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0000209	protein polyubiquitination	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0000209	protein polyubiquitination	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0000209	protein polyubiquitination	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0000209	protein polyubiquitination	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0000209	protein polyubiquitination	PSMA7	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0016491	oxidoreductase activity	PARK7	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0016491	oxidoreductase activity	GPX4	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0016491	oxidoreductase activity	DECR1	tan	En
+ENSG00000111275	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	ENSG00000111275	GO:0016491	oxidoreductase activity	ALDH2	tan	En
+ENSG00000167815	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	ENSG00000167815	GO:0016491	oxidoreductase activity	PRDX2	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0016491	oxidoreductase activity	GAPDH	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0016491	oxidoreductase activity	DLD	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	GO:0016491	oxidoreductase activity	HADH	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0016491	oxidoreductase activity	GSR	tan	En
+ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907]	ENSG00000106049	GO:0016491	oxidoreductase activity	HIBADH	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0016491	oxidoreductase activity	ALDH5A1	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0016491	oxidoreductase activity	LDHB	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0016491	oxidoreductase activity	GLUD1	tan	En
+ENSG00000140374	ETFA	electron-transfer-flavoprotein, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:3481]	ENSG00000140374	GO:0016491	oxidoreductase activity	ETFA	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0016491	oxidoreductase activity	MDH2	tan	En
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	ENSG00000074800	GO:0006090	pyruvate metabolic process	ENO1	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0006090	pyruvate metabolic process	LDHB	tan	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0006090	pyruvate metabolic process	PKM	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0006090	pyruvate metabolic process	GAPDH	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0006090	pyruvate metabolic process	DLD	tan	En
+ENSG00000169764	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	ENSG00000169764	GO:0044262	cellular carbohydrate metabolic process	UGP2	tan	En
+ENSG00000144827	ABHD10	abhydrolase domain containing 10 [Source:HGNC Symbol;Acc:HGNC:25656]	ENSG00000144827	GO:0044262	cellular carbohydrate metabolic process	ABHD10	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0044262	cellular carbohydrate metabolic process	LDHB	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0044262	cellular carbohydrate metabolic process	MDH2	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0005839	proteasome core complex	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0005839	proteasome core complex	PSMB7	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0005839	proteasome core complex	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0005839	proteasome core complex	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0005839	proteasome core complex	PSMB2	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0005839	proteasome core complex	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0005839	proteasome core complex	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0005839	proteasome core complex	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0005839	proteasome core complex	PSMA7	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0005634	nucleus	GAPDH	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	GO:0005634	nucleus	HADH	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0005634	nucleus	C1QBP	tan	En
+ENSG00000198931	APRT	adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626]	ENSG00000198931	GO:0005634	nucleus	APRT	tan	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0005634	nucleus	PKM	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0005634	nucleus	PSMD13	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0005634	nucleus	PARK7	tan	En
+ENSG00000103257	SLC7A5	solute carrier family 7 (amino acid transporter light chain, L system), member 5 [Source:HGNC Symbol;Acc:HGNC:11063]	ENSG00000103257	GO:0005634	nucleus	SLC7A5	tan	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0005634	nucleus	RPL10A	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0005634	nucleus	PSMA2	tan	En
+ENSG00000143621	ILF2	interleukin enhancer binding factor 2 [Source:HGNC Symbol;Acc:HGNC:6037]	ENSG00000143621	GO:0005634	nucleus	ILF2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0005634	nucleus	PSMC3	tan	En
+ENSG00000072110	ACTN1	actinin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	ENSG00000072110	GO:0005634	nucleus	ACTN1	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0005634	nucleus	PSMA1	tan	En
+ENSG00000169764	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	ENSG00000169764	GO:0005634	nucleus	UGP2	tan	En
+ENSG00000172500	FIBP	fibroblast growth factor (acidic) intracellular binding protein [Source:HGNC Symbol;Acc:HGNC:3705]	ENSG00000172500	GO:0005634	nucleus	FIBP	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0005634	nucleus	GPX4	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0005634	nucleus	DECR1	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0005634	nucleus	PSMA6	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0005634	nucleus	DLD	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0005634	nucleus	PSMB1	tan	En
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	ENSG00000074800	GO:0005634	nucleus	ENO1	tan	En
+ENSG00000100412	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:118]	ENSG00000100412	GO:0005634	nucleus	ACO2	tan	En
+ENSG00000186432	KPNA4	karyopherin alpha 4 (importin alpha 3) [Source:HGNC Symbol;Acc:HGNC:6397]	ENSG00000186432	GO:0005634	nucleus	KPNA4	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0005634	nucleus	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0005634	nucleus	PSMB7	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0005634	nucleus	PSMA3	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0005634	nucleus	PSMB2	tan	En
+ENSG00000129351	ILF3	interleukin enhancer binding factor 3, 90kDa [Source:HGNC Symbol;Acc:HGNC:6038]	ENSG00000129351	GO:0005634	nucleus	ILF3	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0005634	nucleus	MDH2	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0005634	nucleus	PSMA7	tan	En
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	ENSG00000074800	GO:0003714	transcription corepressor activity	ENO1	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0003714	transcription corepressor activity	PSMC3	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0003714	transcription corepressor activity	C1QBP	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0002479	antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent	PSMA7	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0050727	regulation of inflammatory response	PARK7	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0050727	regulation of inflammatory response	GPX4	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0050727	regulation of inflammatory response	PSMA6	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0050727	regulation of inflammatory response	C1QBP	tan	En
+ENSG00000198130	HIBCH	3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908]	ENSG00000198130	GO:0005739	mitochondrion	HIBCH	tan	En
+ENSG00000144827	ABHD10	abhydrolase domain containing 10 [Source:HGNC Symbol;Acc:HGNC:25656]	ENSG00000144827	GO:0005739	mitochondrion	ABHD10	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	GO:0005739	mitochondrion	ACAT1	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	GO:0005739	mitochondrion	ECHS1	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	GO:0005739	mitochondrion	HADH	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0005739	mitochondrion	C1QBP	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0005739	mitochondrion	GSR	tan	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0005739	mitochondrion	PKM	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0005739	mitochondrion	DECR1	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0005739	mitochondrion	PARK7	tan	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0005739	mitochondrion	RPL10A	tan	En
+ENSG00000104823	ECH1	enoyl CoA hydratase 1, peroxisomal [Source:HGNC Symbol;Acc:HGNC:3149]	ENSG00000104823	GO:0005739	mitochondrion	ECH1	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0005739	mitochondrion	ALDH5A1	tan	En
+ENSG00000172500	FIBP	fibroblast growth factor (acidic) intracellular binding protein [Source:HGNC Symbol;Acc:HGNC:3705]	ENSG00000172500	GO:0005739	mitochondrion	FIBP	tan	En
+ENSG00000140374	ETFA	electron-transfer-flavoprotein, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:3481]	ENSG00000140374	GO:0005739	mitochondrion	ETFA	tan	En
+ENSG00000111911	HINT3	histidine triad nucleotide binding protein 3 [Source:HGNC Symbol;Acc:HGNC:18468]	ENSG00000111911	GO:0005739	mitochondrion	HINT3	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0005739	mitochondrion	GPX4	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0005739	mitochondrion	GOT2	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0005739	mitochondrion	DLD	tan	En
+ENSG00000183044	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	ENSG00000183044	GO:0005739	mitochondrion	ABAT	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0005739	mitochondrion	LDHB	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0005739	mitochondrion	GLUD1	tan	En
+ENSG00000100412	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:118]	ENSG00000100412	GO:0005739	mitochondrion	ACO2	tan	En
+ENSG00000105379	ETFB	electron-transfer-flavoprotein, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:3482]	ENSG00000105379	GO:0005739	mitochondrion	ETFB	tan	En
+ENSG00000129351	ILF3	interleukin enhancer binding factor 3, 90kDa [Source:HGNC Symbol;Acc:HGNC:6038]	ENSG00000129351	GO:0005739	mitochondrion	ILF3	tan	En
+ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907]	ENSG00000106049	GO:0005739	mitochondrion	HIBADH	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0005739	mitochondrion	MDH2	tan	En
+ENSG00000113013	HSPA9	heat shock 70kDa protein 9 (mortalin) [Source:HGNC Symbol;Acc:HGNC:5244]	ENSG00000113013	GO:0005739	mitochondrion	HSPA9	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0070003	threonine-type peptidase activity	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0070003	threonine-type peptidase activity	PSMB7	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0070003	threonine-type peptidase activity	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0070003	threonine-type peptidase activity	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0070003	threonine-type peptidase activity	PSMB2	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0070003	threonine-type peptidase activity	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0070003	threonine-type peptidase activity	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0070003	threonine-type peptidase activity	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0070003	threonine-type peptidase activity	PSMA7	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0043066	negative regulation of apoptotic process	PARK7	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0043066	negative regulation of apoptotic process	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0043066	negative regulation of apoptotic process	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0043066	negative regulation of apoptotic process	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0043066	negative regulation of apoptotic process	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0043066	negative regulation of apoptotic process	PSMA2	tan	En
+ENSG00000167815	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	ENSG00000167815	GO:0043066	negative regulation of apoptotic process	PRDX2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0043066	negative regulation of apoptotic process	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0043066	negative regulation of apoptotic process	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0043066	negative regulation of apoptotic process	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0043066	negative regulation of apoptotic process	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0043066	negative regulation of apoptotic process	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0043066	negative regulation of apoptotic process	PSMA7	tan	En
+ENSG00000113013	HSPA9	heat shock 70kDa protein 9 (mortalin) [Source:HGNC Symbol;Acc:HGNC:5244]	ENSG00000113013	GO:0043066	negative regulation of apoptotic process	HSPA9	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0006749	glutathione metabolic process	GSR	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0006749	glutathione metabolic process	ALDH5A1	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0006749	glutathione metabolic process	GPX4	tan	En
+ENSG00000198130	HIBCH	3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908]	ENSG00000198130	GO:0005759	mitochondrial matrix	HIBCH	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	GO:0005759	mitochondrial matrix	HADH	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0005759	mitochondrial matrix	GOT2	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0005759	mitochondrial matrix	DECR1	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	GO:0005759	mitochondrial matrix	ACAT1	tan	En
+ENSG00000111275	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	ENSG00000111275	GO:0005759	mitochondrial matrix	ALDH2	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0005759	mitochondrial matrix	DLD	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	GO:0005759	mitochondrial matrix	ECHS1	tan	En
+ENSG00000183044	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	ENSG00000183044	GO:0005759	mitochondrial matrix	ABAT	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0005759	mitochondrial matrix	GSR	tan	En
+ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907]	ENSG00000106049	GO:0005759	mitochondrial matrix	HIBADH	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0005759	mitochondrial matrix	ALDH5A1	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0005759	mitochondrial matrix	MDH2	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0005759	mitochondrial matrix	C1QBP	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0005759	mitochondrial matrix	GLUD1	tan	En
+ENSG00000140374	ETFA	electron-transfer-flavoprotein, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:3481]	ENSG00000140374	GO:0005759	mitochondrial matrix	ETFA	tan	En
+ENSG00000100412	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:118]	ENSG00000100412	GO:0005759	mitochondrial matrix	ACO2	tan	En
+ENSG00000105379	ETFB	electron-transfer-flavoprotein, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:3482]	ENSG00000105379	GO:0005759	mitochondrial matrix	ETFB	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0009055	electron carrier activity	GSR	tan	En
+ENSG00000111275	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	ENSG00000111275	GO:0009055	electron carrier activity	ALDH2	tan	En
+ENSG00000140374	ETFA	electron-transfer-flavoprotein, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:3481]	ENSG00000140374	GO:0009055	electron carrier activity	ETFA	tan	En
+ENSG00000105379	ETFB	electron-transfer-flavoprotein, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:3482]	ENSG00000105379	GO:0009055	electron carrier activity	ETFB	tan	En
+ENSG00000183044	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	ENSG00000183044	GO:0016769	transferase activity, transferring nitrogenous groups	ABAT	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0016769	transferase activity, transferring nitrogenous groups	GAPDH	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0016769	transferase activity, transferring nitrogenous groups	GOT2	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0000278	mitotic cell cycle	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0000278	mitotic cell cycle	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0000278	mitotic cell cycle	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0000278	mitotic cell cycle	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0000278	mitotic cell cycle	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0000278	mitotic cell cycle	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0000278	mitotic cell cycle	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0000278	mitotic cell cycle	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0000278	mitotic cell cycle	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0000278	mitotic cell cycle	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0000278	mitotic cell cycle	PSMA7	tan	En
+ENSG00000077380	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	ENSG00000077380	GO:0000278	mitotic cell cycle	DYNC1I2	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0031145	anaphase-promoting complex-dependent proteasomal ubiquitin-dependent protein catabolic process	PSMA7	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0012501	programmed cell death	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0012501	programmed cell death	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0012501	programmed cell death	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0012501	programmed cell death	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0012501	programmed cell death	PSMA2	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0012501	programmed cell death	GAPDH	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0012501	programmed cell death	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0012501	programmed cell death	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0012501	programmed cell death	PSMB1	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0012501	programmed cell death	C1QBP	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0012501	programmed cell death	PSMA1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0012501	programmed cell death	PSMA3	tan	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0012501	programmed cell death	PKM	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0012501	programmed cell death	PSMA7	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0006977	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	PSMA7	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	GO:0048037	cofactor binding	HADH	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0048037	cofactor binding	DECR1	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	GO:0048037	cofactor binding	ACAT1	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0048037	cofactor binding	DLD	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0048037	cofactor binding	GAPDH	tan	En
+ENSG00000183044	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	ENSG00000183044	GO:0048037	cofactor binding	ABAT	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0048037	cofactor binding	GSR	tan	En
+ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907]	ENSG00000106049	GO:0048037	cofactor binding	HIBADH	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0048037	cofactor binding	LDHB	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0048037	cofactor binding	GLUD1	tan	En
+ENSG00000140374	ETFA	electron-transfer-flavoprotein, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:3481]	ENSG00000140374	GO:0048037	cofactor binding	ETFA	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0048037	cofactor binding	GOT2	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0000502	proteasome complex	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0000502	proteasome complex	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0000502	proteasome complex	PSMD13	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0000502	proteasome complex	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0000502	proteasome complex	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0000502	proteasome complex	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0000502	proteasome complex	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0000502	proteasome complex	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0000502	proteasome complex	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0000502	proteasome complex	PSMA7	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0055114	oxidation-reduction process	PARK7	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0055114	oxidation-reduction process	GPX4	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0055114	oxidation-reduction process	DECR1	tan	En
+ENSG00000111275	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	ENSG00000111275	GO:0055114	oxidation-reduction process	ALDH2	tan	En
+ENSG00000167815	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	ENSG00000167815	GO:0055114	oxidation-reduction process	PRDX2	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0055114	oxidation-reduction process	GAPDH	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	GO:0055114	oxidation-reduction process	ECHS1	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0055114	oxidation-reduction process	DLD	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	GO:0055114	oxidation-reduction process	HADH	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0055114	oxidation-reduction process	GSR	tan	En
+ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907]	ENSG00000106049	GO:0055114	oxidation-reduction process	HIBADH	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0055114	oxidation-reduction process	ALDH5A1	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0055114	oxidation-reduction process	MDH2	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0055114	oxidation-reduction process	GLUD1	tan	En
+ENSG00000169764	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	ENSG00000169764	GO:0055114	oxidation-reduction process	UGP2	tan	En
+ENSG00000140374	ETFA	electron-transfer-flavoprotein, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:3481]	ENSG00000140374	GO:0055114	oxidation-reduction process	ETFA	tan	En
+ENSG00000104823	ECH1	enoyl CoA hydratase 1, peroxisomal [Source:HGNC Symbol;Acc:HGNC:3149]	ENSG00000104823	GO:0055114	oxidation-reduction process	ECH1	tan	En
+ENSG00000105379	ETFB	electron-transfer-flavoprotein, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:3482]	ENSG00000105379	GO:0055114	oxidation-reduction process	ETFB	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0055114	oxidation-reduction process	LDHB	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0010467	gene expression	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0010467	gene expression	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0010467	gene expression	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0010467	gene expression	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0010467	gene expression	PSMA2	tan	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0010467	gene expression	RPL14	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0010467	gene expression	PSMB2	tan	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0010467	gene expression	RPL10A	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0010467	gene expression	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0010467	gene expression	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0010467	gene expression	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0010467	gene expression	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0010467	gene expression	PSMA7	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0016071	mRNA metabolic process	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0016071	mRNA metabolic process	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0016071	mRNA metabolic process	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0016071	mRNA metabolic process	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0016071	mRNA metabolic process	PSMA2	tan	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0016071	mRNA metabolic process	RPL14	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0016071	mRNA metabolic process	PSMB2	tan	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0016071	mRNA metabolic process	RPL10A	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0016071	mRNA metabolic process	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0016071	mRNA metabolic process	PSMB1	tan	En
+ENSG00000023191	RNH1	ribonuclease/angiogenin inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:10074]	ENSG00000023191	GO:0016071	mRNA metabolic process	RNH1	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0016071	mRNA metabolic process	C1QBP	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0016071	mRNA metabolic process	PSMA1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0016071	mRNA metabolic process	PSMA3	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0016071	mRNA metabolic process	PSMA7	tan	En
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	ENSG00000074800	GO:0016836	hydro-lyase activity	ENO1	tan	En
+ENSG00000100412	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:118]	ENSG00000100412	GO:0016836	hydro-lyase activity	ACO2	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	GO:0016836	hydro-lyase activity	ECHS1	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0000932	cytoplasmic mRNA processing body	PSMA2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0000932	cytoplasmic mRNA processing body	PSMC3	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0000932	cytoplasmic mRNA processing body	PSMA6	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0051352	negative regulation of ligase activity	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0051352	negative regulation of ligase activity	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0051352	negative regulation of ligase activity	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0051352	negative regulation of ligase activity	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0051352	negative regulation of ligase activity	PSMA2	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0051352	negative regulation of ligase activity	PSMB2	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0051352	negative regulation of ligase activity	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0051352	negative regulation of ligase activity	PSMB1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0051352	negative regulation of ligase activity	PSMA3	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0051352	negative regulation of ligase activity	PSMA1	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0051352	negative regulation of ligase activity	PSMA7	tan	En
+ENSG00000198130	HIBCH	3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908]	ENSG00000198130	GO:0044421	extracellular region part	HIBCH	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	GO:0044421	extracellular region part	ACAT1	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0044421	extracellular region part	GAPDH	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	GO:0044421	extracellular region part	ECHS1	tan	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0044421	extracellular region part	PKM	tan	En
+ENSG00000023191	RNH1	ribonuclease/angiogenin inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:10074]	ENSG00000023191	GO:0044421	extracellular region part	RNH1	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0044421	extracellular region part	C1QBP	tan	En
+ENSG00000104687	GSR	glutathione reductase [Source:HGNC Symbol;Acc:HGNC:4623]	ENSG00000104687	GO:0044421	extracellular region part	GSR	tan	En
+ENSG00000198931	APRT	adenine phosphoribosyltransferase [Source:HGNC Symbol;Acc:HGNC:626]	ENSG00000198931	GO:0044421	extracellular region part	APRT	tan	En
+ENSG00000104823	ECH1	enoyl CoA hydratase 1, peroxisomal [Source:HGNC Symbol;Acc:HGNC:3149]	ENSG00000104823	GO:0044421	extracellular region part	ECH1	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0044421	extracellular region part	PSMD13	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0044421	extracellular region part	PARK7	tan	En
+ENSG00000111716	LDHB	lactate dehydrogenase B [Source:HGNC Symbol;Acc:HGNC:6541]	ENSG00000111716	GO:0044421	extracellular region part	LDHB	tan	En
+ENSG00000103257	SLC7A5	solute carrier family 7 (amino acid transporter light chain, L system), member 5 [Source:HGNC Symbol;Acc:HGNC:11063]	ENSG00000103257	GO:0044421	extracellular region part	SLC7A5	tan	En
+ENSG00000111275	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:404]	ENSG00000111275	GO:0044421	extracellular region part	ALDH2	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0044421	extracellular region part	PSMA2	tan	En
+ENSG00000167815	PRDX2	peroxiredoxin 2 [Source:HGNC Symbol;Acc:HGNC:9353]	ENSG00000167815	GO:0044421	extracellular region part	PRDX2	tan	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0044421	extracellular region part	RPL14	tan	En
+ENSG00000172500	FIBP	fibroblast growth factor (acidic) intracellular binding protein [Source:HGNC Symbol;Acc:HGNC:3705]	ENSG00000172500	GO:0044421	extracellular region part	FIBP	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0044421	extracellular region part	PSMA1	tan	En
+ENSG00000169764	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	ENSG00000169764	GO:0044421	extracellular region part	UGP2	tan	En
+ENSG00000140374	ETFA	electron-transfer-flavoprotein, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:3481]	ENSG00000140374	GO:0044421	extracellular region part	ETFA	tan	En
+ENSG00000072110	ACTN1	actinin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	ENSG00000072110	GO:0044421	extracellular region part	ACTN1	tan	En
+ENSG00000111911	HINT3	histidine triad nucleotide binding protein 3 [Source:HGNC Symbol;Acc:HGNC:18468]	ENSG00000111911	GO:0044421	extracellular region part	HINT3	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0044421	extracellular region part	GPX4	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0044421	extracellular region part	DECR1	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0044421	extracellular region part	PSMA6	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0044421	extracellular region part	PSMB7	tan	En
+ENSG00000183044	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	ENSG00000183044	GO:0044421	extracellular region part	ABAT	tan	En
+ENSG00000113013	HSPA9	heat shock 70kDa protein 9 (mortalin) [Source:HGNC Symbol;Acc:HGNC:5244]	ENSG00000113013	GO:0044421	extracellular region part	HSPA9	tan	En
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	ENSG00000074800	GO:0044421	extracellular region part	ENO1	tan	En
+ENSG00000148798	INA	internexin neuronal intermediate filament protein, alpha [Source:HGNC Symbol;Acc:HGNC:6057]	ENSG00000148798	GO:0044421	extracellular region part	INA	tan	En
+ENSG00000105379	ETFB	electron-transfer-flavoprotein, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:3482]	ENSG00000105379	GO:0044421	extracellular region part	ETFB	tan	En
+ENSG00000186432	KPNA4	karyopherin alpha 4 (importin alpha 3) [Source:HGNC Symbol;Acc:HGNC:6397]	ENSG00000186432	GO:0044421	extracellular region part	KPNA4	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0044421	extracellular region part	GOT2	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0044421	extracellular region part	PSMA5	tan	En
+ENSG00000214078	CPNE1	copine I [Source:HGNC Symbol;Acc:HGNC:2314]	ENSG00000214078	GO:0044421	extracellular region part	CPNE1	tan	En
+ENSG00000115271	GCA	grancalcin, EF-hand calcium binding protein [Source:HGNC Symbol;Acc:HGNC:15990]	ENSG00000115271	GO:0044421	extracellular region part	GCA	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0044421	extracellular region part	PSMA3	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0044421	extracellular region part	PSMB2	tan	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0044421	extracellular region part	RPL10A	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0044421	extracellular region part	MDH2	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0044421	extracellular region part	PSMA7	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0044421	extracellular region part	PSMB1	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0006536	glutamate metabolic process	GLUD1	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0006536	glutamate metabolic process	ALDH5A1	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0006536	glutamate metabolic process	GOT2	tan	En
+ENSG00000143621	ILF2	interleukin enhancer binding factor 2 [Source:HGNC Symbol;Acc:HGNC:6037]	ENSG00000143621	GO:0003725	double-stranded RNA binding	ILF2	tan	En
+ENSG00000072110	ACTN1	actinin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:163]	ENSG00000072110	GO:0003725	double-stranded RNA binding	ACTN1	tan	En
+ENSG00000129351	ILF3	interleukin enhancer binding factor 3, 90kDa [Source:HGNC Symbol;Acc:HGNC:6038]	ENSG00000129351	GO:0003725	double-stranded RNA binding	ILF3	tan	En
+ENSG00000116288	PARK7	parkinson protein 7 [Source:HGNC Symbol;Acc:HGNC:16369]	ENSG00000116288	GO:0044428	nuclear part	PARK7	tan	En
+ENSG00000111911	HINT3	histidine triad nucleotide binding protein 3 [Source:HGNC Symbol;Acc:HGNC:18468]	ENSG00000111911	GO:0044428	nuclear part	HINT3	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0044428	nuclear part	PSMA5	tan	En
+ENSG00000167468	GPX4	glutathione peroxidase 4 [Source:HGNC Symbol;Acc:HGNC:4556]	ENSG00000167468	GO:0044428	nuclear part	GPX4	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0044428	nuclear part	PSMD13	tan	En
+ENSG00000103257	SLC7A5	solute carrier family 7 (amino acid transporter light chain, L system), member 5 [Source:HGNC Symbol;Acc:HGNC:11063]	ENSG00000103257	GO:0044428	nuclear part	SLC7A5	tan	En
+ENSG00000186432	KPNA4	karyopherin alpha 4 (importin alpha 3) [Source:HGNC Symbol;Acc:HGNC:6397]	ENSG00000186432	GO:0044428	nuclear part	KPNA4	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0044428	nuclear part	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0044428	nuclear part	PSMA2	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0044428	nuclear part	PSMB1	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0044428	nuclear part	PSMB2	tan	En
+ENSG00000143621	ILF2	interleukin enhancer binding factor 2 [Source:HGNC Symbol;Acc:HGNC:6037]	ENSG00000143621	GO:0044428	nuclear part	ILF2	tan	En
+ENSG00000129351	ILF3	interleukin enhancer binding factor 3, 90kDa [Source:HGNC Symbol;Acc:HGNC:6038]	ENSG00000129351	GO:0044428	nuclear part	ILF3	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0044428	nuclear part	PSMC3	tan	En
+ENSG00000113013	HSPA9	heat shock 70kDa protein 9 (mortalin) [Source:HGNC Symbol;Acc:HGNC:5244]	ENSG00000113013	GO:0044428	nuclear part	HSPA9	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0044428	nuclear part	C1QBP	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0044428	nuclear part	PSMA1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0044428	nuclear part	PSMA3	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0044428	nuclear part	PSMB7	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0044428	nuclear part	PSMA7	tan	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0044428	nuclear part	RPL10A	tan	En
+ENSG00000143106	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5 [Source:HGNC Symbol;Acc:HGNC:9534]	ENSG00000143106	GO:0016032	viral process	PSMA5	tan	En
+ENSG00000136930	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7 [Source:HGNC Symbol;Acc:HGNC:9544]	ENSG00000136930	GO:0016032	viral process	PSMB7	tan	En
+ENSG00000185627	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13 [Source:HGNC Symbol;Acc:HGNC:9558]	ENSG00000185627	GO:0016032	viral process	PSMD13	tan	En
+ENSG00000100902	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6 [Source:HGNC Symbol;Acc:HGNC:9535]	ENSG00000100902	GO:0016032	viral process	PSMA6	tan	En
+ENSG00000106588	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2 [Source:HGNC Symbol;Acc:HGNC:9531]	ENSG00000106588	GO:0016032	viral process	PSMA2	tan	En
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	ENSG00000188846	GO:0016032	viral process	RPL14	tan	En
+ENSG00000126067	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2 [Source:HGNC Symbol;Acc:HGNC:9539]	ENSG00000126067	GO:0016032	viral process	PSMB2	tan	En
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	ENSG00000198755	GO:0016032	viral process	RPL10A	tan	En
+ENSG00000165916	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3 [Source:HGNC Symbol;Acc:HGNC:9549]	ENSG00000165916	GO:0016032	viral process	PSMC3	tan	En
+ENSG00000008018	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1 [Source:HGNC Symbol;Acc:HGNC:9537]	ENSG00000008018	GO:0016032	viral process	PSMB1	tan	En
+ENSG00000108561	C1QBP	complement component 1, q subcomponent binding protein [Source:HGNC Symbol;Acc:HGNC:1243]	ENSG00000108561	GO:0016032	viral process	C1QBP	tan	En
+ENSG00000129084	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1 [Source:HGNC Symbol;Acc:HGNC:9530]	ENSG00000129084	GO:0016032	viral process	PSMA1	tan	En
+ENSG00000100567	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3 [Source:HGNC Symbol;Acc:HGNC:9532]	ENSG00000100567	GO:0016032	viral process	PSMA3	tan	En
+ENSG00000101182	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7 [Source:HGNC Symbol;Acc:HGNC:9536]	ENSG00000101182	GO:0016032	viral process	PSMA7	tan	En
+ENSG00000077380	DYNC1I2	dynein, cytoplasmic 1, intermediate chain 2 [Source:HGNC Symbol;Acc:HGNC:2964]	ENSG00000077380	GO:0016032	viral process	DYNC1I2	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0006006	glucose metabolic process	GOT2	tan	En
+ENSG00000111640	GAPDH	glyceraldehyde-3-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4141]	ENSG00000111640	GO:0006006	glucose metabolic process	GAPDH	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0006006	glucose metabolic process	ALDH5A1	tan	En
+ENSG00000146701	MDH2	malate dehydrogenase 2, NAD (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:6971]	ENSG00000146701	GO:0006006	glucose metabolic process	MDH2	tan	En
+ENSG00000169764	UGP2	UDP-glucose pyrophosphorylase 2 [Source:HGNC Symbol;Acc:HGNC:12527]	ENSG00000169764	GO:0006006	glucose metabolic process	UGP2	tan	En
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	ENSG00000074800	GO:0006006	glucose metabolic process	ENO1	tan	En
+ENSG00000067225	PKM	pyruvate kinase, muscle [Source:HGNC Symbol;Acc:HGNC:9021]	ENSG00000067225	GO:0006006	glucose metabolic process	PKM	tan	En
+ENSG00000198130	HIBCH	3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908]	ENSG00000198130	GO:0009081	branched-chain amino acid metabolic process	HIBCH	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	GO:0009081	branched-chain amino acid metabolic process	ACAT1	tan	En
+ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907]	ENSG00000106049	GO:0009081	branched-chain amino acid metabolic process	HIBADH	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0009081	branched-chain amino acid metabolic process	DLD	tan	En
+ENSG00000198130	HIBCH	3-hydroxyisobutyryl-CoA hydrolase [Source:HGNC Symbol;Acc:HGNC:4908]	ENSG00000198130	GO:0016054	organic acid catabolic process	HIBCH	tan	En
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	ENSG00000138796	GO:0016054	organic acid catabolic process	HADH	tan	En
+ENSG00000144827	ABHD10	abhydrolase domain containing 10 [Source:HGNC Symbol;Acc:HGNC:25656]	ENSG00000144827	GO:0016054	organic acid catabolic process	ABHD10	tan	En
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	ENSG00000104325	GO:0016054	organic acid catabolic process	DECR1	tan	En
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	ENSG00000075239	GO:0016054	organic acid catabolic process	ACAT1	tan	En
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	ENSG00000091140	GO:0016054	organic acid catabolic process	DLD	tan	En
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	ENSG00000127884	GO:0016054	organic acid catabolic process	ECHS1	tan	En
+ENSG00000183044	ABAT	4-aminobutyrate aminotransferase [Source:HGNC Symbol;Acc:HGNC:23]	ENSG00000183044	GO:0016054	organic acid catabolic process	ABAT	tan	En
+ENSG00000106049	HIBADH	3-hydroxyisobutyrate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4907]	ENSG00000106049	GO:0016054	organic acid catabolic process	HIBADH	tan	En
+ENSG00000112294	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 [Source:HGNC Symbol;Acc:HGNC:408]	ENSG00000112294	GO:0016054	organic acid catabolic process	ALDH5A1	tan	En
+ENSG00000148672	GLUD1	glutamate dehydrogenase 1 [Source:HGNC Symbol;Acc:HGNC:4335]	ENSG00000148672	GO:0016054	organic acid catabolic process	GLUD1	tan	En
+ENSG00000104823	ECH1	enoyl CoA hydratase 1, peroxisomal [Source:HGNC Symbol;Acc:HGNC:3149]	ENSG00000104823	GO:0016054	organic acid catabolic process	ECH1	tan	En
+ENSG00000125166	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:4433]	ENSG00000125166	GO:0016054	organic acid catabolic process	GOT2	tan	En

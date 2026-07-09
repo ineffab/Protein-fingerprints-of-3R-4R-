@@ -1,0 +1,125 @@
+Ensembl	symbol	KEGG
+ENSG00000156052	GNAQ	Long-term depression:KEGG-hsa04730
+ENSG00000241685	ARPC1A	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000075785	RAB7A	Endocytosis:KEGG-hsa04144
+ENSG00000141367	CLTC	Endocytosis:KEGG-hsa04144
+ENSG00000122705	CLTA	Endocytosis:KEGG-hsa04144
+ENSG00000156052	GNAQ	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000156052	GNAQ	Huntington's disease:KEGG-hsa05016
+ENSG00000141367	CLTC	Huntington's disease:KEGG-hsa05016
+ENSG00000122705	CLTA	Huntington's disease:KEGG-hsa05016
+ENSG00000156052	GNAQ	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000141367	CLTC	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000122705	CLTA	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000070808	CAMK2A	Long-term potentiation:KEGG-hsa04720
+ENSG00000156052	GNAQ	Long-term potentiation:KEGG-hsa04720
+ENSG00000241685	ARPC1A	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000156110	ADK	Purine metabolism:KEGG-hsa00230
+ENSG00000070808	CAMK2A	Oocyte meiosis:KEGG-hsa04114
+ENSG00000156052	GNAQ	Salivary secretion:KEGG-hsa04970
+ENSG00000114573	ATP6V1A	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000159720	ATP6V0D1	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000155097	ATP6V1C1	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000128524	ATP6V1F	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000213760	ATP6V1G2	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000131100	ATP6V1E1	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000147416	ATP6V1B2	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000047249	ATP6V1H	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000033627	ATP6V0A1	Rheumatoid arthritis:KEGG-hsa05323
+ENSG00000156052	GNAQ	Amoebiasis:KEGG-hsa05146
+ENSG00000075785	RAB7A	Amoebiasis:KEGG-hsa05146
+ENSG00000156052	GNAQ	Pancreatic secretion:KEGG-hsa04972
+ENSG00000156052	GNAQ	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000070808	CAMK2A	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000070808	CAMK2A	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000156052	GNAQ	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000070808	CAMK2A	Gastric acid secretion:KEGG-hsa04971
+ENSG00000156052	GNAQ	Gastric acid secretion:KEGG-hsa04971
+ENSG00000198910	L1CAM	Axon guidance:KEGG-hsa04360
+ENSG00000104888	SLC17A7	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000156052	GNAQ	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000114573	ATP6V1A	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000159720	ATP6V0D1	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000155097	ATP6V1C1	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000128524	ATP6V1F	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000213760	ATP6V1G2	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000131100	ATP6V1E1	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000147416	ATP6V1B2	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000047249	ATP6V1H	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000033627	ATP6V0A1	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000070808	CAMK2A	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000156052	GNAQ	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000070808	CAMK2A	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000070808	CAMK2A	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000114573	ATP6V1A	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000159720	ATP6V0D1	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000155097	ATP6V1C1	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000128524	ATP6V1F	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000213760	ATP6V1G2	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000131100	ATP6V1E1	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000147416	ATP6V1B2	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000047249	ATP6V1H	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000033627	ATP6V0A1	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000132341	RAN	Ribosome biogenesis in eukaryotes:KEGG-hsa03008
+ENSG00000114573	ATP6V1A	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000159720	ATP6V0D1	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000155097	ATP6V1C1	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000128524	ATP6V1F	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000213760	ATP6V1G2	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000131100	ATP6V1E1	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000147416	ATP6V1B2	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000033627	ATP6V0A1	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000156976	EIF4A2	RNA transport:KEGG-hsa03013
+ENSG00000132341	RAN	RNA transport:KEGG-hsa03013
+ENSG00000114573	ATP6V1A	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000159720	ATP6V0D1	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000155097	ATP6V1C1	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000128524	ATP6V1F	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000213760	ATP6V1G2	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000131100	ATP6V1E1	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000147416	ATP6V1B2	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000047249	ATP6V1H	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000033627	ATP6V0A1	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000241685	ARPC1A	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000159720	ATP6V0D1	Lysosome:KEGG-hsa04142
+ENSG00000141367	CLTC	Lysosome:KEGG-hsa04142
+ENSG00000047249	ATP6V1H	Lysosome:KEGG-hsa04142
+ENSG00000033627	ATP6V0A1	Lysosome:KEGG-hsa04142
+ENSG00000122705	CLTA	Lysosome:KEGG-hsa04142
+ENSG00000241685	ARPC1A	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000141367	CLTC	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000122705	CLTA	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000107317	PTGDS	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000172260	NEGR1	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000198910	L1CAM	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000182985	CADM1	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000021645	NRXN3	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000070808	CAMK2A	Melanogenesis:KEGG-hsa04916
+ENSG00000156052	GNAQ	Melanogenesis:KEGG-hsa04916
+ENSG00000159164	SV2A	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000185518	SV2B	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000241685	ARPC1A	Shigellosis:KEGG-hsa05131
+ENSG00000114573	ATP6V1A	Phagosome:KEGG-hsa04145
+ENSG00000075785	RAB7A	Phagosome:KEGG-hsa04145
+ENSG00000159720	ATP6V0D1	Phagosome:KEGG-hsa04145
+ENSG00000155097	ATP6V1C1	Phagosome:KEGG-hsa04145
+ENSG00000128524	ATP6V1F	Phagosome:KEGG-hsa04145
+ENSG00000213760	ATP6V1G2	Phagosome:KEGG-hsa04145
+ENSG00000131100	ATP6V1E1	Phagosome:KEGG-hsa04145
+ENSG00000147416	ATP6V1B2	Phagosome:KEGG-hsa04145
+ENSG00000047249	ATP6V1H	Phagosome:KEGG-hsa04145
+ENSG00000033627	ATP6V0A1	Phagosome:KEGG-hsa04145
+ENSG00000156052	GNAQ	African trypanosomiasis:KEGG-hsa05143
+ENSG00000070808	CAMK2A	Olfactory transduction:KEGG-hsa04740
+ENSG00000156052	GNAQ	Gap junction:KEGG-hsa04540
+ENSG00000173692	PSMD1	Proteasome:KEGG-hsa03050
+ENSG00000108344	PSMD3	Proteasome:KEGG-hsa03050
+ENSG00000103035	PSMD7	Proteasome:KEGG-hsa03050
+ENSG00000156052	GNAQ	Alzheimer's disease:KEGG-hsa05010
+ENSG00000070808	CAMK2A	Glioma:KEGG-hsa05214
+ENSG00000070808	CAMK2A	Tuberculosis:KEGG-hsa05152
+ENSG00000075785	RAB7A	Tuberculosis:KEGG-hsa05152
+ENSG00000159720	ATP6V0D1	Tuberculosis:KEGG-hsa05152
+ENSG00000047249	ATP6V1H	Tuberculosis:KEGG-hsa05152
+ENSG00000033627	ATP6V0A1	Tuberculosis:KEGG-hsa05152
+ENSG00000116120	FARSB	Aminoacyl-tRNA biosynthesis:KEGG-hsa00970

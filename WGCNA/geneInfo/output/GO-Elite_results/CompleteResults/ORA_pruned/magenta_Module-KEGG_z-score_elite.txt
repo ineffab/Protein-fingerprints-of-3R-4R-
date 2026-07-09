@@ -1,0 +1,4 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Cell adhesion molecules (CAMs):KEGG-hsa04514	12	35	254	34.2857142857	13.7795275591	8.29454327293	0.0	1.0	 	 	ALCAM|CNTN1|JAM3|L1CAM|MAG|NCAM1|NCAM2|NEGR1|NFASC|NRCAM|NRXN3|VCAN
+Prion diseases:KEGG-hsa05020	3	14	55	21.4285714286	25.4545454545	2.92520818475	0.0205	1.0	 	 	NCAM1|NCAM2|PRNP
+Amoebiasis:KEGG-hsa05146	4	31	138	12.9032258065	22.4637681159	2.13870754583	0.0465	1.0	 	 	LAMA2|RAB5A|SERPINB1|SERPINB6

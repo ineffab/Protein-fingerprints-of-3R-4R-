@@ -1,0 +1,45 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000070831	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	4	0.444444444444	ENSG00000070831	Regulation of Microtubule Cytoskeleton:WP2038 // RalA downstream regulated genes:WP2290 // DNA Damage Response (only ATM dependent):WP710 // p38 MAPK Signaling Pathway:WP400
+ENSG00000174775	HRAS	Harvey rat sarcoma viral oncogene homolog [Source:HGNC Symbol;Acc:HGNC:5173]	3	0.333333333333	ENSG00000174775	RalA downstream regulated genes:WP2290 // DNA Damage Response (only ATM dependent):WP710 // p38 MAPK Signaling Pathway:WP400
+ENSG00000136238	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1) [Source:HGNC Symbol;Acc:HGNC:9801]	2	0.222222222222	ENSG00000136238	Regulation of Microtubule Cytoskeleton:WP2038 // DNA Damage Response (only ATM dependent):WP710
+ENSG00000106211	HSPB1	heat shock 27kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:5246]	2	0.222222222222	ENSG00000106211	FAS pathway and Stress induction of HSP regulation:WP314 // p38 MAPK Signaling Pathway:WP400
+ENSG00000198034	RPS4X	ribosomal protein S4, X-linked [Source:HGNC Symbol;Acc:HGNC:10424]	1	0.111111111111	ENSG00000198034	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000197694	SPTAN1	spectrin, alpha, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11273]	1	0.111111111111	ENSG00000197694	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000184110	EIF3C	eukaryotic translation initiation factor 3, subunit C [Source:HGNC Symbol;Acc:HGNC:3279]	1	0.111111111111	ENSG00000184110	Translation Factors:WP107
+ENSG00000180370	PAK2	p21 protein (Cdc42/Rac)-activated kinase 2 [Source:HGNC Symbol;Acc:HGNC:8591]	1	0.111111111111	ENSG00000180370	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	1	0.111111111111	ENSG00000177600	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000175390	EIF3F	eukaryotic translation initiation factor 3, subunit F [Source:HGNC Symbol;Acc:HGNC:3275]	1	0.111111111111	ENSG00000175390	Translation Factors:WP107
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	1	0.111111111111	ENSG00000170889	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000168610	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor) [Source:HGNC Symbol;Acc:HGNC:11364]	1	0.111111111111	ENSG00000168610	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000167658	EEF2	eukaryotic translation elongation factor 2 [Source:HGNC Symbol;Acc:HGNC:3214]	1	0.111111111111	ENSG00000167658	Translation Factors:WP107
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	1	0.111111111111	ENSG00000167526	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000167460	TPM4	tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	1	0.111111111111	ENSG00000167460	Striated Muscle Contraction:WP383
+ENSG00000160789	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	1	0.111111111111	ENSG00000160789	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000156976	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	1	0.111111111111	ENSG00000156976	Translation Factors:WP107
+ENSG00000153187	HNRNPU	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A) [Source:HGNC Symbol;Acc:HGNC:5048]	1	0.111111111111	ENSG00000153187	mRNA Processing:WP411
+ENSG00000149273	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	1	0.111111111111	ENSG00000149273	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	1	0.111111111111	ENSG00000148303	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000143549	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	1	0.111111111111	ENSG00000143549	Striated Muscle Contraction:WP383
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	1	0.111111111111	ENSG00000142937	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000142534	RPS11	ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:10384]	1	0.111111111111	ENSG00000142534	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000140988	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	1	0.111111111111	ENSG00000140988	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000140416	TPM1	tropomyosin 1 (alpha) [Source:HGNC Symbol;Acc:HGNC:12010]	1	0.111111111111	ENSG00000140416	Striated Muscle Contraction:WP383
+ENSG00000138668	HNRNPD	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa) [Source:HGNC Symbol;Acc:HGNC:5036]	1	0.111111111111	ENSG00000138668	mRNA Processing:WP411
+ENSG00000134419	RPS15A	ribosomal protein S15a [Source:HGNC Symbol;Acc:HGNC:10389]	1	0.111111111111	ENSG00000134419	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000134001	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa [Source:HGNC Symbol;Acc:HGNC:3265]	1	0.111111111111	ENSG00000134001	Translation Factors:WP107
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	1	0.111111111111	ENSG00000130741	Translation Factors:WP107
+ENSG00000130402	ACTN4	actinin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:166]	1	0.111111111111	ENSG00000130402	Striated Muscle Contraction:WP383
+ENSG00000122566	HNRNPA2B1	heterogeneous nuclear ribonucleoprotein A2/B1 [Source:HGNC Symbol;Acc:HGNC:5033]	1	0.111111111111	ENSG00000122566	mRNA Processing:WP411
+ENSG00000121691	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	1	0.111111111111	ENSG00000121691	DNA Damage Response (only ATM dependent):WP710
+ENSG00000107581	EIF3A	eukaryotic translation initiation factor 3, subunit A [Source:HGNC Symbol;Acc:HGNC:3271]	1	0.111111111111	ENSG00000107581	Translation Factors:WP107
+ENSG00000106263	EIF3B	eukaryotic translation initiation factor 3, subunit B [Source:HGNC Symbol;Acc:HGNC:3280]	1	0.111111111111	ENSG00000106263	Translation Factors:WP107
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	1	0.111111111111	ENSG00000105640	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000105193	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	1	0.111111111111	ENSG00000105193	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000101367	MAPRE1	microtubule-associated protein, RP/EB family, member 1 [Source:HGNC Symbol;Acc:HGNC:6890]	1	0.111111111111	ENSG00000101367	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	1	0.111111111111	ENSG00000100316	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000092964	DPYSL2	dihydropyrimidinase-like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	1	0.111111111111	ENSG00000092964	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	1	0.111111111111	ENSG00000089157	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	1	0.111111111111	ENSG00000089009	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000067560	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	1	0.111111111111	ENSG00000067560	DNA Damage Response (only ATM dependent):WP710
+ENSG00000026025	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	1	0.111111111111	ENSG00000026025	Striated Muscle Contraction:WP383
+ENSG00000006451	RALA	v-ral simian leukemia viral oncogene homolog A (ras related) [Source:HGNC Symbol;Acc:HGNC:9839]	1	0.111111111111	ENSG00000006451	RalA downstream regulated genes:WP2290

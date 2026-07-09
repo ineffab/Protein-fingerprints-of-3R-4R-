@@ -1,0 +1,10 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	ENSG00000014641	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	MDH1	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	ALDOA	greenyellow	En
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	ENSG00000111674	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	ENO2	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	TPI1	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	GOT1	greenyellow	En
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	ENSG00000102144	Glycolysis and Gluconeogenesis:WP534	Glycolysis and Gluconeogenesis:WP534	PGK1	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	Cori Cycle:WP1946	Cori Cycle:WP1946	TPI1	greenyellow	En
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	ENSG00000102144	Cori Cycle:WP1946	Cori Cycle:WP1946	PGK1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	Cori Cycle:WP1946	Cori Cycle:WP1946	G6PD	greenyellow	En

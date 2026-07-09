@@ -1,0 +1,64 @@
+Ontology-ID	Ontology Name	Ontology Type	Number Changed	Number Measured	Number in Ontology	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+GO:0022610	biological adhesion	biological_process	30	172	1027	17.4418604651	16.7478091529	8.52877141321	0.0	0.1210625	 	cell adhesion molecule binding|cellular component assembly involved in morphogenesis|cellular process involved in reproduction in multicellular organism|exploration behavior|neuron recognition|side of membrane|synapse organization	ADAM22|ALCAM|CADM4|CD81|CD9|CHL1|CNTN1|CTNNA2|CTNNB1|HAPLN2|HSPD1|JAM3|L1CAM|LAMA2|LGALS3BP|LSAMP|MAG|MOG|MYH10|NCAM1|NCAM2|NEGR1|NFASC|NRCAM|NRXN3|NTM|SIRPA|SLC7A11|TNR|VCAN
+GO:0033010	paranodal junction	cellular_component	3	3	4	100.0	75.0	7.92746887929	0.0	0.1210625	ensheathment of neurons|plasma membrane	 	JAM3|NFASC|SIRT2
+GO:0043209	myelin sheath	cellular_component	5	8	20	62.5	40.0	7.87031837532	0.0	0.1210625	plasma membrane	 	CA2|MAG|MBP|PLP1|SIRT2
+GO:0007272	ensheathment of neurons	biological_process	7	16	67	43.75	23.8805970149	7.54587755391	0.0	0.1210625	 	paranodal junction	ADAM22|JAM3|LAMA2|MBP|NFASC|PLP1|SIRT2
+GO:0043220	Schmidt-Lanterman incisure	cellular_component	3	4	12	75.0	33.3333333333	6.75797403417	0.0	0.1210625	plasma membrane	 	JAM3|MAG|SIRT2
+GO:0031225	anchored component of membrane	cellular_component	8	29	159	27.5862068966	18.2389937107	5.9915318967	0.0	0.1210625	plasma membrane	 	CNTFR|CNTN1|LSAMP|LY6H|NCAM1|NEGR1|NTM|PRNP
+GO:0035640	exploration behavior	biological_process	3	5	16	60.0	31.25	5.94838536608	0.0	0.1210625	biological adhesion|locomotory behavior	 	CHL1|LSAMP|TNR
+GO:0010001	glial cell differentiation	biological_process	5	13	66	38.4615384615	19.696969697	5.8787394097	0.0	0.1210625	 	 	ADAM22|APOE|CNP|PLP1|PTPRZ1
+GO:0061564	axon development	biological_process	4	9	21	44.4444444444	42.8571428571	5.74798379966	0.0	0.1210625	plasma membrane	 	APOE|CHL1|JAM3|PLP1
+GO:2000177	regulation of neural precursor cell proliferation	biological_process	3	7	64	42.8571428571	10.9375	4.864673256	0.004	0.425714285714	regulation of nervous system development	 	CTNNB1|PTPRZ1|SIRT2
+GO:0050848	regulation of calcium-mediated signaling	biological_process	3	7	42	42.8571428571	16.6666666667	4.864673256	0.0025	0.356066176471	neuron projection guidance|plasma membrane	 	L1CAM|NCAM1|PRNP
+GO:0033270	paranode region of axon	cellular_component	3	7	11	42.8571428571	63.6363636364	4.864673256	0.004	0.425714285714	plasma membrane	 	MAG|NFASC|SIRT2
+GO:0032481	positive regulation of type I interferon production	biological_process	3	7	86	42.8571428571	8.13953488372	4.864673256	0.004	0.425714285714	plasma membrane|positive regulation of cell death	 	CTNNB1|HSPD1|RPS27A
+GO:0048731	system development	biological_process	14	96	807	14.5833333333	11.8959107807	4.84117244003	0.0005	0.1210625	 	 	ADAM22|APOE|BPNT1|CNTFR|CTNNB1|L1CAM|LSAMP|LY6H|MBP|MOG|NFASC|NRCAM|PTPRZ1|RAB5A
+GO:0005578	proteinaceous extracellular matrix	cellular_component	7	34	263	20.5882352941	12.927756654	4.52241312677	0.0005	0.1210625	 	 	CHL1|CRTAC1|HAPLN2|LGALS3BP|PTPRZ1|TNR|VCAN
+GO:0051960	regulation of nervous system development	biological_process	13	92	577	14.1304347826	15.9445407279	4.51955428471	0.0	0.1210625	 	regulation of neural precursor cell proliferation	APOE|CAMK2B|CNTN1|CTNNB1|MAG|MBP|NEFM|NEGR1|NRCAM|NRXN3|PTPRZ1|SIRT2|TNR
+GO:0046686	response to cadmium ion	biological_process	3	8	37	37.5	21.6216216216	4.47435638577	0.0045	0.458763157895	plasma membrane	 	CAMK2B|CTNNB1|PRNP
+GO:0030301	cholesterol transport	biological_process	3	8	51	37.5	15.6862745098	4.47435638577	0.0055	0.48425	 	 	APOE|CLU|NPC2
+GO:0050807	regulation of synapse organization	biological_process	3	9	62	33.3333333333	14.5161290323	4.14664747329	0.006	0.514247787611	 	 	CAMK2B|CTNNA2|NRXN3
+GO:0040011	locomotion	biological_process	15	128	868	11.71875	14.7465437788	4.03193559793	0.0	0.1210625	 	 	CD81|CHL1|CTNNA2|CTNNB1|DNAJA1|JAM3|L1CAM|MAG|MYH10|NRCAM|SIRPA|SLC3A2|SLC7A11|TNR|VCAN
+GO:0005886	plasma membrane	cellular_component	41	551	4159	7.44101633394	13.2483770137	3.92249095797	0.0	0.1210625	 	Schmidt-Lanterman incisure|anchored component of membrane|apical part of cell|axon development|cellular component assembly involved in morphogenesis|cellular process involved in reproduction in multicellular organism|cytokine-mediated signaling pathway|muscle structure development|myelin sheath|neural nucleus development|neuron recognition|paranodal junction|paranode region of axon|positive regulation of type I interferon production|regulation of calcium-mediated signaling|regulation of neuronal synaptic plasticity|response to cadmium ion	APOE|CA2|CAMK2B|CD81|CD82|CD9|CHL1|CNP|CNTFR|CNTN1|CRYAB|CTNNB1|DPP3|HSPD1|JAM3|L1CAM|LAMA2|LSAMP|LY6H|MAG|MBP|MOG|MYH10|NCAM1|NCAM2|NEGR1|NFASC|NRCAM|NTM|PIP4K2A|PLP1|PRNP|RAB5A|RNPEP|RPS27A|SIRPA|SIRT2|SLC3A2|SLC44A1|SLC7A11|TTYH2
+GO:0010721	negative regulation of cell development	biological_process	7	42	248	16.6666666667	16.935483871	3.80547825899	0.0025	0.356066176471	 	 	APOE|CTNNB1|MAG|MBP|PI16|SIRT2|TNR
+GO:0005615	extracellular space	cellular_component	17	163	1245	10.4294478528	13.0923694779	3.77170015618	0.0015	0.254868421053	 	blood microparticle|humoral immune response	APOE|CA2|CD9|CFH|CLU|CNP|DKK3|HSPD1|IGHA1|JAM3|LGALS3BP|PI16|PTGDS|RNPEP|SERPINB1|SERPINB6|VCAN
+GO:0050806	positive regulation of synaptic transmission	biological_process	4	17	78	23.5294117647	21.7948717949	3.76586906555	0.0075	0.563081395349	 	 	CA2|GLUL|LAMA2|TNR
+GO:0048857	neural nucleus development	biological_process	5	25	67	20.0	37.3134328358	3.72574569416	0.004	0.425714285714	plasma membrane	 	CNP|MAG|MBP|PLP1|SIRT2
+GO:0008038	neuron recognition	biological_process	3	11	32	27.2727272727	34.375	3.62075116395	0.01	0.691785714286	biological adhesion|plasma membrane	 	NCAM2|NRCAM|NTM
+GO:0050877	neurological system process	biological_process	12	103	806	11.6504854369	12.7791563275	3.55473250575	0.002	0.317540983607	 	 	CAMK2B|CHL1|JAM3|MYH10|NCAM2|NFASC|NIPSNAP1|NRCAM|NRXN3|PRNP|PTPRZ1|TNR
+GO:0030424	axon	cellular_component	10	79	231	12.6582278481	34.1991341991	3.52979230047	0.003	0.382302631579	 	 	ALCAM|CA2|CTNNA2|MYH10|NCAM1|NCAM2|NEFM|NFASC|NRCAM|RAB5A
+GO:0035966	response to topologically incorrect protein	biological_process	4	19	75	21.0526315789	25.3333333333	3.46340198185	0.009	0.631630434783	positive regulation of cell death	 	CLU|DNAJA1|HSPD1|HSPE1
+GO:0005791	rough endoplasmic reticulum	cellular_component	3	12	41	25.0	29.2682926829	3.40430312219	0.0155	0.877880116959	 	 	GLUL|PTGDS|SLC7A11
+GO:0097485	neuron projection guidance	biological_process	12	112	374	10.7142857143	29.9465240642	3.22619677724	0.005	0.48425	 	regulation of calcium-mediated signaling	ALCAM|CHL1|CNTN1|L1CAM|LAMA2|MYH10|NCAM1|NFASC|NRCAM|NRXN3|PRNP|TNR
+GO:0051147	regulation of muscle cell differentiation	biological_process	3	13	120	23.0769230769	10.8333333333	3.21085609839	0.0195	0.934375	 	 	CTNNA2|CTNNB1|PI16
+GO:0050808	synapse organization	biological_process	5	30	109	16.6666666667	27.5229357798	3.2048580741	0.0075	0.563081395349	biological adhesion	 	CTNNB1|NFASC|NRCAM|NRXN3|TNR
+GO:0007626	locomotory behavior	biological_process	6	40	180	15.0	22.2222222222	3.2005661223	0.0055	0.48425	 	exploration behavior	ADAM22|CHL1|CNP|LSAMP|NEGR1|TNR
+GO:0051087	chaperone binding	molecular_function	4	22	62	18.1818181818	35.4838709677	3.0807504724	0.0145	0.835907738095	 	 	DNAJA1|HSPD1|HSPE1|PRNP
+GO:0006959	humoral immune response	biological_process	3	14	173	21.4285714286	8.09248554913	3.03631113268	0.021	0.934375	blood microparticle|extracellular region|extracellular space	 	CFH|CLU|IGHA1
+GO:0016021	integral component of membrane	cellular_component	25	329	5716	7.59878419453	5.75577326802	2.93321403891	0.0045	0.458763157895	 	 	ADAM22|ALCAM|CACNA2D3|CADM4|CD81|CD82|CD9|CHL1|FAM171A1|JAM3|L1CAM|MAG|MOG|NCAM1|NCAM2|NFASC|NRCAM|NRXN3|PI16|PLP1|PTPRZ1|SIRPA|SLC3A2|SLC44A1|SLC7A11
+GO:0050839	cell adhesion molecule binding	molecular_function	7	56	163	12.5	34.3558282209	2.8937317276	0.009	0.631630434783	biological adhesion	cellular process involved in reproduction in multicellular organism	ADAM22|CD9|CTNNA2|CTNNB1|JAM3|L1CAM|NRXN3
+GO:0030522	intracellular receptor signaling pathway	biological_process	3	15	191	20.0	7.85340314136	2.87753388449	0.0295	0.934375	positive regulation of cell death	 	CTNNB1|DNAJA1|RPS27A
+GO:0098552	side of membrane	cellular_component	6	46	245	13.0434782609	18.7755102041	2.79388835779	0.0125	0.791258169935	biological adhesion	 	ALCAM|CD9|CTNNB1|L1CAM|NCAM1|NRCAM
+GO:0007409	axonogenesis	biological_process	5	35	131	14.2857142857	26.7175572519	2.78488603644	0.0205	0.934375	 	 	CNP|CTNNA2|MYH10|NRCAM|PTPRZ1
+GO:0045597	positive regulation of cell differentiation	biological_process	9	84	710	10.7142857143	11.8309859155	2.77013151602	0.0135	0.817171875	 	 	APOE|CA2|CAMK2B|CNTN1|CTNNA2|CTNNB1|NEGR1|NRCAM|SIRT2
+GO:0032102	negative regulation of response to external stimulus	biological_process	4	25	233	16.0	10.7296137339	2.76045152179	0.0255	0.934375	 	 	APOE|CTNNA2|SIRT2|TNR
+GO:0061061	muscle structure development	biological_process	3	16	113	18.75	14.1592920354	2.7320801604	0.0385	0.934375	plasma membrane	 	CNTFR|CRYAB|LAMA2
+GO:0022412	cellular process involved in reproduction in multicellular organism	biological_process	3	16	231	18.75	6.92640692641	2.7320801604	0.039	0.934375	biological adhesion|cell adhesion molecule binding|cell development|plasma membrane	 	CD9|CTNNB1|JAM3
+GO:0006633	fatty acid biosynthetic process	biological_process	3	16	117	18.75	13.6752136752	2.7320801604	0.038	0.934375	 	 	PLP1|PTGDS|RNPEP
+GO:0002020	protease binding	molecular_function	3	16	86	18.75	18.6046511628	2.7320801604	0.0325	0.934375	 	 	CHL1|MBP|SERPINB6
+GO:0010942	positive regulation of cell death	biological_process	9	87	598	10.3448275862	14.5484949833	2.65230445951	0.0205	0.934375	 	intracellular receptor signaling pathway|positive regulation of type I interferon production|response to topologically incorrect protein	APOE|CAMK2B|CLU|CTNNB1|DNAJA1|HSPD1|HSPE1|RPS27A|SIRT2
+GO:0048168	regulation of neuronal synaptic plasticity	biological_process	3	17	44	17.6470588235	38.6363636364	2.59801137145	0.039	0.934375	plasma membrane	 	APOE|CAMK2B|RAB5A
+GO:0046488	phosphatidylinositol metabolic process	biological_process	3	17	141	17.6470588235	12.0567375887	2.59801137145	0.0415	0.934375	 	 	BPNT1|CD81|PIP4K2A
+GO:0045177	apical part of cell	cellular_component	3	17	96	17.6470588235	17.7083333333	2.59801137145	0.0475	0.934375	plasma membrane	 	CA2|CHL1|CTNNB1
+GO:0030534	adult behavior	biological_process	4	28	139	14.2857142857	20.1438848921	2.48575629005	0.04	0.934375	 	 	ADAM22|CHL1|CNP|NRXN3
+GO:0019221	cytokine-mediated signaling pathway	biological_process	4	28	435	14.2857142857	6.4367816092	2.48575629005	0.03	0.934375	plasma membrane	 	CAMK2B|CNTFR|NCAM1|RPS27A
+GO:0005539	glycosaminoglycan binding	molecular_function	4	28	196	14.2857142857	14.2857142857	2.48575629005	0.044	0.934375	 	 	APOE|CFH|HAPLN2|VCAN
+GO:0010927	cellular component assembly involved in morphogenesis	biological_process	3	18	177	16.6666666667	10.1694915254	2.47376702419	0.0435	0.934375	biological adhesion|plasma membrane	 	CD9|MYH10|NFASC
+GO:0030162	regulation of proteolysis	biological_process	10	109	637	9.17431192661	17.1114599686	2.38393463415	0.0275	0.934375	 	 	APOE|CLU|CRYAB|HSPD1|HSPE1|PI16|RPS27A|SERPINB1|SERPINB6|SIRT2
+GO:0030308	negative regulation of cell growth	biological_process	3	19	159	15.7894736842	11.9496855346	2.35807450211	0.043	0.934375	 	 	CRYAB|PI16|TNR
+GO:1901214	regulation of neuron death	biological_process	5	43	219	11.6279069767	19.6347031963	2.2484481599	0.039	0.934375	 	 	APOE|CHL1|CLU|CNTFR|CTNNB1
+GO:0072562	blood microparticle	cellular_component	5	44	156	11.3636363636	28.2051282051	2.1900346945	0.049	0.934375	extracellular space	humoral immune response	APOE|CFH|CLU|IGHA1|LGALS3BP
+GO:0008285	negative regulation of cell proliferation	biological_process	6	58	639	10.3448275862	9.07668231612	2.14675740828	0.0375	0.934375	 	 	APOE|CD9|CTNNB1|FTH1|PRNP|SIRT2
+GO:0005576	extracellular region	cellular_component	11	133	1680	8.27067669173	7.91666666667	2.13334245499	0.0405	0.934375	 	humoral immune response	APOE|CFH|CLU|DKK3|IGHA1|IGSF21|LAMA2|PTGDS|RNPEP|TNR|VCAN
+GO:0048468	cell development	biological_process	7	73	565	9.58904109589	12.9203539823	2.10313015237	0.047	0.934375	 	cellular process involved in reproduction in multicellular organism	CD9|CTNNB1|HAPLN2|JAM3|MYH10|PIP4K2A|PLP1
+GO:0048545	response to steroid hormone	biological_process	5	46	315	10.8695652174	14.6031746032	2.07784594351	0.0485	0.934375	 	 	CA2|CRYAB|CTNNB1|MBP|PTGDS

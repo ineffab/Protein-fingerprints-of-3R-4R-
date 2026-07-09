@@ -1,0 +1,37 @@
+Fatty Acid Biosynthesis:WP357	pr	ENSG00000127884:ECHS1
+Fatty Acid Biosynthesis:WP357	pr	ENSG00000138796:HADH
+Fatty Acid Biosynthesis:WP357	pr	ENSG00000104823:ECH1
+Fatty Acid Biosynthesis:WP357	pr	ENSG00000104325:DECR1
+Selenium Micronutrient Network:WP15	pr	ENSG00000104687:GSR
+Selenium Micronutrient Network:WP15	pr	ENSG00000167815:PRDX2
+Selenium Micronutrient Network:WP15	pr	ENSG00000167468:GPX4
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000111640:GAPDH
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000067225:PKM
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000111716:LDHB
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000091140:DLD
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000074800:ENO1
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000125166:GOT2
+Glycolysis and Gluconeogenesis:WP534	pr	ENSG00000146701:MDH2
+Tryptophan metabolism:WP465	pr	ENSG00000075239:ACAT1
+Tryptophan metabolism:WP465	pr	ENSG00000127884:ECHS1
+Tryptophan metabolism:WP465	pr	ENSG00000138796:HADH
+Tryptophan metabolism:WP465	pr	ENSG00000111275:ALDH2
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000075239:ACAT1
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000127884:ECHS1
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000138796:HADH
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000104325:DECR1
+Fatty Acid Beta Oxidation:WP143	pr	ENSG00000091140:DLD
+Proteasome Degradation:WP183	pr	ENSG00000008018:PSMB1
+Proteasome Degradation:WP183	pr	ENSG00000185627:PSMD13
+Proteasome Degradation:WP183	pr	ENSG00000106588:PSMA2
+Proteasome Degradation:WP183	pr	ENSG00000165916:PSMC3
+Proteasome Degradation:WP183	pr	ENSG00000129084:PSMA1
+Proteasome Degradation:WP183	pr	ENSG00000100902:PSMA6
+Proteasome Degradation:WP183	pr	ENSG00000136930:PSMB7
+Proteasome Degradation:WP183	pr	ENSG00000143106:PSMA5
+Proteasome Degradation:WP183	pr	ENSG00000100567:PSMA3
+Proteasome Degradation:WP183	pr	ENSG00000126067:PSMB2
+Proteasome Degradation:WP183	pr	ENSG00000101182:PSMA7
+TCA Cycle:WP78	pr	ENSG00000091140:DLD
+TCA Cycle:WP78	pr	ENSG00000100412:ACO2
+TCA Cycle:WP78	pr	ENSG00000146701:MDH2

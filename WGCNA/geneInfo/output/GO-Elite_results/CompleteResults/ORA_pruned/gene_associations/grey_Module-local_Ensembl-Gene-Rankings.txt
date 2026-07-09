@@ -1,0 +1,7 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	1	0.5	ENSG00000206172	Vitamin B12 Metabolism:WP1533
+ENSG00000196136	SERPINA3	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3 [Source:HGNC Symbol;Acc:HGNC:16]	1	0.5	ENSG00000196136	Vitamin B12 Metabolism:WP1533
+ENSG00000160200	CBS	cystathionine-beta-synthase [Source:HGNC Symbol;Acc:HGNC:1550]	1	0.5	ENSG00000160200	Vitamin B12 Metabolism:WP1533
+ENSG00000148334	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	1	0.5	ENSG00000148334	Eicosanoid Synthesis:WP167
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	1	0.5	ENSG00000111144	Eicosanoid Synthesis:WP167
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	1	0.5	ENSG00000100031	Eicosanoid Synthesis:WP167

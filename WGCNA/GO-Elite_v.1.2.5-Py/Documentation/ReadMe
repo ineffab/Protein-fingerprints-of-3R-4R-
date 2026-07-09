@@ -1,0 +1,4 @@
+GO-Elite is an over-representation analysis tool for a multitude of species, ID systems, ontologies, pathways and gene-sets. This software can be run through a graphical user-interface or by command-line arguments. Operating system-specific binaries are provided for selected configurations and the source-code version can be run from any operating system with Python language support (http://python.org). 
+
+Please see the user manual PDF in the directory Documentation or http://code.google.com/p/go-elite/wiki/Installation for more information and installation directions. 
+

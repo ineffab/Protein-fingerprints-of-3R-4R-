@@ -1,0 +1,71 @@
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000075239:ACAT1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000127884:ECHS1
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000138796:HADH
+Fatty acid metabolism:KEGG-hsa00071	pr	ENSG00000111275:ALDH2
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000091140:DLD
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000100412:ACO2
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000146701:MDH2
+beta-Alanine metabolism:KEGG-hsa00410	pr	ENSG00000198130:HIBCH
+beta-Alanine metabolism:KEGG-hsa00410	pr	ENSG00000127884:ECHS1
+beta-Alanine metabolism:KEGG-hsa00410	pr	ENSG00000111275:ALDH2
+beta-Alanine metabolism:KEGG-hsa00410	pr	ENSG00000183044:ABAT
+Pyruvate metabolism:KEGG-hsa00620	pr	ENSG00000075239:ACAT1
+Pyruvate metabolism:KEGG-hsa00620	pr	ENSG00000067225:PKM
+Pyruvate metabolism:KEGG-hsa00620	pr	ENSG00000111716:LDHB
+Pyruvate metabolism:KEGG-hsa00620	pr	ENSG00000111275:ALDH2
+Pyruvate metabolism:KEGG-hsa00620	pr	ENSG00000091140:DLD
+Pyruvate metabolism:KEGG-hsa00620	pr	ENSG00000146701:MDH2
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000198130:HIBCH
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000075239:ACAT1
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000127884:ECHS1
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000138796:HADH
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000111275:ALDH2
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000091140:DLD
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000183044:ABAT
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	pr	ENSG00000106049:HIBADH
+Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630	pr	ENSG00000075239:ACAT1
+Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630	pr	ENSG00000100412:ACO2
+Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630	pr	ENSG00000146701:MDH2
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000075239:ACAT1
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000127884:ECHS1
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000138796:HADH
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000112294:ALDH5A1
+Butanoate metabolism:KEGG-hsa00650	pr	ENSG00000183044:ABAT
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000111275:ALDH2
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000148672:GLUD1
+Arginine and proline metabolism:KEGG-hsa00330	pr	ENSG00000125166:GOT2
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000075239:ACAT1
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000127884:ECHS1
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000138796:HADH
+Tryptophan metabolism:KEGG-hsa00380	pr	ENSG00000111275:ALDH2
+Lysine degradation:KEGG-hsa00310	pr	ENSG00000075239:ACAT1
+Lysine degradation:KEGG-hsa00310	pr	ENSG00000127884:ECHS1
+Lysine degradation:KEGG-hsa00310	pr	ENSG00000138796:HADH
+Lysine degradation:KEGG-hsa00310	pr	ENSG00000111275:ALDH2
+Alanine, aspartate and glutamate metabolism:KEGG-hsa00250	pr	ENSG00000112294:ALDH5A1
+Alanine, aspartate and glutamate metabolism:KEGG-hsa00250	pr	ENSG00000183044:ABAT
+Alanine, aspartate and glutamate metabolism:KEGG-hsa00250	pr	ENSG00000148672:GLUD1
+Alanine, aspartate and glutamate metabolism:KEGG-hsa00250	pr	ENSG00000125166:GOT2
+Proteasome:KEGG-hsa03050	pr	ENSG00000008018:PSMB1
+Proteasome:KEGG-hsa03050	pr	ENSG00000185627:PSMD13
+Proteasome:KEGG-hsa03050	pr	ENSG00000106588:PSMA2
+Proteasome:KEGG-hsa03050	pr	ENSG00000165916:PSMC3
+Proteasome:KEGG-hsa03050	pr	ENSG00000129084:PSMA1
+Proteasome:KEGG-hsa03050	pr	ENSG00000100902:PSMA6
+Proteasome:KEGG-hsa03050	pr	ENSG00000136930:PSMB7
+Proteasome:KEGG-hsa03050	pr	ENSG00000143106:PSMA5
+Proteasome:KEGG-hsa03050	pr	ENSG00000100567:PSMA3
+Proteasome:KEGG-hsa03050	pr	ENSG00000126067:PSMB2
+Proteasome:KEGG-hsa03050	pr	ENSG00000101182:PSMA7
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000198130:HIBCH
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000075239:ACAT1
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000127884:ECHS1
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000111716:LDHB
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000111275:ALDH2
+Propanoate metabolism:KEGG-hsa00640	pr	ENSG00000183044:ABAT
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000111640:GAPDH
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000067225:PKM
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000111716:LDHB
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000111275:ALDH2
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000091140:DLD
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	pr	ENSG00000074800:ENO1

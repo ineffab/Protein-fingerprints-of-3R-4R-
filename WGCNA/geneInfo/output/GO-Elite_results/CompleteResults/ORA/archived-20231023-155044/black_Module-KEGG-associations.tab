@@ -1,0 +1,984 @@
+Ensembl	symbol	KEGG
+ENSG00000103056	SMPD3	Sphingolipid metabolism:KEGG-hsa00600
+ENSG00000165092	ALDH1A1	Retinol metabolism:KEGG-hsa00830
+ENSG00000169032	MAP2K1	Endometrial cancer:KEGG-hsa05213
+ENSG00000174775	HRAS	Endometrial cancer:KEGG-hsa05213
+ENSG00000177885	GRB2	Endometrial cancer:KEGG-hsa05213
+ENSG00000204843	DCTN1	Huntington's disease:KEGG-hsa05016
+ENSG00000175416	CLTB	Huntington's disease:KEGG-hsa05016
+ENSG00000183020	AP2A2	Huntington's disease:KEGG-hsa05016
+ENSG00000196961	AP2A1	Huntington's disease:KEGG-hsa05016
+ENSG00000175203	DCTN2	Huntington's disease:KEGG-hsa05016
+ENSG00000233276	GPX1	Huntington's disease:KEGG-hsa05016
+ENSG00000197386	HTT	Huntington's disease:KEGG-hsa05016
+ENSG00000161203	AP2M1	Huntington's disease:KEGG-hsa05016
+ENSG00000006125	AP2B1	Huntington's disease:KEGG-hsa05016
+ENSG00000182621	PLCB1	Huntington's disease:KEGG-hsa05016
+ENSG00000132535	DLG4	Huntington's disease:KEGG-hsa05016
+ENSG00000126583	PRKCG	Long-term potentiation:KEGG-hsa04720
+ENSG00000169032	MAP2K1	Long-term potentiation:KEGG-hsa04720
+ENSG00000213639	PPP1CB	Long-term potentiation:KEGG-hsa04720
+ENSG00000174775	HRAS	Long-term potentiation:KEGG-hsa04720
+ENSG00000164742	ADCY1	Long-term potentiation:KEGG-hsa04720
+ENSG00000107758	PPP3CB	Long-term potentiation:KEGG-hsa04720
+ENSG00000152495	CAMK4	Long-term potentiation:KEGG-hsa04720
+ENSG00000142875	PRKACB	Long-term potentiation:KEGG-hsa04720
+ENSG00000221823	PPP3R1	Long-term potentiation:KEGG-hsa04720
+ENSG00000138814	PPP3CA	Long-term potentiation:KEGG-hsa04720
+ENSG00000182621	PLCB1	Long-term potentiation:KEGG-hsa04720
+ENSG00000166501	PRKCB	Long-term potentiation:KEGG-hsa04720
+ENSG00000165434	PGM2L1	Starch and sucrose metabolism:KEGG-hsa00500
+ENSG00000105220	GPI	Starch and sucrose metabolism:KEGG-hsa00500
+ENSG00000169299	PGM2	Starch and sucrose metabolism:KEGG-hsa00500
+ENSG00000055130	CUL1	Oocyte meiosis:KEGG-hsa04114
+ENSG00000104695	PPP2CB	Oocyte meiosis:KEGG-hsa04114
+ENSG00000169032	MAP2K1	Oocyte meiosis:KEGG-hsa04114
+ENSG00000213639	PPP1CB	Oocyte meiosis:KEGG-hsa04114
+ENSG00000112640	PPP2R5D	Oocyte meiosis:KEGG-hsa04114
+ENSG00000134308	YWHAQ	Oocyte meiosis:KEGG-hsa04114
+ENSG00000154001	PPP2R5E	Oocyte meiosis:KEGG-hsa04114
+ENSG00000164924	YWHAZ	Oocyte meiosis:KEGG-hsa04114
+ENSG00000128245	YWHAH	Oocyte meiosis:KEGG-hsa04114
+ENSG00000164742	ADCY1	Oocyte meiosis:KEGG-hsa04114
+ENSG00000170027	YWHAG	Oocyte meiosis:KEGG-hsa04114
+ENSG00000107758	PPP3CB	Oocyte meiosis:KEGG-hsa04114
+ENSG00000142875	PRKACB	Oocyte meiosis:KEGG-hsa04114
+ENSG00000221823	PPP3R1	Oocyte meiosis:KEGG-hsa04114
+ENSG00000138814	PPP3CA	Oocyte meiosis:KEGG-hsa04114
+ENSG00000105568	PPP2R1A	Oocyte meiosis:KEGG-hsa04114
+ENSG00000166913	YWHAB	Oocyte meiosis:KEGG-hsa04114
+ENSG00000108953	YWHAE	Oocyte meiosis:KEGG-hsa04114
+ENSG00000233276	GPX1	Glutathione metabolism:KEGG-hsa00480
+ENSG00000131067	GGT7	Glutathione metabolism:KEGG-hsa00480
+ENSG00000084207	GSTP1	Glutathione metabolism:KEGG-hsa00480
+ENSG00000104823	ECH1	Peroxisome:KEGG-hsa04146
+ENSG00000087470	DNM1L	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000175416	CLTB	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000106976	DNM1	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000112290	WASF1	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000099942	CRKL	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000197959	DNM3	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000177105	RHOG	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000103415	HMOX2	Porphyrin and chlorophyll metabolism:KEGG-hsa00860
+ENSG00000167996	FTH1	Porphyrin and chlorophyll metabolism:KEGG-hsa00860
+ENSG00000135744	AGT	Renin-angiotensin system:KEGG-hsa04614
+ENSG00000233276	GPX1	Amyotrophic lateral sclerosis (ALS):KEGG-hsa05014
+ENSG00000107758	PPP3CB	Amyotrophic lateral sclerosis (ALS):KEGG-hsa05014
+ENSG00000221823	PPP3R1	Amyotrophic lateral sclerosis (ALS):KEGG-hsa05014
+ENSG00000138814	PPP3CA	Amyotrophic lateral sclerosis (ALS):KEGG-hsa05014
+ENSG00000125730	C3	Staphylococcus aureus infection:KEGG-hsa05150
+ENSG00000126583	PRKCG	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000183023	SLC8A1	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000115252	PDE1A	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000067842	ATP2B3	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000164742	ADCY1	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000107758	PPP3CB	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000152495	CAMK4	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000118160	SLC8A2	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000142875	PRKACB	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000221823	PPP3R1	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000157087	ATP2B2	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000138814	PPP3CA	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000058668	ATP2B4	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000070961	ATP2B1	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000182621	PLCB1	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000166501	PRKCB	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000112290	WASF1	Shigellosis:KEGG-hsa05131
+ENSG00000099942	CRKL	Shigellosis:KEGG-hsa05131
+ENSG00000070087	PFN2	Shigellosis:KEGG-hsa05131
+ENSG00000109339	MAPK10	Shigellosis:KEGG-hsa05131
+ENSG00000134318	ROCK2	Shigellosis:KEGG-hsa05131
+ENSG00000177105	RHOG	Shigellosis:KEGG-hsa05131
+ENSG00000055130	CUL1	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000130985	UBA1	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000108094	CUL2	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000036257	CUL3	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000175931	UBE2O	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000166266	CUL5	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000142875	PRKACB	Olfactory transduction:KEGG-hsa04740
+ENSG00000065559	MAP2K4	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000169032	MAP2K1	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000174775	HRAS	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000164742	ADCY1	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000177885	GRB2	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000142875	PRKACB	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000182621	PLCB1	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000109339	MAPK10	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000166501	PRKCB	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000169032	MAP2K1	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000099942	CRKL	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000134308	YWHAQ	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000164924	YWHAZ	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000128245	YWHAH	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000174775	HRAS	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000170027	YWHAG	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000141522	ARHGDIA	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000152495	CAMK4	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000177885	GRB2	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000179295	PTPN11	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000166913	YWHAB	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000109339	MAPK10	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000108953	YWHAE	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000055130	CUL1	Cell cycle:KEGG-hsa04110
+ENSG00000175793	SFN	Cell cycle:KEGG-hsa04110
+ENSG00000134308	YWHAQ	Cell cycle:KEGG-hsa04110
+ENSG00000164924	YWHAZ	Cell cycle:KEGG-hsa04110
+ENSG00000128245	YWHAH	Cell cycle:KEGG-hsa04110
+ENSG00000170027	YWHAG	Cell cycle:KEGG-hsa04110
+ENSG00000166913	YWHAB	Cell cycle:KEGG-hsa04110
+ENSG00000108953	YWHAE	Cell cycle:KEGG-hsa04110
+ENSG00000107758	PPP3CB	Apoptosis:KEGG-hsa04210
+ENSG00000142875	PRKACB	Apoptosis:KEGG-hsa04210
+ENSG00000221823	PPP3R1	Apoptosis:KEGG-hsa04210
+ENSG00000138814	PPP3CA	Apoptosis:KEGG-hsa04210
+ENSG00000005249	PRKAR2B	Apoptosis:KEGG-hsa04210
+ENSG00000114302	PRKAR2A	Apoptosis:KEGG-hsa04210
+ENSG00000160007	ARHGAP35	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000276293	PIP4K2B	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000166908	PIP4K2C	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000169032	MAP2K1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000138443	ABI2	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000108262	GIT1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000213639	PPP1CB	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000112290	WASF1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000099942	CRKL	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000174775	HRAS	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000130402	ACTN4	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000102606	ARHGEF7	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000213949	ITGA1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000175866	BAIAP2	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000070087	PFN2	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000077264	PAK3	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000149269	PAK1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000186111	PIP5K1C	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000172757	CFL1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000055163	CYFIP2	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000196914	ARHGEF12	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000090020	SLC9A1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000134318	ROCK2	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000131067	GGT7	Cyanoamino acid metabolism:KEGG-hsa00460
+ENSG00000067057	PFKP	Galactose metabolism:KEGG-hsa00052
+ENSG00000169299	PGM2	Galactose metabolism:KEGG-hsa00052
+ENSG00000141959	PFKL	Galactose metabolism:KEGG-hsa00052
+ENSG00000067057	PFKP	Fructose and mannose metabolism:KEGG-hsa00051
+ENSG00000141959	PFKL	Fructose and mannose metabolism:KEGG-hsa00051
+ENSG00000063601	MTMR1	Fructose and mannose metabolism:KEGG-hsa00051
+ENSG00000111275	ALDH2	beta-Alanine metabolism:KEGG-hsa00410
+ENSG00000164904	ALDH7A1	beta-Alanine metabolism:KEGG-hsa00410
+ENSG00000104695	PPP2CB	Hepatitis C:KEGG-hsa05160
+ENSG00000174775	HRAS	Hepatitis C:KEGG-hsa05160
+ENSG00000177885	GRB2	Hepatitis C:KEGG-hsa05160
+ENSG00000221914	PPP2R2A	Hepatitis C:KEGG-hsa05160
+ENSG00000105568	PPP2R1A	Hepatitis C:KEGG-hsa05160
+ENSG00000109339	MAPK10	Hepatitis C:KEGG-hsa05160
+ENSG00000196569	LAMA2	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000188157	AGRN	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000135862	LAMC1	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000196776	CD47	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000213949	ITGA1	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000172037	LAMB2	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000065559	MAP2K4	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000169032	MAP2K1	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000171132	PRKCE	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000174775	HRAS	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000177885	GRB2	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000010810	FYN	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000109339	MAPK10	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000166501	PRKCB	Fc epsilon RI signaling pathway:KEGG-hsa04664
+ENSG00000105723	GSK3A	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000169032	MAP2K1	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000099942	CRKL	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000172354	GNB2	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000174775	HRAS	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000164742	ADCY1	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000127955	GNAI1	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000177885	GRB2	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000078369	GNB1	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000142875	PRKACB	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000186469	GNG2	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000176533	GNG7	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000149269	PAK1	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000182621	PLCB1	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000069966	GNB5	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000166501	PRKCB	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000134318	ROCK2	Chemokine signaling pathway:KEGG-hsa04062
+ENSG00000079950	STX7	SNARE interactions in vesicular transport:KEGG-hsa04130
+ENSG00000132639	SNAP25	SNARE interactions in vesicular transport:KEGG-hsa04130
+ENSG00000220205	VAMP2	SNARE interactions in vesicular transport:KEGG-hsa04130
+ENSG00000106089	STX1A	SNARE interactions in vesicular transport:KEGG-hsa04130
+ENSG00000099365	STX1B	SNARE interactions in vesicular transport:KEGG-hsa04130
+ENSG00000106636	YKT6	SNARE interactions in vesicular transport:KEGG-hsa04130
+ENSG00000169032	MAP2K1	Thyroid cancer:KEGG-hsa05216
+ENSG00000174775	HRAS	Thyroid cancer:KEGG-hsa05216
+ENSG00000108091	CCDC6	Thyroid cancer:KEGG-hsa05216
+ENSG00000111275	ALDH2	Lysine degradation:KEGG-hsa00310
+ENSG00000120437	ACAT2	Lysine degradation:KEGG-hsa00310
+ENSG00000164904	ALDH7A1	Lysine degradation:KEGG-hsa00310
+ENSG00000196569	LAMA2	Toxoplasmosis:KEGG-hsa05145
+ENSG00000087258	GNAO1	Toxoplasmosis:KEGG-hsa05145
+ENSG00000135862	LAMC1	Toxoplasmosis:KEGG-hsa05145
+ENSG00000126803	HSPA2	Toxoplasmosis:KEGG-hsa05145
+ENSG00000127955	GNAI1	Toxoplasmosis:KEGG-hsa05145
+ENSG00000172037	LAMB2	Toxoplasmosis:KEGG-hsa05145
+ENSG00000204388	HSPA1B	Toxoplasmosis:KEGG-hsa05145
+ENSG00000109339	MAPK10	Toxoplasmosis:KEGG-hsa05145
+ENSG00000125166	GOT2	Alanine, aspartate and glutamate metabolism:KEGG-hsa00250
+ENSG00000159423	ALDH4A1	Alanine, aspartate and glutamate metabolism:KEGG-hsa00250
+ENSG00000148672	GLUD1	Alanine, aspartate and glutamate metabolism:KEGG-hsa00250
+ENSG00000169032	MAP2K1	Prostate cancer:KEGG-hsa05215
+ENSG00000174775	HRAS	Prostate cancer:KEGG-hsa05215
+ENSG00000177885	GRB2	Prostate cancer:KEGG-hsa05215
+ENSG00000084207	GSTP1	Prostate cancer:KEGG-hsa05215
+ENSG00000096384	HSP90AB1	Prostate cancer:KEGG-hsa05215
+ENSG00000100519	PSMC6	Proteasome:KEGG-hsa03050
+ENSG00000161057	PSMC2	Proteasome:KEGG-hsa03050
+ENSG00000100764	PSMC1	Proteasome:KEGG-hsa03050
+ENSG00000175166	PSMD2	Proteasome:KEGG-hsa03050
+ENSG00000108671	PSMD11	Proteasome:KEGG-hsa03050
+ENSG00000087191	PSMC5	Proteasome:KEGG-hsa03050
+ENSG00000092010	PSME1	Proteasome:KEGG-hsa03050
+ENSG00000136928	GABBR2	Neuroactive ligand-receptor interaction:KEGG-hsa04080
+ENSG00000204681	GABBR1	Neuroactive ligand-receptor interaction:KEGG-hsa04080
+ENSG00000198822	GRM3	Neuroactive ligand-receptor interaction:KEGG-hsa04080
+ENSG00000164082	GRM2	Neuroactive ligand-receptor interaction:KEGG-hsa04080
+ENSG00000111275	ALDH2	Propanoate metabolism:KEGG-hsa00640
+ENSG00000120437	ACAT2	Propanoate metabolism:KEGG-hsa00640
+ENSG00000164904	ALDH7A1	Propanoate metabolism:KEGG-hsa00640
+ENSG00000223609	HBD	Malaria:KEGG-hsa05144
+ENSG00000095380	NANS	Amino sugar and nucleotide sugar metabolism:KEGG-hsa00520
+ENSG00000105220	GPI	Amino sugar and nucleotide sugar metabolism:KEGG-hsa00520
+ENSG00000169299	PGM2	Amino sugar and nucleotide sugar metabolism:KEGG-hsa00520
+ENSG00000111275	ALDH2	Fatty acid metabolism:KEGG-hsa00071
+ENSG00000120437	ACAT2	Fatty acid metabolism:KEGG-hsa00071
+ENSG00000164904	ALDH7A1	Fatty acid metabolism:KEGG-hsa00071
+ENSG00000125166	GOT2	Phenylalanine, tyrosine and tryptophan biosynthesis:KEGG-hsa00400
+ENSG00000087470	DNM1L	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000126583	PRKCG	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000106976	DNM1	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000169032	MAP2K1	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000112290	WASF1	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000099942	CRKL	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000197959	DNM3	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000171132	PRKCE	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000149269	PAK1	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000186111	PIP5K1C	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000078053	AMPH	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000172757	CFL1	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000166501	PRKCB	Fc gamma R-mediated phagocytosis:KEGG-hsa04666
+ENSG00000126583	PRKCG	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000169032	MAP2K1	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000213639	PPP1CB	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000171132	PRKCE	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000164742	ADCY1	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000142875	PRKACB	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000182621	PLCB1	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000196914	ARHGEF12	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000166501	PRKCB	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000134318	ROCK2	Vascular smooth muscle contraction:KEGG-hsa04270
+ENSG00000065559	MAP2K4	Toll-like receptor signaling pathway:KEGG-hsa04620
+ENSG00000169032	MAP2K1	Toll-like receptor signaling pathway:KEGG-hsa04620
+ENSG00000078902	TOLLIP	Toll-like receptor signaling pathway:KEGG-hsa04620
+ENSG00000109339	MAPK10	Toll-like receptor signaling pathway:KEGG-hsa04620
+ENSG00000196569	LAMA2	Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410
+ENSG00000183023	SLC8A1	Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410
+ENSG00000213949	ITGA1	Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410
+ENSG00000160789	LMNA	Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410
+ENSG00000126583	PRKCG	Salivary secretion:KEGG-hsa04970
+ENSG00000067842	ATP2B3	Salivary secretion:KEGG-hsa04970
+ENSG00000164742	ADCY1	Salivary secretion:KEGG-hsa04970
+ENSG00000142875	PRKACB	Salivary secretion:KEGG-hsa04970
+ENSG00000220205	VAMP2	Salivary secretion:KEGG-hsa04970
+ENSG00000064651	SLC12A2	Salivary secretion:KEGG-hsa04970
+ENSG00000157087	ATP2B2	Salivary secretion:KEGG-hsa04970
+ENSG00000058668	ATP2B4	Salivary secretion:KEGG-hsa04970
+ENSG00000070961	ATP2B1	Salivary secretion:KEGG-hsa04970
+ENSG00000182621	PLCB1	Salivary secretion:KEGG-hsa04970
+ENSG00000166501	PRKCB	Salivary secretion:KEGG-hsa04970
+ENSG00000090020	SLC9A1	Salivary secretion:KEGG-hsa04970
+ENSG00000176105	YES1	Adherens junction:KEGG-hsa04520
+ENSG00000112290	WASF1	Adherens junction:KEGG-hsa04520
+ENSG00000095637	SORBS1	Adherens junction:KEGG-hsa04520
+ENSG00000130402	ACTN4	Adherens junction:KEGG-hsa04520
+ENSG00000175866	BAIAP2	Adherens junction:KEGG-hsa04520
+ENSG00000010810	FYN	Adherens junction:KEGG-hsa04520
+ENSG00000149177	PTPRJ	Adherens junction:KEGG-hsa04520
+ENSG00000142875	PRKACB	Hedgehog signaling pathway:KEGG-hsa04340
+ENSG00000196569	LAMA2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000183023	SLC8A1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000130402	ACTN4	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000213949	ITGA1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000160789	LMNA	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000092621	PHGDH	Glycine, serine and threonine metabolism:KEGG-hsa00260
+ENSG00000135069	PSAT1	Glycine, serine and threonine metabolism:KEGG-hsa00260
+ENSG00000164904	ALDH7A1	Glycine, serine and threonine metabolism:KEGG-hsa00260
+ENSG00000091483	FH	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000169032	MAP2K1	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000099942	CRKL	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000108094	CUL2	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000174775	HRAS	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000177885	GRB2	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000179295	PTPN11	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000077264	PAK3	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000149269	PAK1	Renal cell carcinoma:KEGG-hsa05211
+ENSG00000115252	PDE1A	Taste transduction:KEGG-hsa04742
+ENSG00000078369	GNB1	Taste transduction:KEGG-hsa04742
+ENSG00000142875	PRKACB	Taste transduction:KEGG-hsa04742
+ENSG00000169032	MAP2K1	Melanoma:KEGG-hsa05218
+ENSG00000174775	HRAS	Melanoma:KEGG-hsa05218
+ENSG00000111275	ALDH2	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000120437	ACAT2	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000065833	ME1	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000146701	MDH2	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000164904	ALDH7A1	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000137106	GRHPR	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000171132	PRKCE	Type II diabetes mellitus:KEGG-hsa04930
+ENSG00000109339	MAPK10	Type II diabetes mellitus:KEGG-hsa04930
+ENSG00000084207	GSTP1	Drug metabolism - cytochrome P450:KEGG-hsa00982
+ENSG00000126583	PRKCG	Non-small cell lung cancer:KEGG-hsa05223
+ENSG00000169032	MAP2K1	Non-small cell lung cancer:KEGG-hsa05223
+ENSG00000174775	HRAS	Non-small cell lung cancer:KEGG-hsa05223
+ENSG00000177885	GRB2	Non-small cell lung cancer:KEGG-hsa05223
+ENSG00000166501	PRKCB	Non-small cell lung cancer:KEGG-hsa05223
+ENSG00000120437	ACAT2	Butanoate metabolism:KEGG-hsa00650
+ENSG00000164039	BDH2	Butanoate metabolism:KEGG-hsa00650
+ENSG00000125166	GOT2	Tyrosine metabolism:KEGG-hsa00350
+ENSG00000205629	LCMT1	Tyrosine metabolism:KEGG-hsa00350
+ENSG00000108439	PNPO	Vitamin B6 metabolism:KEGG-hsa00750
+ENSG00000160209	PDXK	Vitamin B6 metabolism:KEGG-hsa00750
+ENSG00000241360	PDXP	Vitamin B6 metabolism:KEGG-hsa00750
+ENSG00000135069	PSAT1	Vitamin B6 metabolism:KEGG-hsa00750
+ENSG00000183023	SLC8A1	Cardiac muscle contraction:KEGG-hsa04260
+ENSG00000090020	SLC9A1	Cardiac muscle contraction:KEGG-hsa04260
+ENSG00000126524	SBDS	Ribosome biogenesis in eukaryotes:KEGG-hsa03008
+ENSG00000108424	KPNB1	RNA transport:KEGG-hsa03013
+ENSG00000023734	STRAP	RNA transport:KEGG-hsa03013
+ENSG00000101210	EEF1A2	RNA transport:KEGG-hsa03013
+ENSG00000126583	PRKCG	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000142875	PRKACB	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000064651	SLC12A2	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000143761	ARF1	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000166501	PRKCB	Vibrio cholerae infection:KEGG-hsa05110
+ENSG00000169032	MAP2K1	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000169710	FASN	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000213639	PPP1CB	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000095637	SORBS1	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000099942	CRKL	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000174775	HRAS	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000177885	GRB2	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000142875	PRKACB	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000005249	PRKAR2B	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000109339	MAPK10	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000114302	PRKAR2A	Insulin signaling pathway:KEGG-hsa04910
+ENSG00000126583	PRKCG	Tight junction:KEGG-hsa04530
+ENSG00000166086	JAM3	Tight junction:KEGG-hsa04530
+ENSG00000104695	PPP2CB	Tight junction:KEGG-hsa04530
+ENSG00000176105	YES1	Tight junction:KEGG-hsa04530
+ENSG00000171132	PRKCE	Tight junction:KEGG-hsa04530
+ENSG00000174775	HRAS	Tight junction:KEGG-hsa04530
+ENSG00000088367	EPB41L1	Tight junction:KEGG-hsa04530
+ENSG00000127955	GNAI1	Tight junction:KEGG-hsa04530
+ENSG00000130402	ACTN4	Tight junction:KEGG-hsa04530
+ENSG00000187391	MAGI2	Tight junction:KEGG-hsa04530
+ENSG00000221914	PPP2R2A	Tight junction:KEGG-hsa04530
+ENSG00000082397	EPB41L3	Tight junction:KEGG-hsa04530
+ENSG00000101558	VAPA	Tight junction:KEGG-hsa04530
+ENSG00000105568	PPP2R1A	Tight junction:KEGG-hsa04530
+ENSG00000166501	PRKCB	Tight junction:KEGG-hsa04530
+ENSG00000163655	GMPS	Drug metabolism - other enzymes:KEGG-hsa00983
+ENSG00000165704	HPRT1	Drug metabolism - other enzymes:KEGG-hsa00983
+ENSG00000164904	ALDH7A1	Lysine biosynthesis:KEGG-hsa00300
+ENSG00000166086	JAM3	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000038427	VCAN	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000163531	NFASC	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000067141	NEO1	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000162706	CADM3	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000111275	ALDH2	Pentose and glucuronate interconversions:KEGG-hsa00040
+ENSG00000067057	PFKP	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000111275	ALDH2	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000171314	PGAM1	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000105220	GPI	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000169299	PGM2	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000164904	ALDH7A1	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000141959	PFKL	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000104695	PPP2CB	mRNA surveillance pathway:KEGG-hsa03015
+ENSG00000112640	PPP2R5D	mRNA surveillance pathway:KEGG-hsa03015
+ENSG00000154001	PPP2R5E	mRNA surveillance pathway:KEGG-hsa03015
+ENSG00000103342	GSPT1	mRNA surveillance pathway:KEGG-hsa03015
+ENSG00000221914	PPP2R2A	mRNA surveillance pathway:KEGG-hsa03015
+ENSG00000105568	PPP2R1A	mRNA surveillance pathway:KEGG-hsa03015
+ENSG00000007168	PAFAH1B1	Ether lipid metabolism:KEGG-hsa00565
+ENSG00000164303	ENPP6	Ether lipid metabolism:KEGG-hsa00565
+ENSG00000102879	CORO1A	Phagosome:KEGG-hsa04145
+ENSG00000123416	TUBA1B	Phagosome:KEGG-hsa04145
+ENSG00000079950	STX7	Phagosome:KEGG-hsa04145
+ENSG00000137267	TUBB2A	Phagosome:KEGG-hsa04145
+ENSG00000258947	TUBB3	Phagosome:KEGG-hsa04145
+ENSG00000158560	DYNC1I1	Phagosome:KEGG-hsa04145
+ENSG00000125730	C3	Phagosome:KEGG-hsa04145
+ENSG00000111540	RAB5B	Phagosome:KEGG-hsa04145
+ENSG00000104833	TUBB4A	Phagosome:KEGG-hsa04145
+ENSG00000196230	TUBB	Phagosome:KEGG-hsa04145
+ENSG00000127824	TUBA4A	Phagosome:KEGG-hsa04145
+ENSG00000188229	TUBB4B	Phagosome:KEGG-hsa04145
+ENSG00000197102	DYNC1H1	Phagosome:KEGG-hsa04145
+ENSG00000144635	DYNC1LI1	Phagosome:KEGG-hsa04145
+ENSG00000117758	STX12	Phagosome:KEGG-hsa04145
+ENSG00000185359	HGS	Phagosome:KEGG-hsa04145
+ENSG00000126583	PRKCG	Gap junction:KEGG-hsa04540
+ENSG00000123416	TUBA1B	Gap junction:KEGG-hsa04540
+ENSG00000169032	MAP2K1	Gap junction:KEGG-hsa04540
+ENSG00000137267	TUBB2A	Gap junction:KEGG-hsa04540
+ENSG00000258947	TUBB3	Gap junction:KEGG-hsa04540
+ENSG00000174775	HRAS	Gap junction:KEGG-hsa04540
+ENSG00000164742	ADCY1	Gap junction:KEGG-hsa04540
+ENSG00000127955	GNAI1	Gap junction:KEGG-hsa04540
+ENSG00000104833	TUBB4A	Gap junction:KEGG-hsa04540
+ENSG00000196230	TUBB	Gap junction:KEGG-hsa04540
+ENSG00000177885	GRB2	Gap junction:KEGG-hsa04540
+ENSG00000142875	PRKACB	Gap junction:KEGG-hsa04540
+ENSG00000127824	TUBA4A	Gap junction:KEGG-hsa04540
+ENSG00000188229	TUBB4B	Gap junction:KEGG-hsa04540
+ENSG00000182621	PLCB1	Gap junction:KEGG-hsa04540
+ENSG00000166501	PRKCB	Gap junction:KEGG-hsa04540
+ENSG00000175793	SFN	p53 signaling pathway:KEGG-hsa04115
+ENSG00000125166	GOT2	Cysteine and methionine metabolism:KEGG-hsa00270
+ENSG00000099810	MTAP	Cysteine and methionine metabolism:KEGG-hsa00270
+ENSG00000125730	C3	Systemic lupus erythematosus:KEGG-hsa05322
+ENSG00000130402	ACTN4	Systemic lupus erythematosus:KEGG-hsa05322
+ENSG00000169032	MAP2K1	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000174775	HRAS	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000107758	PPP3CB	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000177885	GRB2	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000221823	PPP3R1	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000138814	PPP3CA	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000166501	PRKCB	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000169032	MAP2K1	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000107758	PPP3CB	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000152495	CAMK4	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000177885	GRB2	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000010810	FYN	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000138814	PPP3CA	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000109339	MAPK10	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000091483	FH	Citrate cycle (TCA cycle):KEGG-hsa00020
+ENSG00000131473	ACLY	Citrate cycle (TCA cycle):KEGG-hsa00020
+ENSG00000146701	MDH2	Citrate cycle (TCA cycle):KEGG-hsa00020
+ENSG00000087470	DNM1L	Endocytosis:KEGG-hsa04144
+ENSG00000175416	CLTB	Endocytosis:KEGG-hsa04144
+ENSG00000074319	TSG101	Endocytosis:KEGG-hsa04144
+ENSG00000183020	AP2A2	Endocytosis:KEGG-hsa04144
+ENSG00000156011	PSD3	Endocytosis:KEGG-hsa04144
+ENSG00000196961	AP2A1	Endocytosis:KEGG-hsa04144
+ENSG00000106976	DNM1	Endocytosis:KEGG-hsa04144
+ENSG00000168461	RAB31	Endocytosis:KEGG-hsa04144
+ENSG00000085832	EPS15	Endocytosis:KEGG-hsa04144
+ENSG00000108262	GIT1	Endocytosis:KEGG-hsa04144
+ENSG00000197959	DNM3	Endocytosis:KEGG-hsa04144
+ENSG00000148341	SH3GLB2	Endocytosis:KEGG-hsa04144
+ENSG00000161203	AP2M1	Endocytosis:KEGG-hsa04144
+ENSG00000141985	SH3GL1	Endocytosis:KEGG-hsa04144
+ENSG00000174775	HRAS	Endocytosis:KEGG-hsa04144
+ENSG00000101421	CHMP4B	Endocytosis:KEGG-hsa04144
+ENSG00000126803	HSPA2	Endocytosis:KEGG-hsa04144
+ENSG00000111540	RAB5B	Endocytosis:KEGG-hsa04144
+ENSG00000009844	VTA1	Endocytosis:KEGG-hsa04144
+ENSG00000006125	AP2B1	Endocytosis:KEGG-hsa04144
+ENSG00000063245	EPN1	Endocytosis:KEGG-hsa04144
+ENSG00000131475	VPS25	Endocytosis:KEGG-hsa04144
+ENSG00000029725	RABEP1	Endocytosis:KEGG-hsa04144
+ENSG00000144711	IQSEC1	Endocytosis:KEGG-hsa04144
+ENSG00000170248	PDCD6IP	Endocytosis:KEGG-hsa04144
+ENSG00000107295	SH3GL2	Endocytosis:KEGG-hsa04144
+ENSG00000186111	PIP5K1C	Endocytosis:KEGG-hsa04144
+ENSG00000204388	HSPA1B	Endocytosis:KEGG-hsa04144
+ENSG00000116675	DNAJC6	Endocytosis:KEGG-hsa04144
+ENSG00000013016	EHD3	Endocytosis:KEGG-hsa04144
+ENSG00000136738	STAM	Endocytosis:KEGG-hsa04144
+ENSG00000140600	SH3GL3	Endocytosis:KEGG-hsa04144
+ENSG00000185359	HGS	Endocytosis:KEGG-hsa04144
+ENSG00000169710	FASN	Fatty acid biosynthesis:KEGG-hsa00061
+ENSG00000095637	SORBS1	PPAR signaling pathway:KEGG-hsa03320
+ENSG00000065833	ME1	PPAR signaling pathway:KEGG-hsa03320
+ENSG00000196569	LAMA2	Small cell lung cancer:KEGG-hsa05222
+ENSG00000135862	LAMC1	Small cell lung cancer:KEGG-hsa05222
+ENSG00000172037	LAMB2	Small cell lung cancer:KEGG-hsa05222
+ENSG00000126583	PRKCG	Long-term depression:KEGG-hsa04730
+ENSG00000104695	PPP2CB	Long-term depression:KEGG-hsa04730
+ENSG00000169032	MAP2K1	Long-term depression:KEGG-hsa04730
+ENSG00000087258	GNAO1	Long-term depression:KEGG-hsa04730
+ENSG00000128266	GNAZ	Long-term depression:KEGG-hsa04730
+ENSG00000174775	HRAS	Long-term depression:KEGG-hsa04730
+ENSG00000127955	GNAI1	Long-term depression:KEGG-hsa04730
+ENSG00000105568	PPP2R1A	Long-term depression:KEGG-hsa04730
+ENSG00000182621	PLCB1	Long-term depression:KEGG-hsa04730
+ENSG00000166501	PRKCB	Long-term depression:KEGG-hsa04730
+ENSG00000067057	PFKP	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000105220	GPI	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000130313	PGLS	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000169299	PGM2	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000141959	PFKL	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000204843	DCTN1	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000175203	DCTN2	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000158560	DYNC1I1	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000141522	ARHGDIA	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000111540	RAB5B	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000142875	PRKACB	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000171885	AQP4	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000073969	NSF	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000220205	VAMP2	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000197102	DYNC1H1	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000144635	DYNC1LI1	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000097021	ACOT7	Biosynthesis of unsaturated fatty acids:KEGG-hsa01040
+ENSG00000125730	C3	Leishmaniasis:KEGG-hsa05140
+ENSG00000166501	PRKCB	Leishmaniasis:KEGG-hsa05140
+ENSG00000126803	HSPA2	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000164733	CTSB	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000204388	HSPA1B	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000092010	PSME1	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000096384	HSP90AB1	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000131067	GGT7	Taurine and hypotaurine metabolism:KEGG-hsa00430
+ENSG00000169032	MAP2K1	Bladder cancer:KEGG-hsa05219
+ENSG00000174775	HRAS	Bladder cancer:KEGG-hsa05219
+ENSG00000078369	GNB1	Phototransduction:KEGG-hsa04744
+ENSG00000126583	PRKCG	Amoebiasis:KEGG-hsa05146
+ENSG00000196569	LAMA2	Amoebiasis:KEGG-hsa05146
+ENSG00000135862	LAMC1	Amoebiasis:KEGG-hsa05146
+ENSG00000164742	ADCY1	Amoebiasis:KEGG-hsa05146
+ENSG00000021355	SERPINB1	Amoebiasis:KEGG-hsa05146
+ENSG00000111540	RAB5B	Amoebiasis:KEGG-hsa05146
+ENSG00000130402	ACTN4	Amoebiasis:KEGG-hsa05146
+ENSG00000172037	LAMB2	Amoebiasis:KEGG-hsa05146
+ENSG00000142875	PRKACB	Amoebiasis:KEGG-hsa05146
+ENSG00000106211	HSPB1	Amoebiasis:KEGG-hsa05146
+ENSG00000182621	PLCB1	Amoebiasis:KEGG-hsa05146
+ENSG00000166501	PRKCB	Amoebiasis:KEGG-hsa05146
+ENSG00000167434	CA4	Proximal tubule bicarbonate reclamation:KEGG-hsa04964
+ENSG00000080493	SLC4A4	Proximal tubule bicarbonate reclamation:KEGG-hsa04964
+ENSG00000148672	GLUD1	Proximal tubule bicarbonate reclamation:KEGG-hsa04964
+ENSG00000196569	LAMA2	Viral myocarditis:KEGG-hsa05416
+ENSG00000010810	FYN	Viral myocarditis:KEGG-hsa05416
+ENSG00000154639	CXADR	Viral myocarditis:KEGG-hsa05416
+ENSG00000065559	MAP2K4	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000104695	PPP2CB	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000087258	GNAO1	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000125730	C3	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000164742	ADCY1	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000127955	GNAI1	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000221914	PPP2R2A	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000105568	PPP2R1A	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000182621	PLCB1	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000109339	MAPK10	Chagas disease (American trypanosomiasis):KEGG-hsa05142
+ENSG00000126583	PRKCG	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000065559	MAP2K4	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000169032	MAP2K1	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000099942	CRKL	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000174775	HRAS	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000177885	GRB2	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000077264	PAK3	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000149269	PAK1	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000109339	MAPK10	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000166501	PRKCB	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000071051	NCK2	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000197548	ATG7	Regulation of autophagy:KEGG-hsa04140
+ENSG00000196569	LAMA2	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000183023	SLC8A1	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000164742	ADCY1	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000213949	ITGA1	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000142875	PRKACB	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000160789	LMNA	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000111275	ALDH2	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000125166	GOT2	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000159423	ALDH4A1	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000164904	ALDH7A1	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000148672	GLUD1	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000126583	PRKCG	Gastric acid secretion:KEGG-hsa04971
+ENSG00000164742	ADCY1	Gastric acid secretion:KEGG-hsa04971
+ENSG00000127955	GNAI1	Gastric acid secretion:KEGG-hsa04971
+ENSG00000142875	PRKACB	Gastric acid secretion:KEGG-hsa04971
+ENSG00000182621	PLCB1	Gastric acid secretion:KEGG-hsa04971
+ENSG00000166501	PRKCB	Gastric acid secretion:KEGG-hsa04971
+ENSG00000090020	SLC9A1	Gastric acid secretion:KEGG-hsa04971
+ENSG00000183023	SLC8A1	Mineral absorption:KEGG-hsa04978
+ENSG00000103415	HMOX2	Mineral absorption:KEGG-hsa04978
+ENSG00000070961	ATP2B1	Mineral absorption:KEGG-hsa04978
+ENSG00000167996	FTH1	Mineral absorption:KEGG-hsa04978
+ENSG00000116106	EPHA4	Axon guidance:KEGG-hsa04360
+ENSG00000133216	EPHB2	Axon guidance:KEGG-hsa04360
+ENSG00000174775	HRAS	Axon guidance:KEGG-hsa04360
+ENSG00000127955	GNAI1	Axon guidance:KEGG-hsa04360
+ENSG00000107758	PPP3CB	Axon guidance:KEGG-hsa04360
+ENSG00000221823	PPP3R1	Axon guidance:KEGG-hsa04360
+ENSG00000077264	PAK3	Axon guidance:KEGG-hsa04360
+ENSG00000010810	FYN	Axon guidance:KEGG-hsa04360
+ENSG00000138814	PPP3CA	Axon guidance:KEGG-hsa04360
+ENSG00000136040	PLXNC1	Axon guidance:KEGG-hsa04360
+ENSG00000149269	PAK1	Axon guidance:KEGG-hsa04360
+ENSG00000196220	SRGAP3	Axon guidance:KEGG-hsa04360
+ENSG00000114554	PLXNA1	Axon guidance:KEGG-hsa04360
+ENSG00000172757	CFL1	Axon guidance:KEGG-hsa04360
+ENSG00000196914	ARHGEF12	Axon guidance:KEGG-hsa04360
+ENSG00000164885	CDK5	Axon guidance:KEGG-hsa04360
+ENSG00000134318	ROCK2	Axon guidance:KEGG-hsa04360
+ENSG00000071051	NCK2	Axon guidance:KEGG-hsa04360
+ENSG00000233276	GPX1	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000131067	GGT7	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000111275	ALDH2	Glycerolipid metabolism:KEGG-hsa00561
+ENSG00000074416	MGLL	Glycerolipid metabolism:KEGG-hsa00561
+ENSG00000164904	ALDH7A1	Glycerolipid metabolism:KEGG-hsa00561
+ENSG00000183023	SLC8A1	Protein digestion and absorption:KEGG-hsa04974
+ENSG00000118160	SLC8A2	Protein digestion and absorption:KEGG-hsa04974
+ENSG00000144908	ALDH1L1	One carbon pool by folate:KEGG-hsa00670
+ENSG00000160007	ARHGAP35	Focal adhesion:KEGG-hsa04510
+ENSG00000126583	PRKCG	Focal adhesion:KEGG-hsa04510
+ENSG00000196569	LAMA2	Focal adhesion:KEGG-hsa04510
+ENSG00000169032	MAP2K1	Focal adhesion:KEGG-hsa04510
+ENSG00000171914	TLN2	Focal adhesion:KEGG-hsa04510
+ENSG00000213639	PPP1CB	Focal adhesion:KEGG-hsa04510
+ENSG00000099942	CRKL	Focal adhesion:KEGG-hsa04510
+ENSG00000136068	FLNB	Focal adhesion:KEGG-hsa04510
+ENSG00000135862	LAMC1	Focal adhesion:KEGG-hsa04510
+ENSG00000174775	HRAS	Focal adhesion:KEGG-hsa04510
+ENSG00000130402	ACTN4	Focal adhesion:KEGG-hsa04510
+ENSG00000213949	ITGA1	Focal adhesion:KEGG-hsa04510
+ENSG00000177885	GRB2	Focal adhesion:KEGG-hsa04510
+ENSG00000172037	LAMB2	Focal adhesion:KEGG-hsa04510
+ENSG00000077264	PAK3	Focal adhesion:KEGG-hsa04510
+ENSG00000010810	FYN	Focal adhesion:KEGG-hsa04510
+ENSG00000149269	PAK1	Focal adhesion:KEGG-hsa04510
+ENSG00000186111	PIP5K1C	Focal adhesion:KEGG-hsa04510
+ENSG00000109339	MAPK10	Focal adhesion:KEGG-hsa04510
+ENSG00000166501	PRKCB	Focal adhesion:KEGG-hsa04510
+ENSG00000134318	ROCK2	Focal adhesion:KEGG-hsa04510
+ENSG00000160007	ARHGAP35	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000126583	PRKCG	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000166086	JAM3	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000127955	GNAI1	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000130402	ACTN4	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000179295	PTPN11	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000166501	PRKCB	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000134318	ROCK2	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000065559	MAP2K4	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000166086	JAM3	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000108262	GIT1	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000179295	PTPN11	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000137845	ADAM10	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000149269	PAK1	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000109339	MAPK10	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000126583	PRKCG	Melanogenesis:KEGG-hsa04916
+ENSG00000169032	MAP2K1	Melanogenesis:KEGG-hsa04916
+ENSG00000087258	GNAO1	Melanogenesis:KEGG-hsa04916
+ENSG00000174775	HRAS	Melanogenesis:KEGG-hsa04916
+ENSG00000164742	ADCY1	Melanogenesis:KEGG-hsa04916
+ENSG00000127955	GNAI1	Melanogenesis:KEGG-hsa04916
+ENSG00000142875	PRKACB	Melanogenesis:KEGG-hsa04916
+ENSG00000182621	PLCB1	Melanogenesis:KEGG-hsa04916
+ENSG00000166501	PRKCB	Melanogenesis:KEGG-hsa04916
+ENSG00000125166	GOT2	Phenylalanine metabolism:KEGG-hsa00360
+ENSG00000055130	CUL1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000101152	DNAJC5	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000135924	DNAJB2	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000126803	HSPA2	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000167671	UBXN6	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000164070	HSPA4L	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000135018	UBQLN1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000109846	CRYAB	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000088833	NSFL1C	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000204388	HSPA1B	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000109339	MAPK10	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000096384	HSP90AB1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000120694	HSPH1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000132002	DNAJB1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000169032	MAP2K1	Prion diseases:KEGG-hsa05020
+ENSG00000135862	LAMC1	Prion diseases:KEGG-hsa05020
+ENSG00000142875	PRKACB	Prion diseases:KEGG-hsa05020
+ENSG00000010810	FYN	Prion diseases:KEGG-hsa05020
+ENSG00000204388	HSPA1B	Prion diseases:KEGG-hsa05020
+ENSG00000162368	CMPK1	Pyrimidine metabolism:KEGG-hsa00240
+ENSG00000126583	PRKCG	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000065559	MAP2K4	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000138834	MAPK8IP3	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000169032	MAP2K1	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000117632	STMN1	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000099942	CRKL	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000136068	FLNB	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000174775	HRAS	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000126803	HSPA2	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000107758	PPP3CB	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000177885	GRB2	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000142875	PRKACB	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000221823	PPP3R1	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000108861	DUSP3	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000138814	PPP3CA	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000149269	PAK1	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000106211	HSPB1	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000204388	HSPA1B	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000109339	MAPK10	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000011485	PPP5C	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000166501	PRKCB	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000111275	ALDH2	Histidine metabolism:KEGG-hsa00340
+ENSG00000205629	LCMT1	Histidine metabolism:KEGG-hsa00340
+ENSG00000164904	ALDH7A1	Histidine metabolism:KEGG-hsa00340
+ENSG00000165416	SUGT1	NOD-like receptor signaling pathway:KEGG-hsa04621
+ENSG00000109339	MAPK10	NOD-like receptor signaling pathway:KEGG-hsa04621
+ENSG00000096384	HSP90AB1	NOD-like receptor signaling pathway:KEGG-hsa04621
+ENSG00000055130	CUL1	TGF-beta signaling pathway:KEGG-hsa04350
+ENSG00000104695	PPP2CB	TGF-beta signaling pathway:KEGG-hsa04350
+ENSG00000105568	PPP2R1A	TGF-beta signaling pathway:KEGG-hsa04350
+ENSG00000134318	ROCK2	TGF-beta signaling pathway:KEGG-hsa04350
+ENSG00000109339	MAPK10	RIG-I-like receptor signaling pathway:KEGG-hsa04622
+ENSG00000127445	PIN1	RIG-I-like receptor signaling pathway:KEGG-hsa04622
+ENSG00000120437	ACAT2	Synthesis and degradation of ketone bodies:KEGG-hsa00072
+ENSG00000164039	BDH2	Synthesis and degradation of ketone bodies:KEGG-hsa00072
+ENSG00000126583	PRKCG	Aldosterone-regulated sodium reabsorption:KEGG-hsa04960
+ENSG00000175793	SFN	Aldosterone-regulated sodium reabsorption:KEGG-hsa04960
+ENSG00000166501	PRKCB	Aldosterone-regulated sodium reabsorption:KEGG-hsa04960
+ENSG00000126583	PRKCG	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000169032	MAP2K1	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000174775	HRAS	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000107758	PPP3CB	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000221823	PPP3R1	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000138814	PPP3CA	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000106211	HSPB1	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000166501	PRKCB	VEGF signaling pathway:KEGG-hsa04370
+ENSG00000125166	GOT2	Fat digestion and absorption:KEGG-hsa04975
+ENSG00000120437	ACAT2	Fat digestion and absorption:KEGG-hsa04975
+ENSG00000107758	PPP3CB	Alzheimer's disease:KEGG-hsa05010
+ENSG00000221823	PPP3R1	Alzheimer's disease:KEGG-hsa05010
+ENSG00000137845	ADAM10	Alzheimer's disease:KEGG-hsa05010
+ENSG00000138814	PPP3CA	Alzheimer's disease:KEGG-hsa05010
+ENSG00000145335	SNCA	Alzheimer's disease:KEGG-hsa05010
+ENSG00000182621	PLCB1	Alzheimer's disease:KEGG-hsa05010
+ENSG00000164885	CDK5	Alzheimer's disease:KEGG-hsa05010
+ENSG00000169032	MAP2K1	Acute myeloid leukemia:KEGG-hsa05221
+ENSG00000174775	HRAS	Acute myeloid leukemia:KEGG-hsa05221
+ENSG00000177885	GRB2	Acute myeloid leukemia:KEGG-hsa05221
+ENSG00000276293	PIP4K2B	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000126583	PRKCG	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000166908	PIP4K2C	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000241973	PI4KA	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000159082	SYNJ1	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000186111	PIP5K1C	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000182621	PLCB1	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000166501	PRKCB	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000102879	CORO1A	Tuberculosis:KEGG-hsa05152
+ENSG00000125730	C3	Tuberculosis:KEGG-hsa05152
+ENSG00000107758	PPP3CB	Tuberculosis:KEGG-hsa05152
+ENSG00000111540	RAB5B	Tuberculosis:KEGG-hsa05152
+ENSG00000221823	PPP3R1	Tuberculosis:KEGG-hsa05152
+ENSG00000138814	PPP3CA	Tuberculosis:KEGG-hsa05152
+ENSG00000109339	MAPK10	Tuberculosis:KEGG-hsa05152
+ENSG00000196914	ARHGEF12	Tuberculosis:KEGG-hsa05152
+ENSG00000091483	FH	Pathways in cancer:KEGG-hsa05200
+ENSG00000126583	PRKCG	Pathways in cancer:KEGG-hsa05200
+ENSG00000144118	RALB	Pathways in cancer:KEGG-hsa05200
+ENSG00000196569	LAMA2	Pathways in cancer:KEGG-hsa05200
+ENSG00000169032	MAP2K1	Pathways in cancer:KEGG-hsa05200
+ENSG00000099942	CRKL	Pathways in cancer:KEGG-hsa05200
+ENSG00000135862	LAMC1	Pathways in cancer:KEGG-hsa05200
+ENSG00000108094	CUL2	Pathways in cancer:KEGG-hsa05200
+ENSG00000174775	HRAS	Pathways in cancer:KEGG-hsa05200
+ENSG00000108091	CCDC6	Pathways in cancer:KEGG-hsa05200
+ENSG00000159692	CTBP1	Pathways in cancer:KEGG-hsa05200
+ENSG00000177885	GRB2	Pathways in cancer:KEGG-hsa05200
+ENSG00000172037	LAMB2	Pathways in cancer:KEGG-hsa05200
+ENSG00000157500	APPL1	Pathways in cancer:KEGG-hsa05200
+ENSG00000084207	GSTP1	Pathways in cancer:KEGG-hsa05200
+ENSG00000109339	MAPK10	Pathways in cancer:KEGG-hsa05200
+ENSG00000096384	HSP90AB1	Pathways in cancer:KEGG-hsa05200
+ENSG00000166501	PRKCB	Pathways in cancer:KEGG-hsa05200
+ENSG00000166501	PRKCB	Carbohydrate digestion and absorption:KEGG-hsa04973
+ENSG00000087470	DNM1L	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000175416	CLTB	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000126583	PRKCG	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000183020	AP2A2	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000196961	AP2A1	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000106976	DNM1	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000183023	SLC8A1	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000197959	DNM3	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000161203	AP2M1	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000006125	AP2B1	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000142875	PRKACB	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000070961	ATP2B1	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000182621	PLCB1	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000166501	PRKCB	Endocrine and other factor-regulated calcium reabsorption:KEGG-hsa04961
+ENSG00000084207	GSTP1	Metabolism of xenobiotics by cytochrome P450:KEGG-hsa00980
+ENSG00000123416	TUBA1B	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000137267	TUBB2A	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000258947	TUBB3	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000134308	YWHAQ	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000164924	YWHAZ	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000104833	TUBB4A	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000196230	TUBB	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000116584	ARHGEF2	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000127824	TUBA4A	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000010810	FYN	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000188229	TUBB4B	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000134318	ROCK2	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000071051	NCK2	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000100938	GMPR2	Purine metabolism:KEGG-hsa00230
+ENSG00000115252	PDE1A	Purine metabolism:KEGG-hsa00230
+ENSG00000164742	ADCY1	Purine metabolism:KEGG-hsa00230
+ENSG00000119125	GDA	Purine metabolism:KEGG-hsa00230
+ENSG00000186642	PDE2A	Purine metabolism:KEGG-hsa00230
+ENSG00000165609	NUDT5	Purine metabolism:KEGG-hsa00230
+ENSG00000163655	GMPS	Purine metabolism:KEGG-hsa00230
+ENSG00000169299	PGM2	Purine metabolism:KEGG-hsa00230
+ENSG00000165704	HPRT1	Purine metabolism:KEGG-hsa00230
+ENSG00000167434	CA4	Nitrogen metabolism:KEGG-hsa00910
+ENSG00000148672	GLUD1	Nitrogen metabolism:KEGG-hsa00910
+ENSG00000154277	UCHL1	Parkinson's disease:KEGG-hsa05012
+ENSG00000130985	UBA1	Parkinson's disease:KEGG-hsa05012
+ENSG00000116288	PARK7	Parkinson's disease:KEGG-hsa05012
+ENSG00000145335	SNCA	Parkinson's disease:KEGG-hsa05012
+ENSG00000092199	HNRNPC	Spliceosome:KEGG-hsa03040
+ENSG00000126803	HSPA2	Spliceosome:KEGG-hsa03040
+ENSG00000204388	HSPA1B	Spliceosome:KEGG-hsa03040
+ENSG00000169032	MAP2K1	Chronic myeloid leukemia:KEGG-hsa05220
+ENSG00000099942	CRKL	Chronic myeloid leukemia:KEGG-hsa05220
+ENSG00000174775	HRAS	Chronic myeloid leukemia:KEGG-hsa05220
+ENSG00000159692	CTBP1	Chronic myeloid leukemia:KEGG-hsa05220
+ENSG00000177885	GRB2	Chronic myeloid leukemia:KEGG-hsa05220
+ENSG00000179295	PTPN11	Chronic myeloid leukemia:KEGG-hsa05220
+ENSG00000169032	MAP2K1	Dorso-ventral axis formation:KEGG-hsa04320
+ENSG00000177885	GRB2	Dorso-ventral axis formation:KEGG-hsa04320
+ENSG00000126583	PRKCG	Pancreatic secretion:KEGG-hsa04972
+ENSG00000041353	RAB27B	Pancreatic secretion:KEGG-hsa04972
+ENSG00000067842	ATP2B3	Pancreatic secretion:KEGG-hsa04972
+ENSG00000164742	ADCY1	Pancreatic secretion:KEGG-hsa04972
+ENSG00000080493	SLC4A4	Pancreatic secretion:KEGG-hsa04972
+ENSG00000064651	SLC12A2	Pancreatic secretion:KEGG-hsa04972
+ENSG00000157087	ATP2B2	Pancreatic secretion:KEGG-hsa04972
+ENSG00000058668	ATP2B4	Pancreatic secretion:KEGG-hsa04972
+ENSG00000070961	ATP2B1	Pancreatic secretion:KEGG-hsa04972
+ENSG00000182621	PLCB1	Pancreatic secretion:KEGG-hsa04972
+ENSG00000166501	PRKCB	Pancreatic secretion:KEGG-hsa04972
+ENSG00000090020	SLC9A1	Pancreatic secretion:KEGG-hsa04972
+ENSG00000122756	CNTFR	Cytokine-cytokine receptor interaction:KEGG-hsa04060
+ENSG00000126803	HSPA2	Measles:KEGG-hsa05162
+ENSG00000010810	FYN	Measles:KEGG-hsa05162
+ENSG00000204388	HSPA1B	Measles:KEGG-hsa05162
+ENSG00000169032	MAP2K1	Progesterone-mediated oocyte maturation:KEGG-hsa04914
+ENSG00000164742	ADCY1	Progesterone-mediated oocyte maturation:KEGG-hsa04914
+ENSG00000127955	GNAI1	Progesterone-mediated oocyte maturation:KEGG-hsa04914
+ENSG00000142875	PRKACB	Progesterone-mediated oocyte maturation:KEGG-hsa04914
+ENSG00000109339	MAPK10	Progesterone-mediated oocyte maturation:KEGG-hsa04914
+ENSG00000096384	HSP90AB1	Progesterone-mediated oocyte maturation:KEGG-hsa04914
+ENSG00000055130	CUL1	Circadian rhythm - mammal:KEGG-hsa04710
+ENSG00000103485	QPRT	Nicotinate and nicotinamide metabolism:KEGG-hsa00760
+ENSG00000126583	PRKCG	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000087258	GNAO1	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000172354	GNB2	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000164742	ADCY1	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000127955	GNAI1	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000107758	PPP3CB	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000078369	GNB1	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000142875	PRKACB	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000221823	PPP3R1	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000186469	GNG2	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000176533	GNG7	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000138814	PPP3CA	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000152413	HOMER1	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000198822	GRM3	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000182621	PLCB1	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000132535	DLG4	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000069966	GNB5	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000166501	PRKCB	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000164082	GRM2	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000111275	ALDH2	Valine, leucine and isoleucine degradation:KEGG-hsa00280
+ENSG00000120437	ACAT2	Valine, leucine and isoleucine degradation:KEGG-hsa00280
+ENSG00000164904	ALDH7A1	Valine, leucine and isoleucine degradation:KEGG-hsa00280
+ENSG00000126583	PRKCG	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000169032	MAP2K1	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000174775	HRAS	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000107758	PPP3CB	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000177885	GRB2	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000221823	PPP3R1	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000179295	PTPN11	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000010810	FYN	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000138814	PPP3CA	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000149269	PAK1	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000166501	PRKCB	Natural killer cell mediated cytotoxicity:KEGG-hsa04650
+ENSG00000126583	PRKCG	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000055130	CUL1	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000104695	PPP2CB	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000112640	PPP2R5D	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000154001	PPP2R5E	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000107758	PPP3CB	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000159692	CTBP1	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000142875	PRKACB	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000221823	PPP3R1	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000138814	PPP3CA	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000105568	PPP2R1A	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000182621	PLCB1	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000109339	MAPK10	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000166501	PRKCB	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000134318	ROCK2	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000149313	AASDHPPT	Pantothenate and CoA biosynthesis:KEGG-hsa00770
+ENSG00000138777	PPA2	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000107902	LHPP	Oxidative phosphorylation:KEGG-hsa00190
+ENSG00000148672	GLUD1	D-Glutamine and D-glutamate metabolism:KEGG-hsa00471
+ENSG00000120437	ACAT2	Terpenoid backbone biosynthesis:KEGG-hsa00900
+ENSG00000111275	ALDH2	Ascorbate and aldarate metabolism:KEGG-hsa00053
+ENSG00000164904	ALDH7A1	Ascorbate and aldarate metabolism:KEGG-hsa00053
+ENSG00000120437	ACAT2	Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630
+ENSG00000146701	MDH2	Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630
+ENSG00000137106	GRHPR	Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630
+ENSG00000125730	C3	Complement and coagulation cascades:KEGG-hsa04610
+ENSG00000175899	A2M	Complement and coagulation cascades:KEGG-hsa04610
+ENSG00000175416	CLTB	Lysosome:KEGG-hsa04142
+ENSG00000197746	PSAP	Lysosome:KEGG-hsa04142
+ENSG00000065000	AP3D1	Lysosome:KEGG-hsa04142
+ENSG00000103723	AP3B2	Lysosome:KEGG-hsa04142
+ENSG00000100280	AP1B1	Lysosome:KEGG-hsa04142
+ENSG00000166747	AP1G1	Lysosome:KEGG-hsa04142
+ENSG00000070718	AP3M2	Lysosome:KEGG-hsa04142
+ENSG00000164733	CTSB	Lysosome:KEGG-hsa04142
+ENSG00000276293	PIP4K2B	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000166908	PIP4K2C	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000241973	PI4KA	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000159082	SYNJ1	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000186111	PIP5K1C	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000182621	PLCB1	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000111275	ALDH2	Tryptophan metabolism:KEGG-hsa00380
+ENSG00000120437	ACAT2	Tryptophan metabolism:KEGG-hsa00380
+ENSG00000164904	ALDH7A1	Tryptophan metabolism:KEGG-hsa00380
+ENSG00000169032	MAP2K1	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000174775	HRAS	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000107758	PPP3CB	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000177885	GRB2	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000221823	PPP3R1	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000077264	PAK3	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000010810	FYN	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000138814	PPP3CA	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000149269	PAK1	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000075711	DLG1	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000071051	NCK2	T cell receptor signaling pathway:KEGG-hsa04660
+ENSG00000126583	PRKCG	African trypanosomiasis:KEGG-hsa05143
+ENSG00000223609	HBD	African trypanosomiasis:KEGG-hsa05143
+ENSG00000182621	PLCB1	African trypanosomiasis:KEGG-hsa05143
+ENSG00000166501	PRKCB	African trypanosomiasis:KEGG-hsa05143
+ENSG00000169032	MAP2K1	Colorectal cancer:KEGG-hsa05210
+ENSG00000157500	APPL1	Colorectal cancer:KEGG-hsa05210
+ENSG00000109339	MAPK10	Colorectal cancer:KEGG-hsa05210
+ENSG00000179295	PTPN11	Adipocytokine signaling pathway:KEGG-hsa04920
+ENSG00000109339	MAPK10	Adipocytokine signaling pathway:KEGG-hsa04920
+ENSG00000144118	RALB	Pancreatic cancer:KEGG-hsa05212
+ENSG00000169032	MAP2K1	Pancreatic cancer:KEGG-hsa05212
+ENSG00000109339	MAPK10	Pancreatic cancer:KEGG-hsa05212
+ENSG00000185813	PCYT2	Glycerophospholipid metabolism:KEGG-hsa00564
+ENSG00000152642	GPD1L	Glycerophospholipid metabolism:KEGG-hsa00564
+ENSG00000213949	ITGA1	Hematopoietic cell lineage:KEGG-hsa04640
+ENSG00000122756	CNTFR	Jak-STAT signaling pathway:KEGG-hsa04630
+ENSG00000177885	GRB2	Jak-STAT signaling pathway:KEGG-hsa04630
+ENSG00000179295	PTPN11	Jak-STAT signaling pathway:KEGG-hsa04630
+ENSG00000136738	STAM	Jak-STAT signaling pathway:KEGG-hsa04630
+ENSG00000126583	PRKCG	Glioma:KEGG-hsa05214
+ENSG00000169032	MAP2K1	Glioma:KEGG-hsa05214
+ENSG00000174775	HRAS	Glioma:KEGG-hsa05214
+ENSG00000177885	GRB2	Glioma:KEGG-hsa05214
+ENSG00000166501	PRKCB	Glioma:KEGG-hsa05214
+ENSG00000164742	ADCY1	Bile secretion:KEGG-hsa04976
+ENSG00000080493	SLC4A4	Bile secretion:KEGG-hsa04976
+ENSG00000142875	PRKACB	Bile secretion:KEGG-hsa04976
+ENSG00000171885	AQP4	Bile secretion:KEGG-hsa04976
+ENSG00000090020	SLC9A1	Bile secretion:KEGG-hsa04976
+ENSG00000159692	CTBP1	Notch signaling pathway:KEGG-hsa04330

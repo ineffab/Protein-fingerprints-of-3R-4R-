@@ -1,0 +1,3415 @@
+ID	SystemCode	MAPP
+HMDB00097	Ch	Biogenic Amine Synthesis:WP550
+HMDB00181	Ch	Biogenic Amine Synthesis:WP550
+HMDB00472	Ch	Biogenic Amine Synthesis:WP550
+HMDB00216	Ch	Biogenic Amine Synthesis:WP550
+HMDB00895	Ch	Biogenic Amine Synthesis:WP550
+HMDB00177	Ch	Biogenic Amine Synthesis:WP550
+HMDB00929	Ch	Biogenic Amine Synthesis:WP550
+HMDB00870	Ch	Biogenic Amine Synthesis:WP550
+HMDB01389	Ch	Biogenic Amine Synthesis:WP550
+HMDB00259	Ch	Biogenic Amine Synthesis:WP550
+HMDB00068	Ch	Biogenic Amine Synthesis:WP550
+HMDB00073	Ch	Biogenic Amine Synthesis:WP550
+HMDB00112	Ch	Biogenic Amine Synthesis:WP550
+HMDB01238	Ch	Biogenic Amine Synthesis:WP550
+HMDB00148	Ch	Biogenic Amine Synthesis:WP550
+HMDB00158	Ch	Biogenic Amine Synthesis:WP550
+HMDB00159	Ch	Biogenic Amine Synthesis:WP550
+HMDB01056	Ch	Folate Metabolism:SMP00053
+HMDB01534	Ch	Folate Metabolism:SMP00053
+HMDB01396	Ch	Folate Metabolism:SMP00053
+HMDB00972	Ch	Folate Metabolism:SMP00053
+HMDB01354	Ch	Folate Metabolism:SMP00053
+HMDB01533	Ch	Folate Metabolism:SMP00053
+HMDB06825	Ch	Folate Metabolism:SMP00053
+HMDB06826	Ch	Folate Metabolism:SMP00053
+HMDB01562	Ch	Folate Metabolism:SMP00053
+HMDB00142	Ch	Folate Metabolism:SMP00053
+HMDB00121	Ch	Folate Metabolism:SMP00053
+HMDB01341	Ch	Histidine Metabolism:SMP00044
+HMDB01534	Ch	Histidine Metabolism:SMP00044
+HMDB02024	Ch	Histidine Metabolism:SMP00044
+HMDB03905	Ch	Histidine Metabolism:SMP00044
+HMDB00854	Ch	Histidine Metabolism:SMP00044
+HMDB02820	Ch	Histidine Metabolism:SMP00044
+HMDB03125	Ch	Histidine Metabolism:SMP00044
+HMDB00301	Ch	Histidine Metabolism:SMP00044
+HMDB00177	Ch	Histidine Metabolism:SMP00044
+HMDB01014	Ch	Histidine Metabolism:SMP00044
+HMDB00870	Ch	Histidine Metabolism:SMP00044
+HMDB01846	Ch	Histidine Metabolism:SMP00044
+HMDB00001	Ch	Histidine Metabolism:SMP00044
+HMDB00898	Ch	Histidine Metabolism:SMP00044
+HMDB01967	Ch	Histidine Metabolism:SMP00044
+HMDB00221	Ch	Histidine Metabolism:SMP00044
+HMDB00033	Ch	Histidine Metabolism:SMP00044
+HMDB04181	Ch	Histidine Metabolism:SMP00044
+HMDB01270	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB01248	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB01197	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB01473	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB01487	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB01112	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB00902	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB00126	Ch	Glycerol Phosphate Shuttle:SMP00124
+HMDB01440	Ch	miRNA Biogenesis:WP2338
+HMDB01270	Ch	Oxidative phosphorylation:map00190
+HMDB00254	Ch	Oxidative phosphorylation:map00190
+HMDB01072	Ch	Oxidative phosphorylation:map00190
+HMDB01060	Ch	Oxidative phosphorylation:map00190
+HMDB01521	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB00201	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB06526	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB01206	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB03571	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB02003	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB00482	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB00535	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB00638	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB00062	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB02356	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB06459	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB01423	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB00511	Ch	Biosynthesis of unsaturated fatty acids:map01040
+HMDB01018	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00935	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01176	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01254	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00263	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00243	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00302	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB06268	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01514	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00042	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00143	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00124	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00286	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00148	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01121	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB04270	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01129	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01062	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01586	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB03362	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00660	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01341	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00215	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00230	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00051	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB01367	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00645	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB03556	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00290	Ch	Amino sugar and nucleotide sugar metabolism:map00520
+HMDB00190	Ch	Gluconeogenesis:SMP00128
+HMDB01201	Ch	Gluconeogenesis:SMP00128
+HMDB03498	Ch	Gluconeogenesis:SMP00128
+HMDB01294	Ch	Gluconeogenesis:SMP00128
+HMDB03391	Ch	Gluconeogenesis:SMP00128
+HMDB00516	Ch	Gluconeogenesis:SMP00128
+HMDB00744	Ch	Gluconeogenesis:SMP00128
+HMDB00939	Ch	Vitamin B12 Metabolism:WP1533
+HMDB02179	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01050	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01396	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01533	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01139	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00696	Ch	Vitamin B12 Metabolism:WP1533
+HMDB12638	Ch	Vitamin B12 Metabolism:WP1533
+HMDB12580	Ch	Vitamin B12 Metabolism:WP1533
+HMDB03378	Ch	Vitamin B12 Metabolism:WP1533
+HMDB02086	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01492	Ch	Vitamin B12 Metabolism:WP1533
+HMDB02274	Ch	Vitamin B12 Metabolism:WP1533
+HMDB05083	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00221	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00244	Ch	Vitamin B12 Metabolism:WP1533
+HMDB03208	Ch	Vitamin B12 Metabolism:WP1533
+HMDB03252	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00202	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01893	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00562	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00187	Ch	Vitamin B12 Metabolism:WP1533
+HMDB03125	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00044	Ch	Vitamin B12 Metabolism:WP1533
+HMDB04659	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01354	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01487	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01846	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00067	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01904	Ch	Vitamin B12 Metabolism:WP1533
+HMDB12777	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00122	Ch	Vitamin B12 Metabolism:WP1533
+HMDB03333	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01248	Ch	Vitamin B12 Metabolism:WP1533
+HMDB12110	Ch	Vitamin B12 Metabolism:WP1533
+HMDB03429	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00902	Ch	Vitamin B12 Metabolism:WP1533
+HMDB06316	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00742	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01452	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01220	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00574	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01303	Ch	Vitamin B12 Metabolism:WP1533
+HMDB12601	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00607	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01185	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01269	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00217	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00492	Ch	Vitamin B12 Metabolism:WP1533
+HMDB02878	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01491	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00099	Ch	Vitamin B12 Metabolism:WP1533
+HMDB02030	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01022	Ch	Vitamin B12 Metabolism:WP1533
+HMDB02168	Ch	Vitamin B12 Metabolism:WP1533
+HMDB01442	Ch	Vitamin B12 Metabolism:WP1533
+HMDB02174	Ch	Vitamin B12 Metabolism:WP1533
+HMDB12855	Ch	Vitamin B12 Metabolism:WP1533
+HMDB00030	Ch	Biotin Metabolism:SMP00066
+HMDB00182	Ch	Biotin Metabolism:SMP00066
+HMDB04220	Ch	Biotin Metabolism:SMP00066
+HMDB03134	Ch	Biotin Metabolism:SMP00066
+HMDB00210	Ch	beta-Alanine metabolism:map00410
+HMDB00191	Ch	beta-Alanine metabolism:map00410
+HMDB00194	Ch	beta-Alanine metabolism:map00410
+HMDB01106	Ch	beta-Alanine metabolism:map00410
+HMDB00300	Ch	beta-Alanine metabolism:map00410
+HMDB00056	Ch	beta-Alanine metabolism:map00410
+HMDB00002	Ch	beta-Alanine metabolism:map00410
+HMDB00076	Ch	beta-Alanine metabolism:map00410
+HMDB11111	Ch	beta-Alanine metabolism:map00410
+HMDB00033	Ch	beta-Alanine metabolism:map00410
+HMDB00026	Ch	beta-Alanine metabolism:map00410
+HMDB01520	Ch	Riboflavin metabolism:map00740
+HMDB01248	Ch	Riboflavin metabolism:map00740
+HMDB04256	Ch	Riboflavin metabolism:map00740
+HMDB03826	Ch	Riboflavin metabolism:map00740
+HMDB03701	Ch	Riboflavin metabolism:map00740
+HMDB03364	Ch	Riboflavin metabolism:map00740
+HMDB00244	Ch	Riboflavin metabolism:map00740
+HMDB02991	Ch	Taurine and Hypotaurine Metabolism:SMP00021
+HMDB00965	Ch	Taurine and Hypotaurine Metabolism:SMP00021
+HMDB00251	Ch	Taurine and Hypotaurine Metabolism:SMP00021
+HMDB00996	Ch	Taurine and Hypotaurine Metabolism:SMP00021
+HMDB02757	Ch	Taurine and Hypotaurine Metabolism:SMP00021
+HMDB04195	Ch	Taurine and Hypotaurine Metabolism:SMP00021
+HMDB00574	Ch	Taurine and Hypotaurine Metabolism:SMP00021
+HMDB01397	Ch	mRNA Processing:WP411
+HMDB01532	Ch	mRNA Processing:WP411
+HMDB03345	Ch	Retinol Metabolism:SMP00074
+HMDB00561	Ch	Retinol Metabolism:SMP00074
+HMDB01358	Ch	Retinol Metabolism:SMP00074
+HMDB06285	Ch	Retinol Metabolism:SMP00074
+HMDB03648	Ch	Retinol Metabolism:SMP00074
+HMDB00305	Ch	Retinol Metabolism:SMP00074
+HMDB12329	Ch	Retinol Metabolism:SMP00074
+HMDB12452	Ch	Retinol Metabolism:SMP00074
+HMDB06254	Ch	Retinol Metabolism:SMP00074
+HMDB06217	Ch	Retinol Metabolism:SMP00074
+HMDB03141	Ch	Retinol Metabolism:SMP00074
+HMDB01862	Ch	Retinol Metabolism:SMP00074
+HMDB11618	Ch	Retinol Metabolism:SMP00074
+HMDB12451	Ch	Retinol Metabolism:SMP00074
+HMDB02369	Ch	Retinol Metabolism:SMP00074
+HMDB06218	Ch	Retinol Metabolism:SMP00074
+HMDB02152	Ch	Retinol Metabolism:SMP00074
+HMDB06216	Ch	Retinol Metabolism:SMP00074
+HMDB04950	Ch	Sphingolipid Metabolism:SMP00034
+HMDB04866	Ch	Sphingolipid Metabolism:SMP00034
+HMDB10708	Ch	Sphingolipid Metabolism:SMP00034
+HMDB00187	Ch	Sphingolipid Metabolism:SMP00034
+HMDB01383	Ch	Sphingolipid Metabolism:SMP00034
+HMDB01348	Ch	Sphingolipid Metabolism:SMP00034
+HMDB01480	Ch	Sphingolipid Metabolism:SMP00034
+HMDB00277	Ch	Sphingolipid Metabolism:SMP00034
+HMDB00140	Ch	Sphingolipid Metabolism:SMP00034
+HMDB06752	Ch	Sphingolipid Metabolism:SMP00034
+HMDB00224	Ch	Sphingolipid Metabolism:SMP00034
+HMDB00269	Ch	Sphingolipid Metabolism:SMP00034
+HMDB00024	Ch	Sphingolipid Metabolism:SMP00034
+HMDB00252	Ch	Sphingolipid Metabolism:SMP00034
+HMDB02961	Ch	Integrated Breast Cancer Pathway:WP1984
+HMDB01473	Ch	Glycerophospholipid Biosynthetic Pathway:WP2533
+HMDB11750	Ch	Glycerophospholipid Biosynthetic Pathway:WP2533
+HMDB01132	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00641	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00912	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB02111	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00221	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB01179	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB11631	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB01330	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00045	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00161	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB01377	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00142	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00280	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00148	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00684	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB01967	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00902	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00538	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00250	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00929	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB01200	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB01476	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00232	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00217	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB01361	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00494	Ch	NAD Biosynthesis II (from tryptophan):WP2485
+HMDB00243	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00660	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00190	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00191	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB01473	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00362	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00807	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB01270	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB11750	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB01058	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00122	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB01401	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB01206	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB01112	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00263	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00223	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00124	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB00744	Ch	Glycolysis and Gluconeogenesis:WP534
+HMDB01143	Ch	BDNF signaling pathway:WP2380
+HMDB00210	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB01117	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB04231	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB01016	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB03426	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB01416	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB06834	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB01373	Ch	Pantothenate and CoA Biosynthesis:SMP00027
+HMDB01195	Ch	Folate biosynthesis:map00790
+HMDB00845	Ch	Folate biosynthesis:map00790
+HMDB01056	Ch	Folate biosynthesis:map00790
+HMDB06822	Ch	Folate biosynthesis:map00790
+HMDB06825	Ch	Folate biosynthesis:map00790
+HMDB13642	Ch	Folate biosynthesis:map00790
+HMDB00980	Ch	Folate biosynthesis:map00790
+HMDB06823	Ch	Folate biosynthesis:map00790
+HMDB01846	Ch	Folate biosynthesis:map00790
+HMDB00238	Ch	Folate biosynthesis:map00790
+HMDB06824	Ch	Folate biosynthesis:map00790
+HMDB00038	Ch	Folate biosynthesis:map00790
+HMDB06826	Ch	Folate biosynthesis:map00790
+HMDB02206	Ch	Folate biosynthesis:map00790
+HMDB01412	Ch	Folate biosynthesis:map00790
+HMDB00142	Ch	Folate biosynthesis:map00790
+HMDB02275	Ch	Folate biosynthesis:map00790
+HMDB02065	Ch	Folate biosynthesis:map00790
+HMDB00027	Ch	Folate biosynthesis:map00790
+HMDB00121	Ch	Folate biosynthesis:map00790
+HMDB06821	Ch	Folate biosynthesis:map00790
+HMDB01132	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB01488	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB00699	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB00232	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB00855	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB00229	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB00217	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB06809	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB04194	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB04193	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB01179	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB01406	Ch	Nicotinate and Nicotinamide Metabolism:SMP00048
+HMDB03966	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB06343	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB03288	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB06407	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB04122	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB10716	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB11117	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB04112	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB04113	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB11104	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB11110	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB11118	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB11119	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB04119	Ch	Selenoamino Acid Metabolism:SMP00029
+HMDB00201	Ch	Alanine and aspartate metabolism:WP106
+HMDB01206	Ch	Alanine and aspartate metabolism:WP106
+HMDB00094	Ch	Alanine and aspartate metabolism:WP106
+HMDB00168	Ch	Alanine and aspartate metabolism:WP106
+HMDB00033	Ch	Alanine and aspartate metabolism:WP106
+HMDB01310	Ch	Alanine and aspartate metabolism:WP106
+HMDB00828	Ch	Alanine and aspartate metabolism:WP106
+HMDB01043	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB02232	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB02314	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB10409	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB02190	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB02311	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB02265	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB04264	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB02343	Ch	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+HMDB04967	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04966	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04965	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04959	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04963	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04961	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04877	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04960	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04879	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04878	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04886	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04887	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04880	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04881	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04882	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04883	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04884	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04964	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04968	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04958	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB04962	Ch	Globo Sphingolipid Metabolism:WP1424
+HMDB02310	Ch	Threonine and 2-Oxobutanoate Degradation:SMP00452
+HMDB00595	Ch	Threonine and 2-Oxobutanoate Degradation:SMP00452
+HMDB00167	Ch	Threonine and 2-Oxobutanoate Degradation:SMP00452
+HMDB00005	Ch	Threonine and 2-Oxobutanoate Degradation:SMP00452
+HMDB02255	Ch	Threonine and 2-Oxobutanoate Degradation:SMP00452
+HMDB00181	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB01185	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00216	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00044	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB01264	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00787	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00038	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00073	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00742	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00068	Ch	Catecholamine Biosynthesis:SMP00012
+HMDB00660	Ch	Polyol Pathway:WP690
+HMDB01473	Ch	Polyol Pathway:WP690
+HMDB01051	Ch	Polyol Pathway:WP690
+HMDB01076	Ch	Polyol Pathway:WP690
+HMDB11750	Ch	Polyol Pathway:WP690
+HMDB01112	Ch	Polyol Pathway:WP690
+HMDB00247	Ch	Polyol Pathway:WP690
+HMDB00124	Ch	Polyol Pathway:WP690
+HMDB00122	Ch	Polyol Pathway:WP690
+HMDB01112	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB01270	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00190	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB03345	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB01201	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB03498	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB01473	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB01294	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB01058	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00807	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB03391	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB01401	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB01586	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00263	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00516	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00124	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00122	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00744	Ch	Glycolysis / Gluconeogenesis:map00010
+HMDB00210	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00191	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00194	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB01106	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00300	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00056	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00002	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00076	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB11111	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00033	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB00026	Ch	Beta-Alanine Metabolism:SMP00007
+HMDB03971	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB06857	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB03403	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB00163	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB00935	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB00258	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB00127	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB00757	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB03514	Ch	Starch and Sucrose Metabolism:SMP00058
+HMDB03966	Ch	Selenocompound metabolism:map00450
+HMDB06343	Ch	Selenocompound metabolism:map00450
+HMDB03288	Ch	Selenocompound metabolism:map00450
+HMDB06407	Ch	Selenocompound metabolism:map00450
+HMDB04122	Ch	Selenocompound metabolism:map00450
+HMDB10716	Ch	Selenocompound metabolism:map00450
+HMDB11117	Ch	Selenocompound metabolism:map00450
+HMDB04112	Ch	Selenocompound metabolism:map00450
+HMDB04113	Ch	Selenocompound metabolism:map00450
+HMDB11104	Ch	Selenocompound metabolism:map00450
+HMDB11110	Ch	Selenocompound metabolism:map00450
+HMDB11118	Ch	Selenocompound metabolism:map00450
+HMDB11119	Ch	Selenocompound metabolism:map00450
+HMDB04119	Ch	Selenocompound metabolism:map00450
+HMDB01070	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB02111	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB02009	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB00045	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB02845	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB01487	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB00482	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB01484	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB00062	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB01166	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB00535	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB00902	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB00538	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB01206	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB01088	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB01362	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB03949	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB03944	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB03940	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB03941	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB03942	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB03943	Ch	Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids:SMP00480
+HMDB00234	Ch	Steroid Biosynthesis:WP496
+HMDB00053	Ch	Steroid Biosynthesis:WP496
+HMDB02961	Ch	Steroid Biosynthesis:WP496
+HMDB03959	Ch	Steroid Biosynthesis:WP496
+HMDB00145	Ch	Steroid Biosynthesis:WP496
+HMDB00067	Ch	Steroid Biosynthesis:WP496
+HMDB00077	Ch	Steroid Biosynthesis:WP496
+HMDB02833	Ch	Steroid Biosynthesis:WP496
+HMDB00374	Ch	Steroid Biosynthesis:WP496
+HMDB05849	Ch	Steroid Biosynthesis:WP496
+HMDB00429	Ch	Steroid Biosynthesis:WP496
+HMDB00363	Ch	Steroid Biosynthesis:WP496
+HMDB01830	Ch	Steroid Biosynthesis:WP496
+HMDB00253	Ch	Steroid Biosynthesis:WP496
+HMDB00259	Ch	Serotonin Receptor 2 and ELK-SRF/GATA4 signaling:WP732
+HMDB00464	Ch	Serotonin Receptor 2 and ELK-SRF/GATA4 signaling:WP732
+HMDB00939	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01533	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00696	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01167	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00517	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB02134	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01426	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00243	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01451	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00187	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00161	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00167	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01352	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00043	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00064	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00005	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00128	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB06454	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00123	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB03406	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01967	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00807	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00272	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00271	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01022	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01024	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00742	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01149	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00214	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB01185	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00092	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB12210	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB13639	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00099	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00119	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00139	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB00208	Ch	Glycine and Serine Metabolism:SMP00004
+HMDB04249	Ch	Signaling Pathways in Glioblastoma:WP2261
+HMDB01204	Ch	Nicotine Metabolism:WP1600
+HMDB01126	Ch	Nicotine Metabolism:WP1600
+HMDB01390	Ch	Nicotine Metabolism:WP1600
+HMDB01046	Ch	Nicotine Metabolism:WP1600
+HMDB01010	Ch	Nicotine Metabolism:WP1600
+HMDB01013	Ch	Nicotine Metabolism:WP1600
+HMDB01272	Ch	Nicotine Metabolism:WP1600
+HMDB01934	Ch	Nicotine Metabolism:WP1600
+HMDB01411	Ch	Nicotine Metabolism:WP1600
+HMDB01497	Ch	Nicotine Metabolism:WP1600
+HMDB01427	Ch	Nicotine Metabolism:WP1600
+HMDB00259	Ch	Serotonin Transporter Activity:WP1455
+HMDB05038	Ch	Serotonin Transporter Activity:WP1455
+HMDB00929	Ch	Serotonin Transporter Activity:WP1455
+HMDB00058	Ch	Glycogen Metabolism:WP500
+HMDB01401	Ch	Glycogen Metabolism:WP500
+HMDB01586	Ch	Glycogen Metabolism:WP500
+HMDB00757	Ch	Glycogen Metabolism:WP500
+HMDB00286	Ch	Glycogen Metabolism:WP500
+HMDB00122	Ch	Glycogen Metabolism:WP500
+HMDB01303	Ch	Blood Clotting Cascade:WP272
+HMDB01112	Ch	Glycolysis:SMP00040
+HMDB01270	Ch	Glycolysis:SMP00040
+HMDB03345	Ch	Glycolysis:SMP00040
+HMDB03498	Ch	Glycolysis:SMP00040
+HMDB01473	Ch	Glycolysis:SMP00040
+HMDB01294	Ch	Glycolysis:SMP00040
+HMDB01058	Ch	Glycolysis:SMP00040
+HMDB00807	Ch	Glycolysis:SMP00040
+HMDB03391	Ch	Glycolysis:SMP00040
+HMDB01401	Ch	Glycolysis:SMP00040
+HMDB01586	Ch	Glycolysis:SMP00040
+HMDB00263	Ch	Glycolysis:SMP00040
+HMDB00516	Ch	Glycolysis:SMP00040
+HMDB00124	Ch	Glycolysis:SMP00040
+HMDB00122	Ch	Glycolysis:SMP00040
+HMDB01134	Ch	Sulfur metabolism:map00920
+HMDB01448	Ch	Sulfur metabolism:map00920
+HMDB00145	Ch	Sulfur metabolism:map00920
+HMDB01003	Ch	Sulfur metabolism:map00920
+HMDB00061	Ch	Sulfur metabolism:map00920
+HMDB01425	Ch	Sulfur metabolism:map00920
+HMDB00240	Ch	Sulfur metabolism:map00920
+HMDB00030	Ch	Biotin metabolism:map00780
+HMDB00182	Ch	Biotin metabolism:map00780
+HMDB04220	Ch	Biotin metabolism:map00780
+HMDB03134	Ch	Biotin metabolism:map00780
+HMDB04242	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04243	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04680	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04241	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04244	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01139	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04693	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01403	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB13633	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB10217	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02111	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB00221	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB03252	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04694	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01335	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01337	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02311	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04684	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02314	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB03125	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02265	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02190	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01198	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01377	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB05050	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04699	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04236	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04234	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB03080	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB00125	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04238	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB03235	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01043	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB06059	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04679	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04692	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01381	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB05079	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04673	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02886	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB10379	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02232	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB05998	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB11136	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB11137	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01452	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01220	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04659	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB03876	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02343	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01509	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02710	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB00217	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB02752	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB01085	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB11134	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB07883	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB11135	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB04264	Ch	Arachidonic Acid Metabolism:SMP00075
+HMDB00190	Ch	Pyruvate metabolism:map00620
+HMDB03904	Ch	Pyruvate metabolism:map00620
+HMDB06880	Ch	Pyruvate metabolism:map00620
+HMDB01881	Ch	Pyruvate metabolism:map00620
+HMDB01494	Ch	Pyruvate metabolism:map00620
+HMDB00990	Ch	Pyruvate metabolism:map00620
+HMDB01066	Ch	Pyruvate metabolism:map00620
+HMDB00042	Ch	Pyruvate metabolism:map00620
+HMDB01167	Ch	Pyruvate metabolism:map00620
+HMDB00156	Ch	Pyruvate metabolism:map00620
+HMDB01175	Ch	Pyruvate metabolism:map00620
+HMDB06458	Ch	Pyruvate metabolism:map00620
+HMDB06878	Ch	Pyruvate metabolism:map00620
+HMDB00263	Ch	Pyruvate metabolism:map00620
+HMDB01311	Ch	Pyruvate metabolism:map00620
+HMDB00223	Ch	Pyruvate metabolism:map00620
+HMDB03052	Ch	Pyruvate metabolism:map00620
+HMDB04400	Ch	Caffeine metabolism:map00232
+HMDB01982	Ch	Caffeine metabolism:map00232
+HMDB10738	Ch	Caffeine metabolism:map00232
+HMDB01847	Ch	Caffeine metabolism:map00232
+HMDB02825	Ch	Caffeine metabolism:map00232
+HMDB01889	Ch	Caffeine metabolism:map00232
+HMDB11103	Ch	Caffeine metabolism:map00232
+HMDB03099	Ch	Caffeine metabolism:map00232
+HMDB11107	Ch	Caffeine metabolism:map00232
+HMDB01860	Ch	Caffeine metabolism:map00232
+HMDB11105	Ch	Caffeine metabolism:map00232
+HMDB01991	Ch	Caffeine metabolism:map00232
+HMDB00097	Ch	One Carbon Metabolism:WP241
+HMDB00607	Ch	One Carbon Metabolism:WP241
+HMDB01056	Ch	One Carbon Metabolism:WP241
+HMDB01185	Ch	One Carbon Metabolism:WP241
+HMDB01396	Ch	One Carbon Metabolism:WP241
+HMDB00972	Ch	One Carbon Metabolism:WP241
+HMDB00939	Ch	One Carbon Metabolism:WP241
+HMDB01354	Ch	One Carbon Metabolism:WP241
+HMDB00696	Ch	One Carbon Metabolism:WP241
+HMDB01533	Ch	One Carbon Metabolism:WP241
+HMDB01491	Ch	One Carbon Metabolism:WP241
+HMDB00043	Ch	One Carbon Metabolism:WP241
+HMDB02274	Ch	One Carbon Metabolism:WP241
+HMDB00742	Ch	One Carbon Metabolism:WP241
+HMDB00244	Ch	One Carbon Metabolism:WP241
+HMDB02174	Ch	One Carbon Metabolism:WP241
+HMDB00123	Ch	One Carbon Metabolism:WP241
+HMDB01846	Ch	One Carbon Metabolism:WP241
+HMDB00121	Ch	One Carbon Metabolism:WP241
+HMDB12945	Ch	Heme Biosynthesis:WP561
+HMDB03178	Ch	Heme Biosynthesis:WP561
+HMDB01137	Ch	Heme Biosynthesis:WP561
+HMDB03125	Ch	Heme Biosynthesis:WP561
+HMDB01086	Ch	Heme Biosynthesis:WP561
+HMDB00051	Ch	Heme Biosynthesis:WP561
+HMDB01361	Ch	Heme Biosynthesis:WP561
+HMDB01261	Ch	Heme Biosynthesis:WP561
+HMDB00494	Ch	Heme Biosynthesis:WP561
+HMDB02111	Ch	Heme Biosynthesis:WP561
+HMDB01022	Ch	Heme Biosynthesis:WP561
+HMDB01377	Ch	Heme Biosynthesis:WP561
+HMDB01967	Ch	Heme Biosynthesis:WP561
+HMDB00245	Ch	Heme Biosynthesis:WP561
+HMDB00123	Ch	Heme Biosynthesis:WP561
+HMDB12947	Ch	Heme Biosynthesis:WP561
+HMDB01423	Ch	Heme Biosynthesis:WP561
+HMDB00241	Ch	Heme Biosynthesis:WP561
+HMDB00211	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB01498	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB10037	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB09925	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB10150	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB07102	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB09783	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB06971	Ch	Phosphatidylinositol Phosphate Metabolism:SMP00463
+HMDB00186	Ch	Lactose Synthesis:SMP00444
+HMDB00286	Ch	Lactose Synthesis:SMP00444
+HMDB00645	Ch	Lactose Synthesis:SMP00444
+HMDB00288	Ch	Lactose Synthesis:SMP00444
+HMDB00302	Ch	Lactose Synthesis:SMP00444
+HMDB00295	Ch	Lactose Synthesis:SMP00444
+HMDB00122	Ch	Lactose Synthesis:SMP00444
+HMDB01401	Ch	Galactose Metabolism:SMP00043
+HMDB00247	Ch	Galactose Metabolism:SMP00043
+HMDB04162	Ch	Galactose Metabolism:SMP00043
+HMDB00169	Ch	Galactose Metabolism:SMP00043
+HMDB00048	Ch	Galactose Metabolism:SMP00043
+HMDB00186	Ch	Galactose Metabolism:SMP00043
+HMDB00302	Ch	Galactose Metabolism:SMP00043
+HMDB03553	Ch	Galactose Metabolism:SMP00043
+HMDB06792	Ch	Galactose Metabolism:SMP00043
+HMDB00143	Ch	Galactose Metabolism:SMP00043
+HMDB00286	Ch	Galactose Metabolism:SMP00043
+HMDB00122	Ch	Galactose Metabolism:SMP00043
+HMDB00107	Ch	Galactose Metabolism:SMP00043
+HMDB00660	Ch	Galactose Metabolism:SMP00043
+HMDB06791	Ch	Galactose Metabolism:SMP00043
+HMDB01586	Ch	Galactose Metabolism:SMP00043
+HMDB00258	Ch	Galactose Metabolism:SMP00043
+HMDB03213	Ch	Galactose Metabolism:SMP00043
+HMDB00211	Ch	Galactose Metabolism:SMP00043
+HMDB06790	Ch	Galactose Metabolism:SMP00043
+HMDB03345	Ch	Galactose Metabolism:SMP00043
+HMDB01262	Ch	Galactose Metabolism:SMP00043
+HMDB00645	Ch	Galactose Metabolism:SMP00043
+HMDB00131	Ch	Galactose Metabolism:SMP00043
+HMDB05826	Ch	Galactose Metabolism:SMP00043
+HMDB03939	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB06402	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB06272	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB06404	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03932	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03935	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03934	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03937	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03936	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03948	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB00220	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03945	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03946	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03712	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03942	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB03943	Ch	Fatty acid elongation in mitochondria:map00062
+HMDB04242	Ch	Arachidonic acid metabolism:map00590
+HMDB04243	Ch	Arachidonic acid metabolism:map00590
+HMDB04680	Ch	Arachidonic acid metabolism:map00590
+HMDB04241	Ch	Arachidonic acid metabolism:map00590
+HMDB04244	Ch	Arachidonic acid metabolism:map00590
+HMDB01139	Ch	Arachidonic acid metabolism:map00590
+HMDB04693	Ch	Arachidonic acid metabolism:map00590
+HMDB01403	Ch	Arachidonic acid metabolism:map00590
+HMDB13633	Ch	Arachidonic acid metabolism:map00590
+HMDB10217	Ch	Arachidonic acid metabolism:map00590
+HMDB02111	Ch	Arachidonic acid metabolism:map00590
+HMDB00221	Ch	Arachidonic acid metabolism:map00590
+HMDB03252	Ch	Arachidonic acid metabolism:map00590
+HMDB04694	Ch	Arachidonic acid metabolism:map00590
+HMDB01335	Ch	Arachidonic acid metabolism:map00590
+HMDB01337	Ch	Arachidonic acid metabolism:map00590
+HMDB02311	Ch	Arachidonic acid metabolism:map00590
+HMDB04684	Ch	Arachidonic acid metabolism:map00590
+HMDB02314	Ch	Arachidonic acid metabolism:map00590
+HMDB03125	Ch	Arachidonic acid metabolism:map00590
+HMDB02265	Ch	Arachidonic acid metabolism:map00590
+HMDB02190	Ch	Arachidonic acid metabolism:map00590
+HMDB01198	Ch	Arachidonic acid metabolism:map00590
+HMDB01377	Ch	Arachidonic acid metabolism:map00590
+HMDB05050	Ch	Arachidonic acid metabolism:map00590
+HMDB04699	Ch	Arachidonic acid metabolism:map00590
+HMDB04236	Ch	Arachidonic acid metabolism:map00590
+HMDB04234	Ch	Arachidonic acid metabolism:map00590
+HMDB03080	Ch	Arachidonic acid metabolism:map00590
+HMDB00125	Ch	Arachidonic acid metabolism:map00590
+HMDB04238	Ch	Arachidonic acid metabolism:map00590
+HMDB03235	Ch	Arachidonic acid metabolism:map00590
+HMDB01043	Ch	Arachidonic acid metabolism:map00590
+HMDB06059	Ch	Arachidonic acid metabolism:map00590
+HMDB04679	Ch	Arachidonic acid metabolism:map00590
+HMDB04692	Ch	Arachidonic acid metabolism:map00590
+HMDB01381	Ch	Arachidonic acid metabolism:map00590
+HMDB05079	Ch	Arachidonic acid metabolism:map00590
+HMDB04673	Ch	Arachidonic acid metabolism:map00590
+HMDB02886	Ch	Arachidonic acid metabolism:map00590
+HMDB10379	Ch	Arachidonic acid metabolism:map00590
+HMDB02232	Ch	Arachidonic acid metabolism:map00590
+HMDB05998	Ch	Arachidonic acid metabolism:map00590
+HMDB11136	Ch	Arachidonic acid metabolism:map00590
+HMDB11137	Ch	Arachidonic acid metabolism:map00590
+HMDB01452	Ch	Arachidonic acid metabolism:map00590
+HMDB01220	Ch	Arachidonic acid metabolism:map00590
+HMDB04659	Ch	Arachidonic acid metabolism:map00590
+HMDB03876	Ch	Arachidonic acid metabolism:map00590
+HMDB02343	Ch	Arachidonic acid metabolism:map00590
+HMDB01509	Ch	Arachidonic acid metabolism:map00590
+HMDB02710	Ch	Arachidonic acid metabolism:map00590
+HMDB00217	Ch	Arachidonic acid metabolism:map00590
+HMDB02752	Ch	Arachidonic acid metabolism:map00590
+HMDB01085	Ch	Arachidonic acid metabolism:map00590
+HMDB11134	Ch	Arachidonic acid metabolism:map00590
+HMDB07883	Ch	Arachidonic acid metabolism:map00590
+HMDB11135	Ch	Arachidonic acid metabolism:map00590
+HMDB04264	Ch	Arachidonic acid metabolism:map00590
+HMDB00168	Ch	Aspartate Metabolism:SMP00067
+HMDB00052	Ch	Aspartate Metabolism:SMP00067
+HMDB00691	Ch	Aspartate Metabolism:SMP00067
+HMDB00536	Ch	Aspartate Metabolism:SMP00067
+HMDB00812	Ch	Aspartate Metabolism:SMP00067
+HMDB06483	Ch	Aspartate Metabolism:SMP00067
+HMDB00828	Ch	Aspartate Metabolism:SMP00067
+HMDB00223	Ch	Aspartate Metabolism:SMP00067
+HMDB00904	Ch	Aspartate Metabolism:SMP00067
+HMDB01512	Ch	Thiamine Metabolism:SMP00076
+HMDB00235	Ch	Thiamine Metabolism:SMP00076
+HMDB01372	Ch	Thiamine Metabolism:SMP00076
+HMDB02666	Ch	Thiamine Metabolism:SMP00076
+HMDB00221	Ch	Glutathione metabolism:WP100
+HMDB01206	Ch	Glutathione metabolism:WP100
+HMDB00123	Ch	Glutathione metabolism:WP100
+HMDB00217	Ch	Glutathione metabolism:WP100
+HMDB00660	Ch	Pentose Phosphate Pathway:WP134
+HMDB01127	Ch	Pentose Phosphate Pathway:WP134
+HMDB01068	Ch	Pentose Phosphate Pathway:WP134
+HMDB01321	Ch	Pentose Phosphate Pathway:WP134
+HMDB00618	Ch	Pentose Phosphate Pathway:WP134
+HMDB01548	Ch	Pentose Phosphate Pathway:WP134
+HMDB01112	Ch	Pentose Phosphate Pathway:WP134
+HMDB01401	Ch	Pentose Phosphate Pathway:WP134
+HMDB00124	Ch	Pentose Phosphate Pathway:WP134
+HMDB01316	Ch	Pentose Phosphate Pathway:WP134
+HMDB00691	Ch	Fatty Acid Biosynthesis:SMP00456
+HMDB00482	Ch	Fatty Acid Biosynthesis:SMP00456
+HMDB00039	Ch	Fatty Acid Biosynthesis:SMP00456
+HMDB00535	Ch	Fatty Acid Biosynthesis:SMP00456
+HMDB01175	Ch	Fatty Acid Biosynthesis:SMP00456
+HMDB00638	Ch	Fatty Acid Biosynthesis:SMP00456
+HMDB00511	Ch	Fatty Acid Biosynthesis:SMP00456
+HMDB02369	Ch	Cardiac Progenitor Differentiation:WP2406
+HMDB12874	Ch	Cardiac Progenitor Differentiation:WP2406
+HMDB01852	Ch	Cardiac Progenitor Differentiation:WP2406
+HMDB00492	Ch	Secretion of Hydrochloric Acid in Parietal Cells:WP2597
+HMDB00586	Ch	Secretion of Hydrochloric Acid in Parietal Cells:WP2597
+HMDB00977	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB02012	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB01063	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB06819	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB06818	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB06820	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB06817	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB06816	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB00500	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB12188	Ch	Ubiquinone and other terpenoid-quinone biosynthesis:map00130
+HMDB00698	Ch	Primary bile acid biosynthesis:map00120
+HMDB06280	Ch	Primary bile acid biosynthesis:map00120
+HMDB00951	Ch	Primary bile acid biosynthesis:map00120
+HMDB12458	Ch	Primary bile acid biosynthesis:map00120
+HMDB02159	Ch	Primary bile acid biosynthesis:map00120
+HMDB12454	Ch	Primary bile acid biosynthesis:map00120
+HMDB00631	Ch	Primary bile acid biosynthesis:map00120
+HMDB12453	Ch	Primary bile acid biosynthesis:map00120
+HMDB00637	Ch	Primary bile acid biosynthesis:map00120
+HMDB01231	Ch	Primary bile acid biosynthesis:map00120
+HMDB06888	Ch	Primary bile acid biosynthesis:map00120
+HMDB06247	Ch	Primary bile acid biosynthesis:map00120
+HMDB06893	Ch	Primary bile acid biosynthesis:map00120
+HMDB06281	Ch	Primary bile acid biosynthesis:map00120
+HMDB03533	Ch	Primary bile acid biosynthesis:map00120
+HMDB00896	Ch	Primary bile acid biosynthesis:map00120
+HMDB02197	Ch	Primary bile acid biosynthesis:map00120
+HMDB00619	Ch	Primary bile acid biosynthesis:map00120
+HMDB01374	Ch	Primary bile acid biosynthesis:map00120
+HMDB12455	Ch	Primary bile acid biosynthesis:map00120
+HMDB00067	Ch	Primary bile acid biosynthesis:map00120
+HMDB12456	Ch	Primary bile acid biosynthesis:map00120
+HMDB06889	Ch	Primary bile acid biosynthesis:map00120
+HMDB03873	Ch	Primary bile acid biosynthesis:map00120
+HMDB12459	Ch	Primary bile acid biosynthesis:map00120
+HMDB02103	Ch	Primary bile acid biosynthesis:map00120
+HMDB06894	Ch	Primary bile acid biosynthesis:map00120
+HMDB06891	Ch	Primary bile acid biosynthesis:map00120
+HMDB06890	Ch	Primary bile acid biosynthesis:map00120
+HMDB00518	Ch	Primary bile acid biosynthesis:map00120
+HMDB06892	Ch	Primary bile acid biosynthesis:map00120
+HMDB11644	Ch	Primary bile acid biosynthesis:map00120
+HMDB00626	Ch	Primary bile acid biosynthesis:map00120
+HMDB00251	Ch	Primary bile acid biosynthesis:map00120
+HMDB01419	Ch	Primary bile acid biosynthesis:map00120
+HMDB01993	Ch	Primary bile acid biosynthesis:map00120
+HMDB01457	Ch	Primary bile acid biosynthesis:map00120
+HMDB06895	Ch	Primary bile acid biosynthesis:map00120
+HMDB00761	Ch	Primary bile acid biosynthesis:map00120
+HMDB06887	Ch	Primary bile acid biosynthesis:map00120
+HMDB06292	Ch	Primary bile acid biosynthesis:map00120
+HMDB01496	Ch	Primary bile acid biosynthesis:map00120
+HMDB00722	Ch	Primary bile acid biosynthesis:map00120
+HMDB12457	Ch	Primary bile acid biosynthesis:map00120
+HMDB00138	Ch	Primary bile acid biosynthesis:map00120
+HMDB00359	Ch	Primary bile acid biosynthesis:map00120
+HMDB00036	Ch	Primary bile acid biosynthesis:map00120
+HMDB01072	Ch	TCA Cycle:WP78
+HMDB00912	Ch	TCA Cycle:WP78
+HMDB01429	Ch	TCA Cycle:WP78
+HMDB02111	Ch	TCA Cycle:WP78
+HMDB00221	Ch	TCA Cycle:WP78
+HMDB00223	Ch	TCA Cycle:WP78
+HMDB01423	Ch	TCA Cycle:WP78
+HMDB01273	Ch	TCA Cycle:WP78
+HMDB00208	Ch	TCA Cycle:WP78
+HMDB01487	Ch	TCA Cycle:WP78
+HMDB01967	Ch	TCA Cycle:WP78
+HMDB13111	Ch	TCA Cycle:WP78
+HMDB01341	Ch	TCA Cycle:WP78
+HMDB01206	Ch	TCA Cycle:WP78
+HMDB00254	Ch	TCA Cycle:WP78
+HMDB00538	Ch	TCA Cycle:WP78
+HMDB00193	Ch	TCA Cycle:WP78
+HMDB00094	Ch	TCA Cycle:WP78
+HMDB01201	Ch	TCA Cycle:WP78
+HMDB00217	Ch	TCA Cycle:WP78
+HMDB01361	Ch	TCA Cycle:WP78
+HMDB00494	Ch	TCA Cycle:WP78
+HMDB00156	Ch	TCA Cycle:WP78
+HMDB00902	Ch	TCA Cycle:WP78
+HMDB00134	Ch	TCA Cycle:WP78
+HMDB00072	Ch	TCA Cycle:WP78
+HMDB01022	Ch	TCA Cycle:WP78
+HMDB00660	Ch	Fructose and mannose metabolism:map00051
+HMDB01346	Ch	Fructose and mannose metabolism:map00051
+HMDB00169	Ch	Fructose and mannose metabolism:map00051
+HMDB01047	Ch	Fructose and mannose metabolism:map00051
+HMDB01095	Ch	Fructose and mannose metabolism:map00051
+HMDB01078	Ch	Fructose and mannose metabolism:map00051
+HMDB00174	Ch	Fructose and mannose metabolism:map00051
+HMDB01265	Ch	Fructose and mannose metabolism:map00051
+HMDB01163	Ch	Fructose and mannose metabolism:map00051
+HMDB01058	Ch	Fructose and mannose metabolism:map00051
+HMDB01112	Ch	Fructose and mannose metabolism:map00051
+HMDB01076	Ch	Fructose and mannose metabolism:map00051
+HMDB06330	Ch	Fructose and mannose metabolism:map00051
+HMDB00247	Ch	Fructose and mannose metabolism:map00051
+HMDB00124	Ch	Fructose and mannose metabolism:map00051
+HMDB06800	Ch	Fructose and mannose metabolism:map00051
+HMDB00742	Ch	Trans-sulfuration and one carbon metabolism:WP2525
+HMDB01967	Ch	Ketone Body Metabolism:SMP00071
+HMDB01375	Ch	Ketone Body Metabolism:SMP00071
+HMDB00011	Ch	Ketone Body Metabolism:SMP00071
+HMDB01659	Ch	Ketone Body Metabolism:SMP00071
+HMDB01341	Ch	Myometrial Relaxation and Contraction Pathways:WP289
+HMDB00058	Ch	Myometrial Relaxation and Contraction Pathways:WP289
+HMDB01532	Ch	Myometrial Relaxation and Contraction Pathways:WP289
+HMDB01314	Ch	Myometrial Relaxation and Contraction Pathways:WP289
+HMDB06558	Ch	Aflatoxin B1 metabolism:WP699
+HMDB06552	Ch	Aflatoxin B1 metabolism:WP699
+HMDB01137	Ch	Porphyrin Metabolism:SMP00024
+HMDB06901	Ch	Porphyrin Metabolism:SMP00024
+HMDB00936	Ch	Porphyrin Metabolism:SMP00024
+HMDB02158	Ch	Porphyrin Metabolism:SMP00024
+HMDB00916	Ch	Porphyrin Metabolism:SMP00024
+HMDB00245	Ch	Porphyrin Metabolism:SMP00024
+HMDB00241	Ch	Porphyrin Metabolism:SMP00024
+HMDB02211	Ch	Porphyrin Metabolism:SMP00024
+HMDB01097	Ch	Porphyrin Metabolism:SMP00024
+HMDB00123	Ch	Porphyrin Metabolism:SMP00024
+HMDB00961	Ch	Porphyrin Metabolism:SMP00024
+HMDB01162	Ch	Porphyrin Metabolism:SMP00024
+HMDB04158	Ch	Porphyrin Metabolism:SMP00024
+HMDB03178	Ch	Porphyrin Metabolism:SMP00024
+HMDB00570	Ch	Porphyrin Metabolism:SMP00024
+HMDB01149	Ch	Porphyrin Metabolism:SMP00024
+HMDB01008	Ch	Porphyrin Metabolism:SMP00024
+HMDB03325	Ch	Porphyrin Metabolism:SMP00024
+HMDB00643	Ch	Porphyrin Metabolism:SMP00024
+HMDB01261	Ch	Porphyrin Metabolism:SMP00024
+HMDB00054	Ch	Porphyrin Metabolism:SMP00024
+HMDB01086	Ch	Porphyrin Metabolism:SMP00024
+HMDB01043	Ch	Endothelin Pathways:WP2197
+HMDB00058	Ch	Endothelin Pathways:WP2197
+HMDB00464	Ch	Endothelin Pathways:WP2197
+HMDB01440	Ch	Endothelin Pathways:WP2197
+HMDB01059	Ch	Endothelin Pathways:WP2197
+HMDB01532	Ch	Endothelin Pathways:WP2197
+HMDB03378	Ch	Endothelin Pathways:WP2197
+HMDB00586	Ch	Endothelin Pathways:WP2197
+HMDB00904	Ch	Endothelin Pathways:WP2197
+HMDB00517	Ch	Endothelin Pathways:WP2197
+HMDB01314	Ch	Endothelin Pathways:WP2197
+HMDB00216	Ch	Monoamine GPCRs:WP58
+HMDB00895	Ch	Monoamine GPCRs:WP58
+HMDB00870	Ch	Monoamine GPCRs:WP58
+HMDB00259	Ch	Monoamine GPCRs:WP58
+HMDB00073	Ch	Monoamine GPCRs:WP58
+HMDB00068	Ch	Monoamine GPCRs:WP58
+HMDB01043	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB02925	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB02226	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB02177	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB02183	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB00673	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB01388	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB02007	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB06323	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB06322	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB01999	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB08204	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB03073	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB06547	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB01976	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB06528	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB06246	Ch	Alpha Linolenic Acid and Linoleic Acid Metabolism:SMP00018
+HMDB00050	Ch	Purine Metabolism:SMP00050
+HMDB01397	Ch	Purine Metabolism:SMP00050
+HMDB00797	Ch	Purine Metabolism:SMP00050
+HMDB01235	Ch	Purine Metabolism:SMP00050
+HMDB00085	Ch	Purine Metabolism:SMP00050
+HMDB01178	Ch	Purine Metabolism:SMP00050
+HMDB01554	Ch	Purine Metabolism:SMP00050
+HMDB02022	Ch	Purine Metabolism:SMP00050
+HMDB01273	Ch	Purine Metabolism:SMP00050
+HMDB01440	Ch	Purine Metabolism:SMP00050
+HMDB00189	Ch	Purine Metabolism:SMP00050
+HMDB00045	Ch	Purine Metabolism:SMP00050
+HMDB03335	Ch	Purine Metabolism:SMP00050
+HMDB01532	Ch	Purine Metabolism:SMP00050
+HMDB01517	Ch	Purine Metabolism:SMP00050
+HMDB00289	Ch	Purine Metabolism:SMP00050
+HMDB00101	Ch	Purine Metabolism:SMP00050
+HMDB00280	Ch	Purine Metabolism:SMP00050
+HMDB00960	Ch	Purine Metabolism:SMP00050
+HMDB01044	Ch	Purine Metabolism:SMP00050
+HMDB01128	Ch	Purine Metabolism:SMP00050
+HMDB06273	Ch	Purine Metabolism:SMP00050
+HMDB00536	Ch	Purine Metabolism:SMP00050
+HMDB00905	Ch	Purine Metabolism:SMP00050
+HMDB01439	Ch	Purine Metabolism:SMP00050
+HMDB00538	Ch	Purine Metabolism:SMP00050
+HMDB01340	Ch	Purine Metabolism:SMP00050
+HMDB01341	Ch	Purine Metabolism:SMP00050
+HMDB01508	Ch	Purine Metabolism:SMP00050
+HMDB00058	Ch	Purine Metabolism:SMP00050
+HMDB01201	Ch	Purine Metabolism:SMP00050
+HMDB00195	Ch	Purine Metabolism:SMP00050
+HMDB00175	Ch	Purine Metabolism:SMP00050
+HMDB00641	Ch	Purine Metabolism:SMP00050
+HMDB06211	Ch	Purine Metabolism:SMP00050
+HMDB01548	Ch	Purine Metabolism:SMP00050
+HMDB11629	Ch	Purine Metabolism:SMP00050
+HMDB00299	Ch	Purine Metabolism:SMP00050
+HMDB00157	Ch	Purine Metabolism:SMP00050
+HMDB00132	Ch	Purine Metabolism:SMP00050
+HMDB00133	Ch	Purine Metabolism:SMP00050
+HMDB00071	Ch	Purine Metabolism:SMP00050
+HMDB01308	Ch	Purine Metabolism:SMP00050
+HMDB00292	Ch	Purine Metabolism:SMP00050
+HMDB00034	Ch	Purine Metabolism:SMP00050
+HMDB04246	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB01442	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB01389	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB00870	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB00259	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB00073	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB01035	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB12110	Ch	GPCRs, Class A Rhodopsin-like:WP455
+HMDB00058	Ch	MAPK Signaling Pathway:WP382
+HMDB00960	Ch	Pilocytic astrocytoma:WP2253
+HMDB01440	Ch	Pilocytic astrocytoma:WP2253
+HMDB03337	Ch	Glutathione Metabolism:SMP00015
+HMDB00123	Ch	Glutathione Metabolism:SMP00015
+HMDB01049	Ch	Glutathione Metabolism:SMP00015
+HMDB00267	Ch	Glutathione Metabolism:SMP00015
+HMDB00125	Ch	Glutathione Metabolism:SMP00015
+HMDB00574	Ch	Glutathione Metabolism:SMP00015
+HMDB00078	Ch	Glutathione Metabolism:SMP00015
+HMDB03540	Ch	Nucleotide Metabolism:WP404
+HMDB01414	Ch	Nucleotide Metabolism:WP404
+HMDB01397	Ch	Nucleotide Metabolism:WP404
+HMDB00214	Ch	Nucleotide Metabolism:WP404
+HMDB12194	Ch	Nucleotide Metabolism:WP404
+HMDB00175	Ch	Nucleotide Metabolism:WP404
+HMDB01256	Ch	Nucleotide Metabolism:WP404
+HMDB00536	Ch	Nucleotide Metabolism:WP404
+HMDB01517	Ch	Nucleotide Metabolism:WP404
+HMDB00797	Ch	Nucleotide Metabolism:WP404
+HMDB01257	Ch	Nucleotide Metabolism:WP404
+HMDB00157	Ch	Nucleotide Metabolism:WP404
+HMDB00132	Ch	Nucleotide Metabolism:WP404
+HMDB00289	Ch	Nucleotide Metabolism:WP404
+HMDB00283	Ch	Nucleotide Metabolism:WP404
+HMDB00292	Ch	Nucleotide Metabolism:WP404
+HMDB00034	Ch	Nucleotide Metabolism:WP404
+HMDB03192	Ch	Nucleotide Metabolism:WP404
+HMDB01057	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01052	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00695	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01011	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB02217	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01113	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01157	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00202	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01275	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01356	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01372	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB06865	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00023	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00962	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01041	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB06870	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00687	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01022	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB02054	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00883	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01269	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB02166	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00491	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00985	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00172	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01493	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB06868	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB06869	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB00019	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01243	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB06866	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB06867	Ch	Valine, leucine and isoleucine degradation:map00280
+HMDB01206	Ch	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+HMDB03948	Ch	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+HMDB01397	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00691	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00812	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00223	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00168	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01096	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB03337	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00208	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01254	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB06483	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00125	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01049	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01128	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01062	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00536	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01259	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00904	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00254	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00828	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01301	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB03362	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00052	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00051	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00119	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB00112	Ch	Alanine, aspartate and glutamate metabolism:map00250
+HMDB01248	Ch	Catalytic cycle of mammalian FMOs:WP688
+HMDB00217	Ch	Catalytic cycle of mammalian FMOs:WP688
+HMDB01377	Ch	Catalytic cycle of mammalian FMOs:WP688
+HMDB00494	Ch	Catalytic cycle of mammalian FMOs:WP688
+HMDB02111	Ch	Catalytic cycle of mammalian FMOs:WP688
+HMDB00221	Ch	Catalytic cycle of mammalian FMOs:WP688
+HMDB01491	Ch	Malate-Aspartate Shuttle:SMP00129
+HMDB00744	Ch	Malate-Aspartate Shuttle:SMP00129
+HMDB00586	Ch	Lactose Degradation:SMP00457
+HMDB00588	Ch	Lactose Degradation:SMP00457
+HMDB00143	Ch	Lactose Degradation:SMP00457
+HMDB00186	Ch	Lactose Degradation:SMP00457
+HMDB01498	Ch	RANKL/RANK Signaling Pathway:WP2018
+HMDB00939	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01396	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01533	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00696	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01167	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01846	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00517	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB02134	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01426	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00243	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01451	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00187	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01252	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00161	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00167	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01352	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00043	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00064	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00005	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00128	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB06454	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00123	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB03406	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01967	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00807	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00272	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00271	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01022	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01024	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00742	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01149	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00214	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00097	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB01185	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00092	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB12210	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB13639	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00099	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00119	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00139	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00208	Ch	Glycine, serine and threonine metabolism:map00260
+HMDB00058	Ch	Mitochondrial Gene Expression:WP391
+HMDB01056	Ch	Fluoropyrimidine Activity:WP1601
+HMDB01409	Ch	Fluoropyrimidine Activity:WP1601
+HMDB00190	Ch	Glucose Homeostasis:WP661
+HMDB00182	Ch	Glucose Homeostasis:WP661
+HMDB00714	Ch	Glucose Homeostasis:WP661
+HMDB00214	Ch	Glucose Homeostasis:WP661
+HMDB00157	Ch	Glucose Homeostasis:WP661
+HMDB00904	Ch	Glucose Homeostasis:WP661
+HMDB00177	Ch	Glucose Homeostasis:WP661
+HMDB00172	Ch	Glucose Homeostasis:WP661
+HMDB00243	Ch	Glucose Homeostasis:WP661
+HMDB00156	Ch	Glucose Homeostasis:WP661
+HMDB00131	Ch	Glucose Homeostasis:WP661
+HMDB00883	Ch	Glucose Homeostasis:WP661
+HMDB00696	Ch	Glucose Homeostasis:WP661
+HMDB00158	Ch	Glucose Homeostasis:WP661
+HMDB00138	Ch	Glucose Homeostasis:WP661
+HMDB00517	Ch	Glucose Homeostasis:WP661
+HMDB00951	Ch	Glucose Homeostasis:WP661
+HMDB00637	Ch	Glucose Homeostasis:WP661
+HMDB00122	Ch	Glucose Homeostasis:WP661
+HMDB00011	Ch	Glucose Homeostasis:WP661
+HMDB00159	Ch	Glucose Homeostasis:WP661
+HMDB00464	Ch	IL-1 signaling pathway:WP195
+HMDB01586	Ch	Glucuronidation:WP698
+HMDB00286	Ch	Glucuronidation:WP698
+HMDB01487	Ch	Glucuronidation:WP698
+HMDB00935	Ch	Glucuronidation:WP698
+HMDB00494	Ch	Glucuronidation:WP698
+HMDB00912	Ch	Glucuronidation:WP698
+HMDB01401	Ch	Glucuronidation:WP698
+HMDB00902	Ch	Glucuronidation:WP698
+HMDB00538	Ch	Glucuronidation:WP698
+HMDB02111	Ch	Glucuronidation:WP698
+HMDB00061	Ch	Glucuronidation:WP698
+HMDB01429	Ch	Glucuronidation:WP698
+HMDB00295	Ch	Glucuronidation:WP698
+HMDB00122	Ch	Glucuronidation:WP698
+HMDB00285	Ch	Glucuronidation:WP698
+HMDB00089	Ch	Pyrimidine metabolism:map00240
+HMDB00079	Ch	Pyrimidine metabolism:map00240
+HMDB00262	Ch	Pyrimidine metabolism:map00240
+HMDB00082	Ch	Pyrimidine metabolism:map00240
+HMDB01409	Ch	Pyrimidine metabolism:map00240
+HMDB00226	Ch	Pyrimidine metabolism:map00240
+HMDB00998	Ch	Pyrimidine metabolism:map00240
+HMDB01191	Ch	Pyrimidine metabolism:map00240
+HMDB01096	Ch	Pyrimidine metabolism:map00240
+HMDB00300	Ch	Pyrimidine metabolism:map00240
+HMDB01351	Ch	Pyrimidine metabolism:map00240
+HMDB00288	Ch	Pyrimidine metabolism:map00240
+HMDB00280	Ch	Pyrimidine metabolism:map00240
+HMDB00026	Ch	Pyrimidine metabolism:map00240
+HMDB00285	Ch	Pyrimidine metabolism:map00240
+HMDB01342	Ch	Pyrimidine metabolism:map00240
+HMDB03911	Ch	Pyrimidine metabolism:map00240
+HMDB00273	Ch	Pyrimidine metabolism:map00240
+HMDB01000	Ch	Pyrimidine metabolism:map00240
+HMDB01274	Ch	Pyrimidine metabolism:map00240
+HMDB00828	Ch	Pyrimidine metabolism:map00240
+HMDB01227	Ch	Pyrimidine metabolism:map00240
+HMDB01546	Ch	Pyrimidine metabolism:map00240
+HMDB00095	Ch	Pyrimidine metabolism:map00240
+HMDB01202	Ch	Pyrimidine metabolism:map00240
+HMDB00218	Ch	Pyrimidine metabolism:map00240
+HMDB01245	Ch	Pyrimidine metabolism:map00240
+HMDB00056	Ch	Pyrimidine metabolism:map00240
+HMDB02031	Ch	Pyrimidine metabolism:map00240
+HMDB03349	Ch	Pyrimidine metabolism:map00240
+HMDB00076	Ch	Pyrimidine metabolism:map00240
+HMDB00014	Ch	Pyrimidine metabolism:map00240
+HMDB00295	Ch	Pyrimidine metabolism:map00240
+HMDB00012	Ch	Pyrimidine metabolism:map00240
+HMDB00296	Ch	Pyrimidine metabolism:map00240
+HMDB00058	Ch	Hypothetical Network for Drug Addiction:WP666
+HMDB03339	Ch	Hypothetical Network for Drug Addiction:WP666
+HMDB00464	Ch	Hypothetical Network for Drug Addiction:WP666
+HMDB01043	Ch	PDGF Pathway:WP2526
+HMDB01335	Ch	PDGF Pathway:WP2526
+HMDB00058	Ch	PDGF Pathway:WP2526
+HMDB01498	Ch	PDGF Pathway:WP2526
+HMDB00016	Ch	ACE Inhibitor Pathway:WP554
+HMDB04246	Ch	ACE Inhibitor Pathway:WP554
+HMDB00464	Ch	ACE Inhibitor Pathway:WP554
+HMDB00037	Ch	ACE Inhibitor Pathway:WP554
+HMDB01035	Ch	ACE Inhibitor Pathway:WP554
+HMDB01259	Ch	Glutamate Metabolism:SMP00072
+HMDB01397	Ch	Glutamate Metabolism:SMP00072
+HMDB01096	Ch	Glutamate Metabolism:SMP00072
+HMDB03337	Ch	Glutamate Metabolism:SMP00072
+HMDB00051	Ch	Glutamate Metabolism:SMP00072
+HMDB01128	Ch	Glutamate Metabolism:SMP00072
+HMDB01254	Ch	Glutamate Metabolism:SMP00072
+HMDB01062	Ch	Glutamate Metabolism:SMP00072
+HMDB03362	Ch	Glutamate Metabolism:SMP00072
+HMDB00112	Ch	Glutamate Metabolism:SMP00072
+HMDB00254	Ch	Glutamate Metabolism:SMP00072
+HMDB00125	Ch	Glutamate Metabolism:SMP00072
+HMDB01049	Ch	Glutamate Metabolism:SMP00072
+HMDB01301	Ch	Glutamate Metabolism:SMP00072
+HMDB00208	Ch	Glutamate Metabolism:SMP00072
+HMDB00097	Ch	Betaine Metabolism:SMP00123
+HMDB00939	Ch	Betaine Metabolism:SMP00123
+HMDB01185	Ch	Betaine Metabolism:SMP00123
+HMDB00092	Ch	Betaine Metabolism:SMP00123
+HMDB01252	Ch	Betaine Metabolism:SMP00123
+HMDB00696	Ch	Betaine Metabolism:SMP00123
+HMDB01846	Ch	Betaine Metabolism:SMP00123
+HMDB00043	Ch	Betaine Metabolism:SMP00123
+HMDB00742	Ch	Betaine Metabolism:SMP00123
+HMDB01396	Ch	Betaine Metabolism:SMP00123
+HMDB03540	Ch	AMPK Signaling:WP1403
+HMDB00058	Ch	AMPK Signaling:WP1403
+HMDB00464	Ch	AMPK Signaling:WP1403
+HMDB01532	Ch	AMPK Signaling:WP1403
+HMDB01175	Ch	AMPK Signaling:WP1403
+HMDB00122	Ch	AMPK Signaling:WP1403
+HMDB03337	Ch	Glutathione metabolism:map00480
+HMDB00123	Ch	Glutathione metabolism:map00480
+HMDB01049	Ch	Glutathione metabolism:map00480
+HMDB00267	Ch	Glutathione metabolism:map00480
+HMDB00125	Ch	Glutathione metabolism:map00480
+HMDB00574	Ch	Glutathione metabolism:map00480
+HMDB00078	Ch	Glutathione metabolism:map00480
+HMDB01512	Ch	Thiamine metabolism:map00730
+HMDB00235	Ch	Thiamine metabolism:map00730
+HMDB01372	Ch	Thiamine metabolism:map00730
+HMDB02666	Ch	Thiamine metabolism:map00730
+HMDB00259	Ch	Serotonin Receptor 2 and STAT3 Signaling:WP733
+HMDB01341	Ch	Histidine metabolism:map00340
+HMDB01534	Ch	Histidine metabolism:map00340
+HMDB02024	Ch	Histidine metabolism:map00340
+HMDB03905	Ch	Histidine metabolism:map00340
+HMDB00854	Ch	Histidine metabolism:map00340
+HMDB02820	Ch	Histidine metabolism:map00340
+HMDB03125	Ch	Histidine metabolism:map00340
+HMDB00301	Ch	Histidine metabolism:map00340
+HMDB00177	Ch	Histidine metabolism:map00340
+HMDB01014	Ch	Histidine metabolism:map00340
+HMDB00870	Ch	Histidine metabolism:map00340
+HMDB01846	Ch	Histidine metabolism:map00340
+HMDB00898	Ch	Histidine metabolism:map00340
+HMDB01967	Ch	Histidine metabolism:map00340
+HMDB00221	Ch	Histidine metabolism:map00340
+HMDB00033	Ch	Histidine metabolism:map00340
+HMDB04181	Ch	Histidine metabolism:map00340
+HMDB01555	Ch	Vitamin B6 metabolism:map00750
+HMDB03344	Ch	Vitamin B6 metabolism:map00750
+HMDB01545	Ch	Vitamin B6 metabolism:map00750
+HMDB01491	Ch	Vitamin B6 metabolism:map00750
+HMDB00239	Ch	Vitamin B6 metabolism:map00750
+HMDB06954	Ch	Vitamin B6 metabolism:map00750
+HMDB06955	Ch	Vitamin B6 metabolism:map00750
+HMDB01319	Ch	Vitamin B6 metabolism:map00750
+HMDB00017	Ch	Vitamin B6 metabolism:map00750
+HMDB01431	Ch	Vitamin B6 metabolism:map00750
+HMDB00119	Ch	Alanine Metabolism:SMP00055
+HMDB04995	Ch	Codeine and Morphine Metabolism:WP1604
+HMDB03939	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB06402	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB06272	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB06404	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03932	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03935	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03934	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03937	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03936	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03948	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB00220	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03945	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03946	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03712	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03942	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB03943	Ch	Fatty Acid Elongation In Mitochondria:SMP00054
+HMDB01143	Ch	G Protein Signaling Pathways:WP35
+HMDB00058	Ch	G Protein Signaling Pathways:WP35
+HMDB00464	Ch	G Protein Signaling Pathways:WP35
+HMDB00214	Ch	Urea Cycle:SMP00059
+HMDB00052	Ch	Urea Cycle:SMP00059
+HMDB00161	Ch	Urea Cycle:SMP00059
+HMDB00595	Ch	Urea Cycle:SMP00059
+HMDB00904	Ch	Urea Cycle:SMP00059
+HMDB00223	Ch	Urea Cycle:SMP00059
+HMDB00294	Ch	Urea Cycle:SMP00059
+HMDB00050	Ch	Purine metabolism:map00230
+HMDB01397	Ch	Purine metabolism:map00230
+HMDB00797	Ch	Purine metabolism:map00230
+HMDB01235	Ch	Purine metabolism:map00230
+HMDB00085	Ch	Purine metabolism:map00230
+HMDB01178	Ch	Purine metabolism:map00230
+HMDB01554	Ch	Purine metabolism:map00230
+HMDB02022	Ch	Purine metabolism:map00230
+HMDB01273	Ch	Purine metabolism:map00230
+HMDB01440	Ch	Purine metabolism:map00230
+HMDB00189	Ch	Purine metabolism:map00230
+HMDB00045	Ch	Purine metabolism:map00230
+HMDB03335	Ch	Purine metabolism:map00230
+HMDB01532	Ch	Purine metabolism:map00230
+HMDB01517	Ch	Purine metabolism:map00230
+HMDB00289	Ch	Purine metabolism:map00230
+HMDB00101	Ch	Purine metabolism:map00230
+HMDB00280	Ch	Purine metabolism:map00230
+HMDB00960	Ch	Purine metabolism:map00230
+HMDB01044	Ch	Purine metabolism:map00230
+HMDB01128	Ch	Purine metabolism:map00230
+HMDB06273	Ch	Purine metabolism:map00230
+HMDB00536	Ch	Purine metabolism:map00230
+HMDB00905	Ch	Purine metabolism:map00230
+HMDB01439	Ch	Purine metabolism:map00230
+HMDB00538	Ch	Purine metabolism:map00230
+HMDB01340	Ch	Purine metabolism:map00230
+HMDB01341	Ch	Purine metabolism:map00230
+HMDB01508	Ch	Purine metabolism:map00230
+HMDB00058	Ch	Purine metabolism:map00230
+HMDB01201	Ch	Purine metabolism:map00230
+HMDB00195	Ch	Purine metabolism:map00230
+HMDB00175	Ch	Purine metabolism:map00230
+HMDB00641	Ch	Purine metabolism:map00230
+HMDB06211	Ch	Purine metabolism:map00230
+HMDB01548	Ch	Purine metabolism:map00230
+HMDB11629	Ch	Purine metabolism:map00230
+HMDB00299	Ch	Purine metabolism:map00230
+HMDB00157	Ch	Purine metabolism:map00230
+HMDB00132	Ch	Purine metabolism:map00230
+HMDB00133	Ch	Purine metabolism:map00230
+HMDB00071	Ch	Purine metabolism:map00230
+HMDB01308	Ch	Purine metabolism:map00230
+HMDB00292	Ch	Purine metabolism:map00230
+HMDB00034	Ch	Purine metabolism:map00230
+HMDB03378	Ch	Arginine and proline metabolism:map00330
+HMDB00223	Ch	Arginine and proline metabolism:map00330
+HMDB02273	Ch	Arginine and proline metabolism:map00330
+HMDB02234	Ch	Arginine and proline metabolism:map00330
+HMDB01096	Ch	Arginine and proline metabolism:map00330
+HMDB03411	Ch	Arginine and proline metabolism:map00330
+HMDB01511	Ch	Arginine and proline metabolism:map00330
+HMDB00162	Ch	Arginine and proline metabolism:map00330
+HMDB00161	Ch	Arginine and proline metabolism:map00330
+HMDB06055	Ch	Arginine and proline metabolism:map00330
+HMDB00064	Ch	Arginine and proline metabolism:map00330
+HMDB00128	Ch	Arginine and proline metabolism:map00330
+HMDB00148	Ch	Arginine and proline metabolism:map00330
+HMDB06875	Ch	Arginine and proline metabolism:map00330
+HMDB01369	Ch	Arginine and proline metabolism:map00330
+HMDB00904	Ch	Arginine and proline metabolism:map00330
+HMDB02104	Ch	Arginine and proline metabolism:map00330
+HMDB00517	Ch	Arginine and proline metabolism:map00330
+HMDB02070	Ch	Arginine and proline metabolism:map00330
+HMDB01301	Ch	Arginine and proline metabolism:map00330
+HMDB00191	Ch	Arginine and proline metabolism:map00330
+HMDB00214	Ch	Arginine and proline metabolism:map00330
+HMDB00052	Ch	Arginine and proline metabolism:map00330
+HMDB00051	Ch	Arginine and proline metabolism:map00330
+HMDB04224	Ch	Arginine and proline metabolism:map00330
+HMDB00595	Ch	Arginine and proline metabolism:map00330
+HMDB00134	Ch	Arginine and proline metabolism:map00330
+HMDB06556	Ch	Arginine and proline metabolism:map00330
+HMDB00294	Ch	Arginine and proline metabolism:map00330
+HMDB00168	Ch	Ammonia Recycling:SMP00009
+HMDB12210	Ch	Ammonia Recycling:SMP00009
+HMDB00187	Ch	Ammonia Recycling:SMP00009
+HMDB00208	Ch	Ammonia Recycling:SMP00009
+HMDB00177	Ch	Ammonia Recycling:SMP00009
+HMDB01533	Ch	Ammonia Recycling:SMP00009
+HMDB13639	Ch	Ammonia Recycling:SMP00009
+HMDB01451	Ch	Ammonia Recycling:SMP00009
+HMDB00301	Ch	Ammonia Recycling:SMP00009
+HMDB06503	Ch	Phenylacetate Metabolism:SMP00126
+HMDB00641	Ch	Phenylacetate Metabolism:SMP00126
+HMDB06344	Ch	Phenylacetate Metabolism:SMP00126
+HMDB01423	Ch	Phenylacetate Metabolism:SMP00126
+HMDB00912	Ch	Type II diabetes mellitus:WP1584
+HMDB00538	Ch	Type II diabetes mellitus:WP1584
+HMDB00122	Ch	Type II diabetes mellitus:WP1584
+HMDB00464	Ch	Type II diabetes mellitus:WP1584
+HMDB00243	Ch	Type II diabetes mellitus:WP1584
+HMDB03423	Ch	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer:WP2868
+HMDB00190	Ch	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer:WP2868
+HMDB00122	Ch	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer:WP2868
+HMDB00243	Ch	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer:WP2868
+HMDB00168	Ch	Nitrogen metabolism:map00910
+HMDB12210	Ch	Nitrogen metabolism:map00910
+HMDB00187	Ch	Nitrogen metabolism:map00910
+HMDB00208	Ch	Nitrogen metabolism:map00910
+HMDB00177	Ch	Nitrogen metabolism:map00910
+HMDB01533	Ch	Nitrogen metabolism:map00910
+HMDB13639	Ch	Nitrogen metabolism:map00910
+HMDB01451	Ch	Nitrogen metabolism:map00910
+HMDB00301	Ch	Nitrogen metabolism:map00910
+HMDB01043	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB01335	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB01442	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB00464	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB01139	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB12110	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB00903	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB00063	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB03175	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB01452	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB03208	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB01830	Ch	Prostaglandin Synthesis and Regulation:WP98
+HMDB00067	Ch	Statin Pathway:WP430
+HMDB00256	Ch	Statin Pathway:WP430
+HMDB00619	Ch	Statin Pathway:WP430
+HMDB01375	Ch	Statin Pathway:WP430
+HMDB03419	Ch	Statin Pathway:WP430
+HMDB10168	Ch	Sphingolipid Metabolism:WP1422
+HMDB12107	Ch	Sphingolipid Metabolism:WP1422
+HMDB11699	Ch	Sphingolipid Metabolism:WP1422
+HMDB12105	Ch	Sphingolipid Metabolism:WP1422
+HMDB12102	Ch	Sphingolipid Metabolism:WP1422
+HMDB12103	Ch	Sphingolipid Metabolism:WP1422
+HMDB12100	Ch	Sphingolipid Metabolism:WP1422
+HMDB12101	Ch	Sphingolipid Metabolism:WP1422
+HMDB12091	Ch	Sphingolipid Metabolism:WP1422
+HMDB00269	Ch	Sphingolipid Metabolism:WP1422
+HMDB12089	Ch	Sphingolipid Metabolism:WP1422
+HMDB04947	Ch	Sphingolipid Metabolism:WP1422
+HMDB12088	Ch	Sphingolipid Metabolism:WP1422
+HMDB04949	Ch	Sphingolipid Metabolism:WP1422
+HMDB04948	Ch	Sphingolipid Metabolism:WP1422
+HMDB12930	Ch	Sphingolipid Metabolism:WP1422
+HMDB01338	Ch	Sphingolipid Metabolism:WP1422
+HMDB04969	Ch	Sphingolipid Metabolism:WP1422
+HMDB12095	Ch	Sphingolipid Metabolism:WP1422
+HMDB00140	Ch	Sphingolipid Metabolism:WP1422
+HMDB12094	Ch	Sphingolipid Metabolism:WP1422
+HMDB00252	Ch	Sphingolipid Metabolism:WP1422
+HMDB12104	Ch	Sphingolipid Metabolism:WP1422
+HMDB00024	Ch	Sphingolipid Metabolism:WP1422
+HMDB12090	Ch	Sphingolipid Metabolism:WP1422
+HMDB01383	Ch	Sphingolipid Metabolism:WP1422
+HMDB12092	Ch	Sphingolipid Metabolism:WP1422
+HMDB04978	Ch	Sphingolipid Metabolism:WP1422
+HMDB04979	Ch	Sphingolipid Metabolism:WP1422
+HMDB12093	Ch	Sphingolipid Metabolism:WP1422
+HMDB00277	Ch	Sphingolipid Metabolism:WP1422
+HMDB04977	Ch	Sphingolipid Metabolism:WP1422
+HMDB10169	Ch	Sphingolipid Metabolism:WP1422
+HMDB04970	Ch	Sphingolipid Metabolism:WP1422
+HMDB04971	Ch	Sphingolipid Metabolism:WP1422
+HMDB04972	Ch	Sphingolipid Metabolism:WP1422
+HMDB04973	Ch	Sphingolipid Metabolism:WP1422
+HMDB04974	Ch	Sphingolipid Metabolism:WP1422
+HMDB04975	Ch	Sphingolipid Metabolism:WP1422
+HMDB04976	Ch	Sphingolipid Metabolism:WP1422
+HMDB04957	Ch	Sphingolipid Metabolism:WP1422
+HMDB04952	Ch	Sphingolipid Metabolism:WP1422
+HMDB04953	Ch	Sphingolipid Metabolism:WP1422
+HMDB04950	Ch	Sphingolipid Metabolism:WP1422
+HMDB04951	Ch	Sphingolipid Metabolism:WP1422
+HMDB04956	Ch	Sphingolipid Metabolism:WP1422
+HMDB00187	Ch	Sphingolipid Metabolism:WP1422
+HMDB04954	Ch	Sphingolipid Metabolism:WP1422
+HMDB04955	Ch	Sphingolipid Metabolism:WP1422
+HMDB01348	Ch	Sphingolipid Metabolism:WP1422
+HMDB06752	Ch	Sphingolipid Metabolism:WP1422
+HMDB12096	Ch	Sphingolipid Metabolism:WP1422
+HMDB04249	Ch	Rac1/Pak1/p38/MMP-2 pathway:WP3303
+HMDB02009	Ch	Butyrate Metabolism:SMP00073
+HMDB01088	Ch	Butyrate Metabolism:SMP00073
+HMDB01375	Ch	Butyrate Metabolism:SMP00073
+HMDB01166	Ch	Butyrate Metabolism:SMP00073
+HMDB00039	Ch	Butyrate Metabolism:SMP00073
+HMDB00060	Ch	Butyrate Metabolism:SMP00073
+HMDB00660	Ch	Cori Cycle:WP1946
+HMDB01058	Ch	Cori Cycle:WP1946
+HMDB01112	Ch	Cori Cycle:WP1946
+HMDB01401	Ch	Cori Cycle:WP1946
+HMDB00124	Ch	Cori Cycle:WP1946
+HMDB00122	Ch	Cori Cycle:WP1946
+HMDB01176	Ch	Amino Sugar Metabolism:SMP00045
+HMDB01254	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00263	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00243	Ch	Amino Sugar Metabolism:SMP00045
+HMDB03556	Ch	Amino Sugar Metabolism:SMP00045
+HMDB06268	Ch	Amino Sugar Metabolism:SMP00045
+HMDB01514	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00042	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00124	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00148	Ch	Amino Sugar Metabolism:SMP00045
+HMDB01121	Ch	Amino Sugar Metabolism:SMP00045
+HMDB04270	Ch	Amino Sugar Metabolism:SMP00045
+HMDB01129	Ch	Amino Sugar Metabolism:SMP00045
+HMDB01062	Ch	Amino Sugar Metabolism:SMP00045
+HMDB03362	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00660	Ch	Amino Sugar Metabolism:SMP00045
+HMDB01341	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00215	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00230	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00051	Ch	Amino Sugar Metabolism:SMP00045
+HMDB01367	Ch	Amino Sugar Metabolism:SMP00045
+HMDB00290	Ch	Amino Sugar Metabolism:SMP00045
+HMDB04482	Ch	Estrogen metabolism:WP697
+HMDB04483	Ch	Estrogen metabolism:WP697
+HMDB12622	Ch	Estrogen metabolism:WP697
+HMDB02168	Ch	Estrogen metabolism:WP697
+HMDB01377	Ch	Estrogen metabolism:WP697
+HMDB00145	Ch	Estrogen metabolism:WP697
+HMDB00405	Ch	Estrogen metabolism:WP697
+HMDB12782	Ch	Estrogen metabolism:WP697
+HMDB00335	Ch	Estrogen metabolism:WP697
+HMDB01425	Ch	Estrogen metabolism:WP697
+HMDB00343	Ch	Estrogen metabolism:WP697
+HMDB00338	Ch	Estrogen metabolism:WP697
+HMDB00010	Ch	Estrogen metabolism:WP697
+HMDB00108	Ch	EV release from cardiac cells and their functional effects:WP3297
+HMDB00742	Ch	EV release from cardiac cells and their functional effects:WP3297
+HMDB00082	Ch	DNA Replication Fork:SMP00477
+HMDB01273	Ch	DNA Replication Fork:SMP00477
+HMDB00538	Ch	DNA Replication Fork:SMP00477
+HMDB00285	Ch	DNA Replication Fork:SMP00477
+HMDB00089	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00079	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00262	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00082	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01409	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00226	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00998	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01191	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01096	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00300	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01351	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00288	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00280	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00026	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00285	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01342	Ch	Pyrimidine Metabolism:SMP00046
+HMDB03911	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00273	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01000	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01274	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00828	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01227	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01546	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00095	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01202	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00218	Ch	Pyrimidine Metabolism:SMP00046
+HMDB01245	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00056	Ch	Pyrimidine Metabolism:SMP00046
+HMDB02031	Ch	Pyrimidine Metabolism:SMP00046
+HMDB03349	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00076	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00014	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00295	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00012	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00296	Ch	Pyrimidine Metabolism:SMP00046
+HMDB00061	Ch	Tamoxifen metabolism:WP691
+HMDB00097	Ch	Glycerophospholipid metabolism:map00564
+HMDB00614	Ch	Glycerophospholipid metabolism:map00564
+HMDB00564	Ch	Glycerophospholipid metabolism:map00564
+HMDB01473	Ch	Glycerophospholipid metabolism:map00564
+HMDB08923	Ch	Glycerophospholipid metabolism:map00564
+HMDB00895	Ch	Glycerophospholipid metabolism:map00564
+HMDB00674	Ch	Glycerophospholipid metabolism:map00564
+HMDB01338	Ch	Glycerophospholipid metabolism:map00564
+HMDB10382	Ch	Glycerophospholipid metabolism:map00564
+HMDB07853	Ch	Glycerophospholipid metabolism:map00564
+HMDB07098	Ch	Glycerophospholipid metabolism:map00564
+HMDB11503	Ch	Glycerophospholipid metabolism:map00564
+HMDB06968	Ch	Glycerophospholipid metabolism:map00564
+HMDB01413	Ch	Glycerophospholipid metabolism:map00564
+HMDB00126	Ch	Glycerophospholipid metabolism:map00564
+HMDB00149	Ch	Glycerophospholipid metabolism:map00564
+HMDB09778	Ch	Glycerophospholipid metabolism:map00564
+HMDB00114	Ch	Glycerophospholipid metabolism:map00564
+HMDB10570	Ch	Glycerophospholipid metabolism:map00564
+HMDB00977	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB02012	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB01063	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB06819	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB06818	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB06820	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB06817	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB06816	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB00500	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB12188	Ch	Ubiquinone Biosynthesis:SMP00065
+HMDB01018	Ch	Nucleotide Sugars Metabolism:SMP00010
+HMDB00302	Ch	Nucleotide Sugars Metabolism:SMP00010
+HMDB00935	Ch	Nucleotide Sugars Metabolism:SMP00010
+HMDB00645	Ch	Nucleotide Sugars Metabolism:SMP00010
+HMDB01586	Ch	Nucleotide Sugars Metabolism:SMP00010
+HMDB00143	Ch	Nucleotide Sugars Metabolism:SMP00010
+HMDB00286	Ch	Nucleotide Sugars Metabolism:SMP00010
+HMDB06842	Ch	Steroid biosynthesis:map00100
+HMDB06840	Ch	Steroid biosynthesis:map00100
+HMDB06841	Ch	Steroid biosynthesis:map00100
+HMDB06927	Ch	Steroid biosynthesis:map00100
+HMDB00876	Ch	Steroid biosynthesis:map00100
+HMDB01170	Ch	Steroid biosynthesis:map00100
+HMDB00227	Ch	Steroid biosynthesis:map00100
+HMDB01090	Ch	Steroid biosynthesis:map00100
+HMDB01217	Ch	Steroid biosynthesis:map00100
+HMDB02027	Ch	Steroid biosynthesis:map00100
+HMDB01278	Ch	Steroid biosynthesis:map00100
+HMDB01251	Ch	Steroid biosynthesis:map00100
+HMDB01375	Ch	Steroid biosynthesis:map00100
+HMDB01484	Ch	Steroid biosynthesis:map00100
+HMDB00067	Ch	Steroid biosynthesis:map00100
+HMDB03896	Ch	Steroid biosynthesis:map00100
+HMDB06839	Ch	Steroid biosynthesis:map00100
+HMDB06838	Ch	Steroid biosynthesis:map00100
+HMDB00961	Ch	Steroid biosynthesis:map00100
+HMDB01120	Ch	Steroid biosynthesis:map00100
+HMDB01285	Ch	Steroid biosynthesis:map00100
+HMDB01286	Ch	Steroid biosynthesis:map00100
+HMDB01023	Ch	Steroid biosynthesis:map00100
+HMDB00256	Ch	Steroid biosynthesis:map00100
+HMDB06271	Ch	Steroid biosynthesis:map00100
+HMDB01343	Ch	Steroid biosynthesis:map00100
+HMDB01347	Ch	Steroid biosynthesis:map00100
+HMDB01188	Ch	Steroid biosynthesis:map00100
+HMDB02719	Ch	Steroid biosynthesis:map00100
+HMDB00032	Ch	Steroid biosynthesis:map00100
+HMDB02369	Ch	Dopaminergic Neurogenesis:WP2855
+HMDB12874	Ch	Dopaminergic Neurogenesis:WP2855
+HMDB01852	Ch	Dopaminergic Neurogenesis:WP2855
+HMDB04448	Ch	DNA Damage Response:WP707
+HMDB00151	Ch	DNA Damage Response:WP707
+HMDB12238	Ch	Thyroxine (Thyroid Hormone) Production:WP1981
+HMDB00248	Ch	Thyroxine (Thyroid Hormone) Production:WP1981
+HMDB00158	Ch	Thyroxine (Thyroid Hormone) Production:WP1981
+HMDB01043	Ch	Spinal Cord Injury:WP2431
+HMDB13040	Ch	Spinal Cord Injury:WP2431
+HMDB01381	Ch	Spinal Cord Injury:WP2431
+HMDB00050	Ch	Nucleotide GPCRs:WP80
+HMDB00034	Ch	Nucleotide GPCRs:WP80
+HMDB01070	Ch	Fatty acid metabolism:map00071
+HMDB00220	Ch	Fatty acid metabolism:map00071
+HMDB00222	Ch	Fatty acid metabolism:map00071
+HMDB06402	Ch	Fatty acid metabolism:map00071
+HMDB02009	Ch	Fatty acid metabolism:map00071
+HMDB06404	Ch	Fatty acid metabolism:map00071
+HMDB03571	Ch	Fatty acid metabolism:map00071
+HMDB02845	Ch	Fatty acid metabolism:map00071
+HMDB01338	Ch	Fatty acid metabolism:map00071
+HMDB01484	Ch	Fatty acid metabolism:map00071
+HMDB03938	Ch	Fatty acid metabolism:map00071
+HMDB03932	Ch	Fatty acid metabolism:map00071
+HMDB03934	Ch	Fatty acid metabolism:map00071
+HMDB01166	Ch	Fatty acid metabolism:map00071
+HMDB03936	Ch	Fatty acid metabolism:map00071
+HMDB03937	Ch	Fatty acid metabolism:map00071
+HMDB01521	Ch	Fatty acid metabolism:map00071
+HMDB01206	Ch	Fatty acid metabolism:map00071
+HMDB01088	Ch	Fatty acid metabolism:map00071
+HMDB03948	Ch	Fatty acid metabolism:map00071
+HMDB03949	Ch	Fatty acid metabolism:map00071
+HMDB03944	Ch	Fatty acid metabolism:map00071
+HMDB03945	Ch	Fatty acid metabolism:map00071
+HMDB03946	Ch	Fatty acid metabolism:map00071
+HMDB03940	Ch	Fatty acid metabolism:map00071
+HMDB03941	Ch	Fatty acid metabolism:map00071
+HMDB03942	Ch	Fatty acid metabolism:map00071
+HMDB03943	Ch	Fatty acid metabolism:map00071
+HMDB01057	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01052	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00695	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01011	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB02217	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01113	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01157	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00202	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01275	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01356	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01372	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB06865	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00023	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00962	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01041	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB06870	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00687	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01022	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB02054	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00883	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01269	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB02166	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00491	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00985	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00172	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01493	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB06868	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB06869	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB00019	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01243	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB06866	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB06867	Ch	Valine, Leucine and Isoleucine Degradation:SMP00032
+HMDB01547	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB03128	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00319	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00037	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00374	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB02802	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00067	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00903	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB04025	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00063	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00016	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00363	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB01830	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00253	Ch	Glucocorticoid & Mineralcorticoid Metabolism:WP237
+HMDB00058	Ch	Estrogen signaling pathway:WP712
+HMDB04448	Ch	Estrogen signaling pathway:WP712
+HMDB00151	Ch	Estrogen signaling pathway:WP712
+HMDB01190	Ch	Tryptophan Metabolism:SMP00063
+HMDB00978	Ch	Tryptophan Metabolism:SMP00063
+HMDB01238	Ch	Tryptophan Metabolism:SMP00063
+HMDB01330	Ch	Tryptophan Metabolism:SMP00063
+HMDB11631	Ch	Tryptophan Metabolism:SMP00063
+HMDB00715	Ch	Tryptophan Metabolism:SMP00063
+HMDB00303	Ch	Tryptophan Metabolism:SMP00063
+HMDB12948	Ch	Tryptophan Metabolism:SMP00063
+HMDB00929	Ch	Tryptophan Metabolism:SMP00063
+HMDB12819	Ch	Tryptophan Metabolism:SMP00063
+HMDB04076	Ch	Tryptophan Metabolism:SMP00063
+HMDB04370	Ch	Tryptophan Metabolism:SMP00063
+HMDB04096	Ch	Tryptophan Metabolism:SMP00063
+HMDB01123	Ch	Tryptophan Metabolism:SMP00063
+HMDB04259	Ch	Tryptophan Metabolism:SMP00063
+HMDB00684	Ch	Tryptophan Metabolism:SMP00063
+HMDB01280	Ch	Tryptophan Metabolism:SMP00063
+HMDB01389	Ch	Tryptophan Metabolism:SMP00063
+HMDB04078	Ch	Tryptophan Metabolism:SMP00063
+HMDB00259	Ch	Tryptophan Metabolism:SMP00063
+HMDB04073	Ch	Tryptophan Metabolism:SMP00063
+HMDB00232	Ch	Tryptophan Metabolism:SMP00063
+HMDB04077	Ch	Tryptophan Metabolism:SMP00063
+HMDB00197	Ch	Tryptophan Metabolism:SMP00063
+HMDB00881	Ch	Tryptophan Metabolism:SMP00063
+HMDB00472	Ch	Tryptophan Metabolism:SMP00063
+HMDB01476	Ch	Tryptophan Metabolism:SMP00063
+HMDB01200	Ch	Tryptophan Metabolism:SMP00063
+HMDB00763	Ch	Tryptophan Metabolism:SMP00063
+HMDB04086	Ch	Tryptophan Metabolism:SMP00063
+HMDB04369	Ch	Tryptophan Metabolism:SMP00063
+HMDB04081	Ch	Tryptophan Metabolism:SMP00063
+HMDB04083	Ch	Tryptophan Metabolism:SMP00063
+HMDB04089	Ch	Tryptophan Metabolism:SMP00063
+HMDB03966	Ch	Selenium Metabolism and Selenoproteins:WP28
+HMDB03288	Ch	Selenium Metabolism and Selenoproteins:WP28
+HMDB03840	Ch	Selenium Metabolism and Selenoproteins:WP28
+HMDB11110	Ch	Selenium Metabolism and Selenoproteins:WP28
+HMDB11119	Ch	Selenium Metabolism and Selenoproteins:WP28
+HMDB06407	Ch	Selenium Metabolism and Selenoproteins:WP28
+HMDB04448	Ch	miRNA Regulation of DNA Damage Response:WP1530
+HMDB00151	Ch	miRNA Regulation of DNA Damage Response:WP1530
+HMDB03345	Ch	Retinol metabolism:map00830
+HMDB00561	Ch	Retinol metabolism:map00830
+HMDB01358	Ch	Retinol metabolism:map00830
+HMDB06285	Ch	Retinol metabolism:map00830
+HMDB03648	Ch	Retinol metabolism:map00830
+HMDB00305	Ch	Retinol metabolism:map00830
+HMDB12329	Ch	Retinol metabolism:map00830
+HMDB12452	Ch	Retinol metabolism:map00830
+HMDB06254	Ch	Retinol metabolism:map00830
+HMDB06217	Ch	Retinol metabolism:map00830
+HMDB03141	Ch	Retinol metabolism:map00830
+HMDB01862	Ch	Retinol metabolism:map00830
+HMDB11618	Ch	Retinol metabolism:map00830
+HMDB12451	Ch	Retinol metabolism:map00830
+HMDB02369	Ch	Retinol metabolism:map00830
+HMDB06218	Ch	Retinol metabolism:map00830
+HMDB02152	Ch	Retinol metabolism:map00830
+HMDB06216	Ch	Retinol metabolism:map00830
+HMDB04246	Ch	Complement and Coagulation Cascades:WP558
+HMDB01555	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB03344	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB01545	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB01491	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB00239	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB06954	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB06955	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB01319	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB00017	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB01431	Ch	Vitamin B6 Metabolism:SMP00017
+HMDB01137	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB06901	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00936	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB02158	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00916	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00245	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00241	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB02211	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB01097	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00123	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00961	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB01162	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB04158	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB03178	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00570	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB01149	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB01008	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB03325	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00643	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB01261	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00054	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB01086	Ch	Porphyrin and chlorophyll metabolism:map00860
+HMDB00097	Ch	One carbon donor:WP2190
+HMDB01185	Ch	One carbon donor:WP2190
+HMDB00092	Ch	One carbon donor:WP2190
+HMDB00965	Ch	One carbon donor:WP2190
+HMDB00251	Ch	One carbon donor:WP2190
+HMDB00895	Ch	One carbon donor:WP2190
+HMDB00696	Ch	One carbon donor:WP2190
+HMDB01256	Ch	One carbon donor:WP2190
+HMDB01257	Ch	One carbon donor:WP2190
+HMDB00099	Ch	One carbon donor:WP2190
+HMDB00043	Ch	One carbon donor:WP2190
+HMDB01414	Ch	One carbon donor:WP2190
+HMDB00271	Ch	One carbon donor:WP2190
+HMDB00574	Ch	One carbon donor:WP2190
+HMDB00125	Ch	One carbon donor:WP2190
+HMDB00123	Ch	One carbon donor:WP2190
+HMDB00214	Ch	One carbon donor:WP2190
+HMDB00181	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00058	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00464	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB01010	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB01934	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00912	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00586	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00073	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00538	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00588	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB00158	Ch	Nicotine Activity on Dopaminergic Neurons:WP1602
+HMDB06402	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB01521	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB01362	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB01114	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB03932	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB03935	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB01338	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB03934	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB03571	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB00062	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB00827	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB03945	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB03946	Ch	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids:SMP00482
+HMDB00201	Ch	Oxidation of Branched Chain Fatty Acids:SMP00030
+HMDB01275	Ch	Oxidation of Branched Chain Fatty Acids:SMP00030
+HMDB01359	Ch	Oxidation of Branched Chain Fatty Acids:SMP00030
+HMDB00801	Ch	Oxidation of Branched Chain Fatty Acids:SMP00030
+HMDB01295	Ch	Oxidation of Branched Chain Fatty Acids:SMP00030
+HMDB00795	Ch	Oxidation of Branched Chain Fatty Acids:SMP00030
+HMDB01958	Ch	Oxidation of Branched Chain Fatty Acids:SMP00030
+HMDB01206	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB00714	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB00045	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB00912	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB02252	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB00538	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB01870	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB01429	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB00123	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB01423	Ch	Amino acid conjugation of benzoic acid:WP521
+HMDB01056	Ch	One carbon pool by folate:map00670
+HMDB01534	Ch	One carbon pool by folate:map00670
+HMDB01396	Ch	One carbon pool by folate:map00670
+HMDB00972	Ch	One carbon pool by folate:map00670
+HMDB01354	Ch	One carbon pool by folate:map00670
+HMDB01533	Ch	One carbon pool by folate:map00670
+HMDB06825	Ch	One carbon pool by folate:map00670
+HMDB06826	Ch	One carbon pool by folate:map00670
+HMDB01562	Ch	One carbon pool by folate:map00670
+HMDB00142	Ch	One carbon pool by folate:map00670
+HMDB00121	Ch	One carbon pool by folate:map00670
+HMDB02789	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB03598	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB11618	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB03101	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB02152	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB03000	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB00561	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB01358	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB06285	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB00305	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB12874	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB03993	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB00876	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB06217	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB06216	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB02268	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB03154	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB02369	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB06218	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB02204	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB03233	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB01852	Ch	Vitamin A and Carotenoid Metabolism:WP716
+HMDB01401	Ch	Galactose metabolism:map00052
+HMDB00247	Ch	Galactose metabolism:map00052
+HMDB04162	Ch	Galactose metabolism:map00052
+HMDB00169	Ch	Galactose metabolism:map00052
+HMDB00048	Ch	Galactose metabolism:map00052
+HMDB00186	Ch	Galactose metabolism:map00052
+HMDB00302	Ch	Galactose metabolism:map00052
+HMDB03553	Ch	Galactose metabolism:map00052
+HMDB06792	Ch	Galactose metabolism:map00052
+HMDB00143	Ch	Galactose metabolism:map00052
+HMDB00286	Ch	Galactose metabolism:map00052
+HMDB00122	Ch	Galactose metabolism:map00052
+HMDB00107	Ch	Galactose metabolism:map00052
+HMDB00660	Ch	Galactose metabolism:map00052
+HMDB06791	Ch	Galactose metabolism:map00052
+HMDB01586	Ch	Galactose metabolism:map00052
+HMDB00258	Ch	Galactose metabolism:map00052
+HMDB03213	Ch	Galactose metabolism:map00052
+HMDB00211	Ch	Galactose metabolism:map00052
+HMDB06790	Ch	Galactose metabolism:map00052
+HMDB03345	Ch	Galactose metabolism:map00052
+HMDB01262	Ch	Galactose metabolism:map00052
+HMDB00645	Ch	Galactose metabolism:map00052
+HMDB00131	Ch	Galactose metabolism:map00052
+HMDB05826	Ch	Galactose metabolism:map00052
+HMDB07223	Ch	T-Cell Receptor and Co-stimulatory Signaling:WP2583
+HMDB01059	Ch	T-Cell Receptor and Co-stimulatory Signaling:WP2583
+HMDB00464	Ch	T-Cell Receptor and Co-stimulatory Signaling:WP2583
+HMDB04249	Ch	Inositol phosphate metabolism:map00562
+HMDB01059	Ch	Inositol phosphate metabolism:map00562
+HMDB01401	Ch	Inositol phosphate metabolism:map00562
+HMDB10150	Ch	Inositol phosphate metabolism:map00562
+HMDB06229	Ch	Inositol phosphate metabolism:map00562
+HMDB01313	Ch	Inositol phosphate metabolism:map00562
+HMDB10037	Ch	Inositol phosphate metabolism:map00562
+HMDB06953	Ch	Inositol phosphate metabolism:map00562
+HMDB00127	Ch	Inositol phosphate metabolism:map00562
+HMDB06814	Ch	Inositol phosphate metabolism:map00562
+HMDB06971	Ch	Inositol phosphate metabolism:map00562
+HMDB03850	Ch	Inositol phosphate metabolism:map00562
+HMDB00968	Ch	Inositol phosphate metabolism:map00562
+HMDB03848	Ch	Inositol phosphate metabolism:map00562
+HMDB04527	Ch	Inositol phosphate metabolism:map00562
+HMDB01143	Ch	Inositol phosphate metabolism:map00562
+HMDB07102	Ch	Inositol phosphate metabolism:map00562
+HMDB06235	Ch	Inositol phosphate metabolism:map00562
+HMDB06234	Ch	Inositol phosphate metabolism:map00562
+HMDB06230	Ch	Inositol phosphate metabolism:map00562
+HMDB03502	Ch	Inositol phosphate metabolism:map00562
+HMDB00211	Ch	Inositol phosphate metabolism:map00562
+HMDB01187	Ch	Inositol phosphate metabolism:map00562
+HMDB00213	Ch	Inositol phosphate metabolism:map00562
+HMDB01498	Ch	Inositol phosphate metabolism:map00562
+HMDB09925	Ch	Inositol phosphate metabolism:map00562
+HMDB03529	Ch	Inositol phosphate metabolism:map00562
+HMDB09783	Ch	Inositol phosphate metabolism:map00562
+HMDB00211	Ch	Inositol Metabolism:SMP00011
+HMDB01187	Ch	Inositol Metabolism:SMP00011
+HMDB00213	Ch	Inositol Metabolism:SMP00011
+HMDB04249	Ch	Inositol Metabolism:SMP00011
+HMDB01498	Ch	Inositol Metabolism:SMP00011
+HMDB03850	Ch	Inositol Metabolism:SMP00011
+HMDB06235	Ch	Inositol Metabolism:SMP00011
+HMDB00968	Ch	Inositol Metabolism:SMP00011
+HMDB01059	Ch	Inositol Metabolism:SMP00011
+HMDB03529	Ch	Inositol Metabolism:SMP00011
+HMDB04527	Ch	Inositol Metabolism:SMP00011
+HMDB01143	Ch	Inositol Metabolism:SMP00011
+HMDB01401	Ch	Inositol Metabolism:SMP00011
+HMDB01313	Ch	Inositol Metabolism:SMP00011
+HMDB06953	Ch	Inositol Metabolism:SMP00011
+HMDB00127	Ch	Inositol Metabolism:SMP00011
+HMDB06814	Ch	Inositol Metabolism:SMP00011
+HMDB03848	Ch	Inositol Metabolism:SMP00011
+HMDB03502	Ch	Inositol Metabolism:SMP00011
+HMDB00876	Ch	Osteoblast Signaling:WP322
+HMDB00095	Ch	Plasmalogen Synthesis:SMP00479
+HMDB00217	Ch	Plasmalogen Synthesis:SMP00479
+HMDB03125	Ch	Plasmalogen Synthesis:SMP00479
+HMDB01362	Ch	Plasmalogen Synthesis:SMP00479
+HMDB01114	Ch	Plasmalogen Synthesis:SMP00479
+HMDB01487	Ch	Plasmalogen Synthesis:SMP00479
+HMDB01377	Ch	Plasmalogen Synthesis:SMP00479
+HMDB00902	Ch	Plasmalogen Synthesis:SMP00479
+HMDB00827	Ch	Plasmalogen Synthesis:SMP00479
+HMDB01413	Ch	Plasmalogen Synthesis:SMP00479
+HMDB00221	Ch	Plasmalogen Synthesis:SMP00479
+HMDB01423	Ch	Plasmalogen Synthesis:SMP00479
+HMDB02111	Ch	Plasmalogen Synthesis:SMP00479
+HMDB00660	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01346	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB00169	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01047	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01095	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01078	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB00174	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01265	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01163	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01058	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01112	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB01076	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB06330	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB00247	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB00124	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB06800	Ch	Fructose and Mannose Degradation:SMP00064
+HMDB00131	Ch	Triacylglyceride Synthesis:WP325
+HMDB11750	Ch	Triacylglyceride Synthesis:WP325
+HMDB01473	Ch	Triacylglyceride Synthesis:WP325
+HMDB00190	Ch	Pyruvate Metabolism:SMP00060
+HMDB03904	Ch	Pyruvate Metabolism:SMP00060
+HMDB06880	Ch	Pyruvate Metabolism:SMP00060
+HMDB01881	Ch	Pyruvate Metabolism:SMP00060
+HMDB01494	Ch	Pyruvate Metabolism:SMP00060
+HMDB00990	Ch	Pyruvate Metabolism:SMP00060
+HMDB01066	Ch	Pyruvate Metabolism:SMP00060
+HMDB00042	Ch	Pyruvate Metabolism:SMP00060
+HMDB01167	Ch	Pyruvate Metabolism:SMP00060
+HMDB00156	Ch	Pyruvate Metabolism:SMP00060
+HMDB01175	Ch	Pyruvate Metabolism:SMP00060
+HMDB06458	Ch	Pyruvate Metabolism:SMP00060
+HMDB06878	Ch	Pyruvate Metabolism:SMP00060
+HMDB00263	Ch	Pyruvate Metabolism:SMP00060
+HMDB01311	Ch	Pyruvate Metabolism:SMP00060
+HMDB00223	Ch	Pyruvate Metabolism:SMP00060
+HMDB03052	Ch	Pyruvate Metabolism:SMP00060
+HMDB01175	Ch	Fatty Acid Biosynthesis:WP357
+HMDB01206	Ch	Fatty Acid Biosynthesis:WP357
+HMDB04026	Ch	Steroid hormone biosynthesis:map00140
+HMDB01318	Ch	Steroid hormone biosynthesis:map00140
+HMDB03759	Ch	Steroid hormone biosynthesis:map00140
+HMDB06758	Ch	Steroid hormone biosynthesis:map00140
+HMDB04029	Ch	Steroid hormone biosynthesis:map00140
+HMDB06763	Ch	Steroid hormone biosynthesis:map00140
+HMDB06762	Ch	Steroid hormone biosynthesis:map00140
+HMDB06760	Ch	Steroid hormone biosynthesis:map00140
+HMDB06283	Ch	Steroid hormone biosynthesis:map00140
+HMDB02802	Ch	Steroid hormone biosynthesis:map00140
+HMDB00067	Ch	Steroid hormone biosynthesis:map00140
+HMDB00063	Ch	Steroid hormone biosynthesis:map00140
+HMDB00363	Ch	Steroid hormone biosynthesis:map00140
+HMDB06753	Ch	Steroid hormone biosynthesis:map00140
+HMDB06764	Ch	Steroid hormone biosynthesis:map00140
+HMDB00949	Ch	Steroid hormone biosynthesis:map00140
+HMDB12460	Ch	Steroid hormone biosynthesis:map00140
+HMDB04035	Ch	Steroid hormone biosynthesis:map00140
+HMDB00903	Ch	Steroid hormone biosynthesis:map00140
+HMDB04031	Ch	Steroid hormone biosynthesis:map00140
+HMDB04030	Ch	Steroid hormone biosynthesis:map00140
+HMDB00015	Ch	Steroid hormone biosynthesis:map00140
+HMDB00253	Ch	Steroid hormone biosynthesis:map00140
+HMDB01547	Ch	Steroid hormone biosynthesis:map00140
+HMDB00319	Ch	Steroid hormone biosynthesis:map00140
+HMDB06757	Ch	Steroid hormone biosynthesis:map00140
+HMDB06754	Ch	Steroid hormone biosynthesis:map00140
+HMDB06755	Ch	Steroid hormone biosynthesis:map00140
+HMDB00374	Ch	Steroid hormone biosynthesis:map00140
+HMDB00016	Ch	Steroid hormone biosynthesis:map00140
+HMDB01830	Ch	Steroid hormone biosynthesis:map00140
+HMDB00037	Ch	Steroid hormone biosynthesis:map00140
+HMDB06759	Ch	Steroid hormone biosynthesis:map00140
+HMDB01967	Ch	Synthesis and degradation of ketone bodies:map00072
+HMDB01375	Ch	Synthesis and degradation of ketone bodies:map00072
+HMDB00011	Ch	Synthesis and degradation of ketone bodies:map00072
+HMDB01659	Ch	Synthesis and degradation of ketone bodies:map00072
+HMDB01201	Ch	MAPK Cascade:WP422
+HMDB01440	Ch	MAPK Cascade:WP422
+HMDB00097	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB00614	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB00564	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB01473	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB08923	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB00895	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB00674	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB01338	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB10382	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB07853	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB07098	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB11503	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB06968	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB01413	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB00126	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB00149	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB09778	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB00114	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB10570	Ch	Phospholipid Biosynthesis:SMP00025
+HMDB01134	Ch	Sulfate/Sulfite Metabolism:SMP00041
+HMDB01448	Ch	Sulfate/Sulfite Metabolism:SMP00041
+HMDB00145	Ch	Sulfate/Sulfite Metabolism:SMP00041
+HMDB01003	Ch	Sulfate/Sulfite Metabolism:SMP00041
+HMDB00061	Ch	Sulfate/Sulfite Metabolism:SMP00041
+HMDB01425	Ch	Sulfate/Sulfite Metabolism:SMP00041
+HMDB00240	Ch	Sulfate/Sulfite Metabolism:SMP00041
+HMDB03416	Ch	D-Arginine and D-ornithine metabolism:map00472
+HMDB04225	Ch	D-Arginine and D-ornithine metabolism:map00472
+HMDB06875	Ch	D-Arginine and D-ornithine metabolism:map00472
+HMDB06272	Ch	D-Arginine and D-ornithine metabolism:map00472
+HMDB03374	Ch	D-Arginine and D-ornithine metabolism:map00472
+HMDB04952	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04953	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04950	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04951	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04956	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04954	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04947	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04955	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04949	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04948	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB01429	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB00125	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB04957	Ch	FAS pathway and Stress induction of HSP regulation:WP314
+HMDB00210	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB01117	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB04231	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB01016	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB03426	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB01416	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB06834	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB01373	Ch	Pantothenate and CoA biosynthesis:map00770
+HMDB00939	Ch	Methylation Pathways:WP704
+HMDB01185	Ch	Methylation Pathways:WP704
+HMDB00696	Ch	Methylation Pathways:WP704
+HMDB00912	Ch	Methylation Pathways:WP704
+HMDB01429	Ch	Methylation Pathways:WP704
+HMDB00538	Ch	Methylation Pathways:WP704
+HMDB01195	Ch	Pterine Biosynthesis:SMP00005
+HMDB00845	Ch	Pterine Biosynthesis:SMP00005
+HMDB01056	Ch	Pterine Biosynthesis:SMP00005
+HMDB06822	Ch	Pterine Biosynthesis:SMP00005
+HMDB06825	Ch	Pterine Biosynthesis:SMP00005
+HMDB13642	Ch	Pterine Biosynthesis:SMP00005
+HMDB00980	Ch	Pterine Biosynthesis:SMP00005
+HMDB06823	Ch	Pterine Biosynthesis:SMP00005
+HMDB01846	Ch	Pterine Biosynthesis:SMP00005
+HMDB00238	Ch	Pterine Biosynthesis:SMP00005
+HMDB06824	Ch	Pterine Biosynthesis:SMP00005
+HMDB00038	Ch	Pterine Biosynthesis:SMP00005
+HMDB06826	Ch	Pterine Biosynthesis:SMP00005
+HMDB02206	Ch	Pterine Biosynthesis:SMP00005
+HMDB01412	Ch	Pterine Biosynthesis:SMP00005
+HMDB00142	Ch	Pterine Biosynthesis:SMP00005
+HMDB02275	Ch	Pterine Biosynthesis:SMP00005
+HMDB02065	Ch	Pterine Biosynthesis:SMP00005
+HMDB00027	Ch	Pterine Biosynthesis:SMP00005
+HMDB00121	Ch	Pterine Biosynthesis:SMP00005
+HMDB06821	Ch	Pterine Biosynthesis:SMP00005
+HMDB01206	Ch	Synthesis and Degradation of Ketone Bodies:WP311
+HMDB01375	Ch	Synthesis and Degradation of Ketone Bodies:WP311
+HMDB01484	Ch	Synthesis and Degradation of Ketone Bodies:WP311
+HMDB07853	Ch	Glycerolipid metabolism:map00561
+HMDB01051	Ch	Glycerolipid metabolism:map00561
+HMDB11533	Ch	Glycerolipid metabolism:map00561
+HMDB00674	Ch	Glycerolipid metabolism:map00561
+HMDB00807	Ch	Glycerolipid metabolism:map00561
+HMDB00131	Ch	Glycerolipid metabolism:map00561
+HMDB00139	Ch	Glycerolipid metabolism:map00561
+HMDB00220	Ch	Glycerolipid metabolism:map00561
+HMDB00126	Ch	Glycerolipid metabolism:map00561
+HMDB07098	Ch	Glycerolipid metabolism:map00561
+HMDB05356	Ch	Glycerolipid metabolism:map00561
+HMDB00895	Ch	Regulation of Actin Cytoskeleton:WP51
+HMDB04246	Ch	Regulation of Actin Cytoskeleton:WP51
+HMDB00156	Ch	Transfer of Acetyl Groups into Mitochondria:SMP00466
+HMDB00094	Ch	Transfer of Acetyl Groups into Mitochondria:SMP00466
+HMDB01250	Ch	Arylamine metabolism:WP694
+HMDB01206	Ch	Arylamine metabolism:WP694
+HMDB01423	Ch	Arylamine metabolism:WP694
+HMDB02991	Ch	Taurine and hypotaurine metabolism:map00430
+HMDB00965	Ch	Taurine and hypotaurine metabolism:map00430
+HMDB00251	Ch	Taurine and hypotaurine metabolism:map00430
+HMDB00996	Ch	Taurine and hypotaurine metabolism:map00430
+HMDB02757	Ch	Taurine and hypotaurine metabolism:map00430
+HMDB04195	Ch	Taurine and hypotaurine metabolism:map00430
+HMDB00574	Ch	Taurine and hypotaurine metabolism:map00430
+HMDB01498	Ch	Alzheimers Disease:WP2059
+HMDB00464	Ch	Alzheimers Disease:WP2059
+HMDB03125	Ch	Alzheimers Disease:WP2059
+HMDB02179	Ch	Alzheimers Disease:WP2059
+HMDB00657	Ch	Alzheimers Disease:WP2059
+HMDB00692	Ch	Alzheimers Disease:WP2059
+HMDB03378	Ch	Alzheimers Disease:WP2059
+HMDB12943	Ch	Alzheimers Disease:WP2059
+HMDB06500	Ch	Vitamin D Metabolism:WP1531
+HMDB00464	Ch	Vitamin D Metabolism:WP1531
+HMDB00876	Ch	Vitamin D Metabolism:WP1531
+HMDB03550	Ch	Vitamin D Metabolism:WP1531
+HMDB00067	Ch	Vitamin D Metabolism:WP1531
+HMDB01429	Ch	Vitamin D Metabolism:WP1531
+HMDB01903	Ch	Vitamin D Metabolism:WP1531
+HMDB00032	Ch	Vitamin D Metabolism:WP1531
+HMDB00430	Ch	Vitamin D Metabolism:WP1531
+HMDB06709	Ch	Electron Transport Chain:WP111
+HMDB02012	Ch	Electron Transport Chain:WP111
+HMDB02111	Ch	Electron Transport Chain:WP111
+HMDB01377	Ch	Electron Transport Chain:WP111
+HMDB00494	Ch	Electron Transport Chain:WP111
+HMDB10708	Ch	Starch and sucrose metabolism:map00500
+HMDB00935	Ch	Starch and sucrose metabolism:map00500
+HMDB00757	Ch	Starch and sucrose metabolism:map00500
+HMDB00224	Ch	Starch and sucrose metabolism:map00500
+HMDB00269	Ch	Starch and sucrose metabolism:map00500
+HMDB03514	Ch	Starch and sucrose metabolism:map00500
+HMDB04866	Ch	Starch and sucrose metabolism:map00500
+HMDB00187	Ch	Starch and sucrose metabolism:map00500
+HMDB00163	Ch	Starch and sucrose metabolism:map00500
+HMDB01480	Ch	Starch and sucrose metabolism:map00500
+HMDB00140	Ch	Starch and sucrose metabolism:map00500
+HMDB00127	Ch	Starch and sucrose metabolism:map00500
+HMDB00024	Ch	Starch and sucrose metabolism:map00500
+HMDB03971	Ch	Starch and sucrose metabolism:map00500
+HMDB06857	Ch	Starch and sucrose metabolism:map00500
+HMDB01383	Ch	Starch and sucrose metabolism:map00500
+HMDB00277	Ch	Starch and sucrose metabolism:map00500
+HMDB00258	Ch	Starch and sucrose metabolism:map00500
+HMDB00252	Ch	Starch and sucrose metabolism:map00500
+HMDB04950	Ch	Starch and sucrose metabolism:map00500
+HMDB03403	Ch	Starch and sucrose metabolism:map00500
+HMDB01348	Ch	Starch and sucrose metabolism:map00500
+HMDB06752	Ch	Starch and sucrose metabolism:map00500
+HMDB01341	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB00217	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB01134	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB03337	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB01448	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB00912	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB01003	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB00061	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB00221	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB00125	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB00538	Ch	Sulfation Biotransformation Reaction:WP692
+HMDB03791	Ch	Tyrosine metabolism:map00350
+HMDB05175	Ch	Tyrosine metabolism:map00350
+HMDB00265	Ch	Tyrosine metabolism:map00350
+HMDB04068	Ch	Tyrosine metabolism:map00350
+HMDB00248	Ch	Tyrosine metabolism:map00350
+HMDB04063	Ch	Tyrosine metabolism:map00350
+HMDB06242	Ch	Tyrosine metabolism:map00350
+HMDB04061	Ch	Tyrosine metabolism:map00350
+HMDB04067	Ch	Tyrosine metabolism:map00350
+HMDB00819	Ch	Tyrosine metabolism:map00350
+HMDB00181	Ch	Tyrosine metabolism:map00350
+HMDB01336	Ch	Tyrosine metabolism:map00350
+HMDB03474	Ch	Tyrosine metabolism:map00350
+HMDB00044	Ch	Tyrosine metabolism:map00350
+HMDB01253	Ch	Tyrosine metabolism:map00350
+HMDB00306	Ch	Tyrosine metabolism:map00350
+HMDB01866	Ch	Tyrosine metabolism:map00350
+HMDB00060	Ch	Tyrosine metabolism:map00350
+HMDB00022	Ch	Tyrosine metabolism:map00350
+HMDB00020	Ch	Tyrosine metabolism:map00350
+HMDB00021	Ch	Tyrosine metabolism:map00350
+HMDB06915	Ch	Tyrosine metabolism:map00350
+HMDB00068	Ch	Tyrosine metabolism:map00350
+HMDB02052	Ch	Tyrosine metabolism:map00350
+HMDB00787	Ch	Tyrosine metabolism:map00350
+HMDB01229	Ch	Tyrosine metabolism:map00350
+HMDB04058	Ch	Tyrosine metabolism:map00350
+HMDB00742	Ch	Tyrosine metabolism:map00350
+HMDB01430	Ch	Tyrosine metabolism:map00350
+HMDB01185	Ch	Tyrosine metabolism:map00350
+HMDB00318	Ch	Tyrosine metabolism:map00350
+HMDB06779	Ch	Tyrosine metabolism:map00350
+HMDB00216	Ch	Tyrosine metabolism:map00350
+HMDB00707	Ch	Tyrosine metabolism:map00350
+HMDB01264	Ch	Tyrosine metabolism:map00350
+HMDB01490	Ch	Tyrosine metabolism:map00350
+HMDB00130	Ch	Tyrosine metabolism:map00350
+HMDB00038	Ch	Tyrosine metabolism:map00350
+HMDB00118	Ch	Tyrosine metabolism:map00350
+HMDB00134	Ch	Tyrosine metabolism:map00350
+HMDB00073	Ch	Tyrosine metabolism:map00350
+HMDB00291	Ch	Tyrosine metabolism:map00350
+HMDB01268	Ch	Tyrosine metabolism:map00350
+HMDB00158	Ch	Tyrosine metabolism:map00350
+HMDB02182	Ch	Physiological and Pathological Hypertrophy  of the Heart:WP1528
+HMDB00464	Ch	Physiological and Pathological Hypertrophy  of the Heart:WP1528
+HMDB00588	Ch	Osteoclast Signaling:WP12
+HMDB02865	Ch	Peptide GPCRs:WP24
+HMDB04246	Ch	Peptide GPCRs:WP24
+HMDB01206	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB03125	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB01487	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB01377	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB00494	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB00902	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB02111	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB01423	Ch	Peroxisomal beta-oxidation of tetracosanoyl-CoA:WP1941
+HMDB01043	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB02925	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB02226	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB02177	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB02183	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB00673	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB01388	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB02007	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB06323	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB06322	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB01999	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB08204	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB03073	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB06547	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB01976	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB06528	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB06246	Ch	alpha-Linolenic acid metabolism:map00592
+HMDB04249	Ch	ErbB Signaling Pathway:WP673
+HMDB04932	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04934	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04848	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04849	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04921	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04894	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04909	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04895	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04925	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04924	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04905	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04904	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04842	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04843	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04844	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04845	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04846	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04847	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04941	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04863	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04860	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04861	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04888	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04889	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB00770	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04865	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04901	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04900	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04944	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04936	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04903	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04937	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04945	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04939	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04902	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04942	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB00809	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04938	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04940	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04923	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04926	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04943	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04928	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04907	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04898	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04930	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04931	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04918	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04919	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04916	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04917	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04914	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04915	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04912	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04913	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04910	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04911	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04857	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04856	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04855	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04854	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04853	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04852	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04851	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04850	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04893	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04892	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04891	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04890	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04897	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04896	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04859	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04858	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04906	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04920	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04929	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04927	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04946	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB04908	Ch	Ganglio Sphingolipid Metabolism:WP1423
+HMDB01489	Ch	Pentose phosphate pathway:map00030
+HMDB01068	Ch	Pentose phosphate pathway:map00030
+HMDB00868	Ch	Pentose phosphate pathway:map00030
+HMDB01321	Ch	Pentose phosphate pathway:map00030
+HMDB01058	Ch	Pentose phosphate pathway:map00030
+HMDB00618	Ch	Pentose phosphate pathway:map00030
+HMDB01351	Ch	Pentose phosphate pathway:map00030
+HMDB01031	Ch	Pentose phosphate pathway:map00030
+HMDB01548	Ch	Pentose phosphate pathway:map00030
+HMDB00150	Ch	Pentose phosphate pathway:map00030
+HMDB00283	Ch	Pentose phosphate pathway:map00030
+HMDB00280	Ch	Pentose phosphate pathway:map00030
+HMDB01316	Ch	Pentose phosphate pathway:map00030
+HMDB03498	Ch	Pentose phosphate pathway:map00030
+HMDB00686	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB01930	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB01917	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB00054	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB00067	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB00903	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB00063	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB00138	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB00626	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB00036	Ch	Drug Induction of Bile Acid Pathway:WP2289
+HMDB01414	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00214	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00162	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB01256	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00064	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00294	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB01257	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00271	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00904	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00517	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB01426	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00148	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB00562	Ch	Urea cycle and metabolism of amino groups:WP497
+HMDB05175	Ch	Tyrosine Metabolism:SMP00006
+HMDB00265	Ch	Tyrosine Metabolism:SMP00006
+HMDB04068	Ch	Tyrosine Metabolism:SMP00006
+HMDB00248	Ch	Tyrosine Metabolism:SMP00006
+HMDB04063	Ch	Tyrosine Metabolism:SMP00006
+HMDB06242	Ch	Tyrosine Metabolism:SMP00006
+HMDB04061	Ch	Tyrosine Metabolism:SMP00006
+HMDB04067	Ch	Tyrosine Metabolism:SMP00006
+HMDB00819	Ch	Tyrosine Metabolism:SMP00006
+HMDB00181	Ch	Tyrosine Metabolism:SMP00006
+HMDB01336	Ch	Tyrosine Metabolism:SMP00006
+HMDB03474	Ch	Tyrosine Metabolism:SMP00006
+HMDB01253	Ch	Tyrosine Metabolism:SMP00006
+HMDB00306	Ch	Tyrosine Metabolism:SMP00006
+HMDB01866	Ch	Tyrosine Metabolism:SMP00006
+HMDB00060	Ch	Tyrosine Metabolism:SMP00006
+HMDB00022	Ch	Tyrosine Metabolism:SMP00006
+HMDB00020	Ch	Tyrosine Metabolism:SMP00006
+HMDB00021	Ch	Tyrosine Metabolism:SMP00006
+HMDB06915	Ch	Tyrosine Metabolism:SMP00006
+HMDB00068	Ch	Tyrosine Metabolism:SMP00006
+HMDB02052	Ch	Tyrosine Metabolism:SMP00006
+HMDB01229	Ch	Tyrosine Metabolism:SMP00006
+HMDB04058	Ch	Tyrosine Metabolism:SMP00006
+HMDB03791	Ch	Tyrosine Metabolism:SMP00006
+HMDB01430	Ch	Tyrosine Metabolism:SMP00006
+HMDB00318	Ch	Tyrosine Metabolism:SMP00006
+HMDB06779	Ch	Tyrosine Metabolism:SMP00006
+HMDB00216	Ch	Tyrosine Metabolism:SMP00006
+HMDB00707	Ch	Tyrosine Metabolism:SMP00006
+HMDB01268	Ch	Tyrosine Metabolism:SMP00006
+HMDB01490	Ch	Tyrosine Metabolism:SMP00006
+HMDB00130	Ch	Tyrosine Metabolism:SMP00006
+HMDB00118	Ch	Tyrosine Metabolism:SMP00006
+HMDB00134	Ch	Tyrosine Metabolism:SMP00006
+HMDB00073	Ch	Tyrosine Metabolism:SMP00006
+HMDB00291	Ch	Tyrosine Metabolism:SMP00006
+HMDB00158	Ch	Tyrosine Metabolism:SMP00006
+HMDB01341	Ch	DNA Replication:WP466
+HMDB00998	Ch	DNA Replication:WP466
+HMDB01191	Ch	DNA Replication:WP466
+HMDB01440	Ch	DNA Replication:WP466
+HMDB01532	Ch	DNA Replication:WP466
+HMDB00082	Ch	DNA Replication:WP466
+HMDB00125	Ch	Influenza A virus infection:WP1438
+HMDB00230	Ch	Influenza A virus infection:WP1438
+HMDB00464	Ch	Nicotine Activity on Chromaffin Cells:WP1603
+HMDB01010	Ch	Nicotine Activity on Chromaffin Cells:WP1603
+HMDB01934	Ch	Nicotine Activity on Chromaffin Cells:WP1603
+HMDB00586	Ch	Nicotine Activity on Chromaffin Cells:WP1603
+HMDB00588	Ch	Nicotine Activity on Chromaffin Cells:WP1603
+HMDB00068	Ch	Nicotine Activity on Chromaffin Cells:WP1603
+HMDB01341	Ch	Oxidative phosphorylation:WP623
+HMDB01362	Ch	Oxidative phosphorylation:WP623
+HMDB01487	Ch	Oxidative phosphorylation:WP623
+HMDB00912	Ch	Oxidative phosphorylation:WP623
+HMDB00902	Ch	Oxidative phosphorylation:WP623
+HMDB00538	Ch	Oxidative phosphorylation:WP623
+HMDB00464	Ch	Apoptosis Modulation and Signaling:WP1772
+HMDB01354	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB00990	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB00696	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB01533	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB00099	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB00108	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB00742	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB00574	Ch	Folate-Alcohol and Cancer Pathway:WP1589
+HMDB01070	Ch	Fatty acid Metabolism:SMP00051
+HMDB00220	Ch	Fatty acid Metabolism:SMP00051
+HMDB00222	Ch	Fatty acid Metabolism:SMP00051
+HMDB06402	Ch	Fatty acid Metabolism:SMP00051
+HMDB02009	Ch	Fatty acid Metabolism:SMP00051
+HMDB06404	Ch	Fatty acid Metabolism:SMP00051
+HMDB03571	Ch	Fatty acid Metabolism:SMP00051
+HMDB02845	Ch	Fatty acid Metabolism:SMP00051
+HMDB01338	Ch	Fatty acid Metabolism:SMP00051
+HMDB01484	Ch	Fatty acid Metabolism:SMP00051
+HMDB03938	Ch	Fatty acid Metabolism:SMP00051
+HMDB03932	Ch	Fatty acid Metabolism:SMP00051
+HMDB03934	Ch	Fatty acid Metabolism:SMP00051
+HMDB01166	Ch	Fatty acid Metabolism:SMP00051
+HMDB03936	Ch	Fatty acid Metabolism:SMP00051
+HMDB03937	Ch	Fatty acid Metabolism:SMP00051
+HMDB01521	Ch	Fatty acid Metabolism:SMP00051
+HMDB01206	Ch	Fatty acid Metabolism:SMP00051
+HMDB01088	Ch	Fatty acid Metabolism:SMP00051
+HMDB03948	Ch	Fatty acid Metabolism:SMP00051
+HMDB03949	Ch	Fatty acid Metabolism:SMP00051
+HMDB03944	Ch	Fatty acid Metabolism:SMP00051
+HMDB03945	Ch	Fatty acid Metabolism:SMP00051
+HMDB03946	Ch	Fatty acid Metabolism:SMP00051
+HMDB03940	Ch	Fatty acid Metabolism:SMP00051
+HMDB03941	Ch	Fatty acid Metabolism:SMP00051
+HMDB03942	Ch	Fatty acid Metabolism:SMP00051
+HMDB03943	Ch	Fatty acid Metabolism:SMP00051
+HMDB00097	Ch	Cysteine and methionine metabolism:map00270
+HMDB00939	Ch	Cysteine and methionine metabolism:map00270
+HMDB01368	Ch	Cysteine and methionine metabolism:map00270
+HMDB00963	Ch	Cysteine and methionine metabolism:map00270
+HMDB00092	Ch	Cysteine and methionine metabolism:map00270
+HMDB01553	Ch	Cysteine and methionine metabolism:map00270
+HMDB00988	Ch	Cysteine and methionine metabolism:map00270
+HMDB00719	Ch	Cysteine and methionine metabolism:map00270
+HMDB01049	Ch	Cysteine and methionine metabolism:map00270
+HMDB00996	Ch	Cysteine and methionine metabolism:map00270
+HMDB01257	Ch	Cysteine and methionine metabolism:map00270
+HMDB00099	Ch	Cysteine and methionine metabolism:map00270
+HMDB00043	Ch	Cysteine and methionine metabolism:map00270
+HMDB01414	Ch	Cysteine and methionine metabolism:map00270
+HMDB01173	Ch	Cysteine and methionine metabolism:map00270
+HMDB00005	Ch	Cysteine and methionine metabolism:map00270
+HMDB01405	Ch	Cysteine and methionine metabolism:map00270
+HMDB02127	Ch	Cysteine and methionine metabolism:map00270
+HMDB02005	Ch	Cysteine and methionine metabolism:map00270
+HMDB00243	Ch	Cysteine and methionine metabolism:map00270
+HMDB01396	Ch	Cysteine and methionine metabolism:map00270
+HMDB02009	Ch	Butanoate metabolism:map00650
+HMDB01088	Ch	Butanoate metabolism:map00650
+HMDB01375	Ch	Butanoate metabolism:map00650
+HMDB01166	Ch	Butanoate metabolism:map00650
+HMDB00039	Ch	Butanoate metabolism:map00650
+HMDB00060	Ch	Butanoate metabolism:map00650
+HMDB01187	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB00213	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB01498	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB06235	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB00968	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB01059	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB03529	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB04527	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB01143	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB06814	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB06229	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB01313	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB06234	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB03848	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB06230	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB03502	Ch	Inositol Phosphate Metabolism:SMP00462
+HMDB00058	Ch	Endochondral Ossification:WP474
+HMDB01377	Ch	Endochondral Ossification:WP474
+HMDB03378	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB02273	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB02234	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB01096	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB03411	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB01511	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00162	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB06055	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00064	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00128	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00148	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB06875	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB01369	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00904	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB02104	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00517	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB02070	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB01301	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00191	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00214	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00052	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00051	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB04224	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00134	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB06556	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB00294	Ch	Arginine and Proline Metabolism:SMP00020
+HMDB01487	Ch	Oxidation by Cytochrome P450:WP43
+HMDB01377	Ch	Oxidation by Cytochrome P450:WP43
+HMDB00692	Ch	Oxidation by Cytochrome P450:WP43
+HMDB00902	Ch	Oxidation by Cytochrome P450:WP43
+HMDB02111	Ch	Oxidation by Cytochrome P450:WP43
+HMDB12943	Ch	Oxidation by Cytochrome P450:WP43
+HMDB00221	Ch	Oxidation by Cytochrome P450:WP43
+HMDB00494	Ch	Oxidation by Cytochrome P450:WP43
+HMDB02878	Ch	Effects of Nitric Oxide:WP1995
+HMDB00044	Ch	Effects of Nitric Oxide:WP1995
+HMDB02786	Ch	Effects of Nitric Oxide:WP1995
+HMDB01377	Ch	Effects of Nitric Oxide:WP1995
+HMDB03378	Ch	Effects of Nitric Oxide:WP1995
+HMDB00904	Ch	Effects of Nitric Oxide:WP1995
+HMDB00517	Ch	Effects of Nitric Oxide:WP1995
+HMDB01396	Ch	Selenium Micronutrient Network:WP15
+HMDB03378	Ch	Selenium Micronutrient Network:WP15
+HMDB02664	Ch	Selenium Micronutrient Network:WP15
+HMDB05083	Ch	Selenium Micronutrient Network:WP15
+HMDB00221	Ch	Selenium Micronutrient Network:WP15
+HMDB04385	Ch	Selenium Micronutrient Network:WP15
+HMDB03208	Ch	Selenium Micronutrient Network:WP15
+HMDB11134	Ch	Selenium Micronutrient Network:WP15
+HMDB03840	Ch	Selenium Micronutrient Network:WP15
+HMDB01555	Ch	Selenium Micronutrient Network:WP15
+HMDB06112	Ch	Selenium Micronutrient Network:WP15
+HMDB03288	Ch	Selenium Micronutrient Network:WP15
+HMDB06407	Ch	Selenium Micronutrient Network:WP15
+HMDB03125	Ch	Selenium Micronutrient Network:WP15
+HMDB00673	Ch	Selenium Micronutrient Network:WP15
+HMDB01904	Ch	Selenium Micronutrient Network:WP15
+HMDB01381	Ch	Selenium Micronutrient Network:WP15
+HMDB00464	Ch	Selenium Micronutrient Network:WP15
+HMDB01403	Ch	Selenium Micronutrient Network:WP15
+HMDB01388	Ch	Selenium Micronutrient Network:WP15
+HMDB12110	Ch	Selenium Micronutrient Network:WP15
+HMDB00742	Ch	Selenium Micronutrient Network:WP15
+HMDB04659	Ch	Selenium Micronutrient Network:WP15
+HMDB01303	Ch	Selenium Micronutrient Network:WP15
+HMDB12210	Ch	Selenium Micronutrient Network:WP15
+HMDB02183	Ch	Selenium Micronutrient Network:WP15
+HMDB00492	Ch	Selenium Micronutrient Network:WP15
+HMDB01264	Ch	Selenium Micronutrient Network:WP15
+HMDB00099	Ch	Selenium Micronutrient Network:WP15
+HMDB00494	Ch	Selenium Micronutrient Network:WP15
+HMDB00157	Ch	Selenium Micronutrient Network:WP15
+HMDB12943	Ch	Selenium Micronutrient Network:WP15
+HMDB00696	Ch	Selenium Micronutrient Network:WP15
+HMDB00692	Ch	Selenium Micronutrient Network:WP15
+HMDB00912	Ch	Selenium Micronutrient Network:WP15
+HMDB12580	Ch	Selenium Micronutrient Network:WP15
+HMDB02111	Ch	Selenium Micronutrient Network:WP15
+HMDB05082	Ch	Selenium Micronutrient Network:WP15
+HMDB00244	Ch	Selenium Micronutrient Network:WP15
+HMDB01488	Ch	Selenium Micronutrient Network:WP15
+HMDB01377	Ch	Selenium Micronutrient Network:WP15
+HMDB01043	Ch	Selenium Micronutrient Network:WP15
+HMDB00684	Ch	Selenium Micronutrient Network:WP15
+HMDB03178	Ch	Selenium Micronutrient Network:WP15
+HMDB02200	Ch	Selenium Micronutrient Network:WP15
+HMDB01893	Ch	Selenium Micronutrient Network:WP15
+HMDB00574	Ch	Selenium Micronutrient Network:WP15
+HMDB00929	Ch	Selenium Micronutrient Network:WP15
+HMDB12601	Ch	Selenium Micronutrient Network:WP15
+HMDB02995	Ch	Selenium Micronutrient Network:WP15
+HMDB00187	Ch	Selenium Micronutrient Network:WP15
+HMDB02168	Ch	Selenium Micronutrient Network:WP15
+HMDB13040	Ch	Selenium Micronutrient Network:WP15
+HMDB01491	Ch	Selenium Micronutrient Network:WP15
+HMDB01492	Ch	Selenium Micronutrient Network:WP15
+HMDB11135	Ch	Selenium Micronutrient Network:WP15
+HMDB01354	Ch	Selenium Micronutrient Network:WP15
+HMDB01050	Ch	Selenium Micronutrient Network:WP15
+HMDB00265	Ch	Selenium Micronutrient Network:WP15
+HMDB01193	Ch	Selenium Micronutrient Network:WP15
+HMDB00732	Ch	Selenium Micronutrient Network:WP15
+HMDB12855	Ch	Selenium Micronutrient Network:WP15
+HMDB02179	Ch	Selenium Micronutrient Network:WP15
+HMDB03333	Ch	Selenium Micronutrient Network:WP15
+HMDB01198	Ch	Selenium Micronutrient Network:WP15
+HMDB02005	Ch	Selenium Micronutrient Network:WP15
+HMDB00067	Ch	Selenium Micronutrient Network:WP15
+HMDB03080	Ch	Selenium Micronutrient Network:WP15
+HMDB03876	Ch	Selenium Micronutrient Network:WP15
+HMDB00607	Ch	Selenium Micronutrient Network:WP15
+HMDB03252	Ch	Selenium Micronutrient Network:WP15
+HMDB01220	Ch	Selenium Micronutrient Network:WP15
+HMDB01341	Ch	Selenium Micronutrient Network:WP15
+HMDB00217	Ch	Selenium Micronutrient Network:WP15
+HMDB01349	Ch	Selenium Micronutrient Network:WP15
+HMDB02030	Ch	Selenium Micronutrient Network:WP15
+HMDB01976	Ch	Selenium Micronutrient Network:WP15
+HMDB00292	Ch	Selenium Micronutrient Network:WP15
+HMDB01406	Ch	Selenium Micronutrient Network:WP15
+HMDB01139	Ch	Selenium Micronutrient Network:WP15
+HMDB12638	Ch	Selenium Micronutrient Network:WP15
+HMDB06465	Ch	Selenium Micronutrient Network:WP15
+HMDB12777	Ch	Selenium Micronutrient Network:WP15
+HMDB01335	Ch	Selenium Micronutrient Network:WP15
+HMDB01337	Ch	Selenium Micronutrient Network:WP15
+HMDB01442	Ch	Selenium Micronutrient Network:WP15
+HMDB01333	Ch	Selenium Micronutrient Network:WP15
+HMDB00044	Ch	Selenium Micronutrient Network:WP15
+HMDB01533	Ch	Selenium Micronutrient Network:WP15
+HMDB01846	Ch	Selenium Micronutrient Network:WP15
+HMDB00657	Ch	Selenium Micronutrient Network:WP15
+HMDB00656	Ch	Selenium Micronutrient Network:WP15
+HMDB00289	Ch	Selenium Micronutrient Network:WP15
+HMDB00125	Ch	Selenium Micronutrient Network:WP15
+HMDB00122	Ch	Selenium Micronutrient Network:WP15
+HMDB00121	Ch	Selenium Micronutrient Network:WP15
+HMDB02925	Ch	Selenium Micronutrient Network:WP15
+HMDB01999	Ch	Selenium Micronutrient Network:WP15
+HMDB01451	Ch	Selenium Micronutrient Network:WP15
+HMDB01452	Ch	Selenium Micronutrient Network:WP15
+HMDB03235	Ch	Selenium Micronutrient Network:WP15
+HMDB00538	Ch	Selenium Micronutrient Network:WP15
+HMDB01520	Ch	Selenium Micronutrient Network:WP15
+HMDB01248	Ch	Selenium Micronutrient Network:WP15
+HMDB02174	Ch	Selenium Micronutrient Network:WP15
+HMDB00232	Ch	Selenium Micronutrient Network:WP15
+HMDB01085	Ch	Selenium Micronutrient Network:WP15
+HMDB00990	Ch	Ethanol Degradation:SMP00449
+HMDB00042	Ch	Ethanol Degradation:SMP00449
+HMDB00182	Ch	Lysine degradation:map00310
+HMDB00716	Ch	Lysine degradation:map00310
+HMDB01339	Ch	Lysine degradation:map00310
+HMDB01084	Ch	Lysine degradation:map00310
+HMDB01263	Ch	Lysine degradation:map00310
+HMDB06832	Ch	Lysine degradation:map00310
+HMDB00279	Ch	Lysine degradation:map00310
+HMDB00225	Ch	Lysine degradation:map00310
+HMDB00510	Ch	Lysine degradation:map00310
+HMDB04400	Ch	Caffeine Metabolism:SMP00028
+HMDB01982	Ch	Caffeine Metabolism:SMP00028
+HMDB10738	Ch	Caffeine Metabolism:SMP00028
+HMDB01847	Ch	Caffeine Metabolism:SMP00028
+HMDB02825	Ch	Caffeine Metabolism:SMP00028
+HMDB01889	Ch	Caffeine Metabolism:SMP00028
+HMDB11103	Ch	Caffeine Metabolism:SMP00028
+HMDB03099	Ch	Caffeine Metabolism:SMP00028
+HMDB11107	Ch	Caffeine Metabolism:SMP00028
+HMDB01860	Ch	Caffeine Metabolism:SMP00028
+HMDB11105	Ch	Caffeine Metabolism:SMP00028
+HMDB01991	Ch	Caffeine Metabolism:SMP00028
+HMDB00698	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06280	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00951	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB12458	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB02159	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB12454	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00631	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB12453	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00637	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB01231	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06888	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06247	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06893	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06281	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB03533	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00896	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB02197	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00619	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB01374	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB12455	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00067	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB12456	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06889	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB03873	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB12459	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB02103	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06894	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06891	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06890	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00518	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06892	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB11644	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00626	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00251	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB01419	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB01993	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB01457	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06895	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00761	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06887	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB06292	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB01496	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00722	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB12457	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00138	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00359	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00036	Ch	Bile Acid Biosynthesis:SMP00035
+HMDB00067	Ch	SREBP signalling:WP1982
+HMDB00641	Ch	SREBP signalling:WP1982
+HMDB00122	Ch	SREBP signalling:WP1982
+HMDB03939	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03938	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB06404	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB02845	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03937	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03936	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB00638	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB01070	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03944	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03712	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03940	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03941	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB03949	Ch	Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids:SMP00481
+HMDB01521	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB00201	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB06526	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB01206	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB03571	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB02003	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB00482	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB00535	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB00638	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB00062	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB02356	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB06459	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB01423	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB00511	Ch	Beta Oxidation of Very Long Chain Fatty Acids:SMP00052
+HMDB00961	Ch	Cholesterol Biosynthesis:WP197
+HMDB00032	Ch	Cholesterol Biosynthesis:WP197
+HMDB01120	Ch	Cholesterol Biosynthesis:WP197
+HMDB01347	Ch	Cholesterol Biosynthesis:WP197
+HMDB01251	Ch	Cholesterol Biosynthesis:WP197
+HMDB01375	Ch	Cholesterol Biosynthesis:WP197
+HMDB01343	Ch	Cholesterol Biosynthesis:WP197
+HMDB01188	Ch	Cholesterol Biosynthesis:WP197
+HMDB00067	Ch	Cholesterol Biosynthesis:WP197
+HMDB01206	Ch	Cholesterol Biosynthesis:WP197
+HMDB01170	Ch	Cholesterol Biosynthesis:WP197
+HMDB01981	Ch	Cholesterol Biosynthesis:WP197
+HMDB00256	Ch	Cholesterol Biosynthesis:WP197
+HMDB00227	Ch	Cholesterol Biosynthesis:WP197
+HMDB00202	Ch	Propanoate metabolism:map00640
+HMDB00237	Ch	Propanoate metabolism:map00640
+HMDB02170	Ch	Propanoate metabolism:map00640
+HMDB00883	Ch	Propanoate metabolism:map00640
+HMDB01275	Ch	Propanoate metabolism:map00640
+HMDB02307	Ch	Propanoate metabolism:map00640
+HMDB02217	Ch	Propanoate metabolism:map00640
+HMDB00056	Ch	Propanoate metabolism:map00640
+HMDB00700	Ch	Propanoate metabolism:map00640
+HMDB01175	Ch	Propanoate metabolism:map00640
+HMDB01022	Ch	Propanoate metabolism:map00640
+HMDB11111	Ch	Propanoate metabolism:map00640
+HMDB02255	Ch	Propanoate metabolism:map00640
+HMDB06806	Ch	Propanoate metabolism:map00640
+HMDB06807	Ch	Propanoate metabolism:map00640
+HMDB02310	Ch	Propanoate metabolism:map00640
+HMDB01270	Ch	Mitochondrial Electron Transport Chain:SMP00355
+HMDB00254	Ch	Mitochondrial Electron Transport Chain:SMP00355
+HMDB01072	Ch	Mitochondrial Electron Transport Chain:SMP00355
+HMDB01060	Ch	Mitochondrial Electron Transport Chain:SMP00355
+HMDB00516	Ch	Trehalose Degradation:SMP00467
+HMDB00586	Ch	Trehalose Degradation:SMP00467
+HMDB00588	Ch	Trehalose Degradation:SMP00467
+HMDB01238	Ch	Tryptophan metabolism:WP465
+HMDB00738	Ch	Tryptophan metabolism:WP465
+HMDB00303	Ch	Tryptophan metabolism:WP465
+HMDB04086	Ch	Tryptophan metabolism:WP465
+HMDB06524	Ch	Tryptophan metabolism:WP465
+HMDB04096	Ch	Tryptophan metabolism:WP465
+HMDB04095	Ch	Tryptophan metabolism:WP465
+HMDB12819	Ch	Tryptophan metabolism:WP465
+HMDB00684	Ch	Tryptophan metabolism:WP465
+HMDB01389	Ch	Tryptophan metabolism:WP465
+HMDB01206	Ch	Tryptophan metabolism:WP465
+HMDB04073	Ch	Tryptophan metabolism:WP465
+HMDB04077	Ch	Tryptophan metabolism:WP465
+HMDB00929	Ch	Tryptophan metabolism:WP465
+HMDB00881	Ch	Tryptophan metabolism:WP465
+HMDB00472	Ch	Tryptophan metabolism:WP465
+HMDB01200	Ch	Tryptophan metabolism:WP465
+HMDB00732	Ch	Tryptophan metabolism:WP465
+HMDB12948	Ch	Tryptophan metabolism:WP465
+HMDB04369	Ch	Tryptophan metabolism:WP465
+HMDB04081	Ch	Tryptophan metabolism:WP465
+HMDB04083	Ch	Tryptophan metabolism:WP465
+HMDB00193	Ch	Citric Acid Cycle:SMP00057
+HMDB01197	Ch	Citric Acid Cycle:SMP00057
+HMDB00094	Ch	Citric Acid Cycle:SMP00057
+HMDB01201	Ch	Citric Acid Cycle:SMP00057
+HMDB01248	Ch	Citric Acid Cycle:SMP00057
+HMDB00156	Ch	Citric Acid Cycle:SMP00057
+HMDB00595	Ch	Citric Acid Cycle:SMP00057
+HMDB00072	Ch	Citric Acid Cycle:SMP00057
+HMDB00254	Ch	Citric Acid Cycle:SMP00057
+HMDB00641	Ch	Transcription/Translation:SMP00019
+HMDB01397	Ch	Transcription/Translation:SMP00019
+HMDB00696	Ch	Transcription/Translation:SMP00019
+HMDB01273	Ch	Transcription/Translation:SMP00019
+HMDB00082	Ch	Transcription/Translation:SMP00019
+HMDB00168	Ch	Transcription/Translation:SMP00019
+HMDB03406	Ch	Transcription/Translation:SMP00019
+HMDB00045	Ch	Transcription/Translation:SMP00019
+HMDB00161	Ch	Transcription/Translation:SMP00019
+HMDB00167	Ch	Transcription/Translation:SMP00019
+HMDB00883	Ch	Transcription/Translation:SMP00019
+HMDB00288	Ch	Transcription/Translation:SMP00019
+HMDB00148	Ch	Transcription/Translation:SMP00019
+HMDB00285	Ch	Transcription/Translation:SMP00019
+HMDB00687	Ch	Transcription/Translation:SMP00019
+HMDB00182	Ch	Transcription/Translation:SMP00019
+HMDB00517	Ch	Transcription/Translation:SMP00019
+HMDB00574	Ch	Transcription/Translation:SMP00019
+HMDB00929	Ch	Transcription/Translation:SMP00019
+HMDB00095	Ch	Transcription/Translation:SMP00019
+HMDB00191	Ch	Transcription/Translation:SMP00019
+HMDB00177	Ch	Transcription/Translation:SMP00019
+HMDB00172	Ch	Transcription/Translation:SMP00019
+HMDB00162	Ch	Transcription/Translation:SMP00019
+HMDB00158	Ch	Transcription/Translation:SMP00019
+HMDB00159	Ch	Transcription/Translation:SMP00019
+HMDB01498	Ch	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+HMDB00464	Ch	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+HMDB01314	Ch	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+HMDB01520	Ch	Riboflavin Metabolism:SMP00070
+HMDB01248	Ch	Riboflavin Metabolism:SMP00070
+HMDB04256	Ch	Riboflavin Metabolism:SMP00070
+HMDB03826	Ch	Riboflavin Metabolism:SMP00070
+HMDB03701	Ch	Riboflavin Metabolism:SMP00070
+HMDB03364	Ch	Riboflavin Metabolism:SMP00070
+HMDB00244	Ch	Riboflavin Metabolism:SMP00070
+HMDB01473	Ch	Fatty Acid Beta Oxidation:WP143
+HMDB01206	Ch	Fatty Acid Beta Oxidation:WP143
+HMDB03571	Ch	Fatty Acid Beta Oxidation:WP143
+HMDB11750	Ch	Fatty Acid Beta Oxidation:WP143
+HMDB01339	Ch	Fatty Acid Beta Oxidation:WP143
+HMDB01484	Ch	Fatty Acid Beta Oxidation:WP143
+HMDB00131	Ch	Fatty Acid Beta Oxidation:WP143
+HMDB01273	Ch	Interferon type I signaling pathways:WP585
+HMDB01201	Ch	Interferon type I signaling pathways:WP585
+HMDB01414	Ch	Spermidine and Spermine Biosynthesis:SMP00445
+HMDB00988	Ch	Spermidine and Spermine Biosynthesis:SMP00445
+HMDB01173	Ch	Spermidine and Spermine Biosynthesis:SMP00445
+HMDB01257	Ch	Spermidine and Spermine Biosynthesis:SMP00445
+HMDB00641	Ch	Synaptic Vesicle Pathway:WP2267
+HMDB00259	Ch	Synaptic Vesicle Pathway:WP2267
+HMDB00073	Ch	Synaptic Vesicle Pathway:WP2267
+HMDB05792	Ch	Transcriptional activation by NRF2:WP3
+HMDB02269	Ch	Transcriptional activation by NRF2:WP3
+HMDB00097	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00181	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00472	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00763	Ch	SIDS Susceptibility Pathways:WP706
+HMDB01010	Ch	SIDS Susceptibility Pathways:WP706
+HMDB04135	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00895	Ch	SIDS Susceptibility Pathways:WP706
+HMDB01934	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00259	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00929	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00073	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00112	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00158	Ch	SIDS Susceptibility Pathways:WP706
+HMDB00159	Ch	SIDS Susceptibility Pathways:WP706
+HMDB07098	Ch	MFAP5-mediated ovarian cancer cell motility and invasiveness:WP3301
+HMDB00464	Ch	MFAP5-mediated ovarian cancer cell motility and invasiveness:WP3301
+HMDB01043	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB01335	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB12638	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB03208	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB01381	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB12855	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB01139	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB13040	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB12601	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB01403	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB12580	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB05794	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB01452	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB01220	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB12777	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB03235	Ch	Quercetin and Nf-kB/ AP-1 Induced Cell Apoptosis:WP2435
+HMDB00538	Ch	Amino acid conjugation:WP715
+HMDB00123	Ch	Amino acid conjugation:WP715
+HMDB00641	Ch	Amino acid conjugation:WP715
+HMDB00912	Ch	Amino acid conjugation:WP715
+HMDB01429	Ch	Amino acid conjugation:WP715
+HMDB00251	Ch	Amino acid conjugation:WP715
+HMDB01532	Ch	Proteasome Degradation:WP183
+HMDB01190	Ch	Tryptophan metabolism:map00380
+HMDB00978	Ch	Tryptophan metabolism:map00380
+HMDB01238	Ch	Tryptophan metabolism:map00380
+HMDB01330	Ch	Tryptophan metabolism:map00380
+HMDB11631	Ch	Tryptophan metabolism:map00380
+HMDB00715	Ch	Tryptophan metabolism:map00380
+HMDB00303	Ch	Tryptophan metabolism:map00380
+HMDB12948	Ch	Tryptophan metabolism:map00380
+HMDB00929	Ch	Tryptophan metabolism:map00380
+HMDB12819	Ch	Tryptophan metabolism:map00380
+HMDB04076	Ch	Tryptophan metabolism:map00380
+HMDB04370	Ch	Tryptophan metabolism:map00380
+HMDB04096	Ch	Tryptophan metabolism:map00380
+HMDB01123	Ch	Tryptophan metabolism:map00380
+HMDB04259	Ch	Tryptophan metabolism:map00380
+HMDB00684	Ch	Tryptophan metabolism:map00380
+HMDB01280	Ch	Tryptophan metabolism:map00380
+HMDB01389	Ch	Tryptophan metabolism:map00380
+HMDB04078	Ch	Tryptophan metabolism:map00380
+HMDB00259	Ch	Tryptophan metabolism:map00380
+HMDB04073	Ch	Tryptophan metabolism:map00380
+HMDB00232	Ch	Tryptophan metabolism:map00380
+HMDB04077	Ch	Tryptophan metabolism:map00380
+HMDB00197	Ch	Tryptophan metabolism:map00380
+HMDB00881	Ch	Tryptophan metabolism:map00380
+HMDB00472	Ch	Tryptophan metabolism:map00380
+HMDB01476	Ch	Tryptophan metabolism:map00380
+HMDB01200	Ch	Tryptophan metabolism:map00380
+HMDB00763	Ch	Tryptophan metabolism:map00380
+HMDB04086	Ch	Tryptophan metabolism:map00380
+HMDB04369	Ch	Tryptophan metabolism:map00380
+HMDB04081	Ch	Tryptophan metabolism:map00380
+HMDB04083	Ch	Tryptophan metabolism:map00380
+HMDB04089	Ch	Tryptophan metabolism:map00380
+HMDB01341	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB00464	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB00895	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB01532	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB00586	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB01429	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB00588	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB00068	Ch	Calcium Regulation in the Cardiac Cell:WP536
+HMDB01489	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB01068	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB00868	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB01321	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB01058	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB00618	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB01351	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB01031	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB01548	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB00150	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB00283	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB00280	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB01316	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB03498	Ch	Pentose Phosphate Pathway:SMP00031
+HMDB00202	Ch	Propanoate Metabolism:SMP00016
+HMDB00237	Ch	Propanoate Metabolism:SMP00016
+HMDB02170	Ch	Propanoate Metabolism:SMP00016
+HMDB00883	Ch	Propanoate Metabolism:SMP00016
+HMDB01275	Ch	Propanoate Metabolism:SMP00016
+HMDB02307	Ch	Propanoate Metabolism:SMP00016
+HMDB02217	Ch	Propanoate Metabolism:SMP00016
+HMDB00056	Ch	Propanoate Metabolism:SMP00016
+HMDB00700	Ch	Propanoate Metabolism:SMP00016
+HMDB01175	Ch	Propanoate Metabolism:SMP00016
+HMDB01022	Ch	Propanoate Metabolism:SMP00016
+HMDB11111	Ch	Propanoate Metabolism:SMP00016
+HMDB02255	Ch	Propanoate Metabolism:SMP00016
+HMDB06806	Ch	Propanoate Metabolism:SMP00016
+HMDB06807	Ch	Propanoate Metabolism:SMP00016
+HMDB02310	Ch	Propanoate Metabolism:SMP00016
+HMDB00912	Ch	Hair Follicle Development: Induction (Part 1 of 3):WP2804
+HMDB01341	Ch	Hair Follicle Development: Induction (Part 1 of 3):WP2804
+HMDB00538	Ch	Hair Follicle Development: Induction (Part 1 of 3):WP2804
+HMDB01311	Ch	Pyruvaldehyde Degradation:SMP00459
+HMDB01066	Ch	Pyruvaldehyde Degradation:SMP00459
+HMDB01167	Ch	Pyruvaldehyde Degradation:SMP00459
+HMDB01206	Ch	Nuclear Receptors in Lipid Metabolism and Toxicity:WP299
+HMDB01852	Ch	Nuclear Receptors in Lipid Metabolism and Toxicity:WP299
+HMDB00067	Ch	Nuclear Receptors in Lipid Metabolism and Toxicity:WP299
+HMDB12874	Ch	Nuclear Receptors in Lipid Metabolism and Toxicity:WP299
+HMDB02369	Ch	Nuclear Receptors in Lipid Metabolism and Toxicity:WP299
+HMDB00032	Ch	Nuclear Receptors in Lipid Metabolism and Toxicity:WP299
+HMDB00205	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB00707	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB01268	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB01377	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB00130	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB02052	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB00134	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB00060	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB00158	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB00159	Ch	Phenylalanine and Tyrosine Metabolism:SMP00008
+HMDB04244	Ch	Eicosanoid Synthesis:WP167
+HMDB01139	Ch	Eicosanoid Synthesis:WP167
+HMDB12638	Ch	Eicosanoid Synthesis:WP167
+HMDB12580	Ch	Eicosanoid Synthesis:WP167
+HMDB12777	Ch	Eicosanoid Synthesis:WP167
+HMDB03208	Ch	Eicosanoid Synthesis:WP167
+HMDB01452	Ch	Eicosanoid Synthesis:WP167
+HMDB01335	Ch	Eicosanoid Synthesis:WP167
+HMDB01337	Ch	Eicosanoid Synthesis:WP167
+HMDB01220	Ch	Eicosanoid Synthesis:WP167
+HMDB01193	Ch	Eicosanoid Synthesis:WP167
+HMDB12855	Ch	Eicosanoid Synthesis:WP167
+HMDB01198	Ch	Eicosanoid Synthesis:WP167
+HMDB03080	Ch	Eicosanoid Synthesis:WP167
+HMDB01043	Ch	Eicosanoid Synthesis:WP167
+HMDB01381	Ch	Eicosanoid Synthesis:WP167
+HMDB01403	Ch	Eicosanoid Synthesis:WP167
+HMDB02200	Ch	Eicosanoid Synthesis:WP167
+HMDB11134	Ch	Eicosanoid Synthesis:WP167
+HMDB11135	Ch	Eicosanoid Synthesis:WP167
+HMDB12601	Ch	Eicosanoid Synthesis:WP167
+HMDB02995	Ch	Eicosanoid Synthesis:WP167
+HMDB01085	Ch	Eicosanoid Synthesis:WP167
+HMDB13040	Ch	Eicosanoid Synthesis:WP167
+HMDB03252	Ch	Eicosanoid Synthesis:WP167
+HMDB00182	Ch	Lysine Degradation:SMP00037
+HMDB00716	Ch	Lysine Degradation:SMP00037
+HMDB01339	Ch	Lysine Degradation:SMP00037
+HMDB01084	Ch	Lysine Degradation:SMP00037
+HMDB01263	Ch	Lysine Degradation:SMP00037
+HMDB06832	Ch	Lysine Degradation:SMP00037
+HMDB00279	Ch	Lysine Degradation:SMP00037
+HMDB00225	Ch	Lysine Degradation:SMP00037
+HMDB00510	Ch	Lysine Degradation:SMP00037
+HMDB00464	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB03125	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB02168	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB02179	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB00657	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB00494	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB03378	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB02111	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB00517	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB01039	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB00148	Ch	Amyotrophic lateral sclerosis (ALS):WP2447
+HMDB00939	Ch	Dopamine metabolism:WP2436
+HMDB05175	Ch	Dopamine metabolism:WP2436
+HMDB02111	Ch	Dopamine metabolism:WP2436
+HMDB12219	Ch	Dopamine metabolism:WP2436
+HMDB04067	Ch	Dopamine metabolism:WP2436
+HMDB12992	Ch	Dopamine metabolism:WP2436
+HMDB00181	Ch	Dopamine metabolism:WP2436
+HMDB03791	Ch	Dopamine metabolism:WP2436
+HMDB03125	Ch	Dopamine metabolism:WP2436
+HMDB01253	Ch	Dopamine metabolism:WP2436
+HMDB12931	Ch	Dopamine metabolism:WP2436
+HMDB01377	Ch	Dopamine metabolism:WP2436
+HMDB11719	Ch	Dopamine metabolism:WP2436
+HMDB05784	Ch	Dopamine metabolism:WP2436
+HMDB01967	Ch	Dopamine metabolism:WP2436
+HMDB00022	Ch	Dopamine metabolism:WP2436
+HMDB00125	Ch	Dopamine metabolism:WP2436
+HMDB00027	Ch	Dopamine metabolism:WP2436
+HMDB04058	Ch	Dopamine metabolism:WP2436
+HMDB01430	Ch	Dopamine metabolism:WP2436
+HMDB01248	Ch	Dopamine metabolism:WP2436
+HMDB01185	Ch	Dopamine metabolism:WP2436
+HMDB00051	Ch	Dopamine metabolism:WP2436
+HMDB01361	Ch	Dopamine metabolism:WP2436
+HMDB00494	Ch	Dopamine metabolism:WP2436
+HMDB02281	Ch	Dopamine metabolism:WP2436
+HMDB00118	Ch	Dopamine metabolism:WP2436
+HMDB04369	Ch	Dopamine metabolism:WP2436
+HMDB00073	Ch	Dopamine metabolism:WP2436
+HMDB00158	Ch	Dopamine metabolism:WP2436
+HMDB01314	Ch	Cardiac Hypertrophic Response:WP2795
+HMDB01498	Ch	Cardiac Hypertrophic Response:WP2795
+HMDB00464	Ch	Cardiac Hypertrophic Response:WP2795
+HMDB01035	Ch	Cardiac Hypertrophic Response:WP2795
+HMDB01359	Ch	Phytanic Acid Peroxisomal Oxidation:SMP00450
+HMDB00801	Ch	Phytanic Acid Peroxisomal Oxidation:SMP00450
+HMDB01243	Ch	Phytanic Acid Peroxisomal Oxidation:SMP00450
+HMDB01295	Ch	Phytanic Acid Peroxisomal Oxidation:SMP00450
+HMDB00795	Ch	Phytanic Acid Peroxisomal Oxidation:SMP00450
+HMDB01958	Ch	Phytanic Acid Peroxisomal Oxidation:SMP00450
+HMDB07853	Ch	Glycerolipid Metabolism:SMP00039
+HMDB01051	Ch	Glycerolipid Metabolism:SMP00039
+HMDB11533	Ch	Glycerolipid Metabolism:SMP00039
+HMDB00674	Ch	Glycerolipid Metabolism:SMP00039
+HMDB00807	Ch	Glycerolipid Metabolism:SMP00039
+HMDB00131	Ch	Glycerolipid Metabolism:SMP00039
+HMDB00139	Ch	Glycerolipid Metabolism:SMP00039
+HMDB00220	Ch	Glycerolipid Metabolism:SMP00039
+HMDB00126	Ch	Glycerolipid Metabolism:SMP00039
+HMDB07098	Ch	Glycerolipid Metabolism:SMP00039
+HMDB05356	Ch	Glycerolipid Metabolism:SMP00039
+HMDB06344	Ch	Phenylalanine metabolism:map00360
+HMDB00205	Ch	Phenylalanine metabolism:map00360
+HMDB00707	Ch	Phenylalanine metabolism:map00360
+HMDB06503	Ch	Phenylalanine metabolism:map00360
+HMDB00641	Ch	Phenylalanine metabolism:map00360
+HMDB01377	Ch	Phenylalanine metabolism:map00360
+HMDB00130	Ch	Phenylalanine metabolism:map00360
+HMDB02052	Ch	Phenylalanine metabolism:map00360
+HMDB00134	Ch	Phenylalanine metabolism:map00360
+HMDB01423	Ch	Phenylalanine metabolism:map00360
+HMDB00060	Ch	Phenylalanine metabolism:map00360
+HMDB01268	Ch	Phenylalanine metabolism:map00360
+HMDB00158	Ch	Phenylalanine metabolism:map00360
+HMDB00159	Ch	Phenylalanine metabolism:map00360
+HMDB06842	Ch	Steroid Biosynthesis:SMP00023
+HMDB06840	Ch	Steroid Biosynthesis:SMP00023
+HMDB06841	Ch	Steroid Biosynthesis:SMP00023
+HMDB06927	Ch	Steroid Biosynthesis:SMP00023
+HMDB00876	Ch	Steroid Biosynthesis:SMP00023
+HMDB01170	Ch	Steroid Biosynthesis:SMP00023
+HMDB00227	Ch	Steroid Biosynthesis:SMP00023
+HMDB01090	Ch	Steroid Biosynthesis:SMP00023
+HMDB01217	Ch	Steroid Biosynthesis:SMP00023
+HMDB02027	Ch	Steroid Biosynthesis:SMP00023
+HMDB01278	Ch	Steroid Biosynthesis:SMP00023
+HMDB01251	Ch	Steroid Biosynthesis:SMP00023
+HMDB01375	Ch	Steroid Biosynthesis:SMP00023
+HMDB01484	Ch	Steroid Biosynthesis:SMP00023
+HMDB00067	Ch	Steroid Biosynthesis:SMP00023
+HMDB03896	Ch	Steroid Biosynthesis:SMP00023
+HMDB06839	Ch	Steroid Biosynthesis:SMP00023
+HMDB06838	Ch	Steroid Biosynthesis:SMP00023
+HMDB00961	Ch	Steroid Biosynthesis:SMP00023
+HMDB01120	Ch	Steroid Biosynthesis:SMP00023
+HMDB01285	Ch	Steroid Biosynthesis:SMP00023
+HMDB01286	Ch	Steroid Biosynthesis:SMP00023
+HMDB01023	Ch	Steroid Biosynthesis:SMP00023
+HMDB00256	Ch	Steroid Biosynthesis:SMP00023
+HMDB06271	Ch	Steroid Biosynthesis:SMP00023
+HMDB01343	Ch	Steroid Biosynthesis:SMP00023
+HMDB01347	Ch	Steroid Biosynthesis:SMP00023
+HMDB01188	Ch	Steroid Biosynthesis:SMP00023
+HMDB02719	Ch	Steroid Biosynthesis:SMP00023
+HMDB00032	Ch	Steroid Biosynthesis:SMP00023
+HMDB01491	Ch	Glucose-Alanine Cycle:SMP00127
+HMDB02111	Ch	Complement Activation:WP545
+HMDB00494	Ch	Complement Activation:WP545
+HMDB01132	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB01488	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB00699	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB00232	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB00855	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB00229	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB00217	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB06809	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB04194	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB04193	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB01179	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB01406	Ch	Nicotinate and nicotinamide metabolism:map00760
+HMDB00097	Ch	Acetylcholine Synthesis:WP528
+HMDB00564	Ch	Acetylcholine Synthesis:WP528
+HMDB00895	Ch	Acetylcholine Synthesis:WP528
+HMDB00042	Ch	Acetylcholine Synthesis:WP528
+HMDB01206	Ch	Acetylcholine Synthesis:WP528
+HMDB01413	Ch	Acetylcholine Synthesis:WP528
+HMDB01565	Ch	Acetylcholine Synthesis:WP528
+HMDB00243	Ch	Acetylcholine Synthesis:WP528
+HMDB00086	Ch	Acetylcholine Synthesis:WP528
+HMDB04026	Ch	Steroidogenesis:SMP00130
+HMDB01318	Ch	Steroidogenesis:SMP00130
+HMDB03759	Ch	Steroidogenesis:SMP00130
+HMDB06758	Ch	Steroidogenesis:SMP00130
+HMDB04029	Ch	Steroidogenesis:SMP00130
+HMDB06763	Ch	Steroidogenesis:SMP00130
+HMDB06762	Ch	Steroidogenesis:SMP00130
+HMDB06760	Ch	Steroidogenesis:SMP00130
+HMDB06283	Ch	Steroidogenesis:SMP00130
+HMDB02802	Ch	Steroidogenesis:SMP00130
+HMDB00067	Ch	Steroidogenesis:SMP00130
+HMDB00063	Ch	Steroidogenesis:SMP00130
+HMDB00363	Ch	Steroidogenesis:SMP00130
+HMDB06753	Ch	Steroidogenesis:SMP00130
+HMDB06764	Ch	Steroidogenesis:SMP00130
+HMDB00949	Ch	Steroidogenesis:SMP00130
+HMDB12460	Ch	Steroidogenesis:SMP00130
+HMDB04035	Ch	Steroidogenesis:SMP00130
+HMDB00903	Ch	Steroidogenesis:SMP00130
+HMDB04031	Ch	Steroidogenesis:SMP00130
+HMDB04030	Ch	Steroidogenesis:SMP00130
+HMDB00015	Ch	Steroidogenesis:SMP00130
+HMDB00253	Ch	Steroidogenesis:SMP00130
+HMDB01547	Ch	Steroidogenesis:SMP00130
+HMDB00319	Ch	Steroidogenesis:SMP00130
+HMDB06757	Ch	Steroidogenesis:SMP00130
+HMDB06754	Ch	Steroidogenesis:SMP00130
+HMDB06755	Ch	Steroidogenesis:SMP00130
+HMDB00374	Ch	Steroidogenesis:SMP00130
+HMDB00016	Ch	Steroidogenesis:SMP00130
+HMDB01830	Ch	Steroidogenesis:SMP00130
+HMDB00037	Ch	Steroidogenesis:SMP00130
+HMDB06759	Ch	Steroidogenesis:SMP00130
+HMDB00044	Ch	Differentiation Pathway:WP2848
+HMDB01349	Ch	Differentiation Pathway:WP2848
+HMDB00305	Ch	Differentiation Pathway:WP2848
+HMDB02520	Ch	Differentiation Pathway:WP2848
+HMDB12874	Ch	Differentiation Pathway:WP2848
+HMDB01406	Ch	Differentiation Pathway:WP2848
+HMDB01852	Ch	Differentiation Pathway:WP2848
+HMDB02369	Ch	Differentiation Pathway:WP2848
+HMDB00251	Ch	Differentiation Pathway:WP2848
+HMDB01368	Ch	Cysteine Metabolism:SMP00013
+HMDB01049	Ch	Cysteine Metabolism:SMP00013
+HMDB00996	Ch	Cysteine Metabolism:SMP00013
+HMDB01405	Ch	Cysteine Metabolism:SMP00013
+HMDB02127	Ch	Cysteine Metabolism:SMP00013
+HMDB00243	Ch	Cysteine Metabolism:SMP00013
+HMDB00058	Ch	Serotonin Receptor 4/6/7 and NR3C Signaling:WP734
+HMDB00259	Ch	Serotonin Receptor 4/6/7 and NR3C Signaling:WP734
+HMDB00193	Ch	Citrate cycle (TCA cycle):map00020
+HMDB01197	Ch	Citrate cycle (TCA cycle):map00020
+HMDB00094	Ch	Citrate cycle (TCA cycle):map00020
+HMDB01201	Ch	Citrate cycle (TCA cycle):map00020
+HMDB01248	Ch	Citrate cycle (TCA cycle):map00020
+HMDB00156	Ch	Citrate cycle (TCA cycle):map00020
+HMDB00595	Ch	Citrate cycle (TCA cycle):map00020
+HMDB00072	Ch	Citrate cycle (TCA cycle):map00020
+HMDB00254	Ch	Citrate cycle (TCA cycle):map00020
+HMDB03416	Ch	D-Arginine and D-Ornithine Metabolism:SMP00036
+HMDB04225	Ch	D-Arginine and D-Ornithine Metabolism:SMP00036
+HMDB06875	Ch	D-Arginine and D-Ornithine Metabolism:SMP00036
+HMDB06272	Ch	D-Arginine and D-Ornithine Metabolism:SMP00036
+HMDB03374	Ch	D-Arginine and D-Ornithine Metabolism:SMP00036
+HMDB00145	Ch	Androgen and Estrogen Metabolism:SMP00068
+HMDB01425	Ch	Androgen and Estrogen Metabolism:SMP00068
+HMDB00363	Ch	Androgen and Estrogen Metabolism:SMP00068
+HMDB00374	Ch	Androgen and Estrogen Metabolism:SMP00068
+HMDB00097	Ch	Methionine Metabolism:SMP00033
+HMDB00939	Ch	Methionine Metabolism:SMP00033
+HMDB00963	Ch	Methionine Metabolism:SMP00033
+HMDB00092	Ch	Methionine Metabolism:SMP00033
+HMDB01553	Ch	Methionine Metabolism:SMP00033
+HMDB00988	Ch	Methionine Metabolism:SMP00033
+HMDB00719	Ch	Methionine Metabolism:SMP00033
+HMDB01257	Ch	Methionine Metabolism:SMP00033
+HMDB00099	Ch	Methionine Metabolism:SMP00033
+HMDB00043	Ch	Methionine Metabolism:SMP00033
+HMDB01414	Ch	Methionine Metabolism:SMP00033
+HMDB01173	Ch	Methionine Metabolism:SMP00033
+HMDB00005	Ch	Methionine Metabolism:SMP00033
+HMDB02005	Ch	Methionine Metabolism:SMP00033
+HMDB01396	Ch	Methionine Metabolism:SMP00033
+HMDB05038	Ch	Monoamine Transport:WP727
+HMDB00216	Ch	Monoamine Transport:WP727
+HMDB00259	Ch	Monoamine Transport:WP727
+HMDB00068	Ch	Monoamine Transport:WP727
+HMDB00112	Ch	Monoamine Transport:WP727
+HMDB00929	Ch	Monoamine Transport:WP727

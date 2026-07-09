@@ -1,0 +1,6 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Inflammatory Response Pathway:WP453	3	5	32	60.0	15.625	8.76954037564	0.0	0.05925	Alpha 6 Beta 4 signaling pathway:WP244|Focal Adhesion:WP306	Alpha 6 Beta 4 signaling pathway:WP244	LAMA5|LAMB2|LAMC1
+miRNA targets in ECM and membrane receptors:WP2911	3	10	45	30.0	22.2222222222	5.98131224121	0.0005	0.05925	Focal Adhesion:WP306	 	LAMA4|LAMB2|LAMC1
+Alpha 6 Beta 4 signaling pathway:WP244	3	14	33	21.4285714286	42.4242424242	4.90574383618	0.008	0.3792	Focal Adhesion:WP306|Inflammatory Response Pathway:WP453	Inflammatory Response Pathway:WP453	LAMA5|LAMB2|LAMC1
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	4	25	73	16.0	34.2465753425	4.73679155342	0.002	0.158	 	 	AGRN|ILK|LAMA5|LAMB2
+Focal Adhesion:WP306	6	54	190	11.1111111111	28.4210526316	4.58083623042	0.005	0.29625	 	Alpha 6 Beta 4 signaling pathway:WP244|Inflammatory Response Pathway:WP453|miRNA targets in ECM and membrane receptors:WP2911	ILK|LAMA4|LAMA5|LAMB2|LAMC1|MYL6

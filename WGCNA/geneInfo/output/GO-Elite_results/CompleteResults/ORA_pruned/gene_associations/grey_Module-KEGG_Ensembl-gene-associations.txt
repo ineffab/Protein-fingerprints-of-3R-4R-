@@ -1,0 +1,11 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	ENSG00000206172	Malaria:KEGG-hsa05144	Malaria:KEGG-hsa05144	HBA1	grey	En
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	ENSG00000244734	Malaria:KEGG-hsa05144	Malaria:KEGG-hsa05144	HBB	grey	En
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	ENSG00000223609	Malaria:KEGG-hsa05144	Malaria:KEGG-hsa05144	HBD	grey	En
+ENSG00000105409	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide [Source:HGNC Symbol;Acc:HGNC:801]	ENSG00000105409	Carbohydrate digestion and absorption:KEGG-hsa04973	Carbohydrate digestion and absorption:KEGG-hsa04973	ATP1A3	grey	En
+ENSG00000143153	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide [Source:HGNC Symbol;Acc:HGNC:804]	ENSG00000143153	Carbohydrate digestion and absorption:KEGG-hsa04973	Carbohydrate digestion and absorption:KEGG-hsa04973	ATP1B1	grey	En
+ENSG00000129244	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide [Source:HGNC Symbol;Acc:HGNC:805]	ENSG00000129244	Carbohydrate digestion and absorption:KEGG-hsa04973	Carbohydrate digestion and absorption:KEGG-hsa04973	ATP1B2	grey	En
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	ENSG00000100031	Arachidonic acid metabolism:KEGG-hsa00590	Arachidonic acid metabolism:KEGG-hsa00590	GGT1	grey	En
+ENSG00000148334	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	ENSG00000148334	Arachidonic acid metabolism:KEGG-hsa00590	Arachidonic acid metabolism:KEGG-hsa00590	PTGES2	grey	En
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	ENSG00000111144	Arachidonic acid metabolism:KEGG-hsa00590	Arachidonic acid metabolism:KEGG-hsa00590	LTA4H	grey	En
+ENSG00000171903	CYP4F11	cytochrome P450, family 4, subfamily F, polypeptide 11 [Source:HGNC Symbol;Acc:HGNC:13265]	ENSG00000171903	Arachidonic acid metabolism:KEGG-hsa00590	Arachidonic acid metabolism:KEGG-hsa00590	CYP4F11	grey	En

@@ -1,0 +1,178 @@
+regulation of developmental growth	pr	ENSG00000188157:AGRN
+regulation of developmental growth	pr	ENSG00000166333:ILK
+regulation of developmental growth	pr	ENSG00000126861:OMG
+cell-matrix adhesion	pr	ENSG00000087303:NID2
+cell-matrix adhesion	pr	ENSG00000166333:ILK
+cell-matrix adhesion	pr	ENSG00000116962:NID1
+metal ion binding	pr	ENSG00000131471:AOC3
+metal ion binding	pr	ENSG00000082212:ME2
+metal ion binding	pr	ENSG00000117298:ECE1
+metal ion binding	pr	ENSG00000087303:NID2
+metal ion binding	pr	ENSG00000116791:CRYZ
+metal ion binding	pr	ENSG00000142798:HSPG2
+metal ion binding	pr	ENSG00000243989:ACY1
+metal ion binding	pr	ENSG00000102189:EEA1
+metal ion binding	pr	ENSG00000188157:AGRN
+metal ion binding	pr	ENSG00000175198:PCCA
+metal ion binding	pr	ENSG00000115042:FAHD2A
+metal ion binding	pr	ENSG00000162551:ALPL
+metal ion binding	pr	ENSG00000116962:NID1
+metal ion binding	pr	ENSG00000092841:MYL6
+metal ion binding	pr	ENSG00000138413:IDH1
+metal ion binding	pr	ENSG00000103876:FAH
+metal ion binding	pr	ENSG00000079739:PGM1
+metal ion binding	pr	ENSG00000163110:PDLIM5
+metal ion binding	pr	ENSG00000079931:MOXD1
+oxoacid metabolic process	pr	ENSG00000159423:ALDH4A1
+oxoacid metabolic process	pr	ENSG00000082212:ME2
+oxoacid metabolic process	pr	ENSG00000233276:GPX1
+oxoacid metabolic process	pr	ENSG00000142798:HSPG2
+oxoacid metabolic process	pr	ENSG00000243989:ACY1
+oxoacid metabolic process	pr	ENSG00000171766:GATM
+oxoacid metabolic process	pr	ENSG00000188157:AGRN
+oxoacid metabolic process	pr	ENSG00000175198:PCCA
+oxoacid metabolic process	pr	ENSG00000138413:IDH1
+oxoacid metabolic process	pr	ENSG00000103876:FAH
+oxoacid metabolic process	pr	ENSG00000079739:PGM1
+extracellular matrix	pr	ENSG00000130702:LAMA5
+extracellular matrix	pr	ENSG00000087303:NID2
+extracellular matrix	pr	ENSG00000172037:LAMB2
+extracellular matrix	pr	ENSG00000142798:HSPG2
+extracellular matrix	pr	ENSG00000135862:LAMC1
+extracellular matrix	pr	ENSG00000188157:AGRN
+extracellular matrix	pr	ENSG00000162551:ALPL
+extracellular matrix	pr	ENSG00000142910:TINAGL1
+extracellular matrix	pr	ENSG00000112769:LAMA4
+extracellular matrix	pr	ENSG00000116962:NID1
+extracellular matrix	pr	ENSG00000140545:MFGE8
+response to steroid hormone	pr	ENSG00000134202:GSTM3
+response to steroid hormone	pr	ENSG00000233276:GPX1
+response to steroid hormone	pr	ENSG00000162551:ALPL
+response to steroid hormone	pr	ENSG00000138413:IDH1
+extracellular matrix structural constituent	pr	ENSG00000135862:LAMC1
+extracellular matrix structural constituent	pr	ENSG00000142910:TINAGL1
+extracellular matrix structural constituent	pr	ENSG00000112769:LAMA4
+sulfur compound metabolic process	pr	ENSG00000134202:GSTM3
+sulfur compound metabolic process	pr	ENSG00000233276:GPX1
+sulfur compound metabolic process	pr	ENSG00000142798:HSPG2
+sulfur compound metabolic process	pr	ENSG00000188157:AGRN
+sulfur compound metabolic process	pr	ENSG00000175198:PCCA
+sulfur compound metabolic process	pr	ENSG00000138413:IDH1
+detection of visible light	pr	ENSG00000168522:FNTA
+detection of visible light	pr	ENSG00000142798:HSPG2
+detection of visible light	pr	ENSG00000188157:AGRN
+detection of visible light	pr	ENSG00000084674:APOB
+response to toxic substance	pr	ENSG00000131471:AOC3
+response to toxic substance	pr	ENSG00000233276:GPX1
+response to toxic substance	pr	ENSG00000162551:ALPL
+substrate adhesion-dependent cell spreading	pr	ENSG00000130702:LAMA5
+substrate adhesion-dependent cell spreading	pr	ENSG00000135862:LAMC1
+substrate adhesion-dependent cell spreading	pr	ENSG00000166333:ILK
+laminin binding	pr	ENSG00000188157:AGRN
+laminin binding	pr	ENSG00000142910:TINAGL1
+laminin binding	pr	ENSG00000116962:NID1
+tissue development	pr	ENSG00000172037:LAMB2
+tissue development	pr	ENSG00000233276:GPX1
+tissue development	pr	ENSG00000142798:HSPG2
+tissue development	pr	ENSG00000135862:LAMC1
+tissue development	pr	ENSG00000171766:GATM
+tissue development	pr	ENSG00000162551:ALPL
+tissue development	pr	ENSG00000092841:MYL6
+regeneration	pr	ENSG00000233276:GPX1
+regeneration	pr	ENSG00000171766:GATM
+regeneration	pr	ENSG00000126861:OMG
+angiogenesis	pr	ENSG00000130702:LAMA5
+angiogenesis	pr	ENSG00000233276:GPX1
+angiogenesis	pr	ENSG00000142798:HSPG2
+angiogenesis	pr	ENSG00000140545:MFGE8
+retinoid metabolic process	pr	ENSG00000142798:HSPG2
+retinoid metabolic process	pr	ENSG00000188157:AGRN
+retinoid metabolic process	pr	ENSG00000084674:APOB
+contractile fiber part	pr	ENSG00000133392:MYH11
+contractile fiber part	pr	ENSG00000166333:ILK
+contractile fiber part	pr	ENSG00000185567:AHNAK2
+contractile fiber part	pr	ENSG00000163110:PDLIM5
+response to nutrient	pr	ENSG00000233276:GPX1
+response to nutrient	pr	ENSG00000171766:GATM
+response to nutrient	pr	ENSG00000162551:ALPL
+laminin complex	pr	ENSG00000130702:LAMA5
+laminin complex	pr	ENSG00000172037:LAMB2
+laminin complex	pr	ENSG00000135862:LAMC1
+laminin complex	pr	ENSG00000112769:LAMA4
+integrin binding	pr	ENSG00000130702:LAMA5
+integrin binding	pr	ENSG00000172037:LAMB2
+integrin binding	pr	ENSG00000166333:ILK
+integrin binding	pr	ENSG00000140545:MFGE8
+extracellular region	pr	ENSG00000130702:LAMA5
+extracellular region	pr	ENSG00000087303:NID2
+extracellular region	pr	ENSG00000172037:LAMB2
+extracellular region	pr	ENSG00000142798:HSPG2
+extracellular region	pr	ENSG00000135862:LAMC1
+extracellular region	pr	ENSG00000188157:AGRN
+extracellular region	pr	ENSG00000175198:PCCA
+extracellular region	pr	ENSG00000142910:TINAGL1
+extracellular region	pr	ENSG00000084674:APOB
+extracellular region	pr	ENSG00000112769:LAMA4
+extracellular region	pr	ENSG00000116962:NID1
+extracellular region	pr	ENSG00000140545:MFGE8
+sulfur compound binding	pr	ENSG00000134202:GSTM3
+sulfur compound binding	pr	ENSG00000233276:GPX1
+sulfur compound binding	pr	ENSG00000188157:AGRN
+sulfur compound binding	pr	ENSG00000175198:PCCA
+sulfur compound binding	pr	ENSG00000084674:APOB
+extracellular space	pr	ENSG00000130702:LAMA5
+extracellular space	pr	ENSG00000142798:HSPG2
+extracellular space	pr	ENSG00000135862:LAMC1
+extracellular space	pr	ENSG00000188157:AGRN
+extracellular space	pr	ENSG00000162551:ALPL
+extracellular space	pr	ENSG00000142910:TINAGL1
+extracellular space	pr	ENSG00000084674:APOB
+extracellular space	pr	ENSG00000167986:DDB1
+extracellular space	pr	ENSG00000140545:MFGE8
+extracellular structure organization	pr	ENSG00000130702:LAMA5
+extracellular structure organization	pr	ENSG00000087303:NID2
+extracellular structure organization	pr	ENSG00000172037:LAMB2
+extracellular structure organization	pr	ENSG00000133392:MYH11
+extracellular structure organization	pr	ENSG00000142798:HSPG2
+extracellular structure organization	pr	ENSG00000135862:LAMC1
+extracellular structure organization	pr	ENSG00000188157:AGRN
+extracellular structure organization	pr	ENSG00000166333:ILK
+extracellular structure organization	pr	ENSG00000112769:LAMA4
+extracellular structure organization	pr	ENSG00000116962:NID1
+embryonic morphogenesis	pr	ENSG00000130702:LAMA5
+embryonic morphogenesis	pr	ENSG00000117298:ECE1
+embryonic morphogenesis	pr	ENSG00000142798:HSPG2
+modified amino acid binding	pr	ENSG00000134202:GSTM3
+modified amino acid binding	pr	ENSG00000233276:GPX1
+modified amino acid binding	pr	ENSG00000140545:MFGE8
+epithelial cell development	pr	ENSG00000134202:GSTM3
+epithelial cell development	pr	ENSG00000172037:LAMB2
+epithelial cell development	pr	ENSG00000233276:GPX1
+ameboidal-type cell migration	pr	ENSG00000130702:LAMA5
+ameboidal-type cell migration	pr	ENSG00000233276:GPX1
+ameboidal-type cell migration	pr	ENSG00000166333:ILK
+amide binding	pr	ENSG00000117298:ECE1
+amide binding	pr	ENSG00000134202:GSTM3
+amide binding	pr	ENSG00000233276:GPX1
+amide binding	pr	ENSG00000175198:PCCA
+basal lamina	pr	ENSG00000130702:LAMA5
+basal lamina	pr	ENSG00000172037:LAMB2
+basal lamina	pr	ENSG00000142798:HSPG2
+basal lamina	pr	ENSG00000135862:LAMC1
+basal lamina	pr	ENSG00000188157:AGRN
+basal lamina	pr	ENSG00000112769:LAMA4
+basal lamina	pr	ENSG00000116962:NID1
+basement membrane	pr	ENSG00000130702:LAMA5
+basement membrane	pr	ENSG00000087303:NID2
+basement membrane	pr	ENSG00000172037:LAMB2
+basement membrane	pr	ENSG00000142798:HSPG2
+basement membrane	pr	ENSG00000135862:LAMC1
+basement membrane	pr	ENSG00000188157:AGRN
+basement membrane	pr	ENSG00000112769:LAMA4
+basement membrane	pr	ENSG00000116962:NID1
+developmental growth	pr	ENSG00000172037:LAMB2
+developmental growth	pr	ENSG00000233276:GPX1
+developmental growth	pr	ENSG00000171766:GATM
+cellular component assembly involved in morphogenesis	pr	ENSG00000130702:LAMA5
+cellular component assembly involved in morphogenesis	pr	ENSG00000133392:MYH11
+cellular component assembly involved in morphogenesis	pr	ENSG00000166333:ILK

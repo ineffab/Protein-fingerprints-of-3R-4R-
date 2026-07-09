@@ -1,0 +1,60 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000070831	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	3	0.428571428571	ENSG00000070831	Pathways in cancer:KEGG-hsa05200 // Pancreatic cancer:KEGG-hsa05212 // Tight junction:KEGG-hsa04530
+ENSG00000174775	HRAS	Harvey rat sarcoma viral oncogene homolog [Source:HGNC Symbol;Acc:HGNC:5173]	2	0.285714285714	ENSG00000174775	Pathways in cancer:KEGG-hsa05200 // Tight junction:KEGG-hsa04530
+ENSG00000168610	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor) [Source:HGNC Symbol;Acc:HGNC:11364]	2	0.285714285714	ENSG00000168610	Pathways in cancer:KEGG-hsa05200 // Pancreatic cancer:KEGG-hsa05212
+ENSG00000144118	RALB	v-ral simian leukemia viral oncogene homolog B [Source:HGNC Symbol;Acc:HGNC:9840]	2	0.285714285714	ENSG00000144118	Pathways in cancer:KEGG-hsa05200 // Pancreatic cancer:KEGG-hsa05212
+ENSG00000136238	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1) [Source:HGNC Symbol;Acc:HGNC:9801]	2	0.285714285714	ENSG00000136238	Pathways in cancer:KEGG-hsa05200 // Pancreatic cancer:KEGG-hsa05212
+ENSG00000067560	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	2	0.285714285714	ENSG00000067560	Pathways in cancer:KEGG-hsa05200 // Tight junction:KEGG-hsa04530
+ENSG00000044115	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa [Source:HGNC Symbol;Acc:HGNC:2509]	2	0.285714285714	ENSG00000044115	Pathways in cancer:KEGG-hsa05200 // Tight junction:KEGG-hsa04530
+ENSG00000006451	RALA	v-ral simian leukemia viral oncogene homolog A (ras related) [Source:HGNC Symbol;Acc:HGNC:9839]	2	0.285714285714	ENSG00000006451	Pathways in cancer:KEGG-hsa05200 // Pancreatic cancer:KEGG-hsa05212
+ENSG00000231500	RPS18	ribosomal protein S18 [Source:HGNC Symbol;Acc:HGNC:10401]	1	0.142857142857	ENSG00000231500	Ribosome:KEGG-hsa03010
+ENSG00000198563	DDX39B	DEAD (Asp-Glu-Ala-Asp) box polypeptide 39B [Source:HGNC Symbol;Acc:HGNC:13917]	1	0.142857142857	ENSG00000198563	RNA transport:KEGG-hsa03013
+ENSG00000198034	RPS4X	ribosomal protein S4, X-linked [Source:HGNC Symbol;Acc:HGNC:10424]	1	0.142857142857	ENSG00000198034	Ribosome:KEGG-hsa03010
+ENSG00000197958	RPL12	ribosomal protein L12 [Source:HGNC Symbol;Acc:HGNC:10302]	1	0.142857142857	ENSG00000197958	Ribosome:KEGG-hsa03010
+ENSG00000197694	SPTAN1	spectrin, alpha, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11273]	1	0.142857142857	ENSG00000197694	Tight junction:KEGG-hsa04530
+ENSG00000184110	EIF3C	eukaryotic translation initiation factor 3, subunit C [Source:HGNC Symbol;Acc:HGNC:3279]	1	0.142857142857	ENSG00000184110	RNA transport:KEGG-hsa03013
+ENSG00000178372	CALML5	calmodulin-like 5 [Source:HGNC Symbol;Acc:HGNC:18180]	1	0.142857142857	ENSG00000178372	Phototransduction:KEGG-hsa04744
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	1	0.142857142857	ENSG00000177600	Ribosome:KEGG-hsa03010
+ENSG00000175390	EIF3F	eukaryotic translation initiation factor 3, subunit F [Source:HGNC Symbol;Acc:HGNC:3275]	1	0.142857142857	ENSG00000175390	RNA transport:KEGG-hsa03013
+ENSG00000173801	JUP	junction plakoglobin [Source:HGNC Symbol;Acc:HGNC:6207]	1	0.142857142857	ENSG00000173801	Pathways in cancer:KEGG-hsa05200
+ENSG00000171863	RPS7	ribosomal protein S7 [Source:HGNC Symbol;Acc:HGNC:10440]	1	0.142857142857	ENSG00000171863	Ribosome:KEGG-hsa03010
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	1	0.142857142857	ENSG00000170889	Ribosome:KEGG-hsa03010
+ENSG00000168028	RPSA	ribosomal protein SA [Source:HGNC Symbol;Acc:HGNC:6502]	1	0.142857142857	ENSG00000168028	Ribosome:KEGG-hsa03010
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	1	0.142857142857	ENSG00000167526	Ribosome:KEGG-hsa03010
+ENSG00000163344	PMVK	phosphomevalonate kinase [Source:HGNC Symbol;Acc:HGNC:9141]	1	0.142857142857	ENSG00000163344	Peroxisome:KEGG-hsa04146
+ENSG00000161533	ACOX1	acyl-CoA oxidase 1, palmitoyl [Source:HGNC Symbol;Acc:HGNC:119]	1	0.142857142857	ENSG00000161533	Peroxisome:KEGG-hsa04146
+ENSG00000158186	MRAS	muscle RAS oncogene homolog [Source:HGNC Symbol;Acc:HGNC:7227]	1	0.142857142857	ENSG00000158186	Tight junction:KEGG-hsa04530
+ENSG00000157500	APPL1	adaptor protein, phosphotyrosine interaction, PH domain and leucine zipper containing 1 [Source:HGNC Symbol;Acc:HGNC:24035]	1	0.142857142857	ENSG00000157500	Pathways in cancer:KEGG-hsa05200
+ENSG00000157020	SEC13	SEC13 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:10697]	1	0.142857142857	ENSG00000157020	RNA transport:KEGG-hsa03013
+ENSG00000156976	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	1	0.142857142857	ENSG00000156976	RNA transport:KEGG-hsa03013
+ENSG00000156508	EEF1A1	eukaryotic translation elongation factor 1 alpha 1 [Source:HGNC Symbol;Acc:HGNC:3189]	1	0.142857142857	ENSG00000156508	RNA transport:KEGG-hsa03013
+ENSG00000154721	JAM2	junctional adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:14686]	1	0.142857142857	ENSG00000154721	Tight junction:KEGG-hsa04530
+ENSG00000149273	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	1	0.142857142857	ENSG00000149273	Ribosome:KEGG-hsa03010
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	1	0.142857142857	ENSG00000148303	Ribosome:KEGG-hsa03010
+ENSG00000147403	RPL10	ribosomal protein L10 [Source:HGNC Symbol;Acc:HGNC:10298]	1	0.142857142857	ENSG00000147403	Ribosome:KEGG-hsa03010
+ENSG00000145425	RPS3A	ribosomal protein S3A [Source:HGNC Symbol;Acc:HGNC:10421]	1	0.142857142857	ENSG00000145425	Ribosome:KEGG-hsa03010
+ENSG00000143549	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	1	0.142857142857	ENSG00000143549	Pathways in cancer:KEGG-hsa05200
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	1	0.142857142857	ENSG00000142937	Ribosome:KEGG-hsa03010
+ENSG00000142534	RPS11	ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:10384]	1	0.142857142857	ENSG00000142534	Ribosome:KEGG-hsa03010
+ENSG00000140988	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	1	0.142857142857	ENSG00000140988	Ribosome:KEGG-hsa03010
+ENSG00000137486	ARRB1	arrestin, beta 1 [Source:HGNC Symbol;Acc:HGNC:711]	1	0.142857142857	ENSG00000137486	Phototransduction:KEGG-hsa04744
+ENSG00000137154	RPS6	ribosomal protein S6 [Source:HGNC Symbol;Acc:HGNC:10429]	1	0.142857142857	ENSG00000137154	Ribosome:KEGG-hsa03010
+ENSG00000134419	RPS15A	ribosomal protein S15a [Source:HGNC Symbol;Acc:HGNC:10389]	1	0.142857142857	ENSG00000134419	Ribosome:KEGG-hsa03010
+ENSG00000134001	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa [Source:HGNC Symbol;Acc:HGNC:3265]	1	0.142857142857	ENSG00000134001	RNA transport:KEGG-hsa03013
+ENSG00000133835	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4 [Source:HGNC Symbol;Acc:HGNC:5213]	1	0.142857142857	ENSG00000133835	Peroxisome:KEGG-hsa04146
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	1	0.142857142857	ENSG00000130741	RNA transport:KEGG-hsa03013
+ENSG00000130402	ACTN4	actinin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:166]	1	0.142857142857	ENSG00000130402	Tight junction:KEGG-hsa04530
+ENSG00000121691	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	1	0.142857142857	ENSG00000121691	Peroxisome:KEGG-hsa04146
+ENSG00000107581	EIF3A	eukaryotic translation initiation factor 3, subunit A [Source:HGNC Symbol;Acc:HGNC:3271]	1	0.142857142857	ENSG00000107581	RNA transport:KEGG-hsa03013
+ENSG00000106263	EIF3B	eukaryotic translation initiation factor 3, subunit B [Source:HGNC Symbol;Acc:HGNC:3280]	1	0.142857142857	ENSG00000106263	RNA transport:KEGG-hsa03013
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	1	0.142857142857	ENSG00000105640	Ribosome:KEGG-hsa03010
+ENSG00000105357	MYH14	myosin, heavy chain 14, non-muscle [Source:HGNC Symbol;Acc:HGNC:23212]	1	0.142857142857	ENSG00000105357	Tight junction:KEGG-hsa04530
+ENSG00000105193	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	1	0.142857142857	ENSG00000105193	Ribosome:KEGG-hsa03010
+ENSG00000100345	MYH9	myosin, heavy chain 9, non-muscle [Source:HGNC Symbol;Acc:HGNC:7579]	1	0.142857142857	ENSG00000100345	Tight junction:KEGG-hsa04530
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	1	0.142857142857	ENSG00000100316	Ribosome:KEGG-hsa03010
+ENSG00000095321	CRAT	carnitine O-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2342]	1	0.142857142857	ENSG00000095321	Peroxisome:KEGG-hsa04146
+ENSG00000091483	FH	fumarate hydratase [Source:HGNC Symbol;Acc:HGNC:3700]	1	0.142857142857	ENSG00000091483	Pathways in cancer:KEGG-hsa05200
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	1	0.142857142857	ENSG00000089157	Ribosome:KEGG-hsa03010
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	1	0.142857142857	ENSG00000089009	Ribosome:KEGG-hsa03010
+ENSG00000078369	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:4396]	1	0.142857142857	ENSG00000078369	Phototransduction:KEGG-hsa04744
+ENSG00000060971	ACAA1	acetyl-CoA acyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:82]	1	0.142857142857	ENSG00000060971	Peroxisome:KEGG-hsa04146

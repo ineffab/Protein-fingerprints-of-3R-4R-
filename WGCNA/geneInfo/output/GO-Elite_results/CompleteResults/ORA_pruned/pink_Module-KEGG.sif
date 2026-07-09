@@ -1,0 +1,68 @@
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000114573:ATP6V1A
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000159720:ATP6V0D1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000155097:ATP6V1C1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000128524:ATP6V1F
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000213760:ATP6V1G2
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000131100:ATP6V1E1
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000147416:ATP6V1B2
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000047249:ATP6V1H
+Rheumatoid arthritis:KEGG-hsa05323	pr	ENSG00000033627:ATP6V0A1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000114573:ATP6V1A
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000159720:ATP6V0D1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000155097:ATP6V1C1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000128524:ATP6V1F
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000213760:ATP6V1G2
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000131100:ATP6V1E1
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000147416:ATP6V1B2
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000047249:ATP6V1H
+Vibrio cholerae infection:KEGG-hsa05110	pr	ENSG00000033627:ATP6V0A1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000114573:ATP6V1A
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000159720:ATP6V0D1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000155097:ATP6V1C1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000128524:ATP6V1F
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000213760:ATP6V1G2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000131100:ATP6V1E1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000147416:ATP6V1B2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000047249:ATP6V1H
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000033627:ATP6V0A1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000114573:ATP6V1A
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000159720:ATP6V0D1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000155097:ATP6V1C1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000128524:ATP6V1F
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000213760:ATP6V1G2
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000131100:ATP6V1E1
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000147416:ATP6V1B2
+Collecting duct acid secretion:KEGG-hsa04966	pr	ENSG00000033627:ATP6V0A1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000114573:ATP6V1A
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000159720:ATP6V0D1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000155097:ATP6V1C1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000128524:ATP6V1F
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000213760:ATP6V1G2
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000131100:ATP6V1E1
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000147416:ATP6V1B2
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000047249:ATP6V1H
+Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120	pr	ENSG00000033627:ATP6V0A1
+Lysosome:KEGG-hsa04142	pr	ENSG00000159720:ATP6V0D1
+Lysosome:KEGG-hsa04142	pr	ENSG00000141367:CLTC
+Lysosome:KEGG-hsa04142	pr	ENSG00000047249:ATP6V1H
+Lysosome:KEGG-hsa04142	pr	ENSG00000033627:ATP6V0A1
+Lysosome:KEGG-hsa04142	pr	ENSG00000122705:CLTA
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000172260:NEGR1
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000198910:L1CAM
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000182985:CADM1
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000021645:NRXN3
+Phagosome:KEGG-hsa04145	pr	ENSG00000114573:ATP6V1A
+Phagosome:KEGG-hsa04145	pr	ENSG00000075785:RAB7A
+Phagosome:KEGG-hsa04145	pr	ENSG00000159720:ATP6V0D1
+Phagosome:KEGG-hsa04145	pr	ENSG00000155097:ATP6V1C1
+Phagosome:KEGG-hsa04145	pr	ENSG00000128524:ATP6V1F
+Phagosome:KEGG-hsa04145	pr	ENSG00000213760:ATP6V1G2
+Phagosome:KEGG-hsa04145	pr	ENSG00000131100:ATP6V1E1
+Phagosome:KEGG-hsa04145	pr	ENSG00000147416:ATP6V1B2
+Phagosome:KEGG-hsa04145	pr	ENSG00000047249:ATP6V1H
+Phagosome:KEGG-hsa04145	pr	ENSG00000033627:ATP6V0A1
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000070808:CAMK2A
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000075785:RAB7A
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000159720:ATP6V0D1
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000047249:ATP6V1H
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000033627:ATP6V0A1

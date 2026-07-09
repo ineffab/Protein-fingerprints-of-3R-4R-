@@ -1,0 +1,5 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Cytoplasmic Ribosomal Proteins:WP477	14	26	97	53.8461538462	26.8041237113	7.0894560924	0.0	0.158	 	 	RPL10A|RPL13|RPL14|RPL15|RPL18A|RPL3|RPL4|RPL6|RPL7A|RPL8|RPLP0|RPLP2|RPS8|RPS9
+Non-homologous end joining:WP438	3	3	7	100.0	42.8571428571	4.92728033237	0.002	0.158	 	 	PRKDC|XRCC5|XRCC6
+Blood Clotting Cascade:WP272	3	3	22	100.0	13.6363636364	4.92728033237	0.0	0.158	 	 	FGA|FGB|FGG
+Complement and Coagulation Cascades:WP558	3	8	60	37.5	13.3333333333	2.40220851674	0.03	1.0	 	 	CFH|FGB|LMAN1

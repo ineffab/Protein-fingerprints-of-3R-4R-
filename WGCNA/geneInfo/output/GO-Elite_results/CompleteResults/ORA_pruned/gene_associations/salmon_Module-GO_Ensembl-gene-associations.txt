@@ -1,0 +1,179 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0048638	regulation of developmental growth	ILK	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0048638	regulation of developmental growth	AGRN	salmon	En
+ENSG00000126861	OMG	oligodendrocyte myelin glycoprotein [Source:HGNC Symbol;Acc:HGNC:8135]	ENSG00000126861	GO:0048638	regulation of developmental growth	OMG	salmon	En
+ENSG00000142910	TINAGL1	tubulointerstitial nephritis antigen-like 1 [Source:HGNC Symbol;Acc:HGNC:19168]	ENSG00000142910	GO:0005201	extracellular matrix structural constituent	TINAGL1	salmon	En
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	ENSG00000112769	GO:0005201	extracellular matrix structural constituent	LAMA4	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0005201	extracellular matrix structural constituent	LAMC1	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0048589	developmental growth	LAMB2	salmon	En
+ENSG00000171766	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase) [Source:HGNC Symbol;Acc:HGNC:4175]	ENSG00000171766	GO:0048589	developmental growth	GATM	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0048589	developmental growth	GPX1	salmon	En
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0034446	substrate adhesion-dependent cell spreading	ILK	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0034446	substrate adhesion-dependent cell spreading	LAMA5	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0034446	substrate adhesion-dependent cell spreading	LAMC1	salmon	En
+ENSG00000131471	AOC3	amine oxidase, copper containing 3 [Source:HGNC Symbol;Acc:HGNC:550]	ENSG00000131471	GO:0009636	response to toxic substance	AOC3	salmon	En
+ENSG00000162551	ALPL	alkaline phosphatase, liver/bone/kidney [Source:HGNC Symbol;Acc:HGNC:438]	ENSG00000162551	GO:0009636	response to toxic substance	ALPL	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0009636	response to toxic substance	GPX1	salmon	En
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0010927	cellular component assembly involved in morphogenesis	ILK	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0010927	cellular component assembly involved in morphogenesis	LAMA5	salmon	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0010927	cellular component assembly involved in morphogenesis	MYH11	salmon	En
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0007160	cell-matrix adhesion	ILK	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0007160	cell-matrix adhesion	NID1	salmon	En
+ENSG00000087303	NID2	nidogen 2 (osteonidogen) [Source:HGNC Symbol;Acc:HGNC:13389]	ENSG00000087303	GO:0007160	cell-matrix adhesion	NID2	salmon	En
+ENSG00000243989	ACY1	aminoacylase 1 [Source:HGNC Symbol;Acc:HGNC:177]	ENSG00000243989	GO:0043436	oxoacid metabolic process	ACY1	salmon	En
+ENSG00000159423	ALDH4A1	aldehyde dehydrogenase 4 family, member A1 [Source:HGNC Symbol;Acc:HGNC:406]	ENSG00000159423	GO:0043436	oxoacid metabolic process	ALDH4A1	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0043436	oxoacid metabolic process	AGRN	salmon	En
+ENSG00000103876	FAH	fumarylacetoacetate hydrolase (fumarylacetoacetase) [Source:HGNC Symbol;Acc:HGNC:3579]	ENSG00000103876	GO:0043436	oxoacid metabolic process	FAH	salmon	En
+ENSG00000079739	PGM1	phosphoglucomutase 1 [Source:HGNC Symbol;Acc:HGNC:8905]	ENSG00000079739	GO:0043436	oxoacid metabolic process	PGM1	salmon	En
+ENSG00000082212	ME2	malic enzyme 2, NAD(+)-dependent, mitochondrial [Source:HGNC Symbol;Acc:HGNC:6984]	ENSG00000082212	GO:0043436	oxoacid metabolic process	ME2	salmon	En
+ENSG00000171766	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase) [Source:HGNC Symbol;Acc:HGNC:4175]	ENSG00000171766	GO:0043436	oxoacid metabolic process	GATM	salmon	En
+ENSG00000138413	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble [Source:HGNC Symbol;Acc:HGNC:5382]	ENSG00000138413	GO:0043436	oxoacid metabolic process	IDH1	salmon	En
+ENSG00000175198	PCCA	propionyl CoA carboxylase, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:8653]	ENSG00000175198	GO:0043436	oxoacid metabolic process	PCCA	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0043436	oxoacid metabolic process	GPX1	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0043436	oxoacid metabolic process	HSPG2	salmon	En
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0001667	ameboidal-type cell migration	ILK	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0001667	ameboidal-type cell migration	LAMA5	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0001667	ameboidal-type cell migration	GPX1	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0001525	angiogenesis	HSPG2	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0001525	angiogenesis	LAMA5	salmon	En
+ENSG00000140545	MFGE8	milk fat globule-EGF factor 8 protein [Source:HGNC Symbol;Acc:HGNC:7036]	ENSG00000140545	GO:0001525	angiogenesis	MFGE8	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0001525	angiogenesis	GPX1	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0001523	retinoid metabolic process	HSPG2	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0001523	retinoid metabolic process	AGRN	salmon	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0001523	retinoid metabolic process	APOB	salmon	En
+ENSG00000134202	GSTM3	glutathione S-transferase mu 3 (brain) [Source:HGNC Symbol;Acc:HGNC:4635]	ENSG00000134202	GO:1901681	sulfur compound binding	GSTM3	salmon	En
+ENSG00000175198	PCCA	propionyl CoA carboxylase, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:8653]	ENSG00000175198	GO:1901681	sulfur compound binding	PCCA	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:1901681	sulfur compound binding	AGRN	salmon	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:1901681	sulfur compound binding	APOB	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:1901681	sulfur compound binding	GPX1	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0005615	extracellular space	AGRN	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0005615	extracellular space	LAMA5	salmon	En
+ENSG00000162551	ALPL	alkaline phosphatase, liver/bone/kidney [Source:HGNC Symbol;Acc:HGNC:438]	ENSG00000162551	GO:0005615	extracellular space	ALPL	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0005615	extracellular space	LAMC1	salmon	En
+ENSG00000167986	DDB1	damage-specific DNA binding protein 1, 127kDa [Source:HGNC Symbol;Acc:HGNC:2717]	ENSG00000167986	GO:0005615	extracellular space	DDB1	salmon	En
+ENSG00000140545	MFGE8	milk fat globule-EGF factor 8 protein [Source:HGNC Symbol;Acc:HGNC:7036]	ENSG00000140545	GO:0005615	extracellular space	MFGE8	salmon	En
+ENSG00000142910	TINAGL1	tubulointerstitial nephritis antigen-like 1 [Source:HGNC Symbol;Acc:HGNC:19168]	ENSG00000142910	GO:0005615	extracellular space	TINAGL1	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0005615	extracellular space	HSPG2	salmon	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0005615	extracellular space	APOB	salmon	En
+ENSG00000171766	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase) [Source:HGNC Symbol;Acc:HGNC:4175]	ENSG00000171766	GO:0031099	regeneration	GATM	salmon	En
+ENSG00000126861	OMG	oligodendrocyte myelin glycoprotein [Source:HGNC Symbol;Acc:HGNC:8135]	ENSG00000126861	GO:0031099	regeneration	OMG	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0031099	regeneration	GPX1	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0043062	extracellular structure organization	LAMB2	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0043062	extracellular structure organization	HSPG2	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0043062	extracellular structure organization	AGRN	salmon	En
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0043062	extracellular structure organization	ILK	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0043062	extracellular structure organization	LAMA5	salmon	En
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	ENSG00000112769	GO:0043062	extracellular structure organization	LAMA4	salmon	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0043062	extracellular structure organization	MYH11	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0043062	extracellular structure organization	NID1	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0043062	extracellular structure organization	LAMC1	salmon	En
+ENSG00000087303	NID2	nidogen 2 (osteonidogen) [Source:HGNC Symbol;Acc:HGNC:13389]	ENSG00000087303	GO:0043062	extracellular structure organization	NID2	salmon	En
+ENSG00000243989	ACY1	aminoacylase 1 [Source:HGNC Symbol;Acc:HGNC:177]	ENSG00000243989	GO:0046872	metal ion binding	ACY1	salmon	En
+ENSG00000102189	EEA1	early endosome antigen 1 [Source:HGNC Symbol;Acc:HGNC:3185]	ENSG00000102189	GO:0046872	metal ion binding	EEA1	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0046872	metal ion binding	AGRN	salmon	En
+ENSG00000131471	AOC3	amine oxidase, copper containing 3 [Source:HGNC Symbol;Acc:HGNC:550]	ENSG00000131471	GO:0046872	metal ion binding	AOC3	salmon	En
+ENSG00000082212	ME2	malic enzyme 2, NAD(+)-dependent, mitochondrial [Source:HGNC Symbol;Acc:HGNC:6984]	ENSG00000082212	GO:0046872	metal ion binding	ME2	salmon	En
+ENSG00000092841	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle [Source:HGNC Symbol;Acc:HGNC:7587]	ENSG00000092841	GO:0046872	metal ion binding	MYL6	salmon	En
+ENSG00000079739	PGM1	phosphoglucomutase 1 [Source:HGNC Symbol;Acc:HGNC:8905]	ENSG00000079739	GO:0046872	metal ion binding	PGM1	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0046872	metal ion binding	HSPG2	salmon	En
+ENSG00000103876	FAH	fumarylacetoacetate hydrolase (fumarylacetoacetase) [Source:HGNC Symbol;Acc:HGNC:3579]	ENSG00000103876	GO:0046872	metal ion binding	FAH	salmon	En
+ENSG00000117298	ECE1	endothelin converting enzyme 1 [Source:HGNC Symbol;Acc:HGNC:3146]	ENSG00000117298	GO:0046872	metal ion binding	ECE1	salmon	En
+ENSG00000115042	FAHD2A	fumarylacetoacetate hydrolase domain containing 2A [Source:HGNC Symbol;Acc:HGNC:24252]	ENSG00000115042	GO:0046872	metal ion binding	FAHD2A	salmon	En
+ENSG00000162551	ALPL	alkaline phosphatase, liver/bone/kidney [Source:HGNC Symbol;Acc:HGNC:438]	ENSG00000162551	GO:0046872	metal ion binding	ALPL	salmon	En
+ENSG00000116791	CRYZ	crystallin, zeta (quinone reductase) [Source:HGNC Symbol;Acc:HGNC:2419]	ENSG00000116791	GO:0046872	metal ion binding	CRYZ	salmon	En
+ENSG00000175198	PCCA	propionyl CoA carboxylase, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:8653]	ENSG00000175198	GO:0046872	metal ion binding	PCCA	salmon	En
+ENSG00000138413	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble [Source:HGNC Symbol;Acc:HGNC:5382]	ENSG00000138413	GO:0046872	metal ion binding	IDH1	salmon	En
+ENSG00000163110	PDLIM5	PDZ and LIM domain 5 [Source:HGNC Symbol;Acc:HGNC:17468]	ENSG00000163110	GO:0046872	metal ion binding	PDLIM5	salmon	En
+ENSG00000079931	MOXD1	monooxygenase, DBH-like 1 [Source:HGNC Symbol;Acc:HGNC:21063]	ENSG00000079931	GO:0046872	metal ion binding	MOXD1	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0046872	metal ion binding	NID1	salmon	En
+ENSG00000087303	NID2	nidogen 2 (osteonidogen) [Source:HGNC Symbol;Acc:HGNC:13389]	ENSG00000087303	GO:0046872	metal ion binding	NID2	salmon	En
+ENSG00000134202	GSTM3	glutathione S-transferase mu 3 (brain) [Source:HGNC Symbol;Acc:HGNC:4635]	ENSG00000134202	GO:0002064	epithelial cell development	GSTM3	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0002064	epithelial cell development	LAMB2	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0002064	epithelial cell development	GPX1	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0048598	embryonic morphogenesis	LAMA5	salmon	En
+ENSG00000117298	ECE1	endothelin converting enzyme 1 [Source:HGNC Symbol;Acc:HGNC:3146]	ENSG00000117298	GO:0048598	embryonic morphogenesis	ECE1	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0048598	embryonic morphogenesis	HSPG2	salmon	En
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0005178	integrin binding	ILK	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0005178	integrin binding	LAMB2	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0005178	integrin binding	LAMA5	salmon	En
+ENSG00000140545	MFGE8	milk fat globule-EGF factor 8 protein [Source:HGNC Symbol;Acc:HGNC:7036]	ENSG00000140545	GO:0005178	integrin binding	MFGE8	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0009584	detection of visible light	HSPG2	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0009584	detection of visible light	AGRN	salmon	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0009584	detection of visible light	APOB	salmon	En
+ENSG00000168522	FNTA	farnesyltransferase, CAAX box, alpha [Source:HGNC Symbol;Acc:HGNC:3782]	ENSG00000168522	GO:0009584	detection of visible light	FNTA	salmon	En
+ENSG00000134202	GSTM3	glutathione S-transferase mu 3 (brain) [Source:HGNC Symbol;Acc:HGNC:4635]	ENSG00000134202	GO:0033218	amide binding	GSTM3	salmon	En
+ENSG00000175198	PCCA	propionyl CoA carboxylase, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:8653]	ENSG00000175198	GO:0033218	amide binding	PCCA	salmon	En
+ENSG00000117298	ECE1	endothelin converting enzyme 1 [Source:HGNC Symbol;Acc:HGNC:3146]	ENSG00000117298	GO:0033218	amide binding	ECE1	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0033218	amide binding	GPX1	salmon	En
+ENSG00000171766	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase) [Source:HGNC Symbol;Acc:HGNC:4175]	ENSG00000171766	GO:0007584	response to nutrient	GATM	salmon	En
+ENSG00000162551	ALPL	alkaline phosphatase, liver/bone/kidney [Source:HGNC Symbol;Acc:HGNC:438]	ENSG00000162551	GO:0007584	response to nutrient	ALPL	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0007584	response to nutrient	GPX1	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0009888	tissue development	LAMB2	salmon	En
+ENSG00000092841	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle [Source:HGNC Symbol;Acc:HGNC:7587]	ENSG00000092841	GO:0009888	tissue development	MYL6	salmon	En
+ENSG00000171766	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase) [Source:HGNC Symbol;Acc:HGNC:4175]	ENSG00000171766	GO:0009888	tissue development	GATM	salmon	En
+ENSG00000162551	ALPL	alkaline phosphatase, liver/bone/kidney [Source:HGNC Symbol;Acc:HGNC:438]	ENSG00000162551	GO:0009888	tissue development	ALPL	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0009888	tissue development	GPX1	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0009888	tissue development	HSPG2	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0009888	tissue development	LAMC1	salmon	En
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	ENSG00000112769	GO:0043256	laminin complex	LAMA4	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0043256	laminin complex	LAMA5	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0043256	laminin complex	LAMB2	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0043256	laminin complex	LAMC1	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0031012	extracellular matrix	LAMB2	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0031012	extracellular matrix	HSPG2	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0031012	extracellular matrix	AGRN	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0031012	extracellular matrix	LAMA5	salmon	En
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	ENSG00000112769	GO:0031012	extracellular matrix	LAMA4	salmon	En
+ENSG00000162551	ALPL	alkaline phosphatase, liver/bone/kidney [Source:HGNC Symbol;Acc:HGNC:438]	ENSG00000162551	GO:0031012	extracellular matrix	ALPL	salmon	En
+ENSG00000140545	MFGE8	milk fat globule-EGF factor 8 protein [Source:HGNC Symbol;Acc:HGNC:7036]	ENSG00000140545	GO:0031012	extracellular matrix	MFGE8	salmon	En
+ENSG00000142910	TINAGL1	tubulointerstitial nephritis antigen-like 1 [Source:HGNC Symbol;Acc:HGNC:19168]	ENSG00000142910	GO:0031012	extracellular matrix	TINAGL1	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0031012	extracellular matrix	NID1	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0031012	extracellular matrix	LAMC1	salmon	En
+ENSG00000087303	NID2	nidogen 2 (osteonidogen) [Source:HGNC Symbol;Acc:HGNC:13389]	ENSG00000087303	GO:0031012	extracellular matrix	NID2	salmon	En
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	ENSG00000112769	GO:0005605	basal lamina	LAMA4	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0005605	basal lamina	NID1	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0005605	basal lamina	AGRN	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0005605	basal lamina	LAMA5	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0005605	basal lamina	LAMB2	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0005605	basal lamina	HSPG2	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0005605	basal lamina	LAMC1	salmon	En
+ENSG00000142910	TINAGL1	tubulointerstitial nephritis antigen-like 1 [Source:HGNC Symbol;Acc:HGNC:19168]	ENSG00000142910	GO:0043236	laminin binding	TINAGL1	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0043236	laminin binding	NID1	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0043236	laminin binding	AGRN	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0005604	basement membrane	LAMB2	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0005604	basement membrane	NID1	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0005604	basement membrane	AGRN	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0005604	basement membrane	LAMA5	salmon	En
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	ENSG00000112769	GO:0005604	basement membrane	LAMA4	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0005604	basement membrane	HSPG2	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0005604	basement membrane	LAMC1	salmon	En
+ENSG00000087303	NID2	nidogen 2 (osteonidogen) [Source:HGNC Symbol;Acc:HGNC:13389]	ENSG00000087303	GO:0005604	basement membrane	NID2	salmon	En
+ENSG00000134202	GSTM3	glutathione S-transferase mu 3 (brain) [Source:HGNC Symbol;Acc:HGNC:4635]	ENSG00000134202	GO:0072341	modified amino acid binding	GSTM3	salmon	En
+ENSG00000140545	MFGE8	milk fat globule-EGF factor 8 protein [Source:HGNC Symbol;Acc:HGNC:7036]	ENSG00000140545	GO:0072341	modified amino acid binding	MFGE8	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0072341	modified amino acid binding	GPX1	salmon	En
+ENSG00000172037	LAMB2	laminin, beta 2 (laminin S) [Source:HGNC Symbol;Acc:HGNC:6487]	ENSG00000172037	GO:0005576	extracellular region	LAMB2	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0005576	extracellular region	HSPG2	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0005576	extracellular region	AGRN	salmon	En
+ENSG00000130702	LAMA5	laminin, alpha 5 [Source:HGNC Symbol;Acc:HGNC:6485]	ENSG00000130702	GO:0005576	extracellular region	LAMA5	salmon	En
+ENSG00000112769	LAMA4	laminin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:6484]	ENSG00000112769	GO:0005576	extracellular region	LAMA4	salmon	En
+ENSG00000135862	LAMC1	laminin, gamma 1 (formerly LAMB2) [Source:HGNC Symbol;Acc:HGNC:6492]	ENSG00000135862	GO:0005576	extracellular region	LAMC1	salmon	En
+ENSG00000175198	PCCA	propionyl CoA carboxylase, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:8653]	ENSG00000175198	GO:0005576	extracellular region	PCCA	salmon	En
+ENSG00000140545	MFGE8	milk fat globule-EGF factor 8 protein [Source:HGNC Symbol;Acc:HGNC:7036]	ENSG00000140545	GO:0005576	extracellular region	MFGE8	salmon	En
+ENSG00000142910	TINAGL1	tubulointerstitial nephritis antigen-like 1 [Source:HGNC Symbol;Acc:HGNC:19168]	ENSG00000142910	GO:0005576	extracellular region	TINAGL1	salmon	En
+ENSG00000116962	NID1	nidogen 1 [Source:HGNC Symbol;Acc:HGNC:7821]	ENSG00000116962	GO:0005576	extracellular region	NID1	salmon	En
+ENSG00000084674	APOB	apolipoprotein B [Source:HGNC Symbol;Acc:HGNC:603]	ENSG00000084674	GO:0005576	extracellular region	APOB	salmon	En
+ENSG00000087303	NID2	nidogen 2 (osteonidogen) [Source:HGNC Symbol;Acc:HGNC:13389]	ENSG00000087303	GO:0005576	extracellular region	NID2	salmon	En
+ENSG00000188157	AGRN	agrin [Source:HGNC Symbol;Acc:HGNC:329]	ENSG00000188157	GO:0006790	sulfur compound metabolic process	AGRN	salmon	En
+ENSG00000138413	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble [Source:HGNC Symbol;Acc:HGNC:5382]	ENSG00000138413	GO:0006790	sulfur compound metabolic process	IDH1	salmon	En
+ENSG00000175198	PCCA	propionyl CoA carboxylase, alpha polypeptide [Source:HGNC Symbol;Acc:HGNC:8653]	ENSG00000175198	GO:0006790	sulfur compound metabolic process	PCCA	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0006790	sulfur compound metabolic process	GPX1	salmon	En
+ENSG00000134202	GSTM3	glutathione S-transferase mu 3 (brain) [Source:HGNC Symbol;Acc:HGNC:4635]	ENSG00000134202	GO:0006790	sulfur compound metabolic process	GSTM3	salmon	En
+ENSG00000142798	HSPG2	heparan sulfate proteoglycan 2 [Source:HGNC Symbol;Acc:HGNC:5273]	ENSG00000142798	GO:0006790	sulfur compound metabolic process	HSPG2	salmon	En
+ENSG00000134202	GSTM3	glutathione S-transferase mu 3 (brain) [Source:HGNC Symbol;Acc:HGNC:4635]	ENSG00000134202	GO:0048545	response to steroid hormone	GSTM3	salmon	En
+ENSG00000162551	ALPL	alkaline phosphatase, liver/bone/kidney [Source:HGNC Symbol;Acc:HGNC:438]	ENSG00000162551	GO:0048545	response to steroid hormone	ALPL	salmon	En
+ENSG00000138413	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble [Source:HGNC Symbol;Acc:HGNC:5382]	ENSG00000138413	GO:0048545	response to steroid hormone	IDH1	salmon	En
+ENSG00000233276	GPX1	glutathione peroxidase 1 [Source:HGNC Symbol;Acc:HGNC:4553]	ENSG00000233276	GO:0048545	response to steroid hormone	GPX1	salmon	En
+ENSG00000166333	ILK	integrin-linked kinase [Source:HGNC Symbol;Acc:HGNC:6040]	ENSG00000166333	GO:0044449	contractile fiber part	ILK	salmon	En
+ENSG00000163110	PDLIM5	PDZ and LIM domain 5 [Source:HGNC Symbol;Acc:HGNC:17468]	ENSG00000163110	GO:0044449	contractile fiber part	PDLIM5	salmon	En
+ENSG00000133392	MYH11	myosin, heavy chain 11, smooth muscle [Source:HGNC Symbol;Acc:HGNC:7569]	ENSG00000133392	GO:0044449	contractile fiber part	MYH11	salmon	En
+ENSG00000185567	AHNAK2	AHNAK nucleoprotein 2 [Source:HGNC Symbol;Acc:HGNC:20125]	ENSG00000185567	GO:0044449	contractile fiber part	AHNAK2	salmon	En

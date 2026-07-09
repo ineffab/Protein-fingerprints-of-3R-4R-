@@ -1,0 +1,52 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000106211	HSPB1	heat shock 27kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:5246]	ENSG00000106211	FAS pathway and Stress induction of HSP regulation:WP314	FAS pathway and Stress induction of HSP regulation:WP314	HSPB1	blue	En
+ENSG00000197694	SPTAN1	spectrin, alpha, non-erythrocytic 1 [Source:HGNC Symbol;Acc:HGNC:11273]	ENSG00000197694	FAS pathway and Stress induction of HSP regulation:WP314	FAS pathway and Stress induction of HSP regulation:WP314	SPTAN1	blue	En
+ENSG00000160789	LMNA	lamin A/C [Source:HGNC Symbol;Acc:HGNC:6636]	ENSG00000160789	FAS pathway and Stress induction of HSP regulation:WP314	FAS pathway and Stress induction of HSP regulation:WP314	LMNA	blue	En
+ENSG00000180370	PAK2	p21 protein (Cdc42/Rac)-activated kinase 2 [Source:HGNC Symbol;Acc:HGNC:8591]	ENSG00000180370	FAS pathway and Stress induction of HSP regulation:WP314	FAS pathway and Stress induction of HSP regulation:WP314	PAK2	blue	En
+ENSG00000140988	RPS2	ribosomal protein S2 [Source:HGNC Symbol;Acc:HGNC:10404]	ENSG00000140988	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS2	blue	En
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	ENSG00000148303	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPL7A	blue	En
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	ENSG00000167526	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPL13	blue	En
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	ENSG00000089009	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPL6	blue	En
+ENSG00000105193	RPS16	ribosomal protein S16 [Source:HGNC Symbol;Acc:HGNC:10396]	ENSG00000105193	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS16	blue	En
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	ENSG00000100316	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPL3	blue	En
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	ENSG00000105640	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPL18A	blue	En
+ENSG00000134419	RPS15A	ribosomal protein S15a [Source:HGNC Symbol;Acc:HGNC:10389]	ENSG00000134419	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS15A	blue	En
+ENSG00000198034	RPS4X	ribosomal protein S4, X-linked [Source:HGNC Symbol;Acc:HGNC:10424]	ENSG00000198034	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS4X	blue	En
+ENSG00000142534	RPS11	ribosomal protein S11 [Source:HGNC Symbol;Acc:HGNC:10384]	ENSG00000142534	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS11	blue	En
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	ENSG00000142937	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS8	blue	En
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	ENSG00000177600	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPLP2	blue	En
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	ENSG00000170889	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS9	blue	En
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	ENSG00000089157	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPLP0	blue	En
+ENSG00000149273	RPS3	ribosomal protein S3 [Source:HGNC Symbol;Acc:HGNC:10420]	ENSG00000149273	Cytoplasmic Ribosomal Proteins:WP477	Cytoplasmic Ribosomal Proteins:WP477	RPS3	blue	En
+ENSG00000130402	ACTN4	actinin, alpha 4 [Source:HGNC Symbol;Acc:HGNC:166]	ENSG00000130402	Striated Muscle Contraction:WP383	Striated Muscle Contraction:WP383	ACTN4	blue	En
+ENSG00000140416	TPM1	tropomyosin 1 (alpha) [Source:HGNC Symbol;Acc:HGNC:12010]	ENSG00000140416	Striated Muscle Contraction:WP383	Striated Muscle Contraction:WP383	TPM1	blue	En
+ENSG00000143549	TPM3	tropomyosin 3 [Source:HGNC Symbol;Acc:HGNC:12012]	ENSG00000143549	Striated Muscle Contraction:WP383	Striated Muscle Contraction:WP383	TPM3	blue	En
+ENSG00000167460	TPM4	tropomyosin 4 [Source:HGNC Symbol;Acc:HGNC:12013]	ENSG00000167460	Striated Muscle Contraction:WP383	Striated Muscle Contraction:WP383	TPM4	blue	En
+ENSG00000026025	VIM	vimentin [Source:HGNC Symbol;Acc:HGNC:12692]	ENSG00000026025	Striated Muscle Contraction:WP383	Striated Muscle Contraction:WP383	VIM	blue	En
+ENSG00000070831	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	ENSG00000070831	Regulation of Microtubule Cytoskeleton:WP2038	Regulation of Microtubule Cytoskeleton:WP2038	CDC42	blue	En
+ENSG00000168610	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor) [Source:HGNC Symbol;Acc:HGNC:11364]	ENSG00000168610	Regulation of Microtubule Cytoskeleton:WP2038	Regulation of Microtubule Cytoskeleton:WP2038	STAT3	blue	En
+ENSG00000136238	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1) [Source:HGNC Symbol;Acc:HGNC:9801]	ENSG00000136238	Regulation of Microtubule Cytoskeleton:WP2038	Regulation of Microtubule Cytoskeleton:WP2038	RAC1	blue	En
+ENSG00000101367	MAPRE1	microtubule-associated protein, RP/EB family, member 1 [Source:HGNC Symbol;Acc:HGNC:6890]	ENSG00000101367	Regulation of Microtubule Cytoskeleton:WP2038	Regulation of Microtubule Cytoskeleton:WP2038	MAPRE1	blue	En
+ENSG00000092964	DPYSL2	dihydropyrimidinase-like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	ENSG00000092964	Regulation of Microtubule Cytoskeleton:WP2038	Regulation of Microtubule Cytoskeleton:WP2038	DPYSL2	blue	En
+ENSG00000070831	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	ENSG00000070831	RalA downstream regulated genes:WP2290	RalA downstream regulated genes:WP2290	CDC42	blue	En
+ENSG00000174775	HRAS	Harvey rat sarcoma viral oncogene homolog [Source:HGNC Symbol;Acc:HGNC:5173]	ENSG00000174775	RalA downstream regulated genes:WP2290	RalA downstream regulated genes:WP2290	HRAS	blue	En
+ENSG00000006451	RALA	v-ral simian leukemia viral oncogene homolog A (ras related) [Source:HGNC Symbol;Acc:HGNC:9839]	ENSG00000006451	RalA downstream regulated genes:WP2290	RalA downstream regulated genes:WP2290	RALA	blue	En
+ENSG00000070831	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	ENSG00000070831	DNA Damage Response (only ATM dependent):WP710	DNA Damage Response (only ATM dependent):WP710	CDC42	blue	En
+ENSG00000136238	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1) [Source:HGNC Symbol;Acc:HGNC:9801]	ENSG00000136238	DNA Damage Response (only ATM dependent):WP710	DNA Damage Response (only ATM dependent):WP710	RAC1	blue	En
+ENSG00000121691	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	ENSG00000121691	DNA Damage Response (only ATM dependent):WP710	DNA Damage Response (only ATM dependent):WP710	CAT	blue	En
+ENSG00000174775	HRAS	Harvey rat sarcoma viral oncogene homolog [Source:HGNC Symbol;Acc:HGNC:5173]	ENSG00000174775	DNA Damage Response (only ATM dependent):WP710	DNA Damage Response (only ATM dependent):WP710	HRAS	blue	En
+ENSG00000067560	RHOA	ras homolog family member A [Source:HGNC Symbol;Acc:HGNC:667]	ENSG00000067560	DNA Damage Response (only ATM dependent):WP710	DNA Damage Response (only ATM dependent):WP710	RHOA	blue	En
+ENSG00000153187	HNRNPU	heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A) [Source:HGNC Symbol;Acc:HGNC:5048]	ENSG00000153187	mRNA Processing:WP411	mRNA Processing:WP411	HNRNPU	blue	En
+ENSG00000122566	HNRNPA2B1	heterogeneous nuclear ribonucleoprotein A2/B1 [Source:HGNC Symbol;Acc:HGNC:5033]	ENSG00000122566	mRNA Processing:WP411	mRNA Processing:WP411	HNRNPA2B1	blue	En
+ENSG00000138668	HNRNPD	heterogeneous nuclear ribonucleoprotein D (AU-rich element RNA binding protein 1, 37kDa) [Source:HGNC Symbol;Acc:HGNC:5036]	ENSG00000138668	mRNA Processing:WP411	mRNA Processing:WP411	HNRNPD	blue	En
+ENSG00000070831	CDC42	cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736]	ENSG00000070831	p38 MAPK Signaling Pathway:WP400	p38 MAPK Signaling Pathway:WP400	CDC42	blue	En
+ENSG00000106211	HSPB1	heat shock 27kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:5246]	ENSG00000106211	p38 MAPK Signaling Pathway:WP400	p38 MAPK Signaling Pathway:WP400	HSPB1	blue	En
+ENSG00000174775	HRAS	Harvey rat sarcoma viral oncogene homolog [Source:HGNC Symbol;Acc:HGNC:5173]	ENSG00000174775	p38 MAPK Signaling Pathway:WP400	p38 MAPK Signaling Pathway:WP400	HRAS	blue	En
+ENSG00000106263	EIF3B	eukaryotic translation initiation factor 3, subunit B [Source:HGNC Symbol;Acc:HGNC:3280]	ENSG00000106263	Translation Factors:WP107	Translation Factors:WP107	EIF3B	blue	En
+ENSG00000107581	EIF3A	eukaryotic translation initiation factor 3, subunit A [Source:HGNC Symbol;Acc:HGNC:3271]	ENSG00000107581	Translation Factors:WP107	Translation Factors:WP107	EIF3A	blue	En
+ENSG00000134001	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa [Source:HGNC Symbol;Acc:HGNC:3265]	ENSG00000134001	Translation Factors:WP107	Translation Factors:WP107	EIF2S1	blue	En
+ENSG00000184110	EIF3C	eukaryotic translation initiation factor 3, subunit C [Source:HGNC Symbol;Acc:HGNC:3279]	ENSG00000184110	Translation Factors:WP107	Translation Factors:WP107	EIF3C	blue	En
+ENSG00000156976	EIF4A2	eukaryotic translation initiation factor 4A2 [Source:HGNC Symbol;Acc:HGNC:3284]	ENSG00000156976	Translation Factors:WP107	Translation Factors:WP107	EIF4A2	blue	En
+ENSG00000130741	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa [Source:HGNC Symbol;Acc:HGNC:3267]	ENSG00000130741	Translation Factors:WP107	Translation Factors:WP107	EIF2S3	blue	En
+ENSG00000175390	EIF3F	eukaryotic translation initiation factor 3, subunit F [Source:HGNC Symbol;Acc:HGNC:3275]	ENSG00000175390	Translation Factors:WP107	Translation Factors:WP107	EIF3F	blue	En
+ENSG00000167658	EEF2	eukaryotic translation elongation factor 2 [Source:HGNC Symbol;Acc:HGNC:3214]	ENSG00000167658	Translation Factors:WP107	Translation Factors:WP107	EEF2	blue	En

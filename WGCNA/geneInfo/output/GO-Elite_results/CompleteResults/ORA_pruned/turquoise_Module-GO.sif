@@ -1,0 +1,2658 @@
+quinone binding	pr	ENSG00000158864:NDUFS2
+quinone binding	pr	ENSG00000117118:SDHB
+quinone binding	pr	ENSG00000131471:AOC3
+quinone binding	pr	ENSG00000171503:ETFDH
+cytochrome complex	pr	ENSG00000156467:UQCRB
+cytochrome complex	pr	ENSG00000010256:UQCRC1
+cytochrome complex	pr	ENSG00000169021:UQCRFS1
+cytochrome complex	pr	ENSG00000140740:UQCRC2
+mitochondrion	pr	ENSG00000106554:CHCHD3
+mitochondrion	pr	ENSG00000138413:IDH1
+mitochondrion	pr	ENSG00000138796:HADH
+mitochondrion	pr	ENSG00000138029:HADHB
+mitochondrion	pr	ENSG00000173599:PC
+mitochondrion	pr	ENSG00000100412:ACO2
+mitochondrion	pr	ENSG00000168291:PDHB
+mitochondrion	pr	ENSG00000152620:NADK2
+mitochondrion	pr	ENSG00000169100:SLC25A6
+mitochondrion	pr	ENSG00000049239:H6PD
+mitochondrion	pr	ENSG00000023228:NDUFS1
+mitochondrion	pr	ENSG00000147684:NDUFB9
+mitochondrion	pr	ENSG00000128309:MPST
+mitochondrion	pr	ENSG00000004455:AK2
+mitochondrion	pr	ENSG00000162433:AK4
+mitochondrion	pr	ENSG00000213585:VDAC1
+mitochondrion	pr	ENSG00000189221:MAOA
+mitochondrion	pr	ENSG00000119689:DLST
+mitochondrion	pr	ENSG00000075239:ACAT1
+mitochondrion	pr	ENSG00000175198:PCCA
+mitochondrion	pr	ENSG00000107819:SFXN3
+mitochondrion	pr	ENSG00000165283:STOML2
+mitochondrion	pr	ENSG00000147853:AK3
+mitochondrion	pr	ENSG00000126267:COX6B1
+mitochondrion	pr	ENSG00000130414:NDUFA10
+mitochondrion	pr	ENSG00000106049:HIBADH
+mitochondrion	pr	ENSG00000131143:COX4I1
+mitochondrion	pr	ENSG00000038274:MAT2B
+mitochondrion	pr	ENSG00000108561:C1QBP
+mitochondrion	pr	ENSG00000085491:SLC25A24
+mitochondrion	pr	ENSG00000030582:GRN
+mitochondrion	pr	ENSG00000112294:ALDH5A1
+mitochondrion	pr	ENSG00000131844:MCCC2
+mitochondrion	pr	ENSG00000084754:HADHA
+mitochondrion	pr	ENSG00000095321:CRAT
+mitochondrion	pr	ENSG00000112992:NNT
+mitochondrion	pr	ENSG00000197894:ADH5
+mitochondrion	pr	ENSG00000155252:PI4K2A
+mitochondrion	pr	ENSG00000117054:ACADM
+mitochondrion	pr	ENSG00000117450:PRDX1
+mitochondrion	pr	ENSG00000083720:OXCT1
+mitochondrion	pr	ENSG00000135821:GLUL
+mitochondrion	pr	ENSG00000182054:IDH2
+mitochondrion	pr	ENSG00000140263:SORD
+mitochondrion	pr	ENSG00000178741:COX5A
+mitochondrion	pr	ENSG00000100075:SLC25A1
+mitochondrion	pr	ENSG00000115541:HSPE1
+mitochondrion	pr	ENSG00000183044:ABAT
+mitochondrion	pr	ENSG00000158864:NDUFS2
+mitochondrion	pr	ENSG00000122873:CISD1
+mitochondrion	pr	ENSG00000073578:SDHA
+mitochondrion	pr	ENSG00000144040:SFXN5
+mitochondrion	pr	ENSG00000155368:DBI
+mitochondrion	pr	ENSG00000072778:ACADVL
+mitochondrion	pr	ENSG00000166340:TPP1
+mitochondrion	pr	ENSG00000166411:IDH3A
+mitochondrion	pr	ENSG00000134333:LDHA
+mitochondrion	pr	ENSG00000156467:UQCRB
+mitochondrion	pr	ENSG00000150768:DLAT
+mitochondrion	pr	ENSG00000144827:ABHD10
+mitochondrion	pr	ENSG00000002549:LAP3
+mitochondrion	pr	ENSG00000078668:VDAC3
+mitochondrion	pr	ENSG00000016391:CHDH
+mitochondrion	pr	ENSG00000168653:NDUFS5
+mitochondrion	pr	ENSG00000167315:ACAA2
+mitochondrion	pr	ENSG00000167468:GPX4
+mitochondrion	pr	ENSG00000109919:MTCH2
+mitochondrion	pr	ENSG00000091140:DLD
+mitochondrion	pr	ENSG00000100347:SAMM50
+mitochondrion	pr	ENSG00000198836:OPA1
+mitochondrion	pr	ENSG00000170606:HSPA4
+mitochondrion	pr	ENSG00000117118:SDHB
+mitochondrion	pr	ENSG00000111058:ACSS3
+mitochondrion	pr	ENSG00000178952:TUFM
+mitochondrion	pr	ENSG00000148334:PTGES2
+mitochondrion	pr	ENSG00000113013:HSPA9
+mitochondrion	pr	ENSG00000131828:PDHA1
+mitochondrion	pr	ENSG00000178127:NDUFV2
+mitochondrion	pr	ENSG00000075415:SLC25A3
+mitochondrion	pr	ENSG00000198130:HIBCH
+mitochondrion	pr	ENSG00000140990:NDUFB10
+mitochondrion	pr	ENSG00000106028:SSBP1
+mitochondrion	pr	ENSG00000072506:HSD17B10
+mitochondrion	pr	ENSG00000119421:NDUFA8
+mitochondrion	pr	ENSG00000144381:HSPD1
+mitochondrion	pr	ENSG00000140374:ETFA
+mitochondrion	pr	ENSG00000120885:CLU
+mitochondrion	pr	ENSG00000010256:UQCRC1
+mitochondrion	pr	ENSG00000143653:SCCPDH
+mitochondrion	pr	ENSG00000186010:NDUFA13
+mitochondrion	pr	ENSG00000213719:CLIC1
+mitochondrion	pr	ENSG00000062485:CS
+mitochondrion	pr	ENSG00000069535:MAOB
+mitochondrion	pr	ENSG00000171766:GATM
+mitochondrion	pr	ENSG00000005022:SLC25A5
+mitochondrion	pr	ENSG00000223572:CKMT1A
+mitochondrion	pr	ENSG00000184047:DIABLO
+mitochondrion	pr	ENSG00000115159:GPD2
+mitochondrion	pr	ENSG00000171503:ETFDH
+mitochondrion	pr	ENSG00000197157:SND1
+mitochondrion	pr	ENSG00000014641:MDH1
+mitochondrion	pr	ENSG00000127884:ECHS1
+mitochondrion	pr	ENSG00000165672:PRDX3
+mitochondrion	pr	ENSG00000156515:HK1
+mitochondrion	pr	ENSG00000215021:PHB2
+mitochondrion	pr	ENSG00000128654:MTX2
+mitochondrion	pr	ENSG00000168140:VASN
+mitochondrion	pr	ENSG00000119471:HSDL2
+mitochondrion	pr	ENSG00000179091:CYC1
+mitochondrion	pr	ENSG00000109107:ALDOC
+mitochondrion	pr	ENSG00000213619:NDUFS3
+mitochondrion	pr	ENSG00000167588:GPD1
+mitochondrion	pr	ENSG00000121691:CAT
+mitochondrion	pr	ENSG00000156709:AIFM1
+mitochondrion	pr	ENSG00000159348:CYB5R1
+mitochondrion	pr	ENSG00000116171:SCP2
+mitochondrion	pr	ENSG00000154930:ACSS1
+mitochondrion	pr	ENSG00000119711:ALDH6A1
+mitochondrion	pr	ENSG00000135940:COX5B
+mitochondrion	pr	ENSG00000169021:UQCRFS1
+mitochondrion	pr	ENSG00000104687:GSR
+mitochondrion	pr	ENSG00000128311:TST
+mitochondrion	pr	ENSG00000172115:CYCS
+mitochondrion	pr	ENSG00000164466:SFXN1
+mitochondrion	pr	ENSG00000145494:NDUFS6
+mitochondrion	pr	ENSG00000172270:BSG
+mitochondrion	pr	ENSG00000115840:SLC25A12
+mitochondrion	pr	ENSG00000101365:IDH3B
+mitochondrion	pr	ENSG00000143149:ALDH9A1
+mitochondrion	pr	ENSG00000167792:NDUFV1
+mitochondrion	pr	ENSG00000108528:SLC25A11
+mitochondrion	pr	ENSG00000131495:NDUFA2
+mitochondrion	pr	ENSG00000165637:VDAC2
+mitochondrion	pr	ENSG00000104325:DECR1
+mitochondrion	pr	ENSG00000213722:DDAH2
+mitochondrion	pr	ENSG00000178537:SLC25A20
+mitochondrion	pr	ENSG00000165168:CYBB
+mitochondrion	pr	ENSG00000132305:IMMT
+mitochondrion	pr	ENSG00000105953:OGDH
+mitochondrion	pr	ENSG00000082212:ME2
+mitochondrion	pr	ENSG00000108179:PPIF
+mitochondrion	pr	ENSG00000140740:UQCRC2
+mitochondrion	pr	ENSG00000155380:SLC16A1
+mitochondrion	pr	ENSG00000063854:HAGH
+mitochondrion	pr	ENSG00000184117:NIPSNAP1
+mitochondrion	pr	ENSG00000161533:ACOX1
+mitochondrion	pr	ENSG00000128609:NDUFA5
+mitochondrion	pr	ENSG00000116096:SPR
+mitochondrion	pr	ENSG00000151729:SLC25A4
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000249915:PDCD6
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000117525:F3
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000115541:HSPE1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000144381:HSPD1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000184047:DIABLO
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000156709:AIFM1
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000172115:CYCS
+activation of cysteine-type endopeptidase activity involved in apoptotic process	pr	ENSG00000165280:VCP
+receptor activity	pr	ENSG00000148053:NTRK2
+receptor activity	pr	ENSG00000158270:COLEC12
+receptor activity	pr	ENSG00000082781:ITGB5
+receptor activity	pr	ENSG00000123384:LRP1
+receptor activity	pr	ENSG00000140678:ITGAX
+receptor activity	pr	ENSG00000141458:NPC1
+receptor activity	pr	ENSG00000204287:HLA-DRA
+receptor activity	pr	ENSG00000138448:ITGAV
+receptor activity	pr	ENSG00000147255:IGSF1
+receptor activity	pr	ENSG00000106991:ENG
+receptor activity	pr	ENSG00000026508:CD44
+receptor activity	pr	ENSG00000115380:EFEMP1
+receptor activity	pr	ENSG00000120594:PLXDC2
+receptor activity	pr	ENSG00000008952:SEC62
+receptor activity	pr	ENSG00000108797:CNTNAP1
+receptor activity	pr	ENSG00000260314:MRC1
+receptor activity	pr	ENSG00000143126:CELSR2
+receptor activity	pr	ENSG00000010327:STAB1
+receptor activity	pr	ENSG00000138760:SCARB2
+receptor activity	pr	ENSG00000119900:OGFRL1
+receptor activity	pr	ENSG00000150093:ITGB1
+receptor activity	pr	ENSG00000169604:ANTXR1
+receptor activity	pr	ENSG00000134243:SORT1
+receptor activity	pr	ENSG00000103811:CTSH
+receptor activity	pr	ENSG00000184985:SORCS2
+receptor activity	pr	ENSG00000076356:PLXNA2
+receptor activity	pr	ENSG00000164171:ITGA2
+receptor activity	pr	ENSG00000196126:HLA-DRB1
+receptor activity	pr	ENSG00000090339:ICAM1
+receptor activity	pr	ENSG00000168028:RPSA
+receptor activity	pr	ENSG00000187244:BCAM
+receptor activity	pr	ENSG00000088832:FKBP1A
+receptor activity	pr	ENSG00000113721:PDGFRB
+receptor activity	pr	ENSG00000099994:SUSD2
+receptor activity	pr	ENSG00000160255:ITGB2
+receptor activity	pr	ENSG00000173402:DAG1
+receptor activity	pr	ENSG00000100442:FKBP3
+receptor activity	pr	ENSG00000132470:ITGB4
+receptor activity	pr	ENSG00000115365:LANCL1
+receptor activity	pr	ENSG00000145864:GABRB2
+receptor activity	pr	ENSG00000196139:AKR1C3
+receptor activity	pr	ENSG00000170458:CD14
+coenzyme binding	pr	ENSG00000138413:IDH1
+coenzyme binding	pr	ENSG00000138796:HADH
+coenzyme binding	pr	ENSG00000138029:HADHB
+coenzyme binding	pr	ENSG00000049239:H6PD
+coenzyme binding	pr	ENSG00000189221:MAOA
+coenzyme binding	pr	ENSG00000075239:ACAT1
+coenzyme binding	pr	ENSG00000165475:CRYL1
+coenzyme binding	pr	ENSG00000106049:HIBADH
+coenzyme binding	pr	ENSG00000038274:MAT2B
+coenzyme binding	pr	ENSG00000084754:HADHA
+coenzyme binding	pr	ENSG00000112992:NNT
+coenzyme binding	pr	ENSG00000117054:ACADM
+coenzyme binding	pr	ENSG00000182054:IDH2
+coenzyme binding	pr	ENSG00000140263:SORD
+coenzyme binding	pr	ENSG00000158864:NDUFS2
+coenzyme binding	pr	ENSG00000073578:SDHA
+coenzyme binding	pr	ENSG00000155368:DBI
+coenzyme binding	pr	ENSG00000072778:ACADVL
+coenzyme binding	pr	ENSG00000166411:IDH3A
+coenzyme binding	pr	ENSG00000016391:CHDH
+coenzyme binding	pr	ENSG00000091140:DLD
+coenzyme binding	pr	ENSG00000142657:PGD
+coenzyme binding	pr	ENSG00000140374:ETFA
+coenzyme binding	pr	ENSG00000069535:MAOB
+coenzyme binding	pr	ENSG00000171503:ETFDH
+coenzyme binding	pr	ENSG00000014641:MDH1
+coenzyme binding	pr	ENSG00000167588:GPD1
+coenzyme binding	pr	ENSG00000121691:CAT
+coenzyme binding	pr	ENSG00000100033:PRODH
+coenzyme binding	pr	ENSG00000156709:AIFM1
+coenzyme binding	pr	ENSG00000116171:SCP2
+coenzyme binding	pr	ENSG00000119711:ALDH6A1
+coenzyme binding	pr	ENSG00000104687:GSR
+coenzyme binding	pr	ENSG00000101365:IDH3B
+coenzyme binding	pr	ENSG00000143149:ALDH9A1
+coenzyme binding	pr	ENSG00000167792:NDUFV1
+coenzyme binding	pr	ENSG00000104325:DECR1
+coenzyme binding	pr	ENSG00000139180:NDUFA9
+coenzyme binding	pr	ENSG00000165168:CYBB
+coenzyme binding	pr	ENSG00000105953:OGDH
+coenzyme binding	pr	ENSG00000082212:ME2
+coenzyme binding	pr	ENSG00000161533:ACOX1
+coenzyme binding	pr	ENSG00000116096:SPR
+MHC protein complex	pr	ENSG00000204287:HLA-DRA
+MHC protein complex	pr	ENSG00000234745:HLA-B
+MHC protein complex	pr	ENSG00000206503:HLA-A
+MHC protein complex	pr	ENSG00000196126:HLA-DRB1
+integrin-mediated signaling pathway	pr	ENSG00000011052:NME2
+integrin-mediated signaling pathway	pr	ENSG00000082781:ITGB5
+integrin-mediated signaling pathway	pr	ENSG00000130702:LAMA5
+integrin-mediated signaling pathway	pr	ENSG00000168615:ADAM9
+integrin-mediated signaling pathway	pr	ENSG00000140678:ITGAX
+integrin-mediated signaling pathway	pr	ENSG00000138448:ITGAV
+integrin-mediated signaling pathway	pr	ENSG00000166333:ILK
+integrin-mediated signaling pathway	pr	ENSG00000005884:ITGA3
+integrin-mediated signaling pathway	pr	ENSG00000150093:ITGB1
+integrin-mediated signaling pathway	pr	ENSG00000091409:ITGA6
+integrin-mediated signaling pathway	pr	ENSG00000161638:ITGA5
+integrin-mediated signaling pathway	pr	ENSG00000135424:ITGA7
+integrin-mediated signaling pathway	pr	ENSG00000164171:ITGA2
+integrin-mediated signaling pathway	pr	ENSG00000073712:FERMT2
+integrin-mediated signaling pathway	pr	ENSG00000160255:ITGB2
+integrin-mediated signaling pathway	pr	ENSG00000169896:ITGAM
+integrin-mediated signaling pathway	pr	ENSG00000132470:ITGB4
+electron transport chain	pr	ENSG00000023228:NDUFS1
+electron transport chain	pr	ENSG00000147684:NDUFB9
+electron transport chain	pr	ENSG00000126267:COX6B1
+electron transport chain	pr	ENSG00000130414:NDUFA10
+electron transport chain	pr	ENSG00000131143:COX4I1
+electron transport chain	pr	ENSG00000112294:ALDH5A1
+electron transport chain	pr	ENSG00000178741:COX5A
+electron transport chain	pr	ENSG00000158864:NDUFS2
+electron transport chain	pr	ENSG00000073578:SDHA
+electron transport chain	pr	ENSG00000156467:UQCRB
+electron transport chain	pr	ENSG00000168653:NDUFS5
+electron transport chain	pr	ENSG00000091140:DLD
+electron transport chain	pr	ENSG00000117118:SDHB
+electron transport chain	pr	ENSG00000178127:NDUFV2
+electron transport chain	pr	ENSG00000140990:NDUFB10
+electron transport chain	pr	ENSG00000119421:NDUFA8
+electron transport chain	pr	ENSG00000140374:ETFA
+electron transport chain	pr	ENSG00000010256:UQCRC1
+electron transport chain	pr	ENSG00000186010:NDUFA13
+electron transport chain	pr	ENSG00000171503:ETFDH
+electron transport chain	pr	ENSG00000179091:CYC1
+electron transport chain	pr	ENSG00000213619:NDUFS3
+electron transport chain	pr	ENSG00000135940:COX5B
+electron transport chain	pr	ENSG00000169021:UQCRFS1
+electron transport chain	pr	ENSG00000172115:CYCS
+electron transport chain	pr	ENSG00000145494:NDUFS6
+electron transport chain	pr	ENSG00000167792:NDUFV1
+electron transport chain	pr	ENSG00000131495:NDUFA2
+electron transport chain	pr	ENSG00000139180:NDUFA9
+electron transport chain	pr	ENSG00000140740:UQCRC2
+electron transport chain	pr	ENSG00000128609:NDUFA5
+actinin binding	pr	ENSG00000150093:ITGB1
+actinin binding	pr	ENSG00000173402:DAG1
+actinin binding	pr	ENSG00000163110:PDLIM5
+regulation of protein kinase B signaling	pr	ENSG00000148053:NTRK2
+regulation of protein kinase B signaling	pr	ENSG00000249915:PDCD6
+regulation of protein kinase B signaling	pr	ENSG00000117525:F3
+regulation of protein kinase B signaling	pr	ENSG00000108561:C1QBP
+regulation of protein kinase B signaling	pr	ENSG00000198793:MTOR
+regulation of protein kinase B signaling	pr	ENSG00000166333:ILK
+regulation of protein kinase B signaling	pr	ENSG00000173402:DAG1
+regulation of protein kinase B signaling	pr	ENSG00000196139:AKR1C3
+DNA catabolic process	pr	ENSG00000119318:RAD23B
+DNA catabolic process	pr	ENSG00000131238:PPT1
+DNA catabolic process	pr	ENSG00000149273:RPS3
+DNA catabolic process	pr	ENSG00000177889:UBE2N
+DNA catabolic process	pr	ENSG00000167986:DDB1
+DNA catabolic process	pr	ENSG00000156709:AIFM1
+DNA catabolic process	pr	ENSG00000169139:UBE2V2
+DNA catabolic process	pr	ENSG00000172115:CYCS
+ADP metabolic process	pr	ENSG00000004455:AK2
+ADP metabolic process	pr	ENSG00000162433:AK4
+ADP metabolic process	pr	ENSG00000147853:AK3
+ADP metabolic process	pr	ENSG00000106992:AK1
+AMP metabolic process	pr	ENSG00000198931:APRT
+AMP metabolic process	pr	ENSG00000004455:AK2
+AMP metabolic process	pr	ENSG00000162433:AK4
+AMP metabolic process	pr	ENSG00000147853:AK3
+AMP metabolic process	pr	ENSG00000106992:AK1
+AMP metabolic process	pr	ENSG00000135318:NT5E
+collagen trimer	pr	ENSG00000158270:COLEC12
+collagen trimer	pr	ENSG00000142173:COL6A2
+collagen trimer	pr	ENSG00000231500:RPS18
+collagen trimer	pr	ENSG00000163359:COL6A3
+collagen trimer	pr	ENSG00000142156:COL6A1
+collagen trimer	pr	ENSG00000108821:COL1A1
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000109501:WFS1
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000026508:CD44
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000198836:OPA1
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000120885:CLU
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000186010:NDUFA13
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000213619:NDUFS3
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000165637:VDAC2
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000108179:PPIF
+negative regulation of intrinsic apoptotic signaling pathway	pr	ENSG00000215301:DDX3X
+organic acid catabolic process	pr	ENSG00000138796:HADH
+organic acid catabolic process	pr	ENSG00000138029:HADHB
+organic acid catabolic process	pr	ENSG00000103876:FAH
+organic acid catabolic process	pr	ENSG00000119689:DLST
+organic acid catabolic process	pr	ENSG00000075239:ACAT1
+organic acid catabolic process	pr	ENSG00000175198:PCCA
+organic acid catabolic process	pr	ENSG00000106049:HIBADH
+organic acid catabolic process	pr	ENSG00000112294:ALDH5A1
+organic acid catabolic process	pr	ENSG00000131844:MCCC2
+organic acid catabolic process	pr	ENSG00000084754:HADHA
+organic acid catabolic process	pr	ENSG00000095321:CRAT
+organic acid catabolic process	pr	ENSG00000117054:ACADM
+organic acid catabolic process	pr	ENSG00000120053:GOT1
+organic acid catabolic process	pr	ENSG00000135821:GLUL
+organic acid catabolic process	pr	ENSG00000183044:ABAT
+organic acid catabolic process	pr	ENSG00000072778:ACADVL
+organic acid catabolic process	pr	ENSG00000144827:ABHD10
+organic acid catabolic process	pr	ENSG00000091140:DLD
+organic acid catabolic process	pr	ENSG00000198130:HIBCH
+organic acid catabolic process	pr	ENSG00000072506:HSD17B10
+organic acid catabolic process	pr	ENSG00000171503:ETFDH
+organic acid catabolic process	pr	ENSG00000127884:ECHS1
+organic acid catabolic process	pr	ENSG00000102032:RENBP
+organic acid catabolic process	pr	ENSG00000100033:PRODH
+organic acid catabolic process	pr	ENSG00000116171:SCP2
+organic acid catabolic process	pr	ENSG00000119711:ALDH6A1
+organic acid catabolic process	pr	ENSG00000128311:TST
+organic acid catabolic process	pr	ENSG00000060971:ACAA1
+organic acid catabolic process	pr	ENSG00000104325:DECR1
+organic acid catabolic process	pr	ENSG00000213722:DDAH2
+organic acid catabolic process	pr	ENSG00000105953:OGDH
+organic acid catabolic process	pr	ENSG00000161533:ACOX1
+carbohydrate catabolic process	pr	ENSG00000111674:ENO2
+carbohydrate catabolic process	pr	ENSG00000149925:ALDOA
+carbohydrate catabolic process	pr	ENSG00000068976:PYGM
+carbohydrate catabolic process	pr	ENSG00000140263:SORD
+carbohydrate catabolic process	pr	ENSG00000079739:PGM1
+carbohydrate catabolic process	pr	ENSG00000163754:GYG1
+carbohydrate catabolic process	pr	ENSG00000108479:GALK1
+carbohydrate catabolic process	pr	ENSG00000134333:LDHA
+carbohydrate catabolic process	pr	ENSG00000144827:ABHD10
+carbohydrate catabolic process	pr	ENSG00000171298:GAA
+carbohydrate catabolic process	pr	ENSG00000074800:ENO1
+carbohydrate catabolic process	pr	ENSG00000143933:CALM2
+carbohydrate catabolic process	pr	ENSG00000131828:PDHA1
+carbohydrate catabolic process	pr	ENSG00000115159:GPD2
+carbohydrate catabolic process	pr	ENSG00000156515:HK1
+carbohydrate catabolic process	pr	ENSG00000109107:ALDOC
+carbohydrate catabolic process	pr	ENSG00000111669:TPI1
+carbohydrate catabolic process	pr	ENSG00000164708:PGAM2
+carbohydrate catabolic process	pr	ENSG00000105953:OGDH
+cell pole	pr	ENSG00000155252:PI4K2A
+cell pole	pr	ENSG00000137710:RDX
+cell pole	pr	ENSG00000092820:EZR
+cell surface	pr	ENSG00000148053:NTRK2
+cell surface	pr	ENSG00000137076:TLN1
+cell surface	pr	ENSG00000182492:BGN
+cell surface	pr	ENSG00000100097:LGALS1
+cell surface	pr	ENSG00000168615:ADAM9
+cell surface	pr	ENSG00000140678:ITGAX
+cell surface	pr	ENSG00000117525:F3
+cell surface	pr	ENSG00000204287:HLA-DRA
+cell surface	pr	ENSG00000138448:ITGAV
+cell surface	pr	ENSG00000108561:C1QBP
+cell surface	pr	ENSG00000106991:ENG
+cell surface	pr	ENSG00000153187:HNRNPU
+cell surface	pr	ENSG00000154096:THY1
+cell surface	pr	ENSG00000026508:CD44
+cell surface	pr	ENSG00000234745:HLA-B
+cell surface	pr	ENSG00000164022:AIMP1
+cell surface	pr	ENSG00000079215:SLC1A3
+cell surface	pr	ENSG00000135046:ANXA1
+cell surface	pr	ENSG00000196975:ANXA4
+cell surface	pr	ENSG00000260314:MRC1
+cell surface	pr	ENSG00000005884:ITGA3
+cell surface	pr	ENSG00000150093:ITGB1
+cell surface	pr	ENSG00000182718:ANXA2
+cell surface	pr	ENSG00000261371:PECAM1
+cell surface	pr	ENSG00000091409:ITGA6
+cell surface	pr	ENSG00000144381:HSPD1
+cell surface	pr	ENSG00000134243:SORT1
+cell surface	pr	ENSG00000206503:HLA-A
+cell surface	pr	ENSG00000131471:AOC3
+cell surface	pr	ENSG00000185896:LAMP1
+cell surface	pr	ENSG00000161638:ITGA5
+cell surface	pr	ENSG00000135424:ITGA7
+cell surface	pr	ENSG00000164171:ITGA2
+cell surface	pr	ENSG00000196126:HLA-DRB1
+cell surface	pr	ENSG00000073712:FERMT2
+cell surface	pr	ENSG00000149260:CAPN5
+cell surface	pr	ENSG00000090339:ICAM1
+cell surface	pr	ENSG00000168140:VASN
+cell surface	pr	ENSG00000187244:BCAM
+cell surface	pr	ENSG00000113721:PDGFRB
+cell surface	pr	ENSG00000160255:ITGB2
+cell surface	pr	ENSG00000004468:CD38
+cell surface	pr	ENSG00000169896:ITGAM
+cell surface	pr	ENSG00000132470:ITGB4
+cell surface	pr	ENSG00000170458:CD14
+cell surface	pr	ENSG00000006451:RALA
+opsonin binding	pr	ENSG00000138448:ITGAV
+opsonin binding	pr	ENSG00000108561:C1QBP
+opsonin binding	pr	ENSG00000169896:ITGAM
+opsonin binding	pr	ENSG00000244731:C4A
+rRNA metabolic process	pr	ENSG00000105193:RPS16
+rRNA metabolic process	pr	ENSG00000171863:RPS7
+rRNA metabolic process	pr	ENSG00000122406:RPL5
+rRNA metabolic process	pr	ENSG00000137154:RPS6
+rRNA metabolic process	pr	ENSG00000105372:RPS19
+rRNA metabolic process	pr	ENSG00000182774:RPS17
+rRNA metabolic process	pr	ENSG00000168028:RPSA
+extracellular space	pr	ENSG00000152583:SPARCL1
+extracellular space	pr	ENSG00000111674:ENO2
+extracellular space	pr	ENSG00000142173:COL6A2
+extracellular space	pr	ENSG00000149925:ALDOA
+extracellular space	pr	ENSG00000130702:LAMA5
+extracellular space	pr	ENSG00000131238:PPT1
+extracellular space	pr	ENSG00000131981:LGALS3
+extracellular space	pr	ENSG00000100097:LGALS1
+extracellular space	pr	ENSG00000168615:ADAM9
+extracellular space	pr	ENSG00000077942:FBLN1
+extracellular space	pr	ENSG00000117525:F3
+extracellular space	pr	ENSG00000108561:C1QBP
+extracellular space	pr	ENSG00000106991:ENG
+extracellular space	pr	ENSG00000030582:GRN
+extracellular space	pr	ENSG00000115380:EFEMP1
+extracellular space	pr	ENSG00000156535:CD109
+extracellular space	pr	ENSG00000164022:AIMP1
+extracellular space	pr	ENSG00000117450:PRDX1
+extracellular space	pr	ENSG00000137710:RDX
+extracellular space	pr	ENSG00000140945:CDH13
+extracellular space	pr	ENSG00000164530:PI16
+extracellular space	pr	ENSG00000140545:MFGE8
+extracellular space	pr	ENSG00000140263:SORD
+extracellular space	pr	ENSG00000135046:ANXA1
+extracellular space	pr	ENSG00000176393:RNPEP
+extracellular space	pr	ENSG00000147065:MSN
+extracellular space	pr	ENSG00000163359:COL6A3
+extracellular space	pr	ENSG00000110013:SIAE
+extracellular space	pr	ENSG00000156508:EEF1A1
+extracellular space	pr	ENSG00000074800:ENO1
+extracellular space	pr	ENSG00000113657:DPYSL3
+extracellular space	pr	ENSG00000121769:FABP3
+extracellular space	pr	ENSG00000117984:CTSD
+extracellular space	pr	ENSG00000166147:FBN1
+extracellular space	pr	ENSG00000117592:PRDX6
+extracellular space	pr	ENSG00000163191:S100A11
+extracellular space	pr	ENSG00000167986:DDB1
+extracellular space	pr	ENSG00000092820:EZR
+extracellular space	pr	ENSG00000182718:ANXA2
+extracellular space	pr	ENSG00000164307:ERAP1
+extracellular space	pr	ENSG00000144381:HSPD1
+extracellular space	pr	ENSG00000120885:CLU
+extracellular space	pr	ENSG00000213719:CLIC1
+extracellular space	pr	ENSG00000103811:CTSH
+extracellular space	pr	ENSG00000014641:MDH1
+extracellular space	pr	ENSG00000047457:CP
+extracellular space	pr	ENSG00000090339:ICAM1
+extracellular space	pr	ENSG00000162551:ALPL
+extracellular space	pr	ENSG00000168140:VASN
+extracellular space	pr	ENSG00000189058:APOD
+extracellular space	pr	ENSG00000111669:TPI1
+extracellular space	pr	ENSG00000100031:GGT1
+extracellular space	pr	ENSG00000108821:COL1A1
+extracellular space	pr	ENSG00000113140:SPARC
+extracellular space	pr	ENSG00000128311:TST
+extracellular space	pr	ENSG00000041982:TNC
+extracellular space	pr	ENSG00000173402:DAG1
+extracellular space	pr	ENSG00000244731:C4A
+extracellular space	pr	ENSG00000109971:HSPA8
+extracellular space	pr	ENSG00000105835:NAMPT
+extracellular space	pr	ENSG00000170458:CD14
+galactose binding	pr	ENSG00000158270:COLEC12
+galactose binding	pr	ENSG00000106991:ENG
+galactose binding	pr	ENSG00000108479:GALK1
+cellular response to extracellular stimulus	pr	ENSG00000198793:MTOR
+cellular response to extracellular stimulus	pr	ENSG00000105974:CAV1
+cellular response to extracellular stimulus	pr	ENSG00000135821:GLUL
+cellular response to extracellular stimulus	pr	ENSG00000134333:LDHA
+cellular response to extracellular stimulus	pr	ENSG00000150093:ITGB1
+cellular response to extracellular stimulus	pr	ENSG00000091409:ITGA6
+cellular response to extracellular stimulus	pr	ENSG00000110436:SLC1A2
+cellular response to extracellular stimulus	pr	ENSG00000090339:ICAM1
+cellular response to extracellular stimulus	pr	ENSG00000108821:COL1A1
+cellular response to extracellular stimulus	pr	ENSG00000041982:TNC
+cellular response to extracellular stimulus	pr	ENSG00000196139:AKR1C3
+transmembrane transport	pr	ENSG00000143603:KCNN3
+transmembrane transport	pr	ENSG00000170385:SLC30A1
+transmembrane transport	pr	ENSG00000100554:ATP6V1D
+transmembrane transport	pr	ENSG00000141469:SLC14A1
+transmembrane transport	pr	ENSG00000169100:SLC25A6
+transmembrane transport	pr	ENSG00000105409:ATP1A3
+transmembrane transport	pr	ENSG00000136888:ATP6V1G1
+transmembrane transport	pr	ENSG00000141338:ABCA8
+transmembrane transport	pr	ENSG00000213585:VDAC1
+transmembrane transport	pr	ENSG00000143153:ATP1B1
+transmembrane transport	pr	ENSG00000107819:SFXN3
+transmembrane transport	pr	ENSG00000165283:STOML2
+transmembrane transport	pr	ENSG00000152661:GJA1
+transmembrane transport	pr	ENSG00000138448:ITGAV
+transmembrane transport	pr	ENSG00000126267:COX6B1
+transmembrane transport	pr	ENSG00000168003:SLC3A2
+transmembrane transport	pr	ENSG00000131143:COX4I1
+transmembrane transport	pr	ENSG00000085491:SLC25A24
+transmembrane transport	pr	ENSG00000112992:NNT
+transmembrane transport	pr	ENSG00000151012:SLC7A11
+transmembrane transport	pr	ENSG00000079215:SLC1A3
+transmembrane transport	pr	ENSG00000008952:SEC62
+transmembrane transport	pr	ENSG00000178741:COX5A
+transmembrane transport	pr	ENSG00000100075:SLC25A1
+transmembrane transport	pr	ENSG00000177301:KCNA2
+transmembrane transport	pr	ENSG00000069424:KCNAB2
+transmembrane transport	pr	ENSG00000144040:SFXN5
+transmembrane transport	pr	ENSG00000148482:SLC39A12
+transmembrane transport	pr	ENSG00000078668:VDAC3
+transmembrane transport	pr	ENSG00000125257:ABCC4
+transmembrane transport	pr	ENSG00000100347:SAMM50
+transmembrane transport	pr	ENSG00000087086:FTL
+transmembrane transport	pr	ENSG00000170606:HSPA4
+transmembrane transport	pr	ENSG00000163399:ATP1A1
+transmembrane transport	pr	ENSG00000004939:SLC4A1
+transmembrane transport	pr	ENSG00000163406:SLC15A2
+transmembrane transport	pr	ENSG00000075415:SLC25A3
+transmembrane transport	pr	ENSG00000010256:UQCRC1
+transmembrane transport	pr	ENSG00000186010:NDUFA13
+transmembrane transport	pr	ENSG00000213719:CLIC1
+transmembrane transport	pr	ENSG00000103257:SLC7A5
+transmembrane transport	pr	ENSG00000005022:SLC25A5
+transmembrane transport	pr	ENSG00000110436:SLC1A2
+transmembrane transport	pr	ENSG00000047457:CP
+transmembrane transport	pr	ENSG00000069849:ATP1B3
+transmembrane transport	pr	ENSG00000177119:ANO6
+transmembrane transport	pr	ENSG00000156515:HK1
+transmembrane transport	pr	ENSG00000142583:SLC2A5
+transmembrane transport	pr	ENSG00000088832:FKBP1A
+transmembrane transport	pr	ENSG00000135940:COX5B
+transmembrane transport	pr	ENSG00000169021:UQCRFS1
+transmembrane transport	pr	ENSG00000164466:SFXN1
+transmembrane transport	pr	ENSG00000115840:SLC25A12
+transmembrane transport	pr	ENSG00000087460:GNAS
+transmembrane transport	pr	ENSG00000165637:VDAC2
+transmembrane transport	pr	ENSG00000178537:SLC25A20
+transmembrane transport	pr	ENSG00000182902:SLC25A18
+transmembrane transport	pr	ENSG00000155380:SLC16A1
+transmembrane transport	pr	ENSG00000145864:GABRB2
+transmembrane transport	pr	ENSG00000151729:SLC25A4
+transmembrane transport	pr	ENSG00000129353:SLC44A2
+cell-substrate adhesion	pr	ENSG00000130702:LAMA5
+cell-substrate adhesion	pr	ENSG00000168615:ADAM9
+cell-substrate adhesion	pr	ENSG00000138448:ITGAV
+cell-substrate adhesion	pr	ENSG00000026508:CD44
+cell-substrate adhesion	pr	ENSG00000197702:PARVA
+cell-substrate adhesion	pr	ENSG00000166333:ILK
+cell-substrate adhesion	pr	ENSG00000005884:ITGA3
+cell-substrate adhesion	pr	ENSG00000150093:ITGB1
+cell-substrate adhesion	pr	ENSG00000091409:ITGA6
+cell-substrate adhesion	pr	ENSG00000169604:ANTXR1
+cell-substrate adhesion	pr	ENSG00000161638:ITGA5
+cell-substrate adhesion	pr	ENSG00000135424:ITGA7
+cell-substrate adhesion	pr	ENSG00000164171:ITGA2
+cell-substrate adhesion	pr	ENSG00000073712:FERMT2
+cell-substrate adhesion	pr	ENSG00000187244:BCAM
+cell-substrate adhesion	pr	ENSG00000160255:ITGB2
+cell-substrate adhesion	pr	ENSG00000035403:VCL
+cell-substrate adhesion	pr	ENSG00000173402:DAG1
+cell-substrate adhesion	pr	ENSG00000132470:ITGB4
+nucleoid	pr	ENSG00000138029:HADHB
+nucleoid	pr	ENSG00000213585:VDAC1
+nucleoid	pr	ENSG00000084754:HADHA
+nucleoid	pr	ENSG00000072778:ACADVL
+nucleoid	pr	ENSG00000178952:TUFM
+nucleoid	pr	ENSG00000113013:HSPA9
+nucleoid	pr	ENSG00000106028:SSBP1
+nucleoid	pr	ENSG00000005022:SLC25A5
+nucleoid	pr	ENSG00000165637:VDAC2
+respiratory chain	pr	ENSG00000112992:NNT
+respiratory chain	pr	ENSG00000156467:UQCRB
+respiratory chain	pr	ENSG00000010256:UQCRC1
+respiratory chain	pr	ENSG00000186010:NDUFA13
+respiratory chain	pr	ENSG00000179091:CYC1
+respiratory chain	pr	ENSG00000172115:CYCS
+cellular response to lipopolysaccharide	pr	ENSG00000130707:ASS1
+cellular response to lipopolysaccharide	pr	ENSG00000168615:ADAM9
+cellular response to lipopolysaccharide	pr	ENSG00000114698:PLSCR4
+cellular response to lipopolysaccharide	pr	ENSG00000090339:ICAM1
+cellular response to lipopolysaccharide	pr	ENSG00000170458:CD14
+regulation of BMP signaling pathway	pr	ENSG00000106991:ENG
+regulation of BMP signaling pathway	pr	ENSG00000105974:CAV1
+regulation of BMP signaling pathway	pr	ENSG00000166333:ILK
+regulation of BMP signaling pathway	pr	ENSG00000166147:FBN1
+polyol metabolic process	pr	ENSG00000143772:ITPKB
+polyol metabolic process	pr	ENSG00000161714:PLCD3
+polyol metabolic process	pr	ENSG00000120053:GOT1
+polyol metabolic process	pr	ENSG00000140263:SORD
+polyol metabolic process	pr	ENSG00000068383:INPP5A
+polyol metabolic process	pr	ENSG00000187091:PLCD1
+polyol metabolic process	pr	ENSG00000108479:GALK1
+polyol metabolic process	pr	ENSG00000143933:CALM2
+polyol metabolic process	pr	ENSG00000115159:GPD2
+polyol metabolic process	pr	ENSG00000116171:SCP2
+polyol metabolic process	pr	ENSG00000105655:ISYNA1
+carboxylic acid metabolic process	pr	ENSG00000138413:IDH1
+carboxylic acid metabolic process	pr	ENSG00000138796:HADH
+carboxylic acid metabolic process	pr	ENSG00000138029:HADHB
+carboxylic acid metabolic process	pr	ENSG00000182492:BGN
+carboxylic acid metabolic process	pr	ENSG00000173599:PC
+carboxylic acid metabolic process	pr	ENSG00000111674:ENO2
+carboxylic acid metabolic process	pr	ENSG00000100412:ACO2
+carboxylic acid metabolic process	pr	ENSG00000168291:PDHB
+carboxylic acid metabolic process	pr	ENSG00000149925:ALDOA
+carboxylic acid metabolic process	pr	ENSG00000130707:ASS1
+carboxylic acid metabolic process	pr	ENSG00000103876:FAH
+carboxylic acid metabolic process	pr	ENSG00000145293:ENOPH1
+carboxylic acid metabolic process	pr	ENSG00000117115:PADI2
+carboxylic acid metabolic process	pr	ENSG00000141458:NPC1
+carboxylic acid metabolic process	pr	ENSG00000119689:DLST
+carboxylic acid metabolic process	pr	ENSG00000075239:ACAT1
+carboxylic acid metabolic process	pr	ENSG00000175198:PCCA
+carboxylic acid metabolic process	pr	ENSG00000165475:CRYL1
+carboxylic acid metabolic process	pr	ENSG00000106049:HIBADH
+carboxylic acid metabolic process	pr	ENSG00000130988:RGN
+carboxylic acid metabolic process	pr	ENSG00000038274:MAT2B
+carboxylic acid metabolic process	pr	ENSG00000112294:ALDH5A1
+carboxylic acid metabolic process	pr	ENSG00000131844:MCCC2
+carboxylic acid metabolic process	pr	ENSG00000084754:HADHA
+carboxylic acid metabolic process	pr	ENSG00000095321:CRAT
+carboxylic acid metabolic process	pr	ENSG00000112992:NNT
+carboxylic acid metabolic process	pr	ENSG00000117054:ACADM
+carboxylic acid metabolic process	pr	ENSG00000164022:AIMP1
+carboxylic acid metabolic process	pr	ENSG00000120053:GOT1
+carboxylic acid metabolic process	pr	ENSG00000079215:SLC1A3
+carboxylic acid metabolic process	pr	ENSG00000135821:GLUL
+carboxylic acid metabolic process	pr	ENSG00000182054:IDH2
+carboxylic acid metabolic process	pr	ENSG00000183044:ABAT
+carboxylic acid metabolic process	pr	ENSG00000140043:PTGR2
+carboxylic acid metabolic process	pr	ENSG00000176393:RNPEP
+carboxylic acid metabolic process	pr	ENSG00000079739:PGM1
+carboxylic acid metabolic process	pr	ENSG00000073578:SDHA
+carboxylic acid metabolic process	pr	ENSG00000072778:ACADVL
+carboxylic acid metabolic process	pr	ENSG00000166411:IDH3A
+carboxylic acid metabolic process	pr	ENSG00000134333:LDHA
+carboxylic acid metabolic process	pr	ENSG00000150768:DLAT
+carboxylic acid metabolic process	pr	ENSG00000144827:ABHD10
+carboxylic acid metabolic process	pr	ENSG00000167315:ACAA2
+carboxylic acid metabolic process	pr	ENSG00000167468:GPX4
+carboxylic acid metabolic process	pr	ENSG00000091140:DLD
+carboxylic acid metabolic process	pr	ENSG00000074800:ENO1
+carboxylic acid metabolic process	pr	ENSG00000121769:FABP3
+carboxylic acid metabolic process	pr	ENSG00000117118:SDHB
+carboxylic acid metabolic process	pr	ENSG00000148334:PTGES2
+carboxylic acid metabolic process	pr	ENSG00000131828:PDHA1
+carboxylic acid metabolic process	pr	ENSG00000198130:HIBCH
+carboxylic acid metabolic process	pr	ENSG00000243989:ACY1
+carboxylic acid metabolic process	pr	ENSG00000072506:HSD17B10
+carboxylic acid metabolic process	pr	ENSG00000142657:PGD
+carboxylic acid metabolic process	pr	ENSG00000099998:GGT5
+carboxylic acid metabolic process	pr	ENSG00000062485:CS
+carboxylic acid metabolic process	pr	ENSG00000159228:CBR1
+carboxylic acid metabolic process	pr	ENSG00000171766:GATM
+carboxylic acid metabolic process	pr	ENSG00000103257:SLC7A5
+carboxylic acid metabolic process	pr	ENSG00000223572:CKMT1A
+carboxylic acid metabolic process	pr	ENSG00000171503:ETFDH
+carboxylic acid metabolic process	pr	ENSG00000014641:MDH1
+carboxylic acid metabolic process	pr	ENSG00000127884:ECHS1
+carboxylic acid metabolic process	pr	ENSG00000156515:HK1
+carboxylic acid metabolic process	pr	ENSG00000102032:RENBP
+carboxylic acid metabolic process	pr	ENSG00000180817:PPA1
+carboxylic acid metabolic process	pr	ENSG00000109107:ALDOC
+carboxylic acid metabolic process	pr	ENSG00000103740:ACSBG1
+carboxylic acid metabolic process	pr	ENSG00000111669:TPI1
+carboxylic acid metabolic process	pr	ENSG00000184227:ACOT1
+carboxylic acid metabolic process	pr	ENSG00000100031:GGT1
+carboxylic acid metabolic process	pr	ENSG00000100033:PRODH
+carboxylic acid metabolic process	pr	ENSG00000116171:SCP2
+carboxylic acid metabolic process	pr	ENSG00000154930:ACSS1
+carboxylic acid metabolic process	pr	ENSG00000119711:ALDH6A1
+carboxylic acid metabolic process	pr	ENSG00000128311:TST
+carboxylic acid metabolic process	pr	ENSG00000145494:NDUFS6
+carboxylic acid metabolic process	pr	ENSG00000060971:ACAA1
+carboxylic acid metabolic process	pr	ENSG00000172270:BSG
+carboxylic acid metabolic process	pr	ENSG00000101365:IDH3B
+carboxylic acid metabolic process	pr	ENSG00000143149:ALDH9A1
+carboxylic acid metabolic process	pr	ENSG00000164708:PGAM2
+carboxylic acid metabolic process	pr	ENSG00000104325:DECR1
+carboxylic acid metabolic process	pr	ENSG00000213722:DDAH2
+carboxylic acid metabolic process	pr	ENSG00000105953:OGDH
+carboxylic acid metabolic process	pr	ENSG00000082212:ME2
+carboxylic acid metabolic process	pr	ENSG00000155380:SLC16A1
+carboxylic acid metabolic process	pr	ENSG00000196139:AKR1C3
+carboxylic acid metabolic process	pr	ENSG00000161533:ACOX1
+carboxylic acid metabolic process	pr	ENSG00000116096:SPR
+leukocyte cell-cell adhesion	pr	ENSG00000143772:ITPKB
+leukocyte cell-cell adhesion	pr	ENSG00000244038:DDOST
+leukocyte cell-cell adhesion	pr	ENSG00000165283:STOML2
+leukocyte cell-cell adhesion	pr	ENSG00000026508:CD44
+leukocyte cell-cell adhesion	pr	ENSG00000135046:ANXA1
+leukocyte cell-cell adhesion	pr	ENSG00000147065:MSN
+leukocyte cell-cell adhesion	pr	ENSG00000150093:ITGB1
+leukocyte cell-cell adhesion	pr	ENSG00000137154:RPS6
+leukocyte cell-cell adhesion	pr	ENSG00000092820:EZR
+leukocyte cell-cell adhesion	pr	ENSG00000144381:HSPD1
+leukocyte cell-cell adhesion	pr	ENSG00000161638:ITGA5
+leukocyte cell-cell adhesion	pr	ENSG00000090339:ICAM1
+leukocyte cell-cell adhesion	pr	ENSG00000088832:FKBP1A
+leukocyte cell-cell adhesion	pr	ENSG00000160255:ITGB2
+leukocyte cell-cell adhesion	pr	ENSG00000169896:ITGAM
+leukocyte cell-cell adhesion	pr	ENSG00000162736:NCSTN
+response to monosaccharide	pr	ENSG00000011052:NME2
+response to monosaccharide	pr	ENSG00000142173:COL6A2
+response to monosaccharide	pr	ENSG00000100097:LGALS1
+response to monosaccharide	pr	ENSG00000152661:GJA1
+response to monosaccharide	pr	ENSG00000135821:GLUL
+response to monosaccharide	pr	ENSG00000163359:COL6A3
+response to monosaccharide	pr	ENSG00000164171:ITGA2
+response to monosaccharide	pr	ENSG00000090339:ICAM1
+response to monosaccharide	pr	ENSG00000142583:SLC2A5
+response to monosaccharide	pr	ENSG00000104067:TJP1
+response to monosaccharide	pr	ENSG00000113140:SPARC
+response to monosaccharide	pr	ENSG00000143420:ENSA
+nucleobase transport	pr	ENSG00000078668:VDAC3
+nucleobase transport	pr	ENSG00000005022:SLC25A5
+nucleobase transport	pr	ENSG00000151729:SLC25A4
+reproductive process	pr	ENSG00000138413:IDH1
+reproductive process	pr	ENSG00000079462:PAFAH1B3
+reproductive process	pr	ENSG00000119318:RAD23B
+reproductive process	pr	ENSG00000168610:STAT3
+reproductive process	pr	ENSG00000161714:PLCD3
+reproductive process	pr	ENSG00000077942:FBLN1
+reproductive process	pr	ENSG00000168092:PAFAH1B2
+reproductive process	pr	ENSG00000026508:CD44
+reproductive process	pr	ENSG00000030582:GRN
+reproductive process	pr	ENSG00000198793:MTOR
+reproductive process	pr	ENSG00000140545:MFGE8
+reproductive process	pr	ENSG00000135046:ANXA1
+reproductive process	pr	ENSG00000183044:ABAT
+reproductive process	pr	ENSG00000044115:CTNNA1
+reproductive process	pr	ENSG00000187091:PLCD1
+reproductive process	pr	ENSG00000113441:LNPEP
+reproductive process	pr	ENSG00000005884:ITGA3
+reproductive process	pr	ENSG00000167468:GPX4
+reproductive process	pr	ENSG00000091140:DLD
+reproductive process	pr	ENSG00000150093:ITGB1
+reproductive process	pr	ENSG00000137154:RPS6
+reproductive process	pr	ENSG00000013375:PGM3
+reproductive process	pr	ENSG00000169604:ANTXR1
+reproductive process	pr	ENSG00000103811:CTSH
+reproductive process	pr	ENSG00000071242:RPS6KA2
+reproductive process	pr	ENSG00000165672:PRDX3
+reproductive process	pr	ENSG00000090339:ICAM1
+reproductive process	pr	ENSG00000215021:PHB2
+reproductive process	pr	ENSG00000162551:ALPL
+reproductive process	pr	ENSG00000103740:ACSBG1
+reproductive process	pr	ENSG00000100031:GGT1
+reproductive process	pr	ENSG00000116918:TSNAX
+reproductive process	pr	ENSG00000004468:CD38
+reproductive process	pr	ENSG00000172270:BSG
+reproductive process	pr	ENSG00000041982:TNC
+reproductive process	pr	ENSG00000164708:PGAM2
+reproductive process	pr	ENSG00000087460:GNAS
+reproductive process	pr	ENSG00000105835:NAMPT
+reproductive process	pr	ENSG00000196139:AKR1C3
+reproductive process	pr	ENSG00000161533:ACOX1
+positive regulation of translation	pr	ENSG00000167658:EEF2
+positive regulation of translation	pr	ENSG00000108561:C1QBP
+positive regulation of translation	pr	ENSG00000198034:RPS4X
+positive regulation of translation	pr	ENSG00000198793:MTOR
+positive regulation of translation	pr	ENSG00000164171:ITGA2
+positive regulation of translation	pr	ENSG00000121774:KHDRBS1
+positive regulation of translation	pr	ENSG00000215301:DDX3X
+membrane raft	pr	ENSG00000137312:FLOT1
+membrane raft	pr	ENSG00000131238:PPT1
+membrane raft	pr	ENSG00000114353:GNAI2
+membrane raft	pr	ENSG00000171867:PRNP
+membrane raft	pr	ENSG00000141458:NPC1
+membrane raft	pr	ENSG00000143153:ATP1B1
+membrane raft	pr	ENSG00000165283:STOML2
+membrane raft	pr	ENSG00000152661:GJA1
+membrane raft	pr	ENSG00000138119:MYOF
+membrane raft	pr	ENSG00000100427:MLC1
+membrane raft	pr	ENSG00000154096:THY1
+membrane raft	pr	ENSG00000065135:GNAI3
+membrane raft	pr	ENSG00000155252:PI4K2A
+membrane raft	pr	ENSG00000140945:CDH13
+membrane raft	pr	ENSG00000105974:CAV1
+membrane raft	pr	ENSG00000024422:EHD2
+membrane raft	pr	ENSG00000150093:ITGB1
+membrane raft	pr	ENSG00000163399:ATP1A1
+membrane raft	pr	ENSG00000149357:LAMTOR1
+membrane raft	pr	ENSG00000092820:EZR
+membrane raft	pr	ENSG00000182718:ANXA2
+membrane raft	pr	ENSG00000261371:PECAM1
+membrane raft	pr	ENSG00000069849:ATP1B3
+membrane raft	pr	ENSG00000156515:HK1
+membrane raft	pr	ENSG00000124942:AHNAK
+membrane raft	pr	ENSG00000132589:FLOT2
+membrane raft	pr	ENSG00000172270:BSG
+membrane raft	pr	ENSG00000162909:CAPN2
+membrane raft	pr	ENSG00000173402:DAG1
+membrane raft	pr	ENSG00000142634:EFHD2
+membrane raft	pr	ENSG00000170458:CD14
+purine nucleotide transport	pr	ENSG00000169100:SLC25A6
+purine nucleotide transport	pr	ENSG00000152661:GJA1
+purine nucleotide transport	pr	ENSG00000085491:SLC25A24
+ribosome	pr	ENSG00000105193:RPS16
+ribosome	pr	ENSG00000171863:RPS7
+ribosome	pr	ENSG00000147403:RPL10
+ribosome	pr	ENSG00000198034:RPS4X
+ribosome	pr	ENSG00000231500:RPS18
+ribosome	pr	ENSG00000122406:RPL5
+ribosome	pr	ENSG00000149273:RPS3
+ribosome	pr	ENSG00000197958:RPL12
+ribosome	pr	ENSG00000140988:RPS2
+ribosome	pr	ENSG00000137154:RPS6
+ribosome	pr	ENSG00000105372:RPS19
+ribosome	pr	ENSG00000265681:RPL17
+ribosome	pr	ENSG00000182774:RPS17
+ribosome	pr	ENSG00000071242:RPS6KA2
+ribosome	pr	ENSG00000168028:RPSA
+ribosome	pr	ENSG00000189058:APOD
+ribosome	pr	ENSG00000145425:RPS3A
+ribosome	pr	ENSG00000142534:RPS11
+outer membrane	pr	ENSG00000138029:HADHB
+outer membrane	pr	ENSG00000130707:ASS1
+outer membrane	pr	ENSG00000213585:VDAC1
+outer membrane	pr	ENSG00000189221:MAOA
+outer membrane	pr	ENSG00000152661:GJA1
+outer membrane	pr	ENSG00000198793:MTOR
+outer membrane	pr	ENSG00000122873:CISD1
+outer membrane	pr	ENSG00000078668:VDAC3
+outer membrane	pr	ENSG00000100347:SAMM50
+outer membrane	pr	ENSG00000198836:OPA1
+outer membrane	pr	ENSG00000069535:MAOB
+outer membrane	pr	ENSG00000164171:ITGA2
+outer membrane	pr	ENSG00000156515:HK1
+outer membrane	pr	ENSG00000128654:MTX2
+outer membrane	pr	ENSG00000108828:VAT1
+outer membrane	pr	ENSG00000173402:DAG1
+outer membrane	pr	ENSG00000165637:VDAC2
+outer membrane	pr	ENSG00000215301:DDX3X
+leukocyte migration	pr	ENSG00000131981:LGALS3
+leukocyte migration	pr	ENSG00000140678:ITGAX
+leukocyte migration	pr	ENSG00000143153:ATP1B1
+leukocyte migration	pr	ENSG00000138448:ITGAV
+leukocyte migration	pr	ENSG00000168003:SLC3A2
+leukocyte migration	pr	ENSG00000026508:CD44
+leukocyte migration	pr	ENSG00000151012:SLC7A11
+leukocyte migration	pr	ENSG00000164022:AIMP1
+leukocyte migration	pr	ENSG00000105974:CAV1
+leukocyte migration	pr	ENSG00000105695:MAG
+leukocyte migration	pr	ENSG00000147065:MSN
+leukocyte migration	pr	ENSG00000005884:ITGA3
+leukocyte migration	pr	ENSG00000150093:ITGB1
+leukocyte migration	pr	ENSG00000154721:JAM2
+leukocyte migration	pr	ENSG00000105372:RPS19
+leukocyte migration	pr	ENSG00000091409:ITGA6
+leukocyte migration	pr	ENSG00000103257:SLC7A5
+leukocyte migration	pr	ENSG00000161638:ITGA5
+leukocyte migration	pr	ENSG00000069849:ATP1B3
+leukocyte migration	pr	ENSG00000177119:ANO6
+leukocyte migration	pr	ENSG00000090339:ICAM1
+leukocyte migration	pr	ENSG00000108821:COL1A1
+leukocyte migration	pr	ENSG00000160255:ITGB2
+leukocyte migration	pr	ENSG00000172270:BSG
+leukocyte migration	pr	ENSG00000169896:ITGAM
+leukocyte migration	pr	ENSG00000155380:SLC16A1
+nitric oxide biosynthetic process	pr	ENSG00000181019:NQO1
+nitric oxide biosynthetic process	pr	ENSG00000213722:DDAH2
+nitric oxide biosynthetic process	pr	ENSG00000116096:SPR
+regulation of anoikis	pr	ENSG00000148053:NTRK2
+regulation of anoikis	pr	ENSG00000105974:CAV1
+regulation of anoikis	pr	ENSG00000150093:ITGB1
+regulation of anoikis	pr	ENSG00000161638:ITGA5
+vacuole organization	pr	ENSG00000131238:PPT1
+vacuole organization	pr	ENSG00000034713:GABARAPL2
+vacuole organization	pr	ENSG00000166340:TPP1
+vacuole organization	pr	ENSG00000171298:GAA
+vacuole organization	pr	ENSG00000112210:RAB23
+vacuole organization	pr	ENSG00000149357:LAMTOR1
+vacuole organization	pr	ENSG00000134575:ACP2
+cell adhesion mediated by integrin	pr	ENSG00000168615:ADAM9
+cell adhesion mediated by integrin	pr	ENSG00000150093:ITGB1
+cell adhesion mediated by integrin	pr	ENSG00000091409:ITGA6
+cell adhesion mediated by integrin	pr	ENSG00000161638:ITGA5
+cell adhesion mediated by integrin	pr	ENSG00000164171:ITGA2
+cell adhesion mediated by integrin	pr	ENSG00000090339:ICAM1
+metal cluster binding	pr	ENSG00000100412:ACO2
+metal cluster binding	pr	ENSG00000023228:NDUFS1
+metal cluster binding	pr	ENSG00000158864:NDUFS2
+metal cluster binding	pr	ENSG00000122873:CISD1
+metal cluster binding	pr	ENSG00000149273:RPS3
+metal cluster binding	pr	ENSG00000117118:SDHB
+metal cluster binding	pr	ENSG00000178127:NDUFV2
+metal cluster binding	pr	ENSG00000171503:ETFDH
+metal cluster binding	pr	ENSG00000169021:UQCRFS1
+metal cluster binding	pr	ENSG00000167792:NDUFV1
+response to alcohol	pr	ENSG00000011052:NME2
+response to alcohol	pr	ENSG00000130707:ASS1
+response to alcohol	pr	ENSG00000049239:H6PD
+response to alcohol	pr	ENSG00000168610:STAT3
+response to alcohol	pr	ENSG00000181019:NQO1
+response to alcohol	pr	ENSG00000100427:MLC1
+response to alcohol	pr	ENSG00000083720:OXCT1
+response to alcohol	pr	ENSG00000135046:ANXA1
+response to alcohol	pr	ENSG00000183044:ABAT
+response to alcohol	pr	ENSG00000044115:CTNNA1
+response to alcohol	pr	ENSG00000167468:GPX4
+response to alcohol	pr	ENSG00000150093:ITGB1
+response to alcohol	pr	ENSG00000069535:MAOB
+response to alcohol	pr	ENSG00000090339:ICAM1
+response to alcohol	pr	ENSG00000162551:ALPL
+response to alcohol	pr	ENSG00000104067:TJP1
+response to alcohol	pr	ENSG00000108821:COL1A1
+response to alcohol	pr	ENSG00000113721:PDGFRB
+response to alcohol	pr	ENSG00000113140:SPARC
+response to alcohol	pr	ENSG00000004468:CD38
+response to alcohol	pr	ENSG00000041982:TNC
+response to alcohol	pr	ENSG00000170458:CD14
+transforming growth factor beta binding	pr	ENSG00000138448:ITGAV
+transforming growth factor beta binding	pr	ENSG00000106991:ENG
+transforming growth factor beta binding	pr	ENSG00000156535:CD109
+transforming growth factor beta binding	pr	ENSG00000168140:VASN
+response to drug	pr	ENSG00000138796:HADH
+response to drug	pr	ENSG00000011052:NME2
+response to drug	pr	ENSG00000105409:ATP1A3
+response to drug	pr	ENSG00000130707:ASS1
+response to drug	pr	ENSG00000168610:STAT3
+response to drug	pr	ENSG00000100097:LGALS1
+response to drug	pr	ENSG00000196586:MYO6
+response to drug	pr	ENSG00000141458:NPC1
+response to drug	pr	ENSG00000162433:AK4
+response to drug	pr	ENSG00000130414:NDUFA10
+response to drug	pr	ENSG00000106991:ENG
+response to drug	pr	ENSG00000198805:PNP
+response to drug	pr	ENSG00000084754:HADHA
+response to drug	pr	ENSG00000083720:OXCT1
+response to drug	pr	ENSG00000079215:SLC1A3
+response to drug	pr	ENSG00000135046:ANXA1
+response to drug	pr	ENSG00000183044:ABAT
+response to drug	pr	ENSG00000005884:ITGA3
+response to drug	pr	ENSG00000125257:ABCC4
+response to drug	pr	ENSG00000150093:ITGB1
+response to drug	pr	ENSG00000121769:FABP3
+response to drug	pr	ENSG00000163399:ATP1A1
+response to drug	pr	ENSG00000069535:MAOB
+response to drug	pr	ENSG00000164171:ITGA2
+response to drug	pr	ENSG00000110436:SLC1A2
+response to drug	pr	ENSG00000090339:ICAM1
+response to drug	pr	ENSG00000189058:APOD
+response to drug	pr	ENSG00000104067:TJP1
+response to drug	pr	ENSG00000108821:COL1A1
+response to drug	pr	ENSG00000169021:UQCRFS1
+response to drug	pr	ENSG00000004468:CD38
+response to drug	pr	ENSG00000173267:SNCG
+response to drug	pr	ENSG00000087460:GNAS
+response to drug	pr	ENSG00000165168:CYBB
+phospholipase inhibitor activity	pr	ENSG00000164111:ANXA5
+phospholipase inhibitor activity	pr	ENSG00000135046:ANXA1
+phospholipase inhibitor activity	pr	ENSG00000196975:ANXA4
+phospholipase inhibitor activity	pr	ENSG00000182718:ANXA2
+neuromuscular process controlling posture	pr	ENSG00000108797:CNTNAP1
+neuromuscular process controlling posture	pr	ENSG00000167371:PRRT2
+neuromuscular process controlling posture	pr	ENSG00000171298:GAA
+response to nutrient	pr	ENSG00000130707:ASS1
+response to nutrient	pr	ENSG00000114353:GNAI2
+response to nutrient	pr	ENSG00000181019:NQO1
+response to nutrient	pr	ENSG00000131143:COX4I1
+response to nutrient	pr	ENSG00000198793:MTOR
+response to nutrient	pr	ENSG00000083720:OXCT1
+response to nutrient	pr	ENSG00000150093:ITGB1
+response to nutrient	pr	ENSG00000171766:GATM
+response to nutrient	pr	ENSG00000164171:ITGA2
+response to nutrient	pr	ENSG00000162551:ALPL
+response to nutrient	pr	ENSG00000121691:CAT
+response to nutrient	pr	ENSG00000108821:COL1A1
+response to nutrient	pr	ENSG00000113140:SPARC
+response to nutrient	pr	ENSG00000041982:TNC
+response to nutrient	pr	ENSG00000165168:CYBB
+response to nutrient	pr	ENSG00000143420:ENSA
+response to nutrient	pr	ENSG00000196139:AKR1C3
+nucleobase-containing compound transmembrane transporter activity	pr	ENSG00000169100:SLC25A6
+nucleobase-containing compound transmembrane transporter activity	pr	ENSG00000085491:SLC25A24
+nucleobase-containing compound transmembrane transporter activity	pr	ENSG00000005022:SLC25A5
+nucleobase-containing compound transmembrane transporter activity	pr	ENSG00000151729:SLC25A4
+small ribosomal subunit	pr	ENSG00000105193:RPS16
+small ribosomal subunit	pr	ENSG00000171863:RPS7
+small ribosomal subunit	pr	ENSG00000198034:RPS4X
+small ribosomal subunit	pr	ENSG00000231500:RPS18
+small ribosomal subunit	pr	ENSG00000149273:RPS3
+small ribosomal subunit	pr	ENSG00000140988:RPS2
+small ribosomal subunit	pr	ENSG00000137154:RPS6
+small ribosomal subunit	pr	ENSG00000105372:RPS19
+small ribosomal subunit	pr	ENSG00000182774:RPS17
+small ribosomal subunit	pr	ENSG00000168028:RPSA
+small ribosomal subunit	pr	ENSG00000145425:RPS3A
+small ribosomal subunit	pr	ENSG00000142534:RPS11
+small ribosomal subunit	pr	ENSG00000215301:DDX3X
+protein heterotrimerization	pr	ENSG00000142173:COL6A2
+protein heterotrimerization	pr	ENSG00000142156:COL6A1
+protein heterotrimerization	pr	ENSG00000108821:COL1A1
+lysosome	pr	ENSG00000130707:ASS1
+lysosome	pr	ENSG00000131238:PPT1
+lysosome	pr	ENSG00000141458:NPC1
+lysosome	pr	ENSG00000204287:HLA-DRA
+lysosome	pr	ENSG00000152661:GJA1
+lysosome	pr	ENSG00000137509:PRCP
+lysosome	pr	ENSG00000100427:MLC1
+lysosome	pr	ENSG00000198793:MTOR
+lysosome	pr	ENSG00000120053:GOT1
+lysosome	pr	ENSG00000092531:SNAP23
+lysosome	pr	ENSG00000135046:ANXA1
+lysosome	pr	ENSG00000104763:ASAH1
+lysosome	pr	ENSG00000110013:SIAE
+lysosome	pr	ENSG00000166340:TPP1
+lysosome	pr	ENSG00000171298:GAA
+lysosome	pr	ENSG00000138760:SCARB2
+lysosome	pr	ENSG00000117984:CTSD
+lysosome	pr	ENSG00000117592:PRDX6
+lysosome	pr	ENSG00000149357:LAMTOR1
+lysosome	pr	ENSG00000176978:DPP7
+lysosome	pr	ENSG00000134575:ACP2
+lysosome	pr	ENSG00000103811:CTSH
+lysosome	pr	ENSG00000185896:LAMP1
+lysosome	pr	ENSG00000005893:LAMP2
+lysosome	pr	ENSG00000121691:CAT
+monosaccharide biosynthetic process	pr	ENSG00000173599:PC
+monosaccharide biosynthetic process	pr	ENSG00000111674:ENO2
+monosaccharide biosynthetic process	pr	ENSG00000149925:ALDOA
+monosaccharide biosynthetic process	pr	ENSG00000130988:RGN
+monosaccharide biosynthetic process	pr	ENSG00000120053:GOT1
+monosaccharide biosynthetic process	pr	ENSG00000140263:SORD
+monosaccharide biosynthetic process	pr	ENSG00000100075:SLC25A1
+monosaccharide biosynthetic process	pr	ENSG00000079739:PGM1
+monosaccharide biosynthetic process	pr	ENSG00000074800:ENO1
+monosaccharide biosynthetic process	pr	ENSG00000142657:PGD
+monosaccharide biosynthetic process	pr	ENSG00000115159:GPD2
+monosaccharide biosynthetic process	pr	ENSG00000014641:MDH1
+monosaccharide biosynthetic process	pr	ENSG00000109107:ALDOC
+monosaccharide biosynthetic process	pr	ENSG00000111669:TPI1
+monosaccharide biosynthetic process	pr	ENSG00000167588:GPD1
+monosaccharide biosynthetic process	pr	ENSG00000115840:SLC25A12
+monosaccharide biosynthetic process	pr	ENSG00000108528:SLC25A11
+monosaccharide biosynthetic process	pr	ENSG00000164708:PGAM2
+monosaccharide biosynthetic process	pr	ENSG00000163931:TKT
+response to increased oxygen levels	pr	ENSG00000105974:CAV1
+response to increased oxygen levels	pr	ENSG00000121691:CAT
+response to increased oxygen levels	pr	ENSG00000108821:COL1A1
+response to increased oxygen levels	pr	ENSG00000113721:PDGFRB
+lymphocyte activation involved in immune response	pr	ENSG00000100097:LGALS1
+lymphocyte activation involved in immune response	pr	ENSG00000137154:RPS6
+lymphocyte activation involved in immune response	pr	ENSG00000144381:HSPD1
+lymphocyte activation involved in immune response	pr	ENSG00000090339:ICAM1
+protein tetramerization	pr	ENSG00000149925:ALDOA
+protein tetramerization	pr	ENSG00000112294:ALDH5A1
+protein tetramerization	pr	ENSG00000105372:RPS19
+protein tetramerization	pr	ENSG00000182718:ANXA2
+protein tetramerization	pr	ENSG00000196126:HLA-DRB1
+protein tetramerization	pr	ENSG00000109107:ALDOC
+protein tetramerization	pr	ENSG00000169738:DCXR
+protein tetramerization	pr	ENSG00000121691:CAT
+protein tetramerization	pr	ENSG00000104325:DECR1
+regulation of endothelial cell proliferation	pr	ENSG00000249915:PDCD6
+regulation of endothelial cell proliferation	pr	ENSG00000117525:F3
+regulation of endothelial cell proliferation	pr	ENSG00000152661:GJA1
+regulation of endothelial cell proliferation	pr	ENSG00000106991:ENG
+regulation of endothelial cell proliferation	pr	ENSG00000198793:MTOR
+regulation of endothelial cell proliferation	pr	ENSG00000164022:AIMP1
+regulation of endothelial cell proliferation	pr	ENSG00000140945:CDH13
+regulation of endothelial cell proliferation	pr	ENSG00000105974:CAV1
+oxidative phosphorylation	pr	ENSG00000004455:AK2
+oxidative phosphorylation	pr	ENSG00000156467:UQCRB
+oxidative phosphorylation	pr	ENSG00000010256:UQCRC1
+oxidative phosphorylation	pr	ENSG00000140740:UQCRC2
+organic anion transmembrane transporter activity	pr	ENSG00000169100:SLC25A6
+organic anion transmembrane transporter activity	pr	ENSG00000168003:SLC3A2
+organic anion transmembrane transporter activity	pr	ENSG00000085491:SLC25A24
+organic anion transmembrane transporter activity	pr	ENSG00000151012:SLC7A11
+organic anion transmembrane transporter activity	pr	ENSG00000079215:SLC1A3
+organic anion transmembrane transporter activity	pr	ENSG00000100075:SLC25A1
+organic anion transmembrane transporter activity	pr	ENSG00000144040:SFXN5
+organic anion transmembrane transporter activity	pr	ENSG00000004939:SLC4A1
+organic anion transmembrane transporter activity	pr	ENSG00000103257:SLC7A5
+organic anion transmembrane transporter activity	pr	ENSG00000110436:SLC1A2
+organic anion transmembrane transporter activity	pr	ENSG00000115840:SLC25A12
+organic anion transmembrane transporter activity	pr	ENSG00000108528:SLC25A11
+organic anion transmembrane transporter activity	pr	ENSG00000155380:SLC16A1
+oxidoreductase activity	pr	ENSG00000138413:IDH1
+oxidoreductase activity	pr	ENSG00000138796:HADH
+oxidoreductase activity	pr	ENSG00000138029:HADHB
+oxidoreductase activity	pr	ENSG00000168291:PDHB
+oxidoreductase activity	pr	ENSG00000049239:H6PD
+oxidoreductase activity	pr	ENSG00000023228:NDUFS1
+oxidoreductase activity	pr	ENSG00000147684:NDUFB9
+oxidoreductase activity	pr	ENSG00000091164:TXNL1
+oxidoreductase activity	pr	ENSG00000181019:NQO1
+oxidoreductase activity	pr	ENSG00000053371:AKR7A2
+oxidoreductase activity	pr	ENSG00000189221:MAOA
+oxidoreductase activity	pr	ENSG00000165475:CRYL1
+oxidoreductase activity	pr	ENSG00000126267:COX6B1
+oxidoreductase activity	pr	ENSG00000130414:NDUFA10
+oxidoreductase activity	pr	ENSG00000106049:HIBADH
+oxidoreductase activity	pr	ENSG00000131143:COX4I1
+oxidoreductase activity	pr	ENSG00000038274:MAT2B
+oxidoreductase activity	pr	ENSG00000087842:PIR
+oxidoreductase activity	pr	ENSG00000112294:ALDH5A1
+oxidoreductase activity	pr	ENSG00000084754:HADHA
+oxidoreductase activity	pr	ENSG00000112992:NNT
+oxidoreductase activity	pr	ENSG00000197894:ADH5
+oxidoreductase activity	pr	ENSG00000117054:ACADM
+oxidoreductase activity	pr	ENSG00000117450:PRDX1
+oxidoreductase activity	pr	ENSG00000182054:IDH2
+oxidoreductase activity	pr	ENSG00000140263:SORD
+oxidoreductase activity	pr	ENSG00000178741:COX5A
+oxidoreductase activity	pr	ENSG00000158864:NDUFS2
+oxidoreductase activity	pr	ENSG00000140043:PTGR2
+oxidoreductase activity	pr	ENSG00000073578:SDHA
+oxidoreductase activity	pr	ENSG00000072778:ACADVL
+oxidoreductase activity	pr	ENSG00000137198:GMPR
+oxidoreductase activity	pr	ENSG00000166411:IDH3A
+oxidoreductase activity	pr	ENSG00000134333:LDHA
+oxidoreductase activity	pr	ENSG00000016391:CHDH
+oxidoreductase activity	pr	ENSG00000168653:NDUFS5
+oxidoreductase activity	pr	ENSG00000010327:STAB1
+oxidoreductase activity	pr	ENSG00000171903:CYP4F11
+oxidoreductase activity	pr	ENSG00000167468:GPX4
+oxidoreductase activity	pr	ENSG00000125257:ABCC4
+oxidoreductase activity	pr	ENSG00000091140:DLD
+oxidoreductase activity	pr	ENSG00000117118:SDHB
+oxidoreductase activity	pr	ENSG00000117592:PRDX6
+oxidoreductase activity	pr	ENSG00000148334:PTGES2
+oxidoreductase activity	pr	ENSG00000131828:PDHA1
+oxidoreductase activity	pr	ENSG00000178127:NDUFV2
+oxidoreductase activity	pr	ENSG00000140990:NDUFB10
+oxidoreductase activity	pr	ENSG00000072506:HSD17B10
+oxidoreductase activity	pr	ENSG00000142657:PGD
+oxidoreductase activity	pr	ENSG00000119421:NDUFA8
+oxidoreductase activity	pr	ENSG00000140374:ETFA
+oxidoreductase activity	pr	ENSG00000010256:UQCRC1
+oxidoreductase activity	pr	ENSG00000143653:SCCPDH
+oxidoreductase activity	pr	ENSG00000186010:NDUFA13
+oxidoreductase activity	pr	ENSG00000131471:AOC3
+oxidoreductase activity	pr	ENSG00000069535:MAOB
+oxidoreductase activity	pr	ENSG00000159228:CBR1
+oxidoreductase activity	pr	ENSG00000115159:GPD2
+oxidoreductase activity	pr	ENSG00000171503:ETFDH
+oxidoreductase activity	pr	ENSG00000014641:MDH1
+oxidoreductase activity	pr	ENSG00000165672:PRDX3
+oxidoreductase activity	pr	ENSG00000047457:CP
+oxidoreductase activity	pr	ENSG00000119471:HSDL2
+oxidoreductase activity	pr	ENSG00000169738:DCXR
+oxidoreductase activity	pr	ENSG00000213619:NDUFS3
+oxidoreductase activity	pr	ENSG00000167588:GPD1
+oxidoreductase activity	pr	ENSG00000121691:CAT
+oxidoreductase activity	pr	ENSG00000100033:PRODH
+oxidoreductase activity	pr	ENSG00000156709:AIFM1
+oxidoreductase activity	pr	ENSG00000159348:CYB5R1
+oxidoreductase activity	pr	ENSG00000119711:ALDH6A1
+oxidoreductase activity	pr	ENSG00000108828:VAT1
+oxidoreductase activity	pr	ENSG00000135940:COX5B
+oxidoreductase activity	pr	ENSG00000169021:UQCRFS1
+oxidoreductase activity	pr	ENSG00000104687:GSR
+oxidoreductase activity	pr	ENSG00000145494:NDUFS6
+oxidoreductase activity	pr	ENSG00000060971:ACAA1
+oxidoreductase activity	pr	ENSG00000101365:IDH3B
+oxidoreductase activity	pr	ENSG00000143149:ALDH9A1
+oxidoreductase activity	pr	ENSG00000079931:MOXD1
+oxidoreductase activity	pr	ENSG00000167792:NDUFV1
+oxidoreductase activity	pr	ENSG00000131495:NDUFA2
+oxidoreductase activity	pr	ENSG00000104325:DECR1
+oxidoreductase activity	pr	ENSG00000139180:NDUFA9
+oxidoreductase activity	pr	ENSG00000165168:CYBB
+oxidoreductase activity	pr	ENSG00000163931:TKT
+oxidoreductase activity	pr	ENSG00000105953:OGDH
+oxidoreductase activity	pr	ENSG00000082212:ME2
+oxidoreductase activity	pr	ENSG00000196139:AKR1C3
+oxidoreductase activity	pr	ENSG00000161533:ACOX1
+oxidoreductase activity	pr	ENSG00000128609:NDUFA5
+oxidoreductase activity	pr	ENSG00000116096:SPR
+cation binding	pr	ENSG00000138413:IDH1
+cation binding	pr	ENSG00000011052:NME2
+cation binding	pr	ENSG00000152583:SPARCL1
+cation binding	pr	ENSG00000158270:COLEC12
+cation binding	pr	ENSG00000173599:PC
+cation binding	pr	ENSG00000111674:ENO2
+cation binding	pr	ENSG00000100412:ACO2
+cation binding	pr	ENSG00000178802:MPI
+cation binding	pr	ENSG00000123384:LRP1
+cation binding	pr	ENSG00000105409:ATP1A3
+cation binding	pr	ENSG00000198931:APRT
+cation binding	pr	ENSG00000249915:PDCD6
+cation binding	pr	ENSG00000103876:FAH
+cation binding	pr	ENSG00000023228:NDUFS1
+cation binding	pr	ENSG00000168610:STAT3
+cation binding	pr	ENSG00000168615:ADAM9
+cation binding	pr	ENSG00000161714:PLCD3
+cation binding	pr	ENSG00000114353:GNAI2
+cation binding	pr	ENSG00000145293:ENOPH1
+cation binding	pr	ENSG00000117115:PADI2
+cation binding	pr	ENSG00000164111:ANXA5
+cation binding	pr	ENSG00000140678:ITGAX
+cation binding	pr	ENSG00000077942:FBLN1
+cation binding	pr	ENSG00000171867:PRNP
+cation binding	pr	ENSG00000075239:ACAT1
+cation binding	pr	ENSG00000175198:PCCA
+cation binding	pr	ENSG00000185722:ANKFY1
+cation binding	pr	ENSG00000138448:ITGAV
+cation binding	pr	ENSG00000168003:SLC3A2
+cation binding	pr	ENSG00000130988:RGN
+cation binding	pr	ENSG00000085491:SLC25A24
+cation binding	pr	ENSG00000065135:GNAI3
+cation binding	pr	ENSG00000184207:PGP
+cation binding	pr	ENSG00000087842:PIR
+cation binding	pr	ENSG00000115380:EFEMP1
+cation binding	pr	ENSG00000197894:ADH5
+cation binding	pr	ENSG00000155252:PI4K2A
+cation binding	pr	ENSG00000117298:ECE1
+cation binding	pr	ENSG00000140945:CDH13
+cation binding	pr	ENSG00000115042:FAHD2A
+cation binding	pr	ENSG00000135821:GLUL
+cation binding	pr	ENSG00000182054:IDH2
+cation binding	pr	ENSG00000140263:SORD
+cation binding	pr	ENSG00000169756:LIMS1
+cation binding	pr	ENSG00000024422:EHD2
+cation binding	pr	ENSG00000178741:COX5A
+cation binding	pr	ENSG00000135046:ANXA1
+cation binding	pr	ENSG00000196975:ANXA4
+cation binding	pr	ENSG00000158864:NDUFS2
+cation binding	pr	ENSG00000122873:CISD1
+cation binding	pr	ENSG00000140043:PTGR2
+cation binding	pr	ENSG00000176393:RNPEP
+cation binding	pr	ENSG00000006747:SCIN
+cation binding	pr	ENSG00000079739:PGM1
+cation binding	pr	ENSG00000114698:PLSCR4
+cation binding	pr	ENSG00000163754:GYG1
+cation binding	pr	ENSG00000137198:GMPR
+cation binding	pr	ENSG00000172009:THOP1
+cation binding	pr	ENSG00000187091:PLCD1
+cation binding	pr	ENSG00000166340:TPP1
+cation binding	pr	ENSG00000166411:IDH3A
+cation binding	pr	ENSG00000113441:LNPEP
+cation binding	pr	ENSG00000143126:CELSR2
+cation binding	pr	ENSG00000124491:F13A1
+cation binding	pr	ENSG00000002549:LAP3
+cation binding	pr	ENSG00000022267:FHL1
+cation binding	pr	ENSG00000005884:ITGA3
+cation binding	pr	ENSG00000010327:STAB1
+cation binding	pr	ENSG00000001561:ENPP4
+cation binding	pr	ENSG00000171903:CYP4F11
+cation binding	pr	ENSG00000150093:ITGB1
+cation binding	pr	ENSG00000074800:ENO1
+cation binding	pr	ENSG00000087086:FTL
+cation binding	pr	ENSG00000198836:OPA1
+cation binding	pr	ENSG00000135318:NT5E
+cation binding	pr	ENSG00000159176:CSRP1
+cation binding	pr	ENSG00000143933:CALM2
+cation binding	pr	ENSG00000117118:SDHB
+cation binding	pr	ENSG00000166147:FBN1
+cation binding	pr	ENSG00000163399:ATP1A1
+cation binding	pr	ENSG00000163191:S100A11
+cation binding	pr	ENSG00000136205:TNS3
+cation binding	pr	ENSG00000178127:NDUFV2
+cation binding	pr	ENSG00000182718:ANXA2
+cation binding	pr	ENSG00000141279:NPEPPS
+cation binding	pr	ENSG00000164307:ERAP1
+cation binding	pr	ENSG00000013375:PGM3
+cation binding	pr	ENSG00000243989:ACY1
+cation binding	pr	ENSG00000091409:ITGA6
+cation binding	pr	ENSG00000169604:ANTXR1
+cation binding	pr	ENSG00000010256:UQCRC1
+cation binding	pr	ENSG00000126247:CAPNS1
+cation binding	pr	ENSG00000131471:AOC3
+cation binding	pr	ENSG00000071242:RPS6KA2
+cation binding	pr	ENSG00000105519:CAPS
+cation binding	pr	ENSG00000161638:ITGA5
+cation binding	pr	ENSG00000135424:ITGA7
+cation binding	pr	ENSG00000215440:NPEPL1
+cation binding	pr	ENSG00000164171:ITGA2
+cation binding	pr	ENSG00000115159:GPD2
+cation binding	pr	ENSG00000171503:ETFDH
+cation binding	pr	ENSG00000047457:CP
+cation binding	pr	ENSG00000162551:ALPL
+cation binding	pr	ENSG00000179091:CYC1
+cation binding	pr	ENSG00000180817:PPA1
+cation binding	pr	ENSG00000121691:CAT
+cation binding	pr	ENSG00000116918:TSNAX
+cation binding	pr	ENSG00000076685:NT5C2
+cation binding	pr	ENSG00000076554:TPD52
+cation binding	pr	ENSG00000154930:ACSS1
+cation binding	pr	ENSG00000108828:VAT1
+cation binding	pr	ENSG00000135940:COX5B
+cation binding	pr	ENSG00000108821:COL1A1
+cation binding	pr	ENSG00000169021:UQCRFS1
+cation binding	pr	ENSG00000113140:SPARC
+cation binding	pr	ENSG00000160255:ITGB2
+cation binding	pr	ENSG00000172115:CYCS
+cation binding	pr	ENSG00000171723:GPHN
+cation binding	pr	ENSG00000115840:SLC25A12
+cation binding	pr	ENSG00000170558:CDH2
+cation binding	pr	ENSG00000101365:IDH3B
+cation binding	pr	ENSG00000169896:ITGAM
+cation binding	pr	ENSG00000162909:CAPN2
+cation binding	pr	ENSG00000079931:MOXD1
+cation binding	pr	ENSG00000167792:NDUFV1
+cation binding	pr	ENSG00000173402:DAG1
+cation binding	pr	ENSG00000123992:DNPEP
+cation binding	pr	ENSG00000087460:GNAS
+cation binding	pr	ENSG00000142634:EFHD2
+cation binding	pr	ENSG00000165168:CYBB
+cation binding	pr	ENSG00000163931:TKT
+cation binding	pr	ENSG00000163110:PDLIM5
+cation binding	pr	ENSG00000105953:OGDH
+cation binding	pr	ENSG00000082212:ME2
+cation binding	pr	ENSG00000140740:UQCRC2
+cation binding	pr	ENSG00000063854:HAGH
+cation binding	pr	ENSG00000115365:LANCL1
+cation binding	pr	ENSG00000148218:ALAD
+cation binding	pr	ENSG00000163032:VSNL1
+cation binding	pr	ENSG00000109472:CPE
+ATP biosynthetic process	pr	ENSG00000149925:ALDOA
+ATP biosynthetic process	pr	ENSG00000105409:ATP1A3
+ATP biosynthetic process	pr	ENSG00000165283:STOML2
+ATP biosynthetic process	pr	ENSG00000163399:ATP1A1
+regulation of interferon-gamma production	pr	ENSG00000171867:PRNP
+regulation of interferon-gamma production	pr	ENSG00000108561:C1QBP
+regulation of interferon-gamma production	pr	ENSG00000144381:HSPD1
+regulation of interferon-gamma production	pr	ENSG00000196126:HLA-DRB1
+response to acid chemical	pr	ENSG00000011052:NME2
+response to acid chemical	pr	ENSG00000130707:ASS1
+response to acid chemical	pr	ENSG00000198793:MTOR
+response to acid chemical	pr	ENSG00000121769:FABP3
+response to acid chemical	pr	ENSG00000149357:LAMTOR1
+response to acid chemical	pr	ENSG00000182718:ANXA2
+response to acid chemical	pr	ENSG00000142156:COL6A1
+response to acid chemical	pr	ENSG00000103811:CTSH
+response to acid chemical	pr	ENSG00000164171:ITGA2
+response to acid chemical	pr	ENSG00000110436:SLC1A2
+response to acid chemical	pr	ENSG00000090339:ICAM1
+response to acid chemical	pr	ENSG00000108821:COL1A1
+response to acid chemical	pr	ENSG00000113721:PDGFRB
+response to acid chemical	pr	ENSG00000113140:SPARC
+response to acid chemical	pr	ENSG00000004468:CD38
+response to acid chemical	pr	ENSG00000162909:CAPN2
+response to acid chemical	pr	ENSG00000041982:TNC
+response to acid chemical	pr	ENSG00000173267:SNCG
+response to acid chemical	pr	ENSG00000087460:GNAS
+response to acid chemical	pr	ENSG00000196139:AKR1C3
+peptide antigen binding	pr	ENSG00000204287:HLA-DRA
+peptide antigen binding	pr	ENSG00000234745:HLA-B
+peptide antigen binding	pr	ENSG00000206503:HLA-A
+peptide antigen binding	pr	ENSG00000103257:SLC7A5
+peptide antigen binding	pr	ENSG00000196126:HLA-DRB1
+motile cilium	pr	ENSG00000004455:AK2
+motile cilium	pr	ENSG00000106992:AK1
+motile cilium	pr	ENSG00000140263:SORD
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	pr	ENSG00000234745:HLA-B
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	pr	ENSG00000113441:LNPEP
+antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-independent	pr	ENSG00000206503:HLA-A
+nucleoside transport	pr	ENSG00000169100:SLC25A6
+nucleoside transport	pr	ENSG00000152661:GJA1
+nucleoside transport	pr	ENSG00000085491:SLC25A24
+extracellular matrix binding	pr	ENSG00000182492:BGN
+extracellular matrix binding	pr	ENSG00000131981:LGALS3
+extracellular matrix binding	pr	ENSG00000100097:LGALS1
+extracellular matrix binding	pr	ENSG00000168615:ADAM9
+extracellular matrix binding	pr	ENSG00000005884:ITGA3
+extracellular matrix binding	pr	ENSG00000150093:ITGB1
+extracellular matrix binding	pr	ENSG00000091409:ITGA6
+extracellular matrix binding	pr	ENSG00000135424:ITGA7
+extracellular matrix binding	pr	ENSG00000164171:ITGA2
+extracellular matrix binding	pr	ENSG00000168028:RPSA
+extracellular matrix binding	pr	ENSG00000187244:BCAM
+extracellular matrix binding	pr	ENSG00000113140:SPARC
+extracellular matrix binding	pr	ENSG00000173402:DAG1
+organic acid transmembrane transporter activity	pr	ENSG00000168003:SLC3A2
+organic acid transmembrane transporter activity	pr	ENSG00000151012:SLC7A11
+organic acid transmembrane transporter activity	pr	ENSG00000079215:SLC1A3
+organic acid transmembrane transporter activity	pr	ENSG00000100075:SLC25A1
+organic acid transmembrane transporter activity	pr	ENSG00000144040:SFXN5
+organic acid transmembrane transporter activity	pr	ENSG00000103257:SLC7A5
+organic acid transmembrane transporter activity	pr	ENSG00000110436:SLC1A2
+organic acid transmembrane transporter activity	pr	ENSG00000115840:SLC25A12
+organic acid transmembrane transporter activity	pr	ENSG00000108528:SLC25A11
+organic acid transmembrane transporter activity	pr	ENSG00000155380:SLC16A1
+intrinsic component of membrane	pr	ENSG00000137312:FLOT1
+intrinsic component of membrane	pr	ENSG00000143603:KCNN3
+intrinsic component of membrane	pr	ENSG00000109501:WFS1
+intrinsic component of membrane	pr	ENSG00000148053:NTRK2
+intrinsic component of membrane	pr	ENSG00000170385:SLC30A1
+intrinsic component of membrane	pr	ENSG00000158270:COLEC12
+intrinsic component of membrane	pr	ENSG00000141469:SLC14A1
+intrinsic component of membrane	pr	ENSG00000123384:LRP1
+intrinsic component of membrane	pr	ENSG00000169100:SLC25A6
+intrinsic component of membrane	pr	ENSG00000105409:ATP1A3
+intrinsic component of membrane	pr	ENSG00000168615:ADAM9
+intrinsic component of membrane	pr	ENSG00000244038:DDOST
+intrinsic component of membrane	pr	ENSG00000171867:PRNP
+intrinsic component of membrane	pr	ENSG00000141458:NPC1
+intrinsic component of membrane	pr	ENSG00000117525:F3
+intrinsic component of membrane	pr	ENSG00000141338:ABCA8
+intrinsic component of membrane	pr	ENSG00000204287:HLA-DRA
+intrinsic component of membrane	pr	ENSG00000189221:MAOA
+intrinsic component of membrane	pr	ENSG00000107819:SFXN3
+intrinsic component of membrane	pr	ENSG00000054179:ENTPD2
+intrinsic component of membrane	pr	ENSG00000165478:HEPACAM
+intrinsic component of membrane	pr	ENSG00000152661:GJA1
+intrinsic component of membrane	pr	ENSG00000138119:MYOF
+intrinsic component of membrane	pr	ENSG00000138448:ITGAV
+intrinsic component of membrane	pr	ENSG00000168003:SLC3A2
+intrinsic component of membrane	pr	ENSG00000147255:IGSF1
+intrinsic component of membrane	pr	ENSG00000085491:SLC25A24
+intrinsic component of membrane	pr	ENSG00000100427:MLC1
+intrinsic component of membrane	pr	ENSG00000154096:THY1
+intrinsic component of membrane	pr	ENSG00000026508:CD44
+intrinsic component of membrane	pr	ENSG00000234745:HLA-B
+intrinsic component of membrane	pr	ENSG00000112992:NNT
+intrinsic component of membrane	pr	ENSG00000120594:PLXDC2
+intrinsic component of membrane	pr	ENSG00000151012:SLC7A11
+intrinsic component of membrane	pr	ENSG00000155252:PI4K2A
+intrinsic component of membrane	pr	ENSG00000117298:ECE1
+intrinsic component of membrane	pr	ENSG00000156535:CD109
+intrinsic component of membrane	pr	ENSG00000109743:BST1
+intrinsic component of membrane	pr	ENSG00000140945:CDH13
+intrinsic component of membrane	pr	ENSG00000164530:PI16
+intrinsic component of membrane	pr	ENSG00000079215:SLC1A3
+intrinsic component of membrane	pr	ENSG00000105974:CAV1
+intrinsic component of membrane	pr	ENSG00000008952:SEC62
+intrinsic component of membrane	pr	ENSG00000108797:CNTNAP1
+intrinsic component of membrane	pr	ENSG00000167371:PRRT2
+intrinsic component of membrane	pr	ENSG00000100075:SLC25A1
+intrinsic component of membrane	pr	ENSG00000122873:CISD1
+intrinsic component of membrane	pr	ENSG00000069424:KCNAB2
+intrinsic component of membrane	pr	ENSG00000105695:MAG
+intrinsic component of membrane	pr	ENSG00000260314:MRC1
+intrinsic component of membrane	pr	ENSG00000114698:PLSCR4
+intrinsic component of membrane	pr	ENSG00000144040:SFXN5
+intrinsic component of membrane	pr	ENSG00000148482:SLC39A12
+intrinsic component of membrane	pr	ENSG00000113441:LNPEP
+intrinsic component of membrane	pr	ENSG00000143126:CELSR2
+intrinsic component of membrane	pr	ENSG00000005884:ITGA3
+intrinsic component of membrane	pr	ENSG00000010327:STAB1
+intrinsic component of membrane	pr	ENSG00000001561:ENPP4
+intrinsic component of membrane	pr	ENSG00000171903:CYP4F11
+intrinsic component of membrane	pr	ENSG00000125257:ABCC4
+intrinsic component of membrane	pr	ENSG00000109919:MTCH2
+intrinsic component of membrane	pr	ENSG00000138760:SCARB2
+intrinsic component of membrane	pr	ENSG00000100347:SAMM50
+intrinsic component of membrane	pr	ENSG00000154721:JAM2
+intrinsic component of membrane	pr	ENSG00000198836:OPA1
+intrinsic component of membrane	pr	ENSG00000135318:NT5E
+intrinsic component of membrane	pr	ENSG00000163399:ATP1A1
+intrinsic component of membrane	pr	ENSG00000004939:SLC4A1
+intrinsic component of membrane	pr	ENSG00000148334:PTGES2
+intrinsic component of membrane	pr	ENSG00000163406:SLC15A2
+intrinsic component of membrane	pr	ENSG00000075415:SLC25A3
+intrinsic component of membrane	pr	ENSG00000164307:ERAP1
+intrinsic component of membrane	pr	ENSG00000171877:FRMD5
+intrinsic component of membrane	pr	ENSG00000113719:ERGIC1
+intrinsic component of membrane	pr	ENSG00000134575:ACP2
+intrinsic component of membrane	pr	ENSG00000169604:ANTXR1
+intrinsic component of membrane	pr	ENSG00000165457:FOLR2
+intrinsic component of membrane	pr	ENSG00000134243:SORT1
+intrinsic component of membrane	pr	ENSG00000186010:NDUFA13
+intrinsic component of membrane	pr	ENSG00000206503:HLA-A
+intrinsic component of membrane	pr	ENSG00000099998:GGT5
+intrinsic component of membrane	pr	ENSG00000131471:AOC3
+intrinsic component of membrane	pr	ENSG00000184985:SORCS2
+intrinsic component of membrane	pr	ENSG00000138185:ENTPD1
+intrinsic component of membrane	pr	ENSG00000170017:ALCAM
+intrinsic component of membrane	pr	ENSG00000069535:MAOB
+intrinsic component of membrane	pr	ENSG00000185896:LAMP1
+intrinsic component of membrane	pr	ENSG00000076356:PLXNA2
+intrinsic component of membrane	pr	ENSG00000103257:SLC7A5
+intrinsic component of membrane	pr	ENSG00000005022:SLC25A5
+intrinsic component of membrane	pr	ENSG00000182667:NTM
+intrinsic component of membrane	pr	ENSG00000164171:ITGA2
+intrinsic component of membrane	pr	ENSG00000196126:HLA-DRB1
+intrinsic component of membrane	pr	ENSG00000171503:ETFDH
+intrinsic component of membrane	pr	ENSG00000110436:SLC1A2
+intrinsic component of membrane	pr	ENSG00000152291:TGOLN2
+intrinsic component of membrane	pr	ENSG00000090339:ICAM1
+intrinsic component of membrane	pr	ENSG00000005893:LAMP2
+intrinsic component of membrane	pr	ENSG00000142583:SLC2A5
+intrinsic component of membrane	pr	ENSG00000162551:ALPL
+intrinsic component of membrane	pr	ENSG00000168140:VASN
+intrinsic component of membrane	pr	ENSG00000187244:BCAM
+intrinsic component of membrane	pr	ENSG00000179091:CYC1
+intrinsic component of membrane	pr	ENSG00000100031:GGT1
+intrinsic component of membrane	pr	ENSG00000159348:CYB5R1
+intrinsic component of membrane	pr	ENSG00000185565:LSAMP
+intrinsic component of membrane	pr	ENSG00000108828:VAT1
+intrinsic component of membrane	pr	ENSG00000113721:PDGFRB
+intrinsic component of membrane	pr	ENSG00000099994:SUSD2
+intrinsic component of membrane	pr	ENSG00000164466:SFXN1
+intrinsic component of membrane	pr	ENSG00000004468:CD38
+intrinsic component of membrane	pr	ENSG00000173905:GOLIM4
+intrinsic component of membrane	pr	ENSG00000172270:BSG
+intrinsic component of membrane	pr	ENSG00000115840:SLC25A12
+intrinsic component of membrane	pr	ENSG00000170558:CDH2
+intrinsic component of membrane	pr	ENSG00000169896:ITGAM
+intrinsic component of membrane	pr	ENSG00000148468:FAM171A1
+intrinsic component of membrane	pr	ENSG00000079931:MOXD1
+intrinsic component of membrane	pr	ENSG00000173402:DAG1
+intrinsic component of membrane	pr	ENSG00000108528:SLC25A11
+intrinsic component of membrane	pr	ENSG00000087460:GNAS
+intrinsic component of membrane	pr	ENSG00000178537:SLC25A20
+intrinsic component of membrane	pr	ENSG00000165168:CYBB
+intrinsic component of membrane	pr	ENSG00000132470:ITGB4
+intrinsic component of membrane	pr	ENSG00000132305:IMMT
+intrinsic component of membrane	pr	ENSG00000182902:SLC25A18
+intrinsic component of membrane	pr	ENSG00000155380:SLC16A1
+intrinsic component of membrane	pr	ENSG00000145864:GABRB2
+intrinsic component of membrane	pr	ENSG00000162736:NCSTN
+intrinsic component of membrane	pr	ENSG00000170458:CD14
+intrinsic component of membrane	pr	ENSG00000151729:SLC25A4
+intrinsic component of membrane	pr	ENSG00000129353:SLC44A2
+single-organism developmental process	pr	ENSG00000137312:FLOT1
+single-organism developmental process	pr	ENSG00000138413:IDH1
+single-organism developmental process	pr	ENSG00000109501:WFS1
+single-organism developmental process	pr	ENSG00000148053:NTRK2
+single-organism developmental process	pr	ENSG00000011052:NME2
+single-organism developmental process	pr	ENSG00000170385:SLC30A1
+single-organism developmental process	pr	ENSG00000099889:ARVCF
+single-organism developmental process	pr	ENSG00000082781:ITGB5
+single-organism developmental process	pr	ENSG00000079462:PAFAH1B3
+single-organism developmental process	pr	ENSG00000100554:ATP6V1D
+single-organism developmental process	pr	ENSG00000123384:LRP1
+single-organism developmental process	pr	ENSG00000143772:ITPKB
+single-organism developmental process	pr	ENSG00000130702:LAMA5
+single-organism developmental process	pr	ENSG00000130707:ASS1
+single-organism developmental process	pr	ENSG00000249915:PDCD6
+single-organism developmental process	pr	ENSG00000131238:PPT1
+single-organism developmental process	pr	ENSG00000131981:LGALS3
+single-organism developmental process	pr	ENSG00000168610:STAT3
+single-organism developmental process	pr	ENSG00000100097:LGALS1
+single-organism developmental process	pr	ENSG00000168615:ADAM9
+single-organism developmental process	pr	ENSG00000161714:PLCD3
+single-organism developmental process	pr	ENSG00000114450:GNB4
+single-organism developmental process	pr	ENSG00000196586:MYO6
+single-organism developmental process	pr	ENSG00000117115:PADI2
+single-organism developmental process	pr	ENSG00000140678:ITGAX
+single-organism developmental process	pr	ENSG00000004455:AK2
+single-organism developmental process	pr	ENSG00000162433:AK4
+single-organism developmental process	pr	ENSG00000213585:VDAC1
+single-organism developmental process	pr	ENSG00000181019:NQO1
+single-organism developmental process	pr	ENSG00000075239:ACAT1
+single-organism developmental process	pr	ENSG00000168092:PAFAH1B2
+single-organism developmental process	pr	ENSG00000152661:GJA1
+single-organism developmental process	pr	ENSG00000138448:ITGAV
+single-organism developmental process	pr	ENSG00000126267:COX6B1
+single-organism developmental process	pr	ENSG00000171533:MAP6
+single-organism developmental process	pr	ENSG00000167658:EEF2
+single-organism developmental process	pr	ENSG00000196924:FLNA
+single-organism developmental process	pr	ENSG00000106991:ENG
+single-organism developmental process	pr	ENSG00000153187:HNRNPU
+single-organism developmental process	pr	ENSG00000137509:PRCP
+single-organism developmental process	pr	ENSG00000154096:THY1
+single-organism developmental process	pr	ENSG00000026508:CD44
+single-organism developmental process	pr	ENSG00000030582:GRN
+single-organism developmental process	pr	ENSG00000087842:PIR
+single-organism developmental process	pr	ENSG00000112294:ALDH5A1
+single-organism developmental process	pr	ENSG00000198034:RPS4X
+single-organism developmental process	pr	ENSG00000117519:CNN3
+single-organism developmental process	pr	ENSG00000120594:PLXDC2
+single-organism developmental process	pr	ENSG00000133818:RRAS2
+single-organism developmental process	pr	ENSG00000149591:TAGLN
+single-organism developmental process	pr	ENSG00000151012:SLC7A11
+single-organism developmental process	pr	ENSG00000198793:MTOR
+single-organism developmental process	pr	ENSG00000197894:ADH5
+single-organism developmental process	pr	ENSG00000117298:ECE1
+single-organism developmental process	pr	ENSG00000117054:ACADM
+single-organism developmental process	pr	ENSG00000158710:TAGLN2
+single-organism developmental process	pr	ENSG00000109743:BST1
+single-organism developmental process	pr	ENSG00000164022:AIMP1
+single-organism developmental process	pr	ENSG00000136448:NMT1
+single-organism developmental process	pr	ENSG00000197702:PARVA
+single-organism developmental process	pr	ENSG00000111348:ARHGDIB
+single-organism developmental process	pr	ENSG00000137710:RDX
+single-organism developmental process	pr	ENSG00000140945:CDH13
+single-organism developmental process	pr	ENSG00000083720:OXCT1
+single-organism developmental process	pr	ENSG00000079215:SLC1A3
+single-organism developmental process	pr	ENSG00000105974:CAV1
+single-organism developmental process	pr	ENSG00000140545:MFGE8
+single-organism developmental process	pr	ENSG00000169756:LIMS1
+single-organism developmental process	pr	ENSG00000136717:BIN1
+single-organism developmental process	pr	ENSG00000108797:CNTNAP1
+single-organism developmental process	pr	ENSG00000115541:HSPE1
+single-organism developmental process	pr	ENSG00000135046:ANXA1
+single-organism developmental process	pr	ENSG00000166333:ILK
+single-organism developmental process	pr	ENSG00000196975:ANXA4
+single-organism developmental process	pr	ENSG00000177301:KCNA2
+single-organism developmental process	pr	ENSG00000069424:KCNAB2
+single-organism developmental process	pr	ENSG00000105695:MAG
+single-organism developmental process	pr	ENSG00000147065:MSN
+single-organism developmental process	pr	ENSG00000104763:ASAH1
+single-organism developmental process	pr	ENSG00000134202:GSTM3
+single-organism developmental process	pr	ENSG00000155368:DBI
+single-organism developmental process	pr	ENSG00000127314:RAP1B
+single-organism developmental process	pr	ENSG00000163359:COL6A3
+single-organism developmental process	pr	ENSG00000044115:CTNNA1
+single-organism developmental process	pr	ENSG00000072778:ACADVL
+single-organism developmental process	pr	ENSG00000187091:PLCD1
+single-organism developmental process	pr	ENSG00000166340:TPP1
+single-organism developmental process	pr	ENSG00000134333:LDHA
+single-organism developmental process	pr	ENSG00000172380:GNG12
+single-organism developmental process	pr	ENSG00000143126:CELSR2
+single-organism developmental process	pr	ENSG00000116161:CACYBP
+single-organism developmental process	pr	ENSG00000022267:FHL1
+single-organism developmental process	pr	ENSG00000171298:GAA
+single-organism developmental process	pr	ENSG00000005884:ITGA3
+single-organism developmental process	pr	ENSG00000167468:GPX4
+single-organism developmental process	pr	ENSG00000091140:DLD
+single-organism developmental process	pr	ENSG00000150093:ITGB1
+single-organism developmental process	pr	ENSG00000112210:RAB23
+single-organism developmental process	pr	ENSG00000146122:DAAM2
+single-organism developmental process	pr	ENSG00000113657:DPYSL3
+single-organism developmental process	pr	ENSG00000198836:OPA1
+single-organism developmental process	pr	ENSG00000170606:HSPA4
+single-organism developmental process	pr	ENSG00000143933:CALM2
+single-organism developmental process	pr	ENSG00000166147:FBN1
+single-organism developmental process	pr	ENSG00000136205:TNS3
+single-organism developmental process	pr	ENSG00000137154:RPS6
+single-organism developmental process	pr	ENSG00000113013:HSPA9
+single-organism developmental process	pr	ENSG00000186868:MAPT
+single-organism developmental process	pr	ENSG00000105372:RPS19
+single-organism developmental process	pr	ENSG00000092820:EZR
+single-organism developmental process	pr	ENSG00000182718:ANXA2
+single-organism developmental process	pr	ENSG00000164307:ERAP1
+single-organism developmental process	pr	ENSG00000013375:PGM3
+single-organism developmental process	pr	ENSG00000106028:SSBP1
+single-organism developmental process	pr	ENSG00000166426:CRABP1
+single-organism developmental process	pr	ENSG00000091409:ITGA6
+single-organism developmental process	pr	ENSG00000169604:ANTXR1
+single-organism developmental process	pr	ENSG00000131095:GFAP
+single-organism developmental process	pr	ENSG00000120885:CLU
+single-organism developmental process	pr	ENSG00000142156:COL6A1
+single-organism developmental process	pr	ENSG00000134243:SORT1
+single-organism developmental process	pr	ENSG00000103811:CTSH
+single-organism developmental process	pr	ENSG00000148660:CAMK2G
+single-organism developmental process	pr	ENSG00000071242:RPS6KA2
+single-organism developmental process	pr	ENSG00000069535:MAOB
+single-organism developmental process	pr	ENSG00000159228:CBR1
+single-organism developmental process	pr	ENSG00000171766:GATM
+single-organism developmental process	pr	ENSG00000076356:PLXNA2
+single-organism developmental process	pr	ENSG00000103257:SLC7A5
+single-organism developmental process	pr	ENSG00000161638:ITGA5
+single-organism developmental process	pr	ENSG00000135424:ITGA7
+single-organism developmental process	pr	ENSG00000164171:ITGA2
+single-organism developmental process	pr	ENSG00000140022:STON2
+single-organism developmental process	pr	ENSG00000115159:GPD2
+single-organism developmental process	pr	ENSG00000197157:SND1
+single-organism developmental process	pr	ENSG00000110436:SLC1A2
+single-organism developmental process	pr	ENSG00000165672:PRDX3
+single-organism developmental process	pr	ENSG00000073712:FERMT2
+single-organism developmental process	pr	ENSG00000090339:ICAM1
+single-organism developmental process	pr	ENSG00000215021:PHB2
+single-organism developmental process	pr	ENSG00000162551:ALPL
+single-organism developmental process	pr	ENSG00000189058:APOD
+single-organism developmental process	pr	ENSG00000109107:ALDOC
+single-organism developmental process	pr	ENSG00000088832:FKBP1A
+single-organism developmental process	pr	ENSG00000111669:TPI1
+single-organism developmental process	pr	ENSG00000213619:NDUFS3
+single-organism developmental process	pr	ENSG00000121691:CAT
+single-organism developmental process	pr	ENSG00000104067:TJP1
+single-organism developmental process	pr	ENSG00000156709:AIFM1
+single-organism developmental process	pr	ENSG00000116918:TSNAX
+single-organism developmental process	pr	ENSG00000076554:TPD52
+single-organism developmental process	pr	ENSG00000119711:ALDH6A1
+single-organism developmental process	pr	ENSG00000145425:RPS3A
+single-organism developmental process	pr	ENSG00000108821:COL1A1
+single-organism developmental process	pr	ENSG00000169862:CTNND2
+single-organism developmental process	pr	ENSG00000113721:PDGFRB
+single-organism developmental process	pr	ENSG00000113140:SPARC
+single-organism developmental process	pr	ENSG00000128311:TST
+single-organism developmental process	pr	ENSG00000160255:ITGB2
+single-organism developmental process	pr	ENSG00000035403:VCL
+single-organism developmental process	pr	ENSG00000164466:SFXN1
+single-organism developmental process	pr	ENSG00000145494:NDUFS6
+single-organism developmental process	pr	ENSG00000172270:BSG
+single-organism developmental process	pr	ENSG00000170558:CDH2
+single-organism developmental process	pr	ENSG00000112769:LAMA4
+single-organism developmental process	pr	ENSG00000169896:ITGAM
+single-organism developmental process	pr	ENSG00000162909:CAPN2
+single-organism developmental process	pr	ENSG00000143149:ALDH9A1
+single-organism developmental process	pr	ENSG00000041982:TNC
+single-organism developmental process	pr	ENSG00000131711:MAP1B
+single-organism developmental process	pr	ENSG00000173402:DAG1
+single-organism developmental process	pr	ENSG00000273749:CYFIP1
+single-organism developmental process	pr	ENSG00000087460:GNAS
+single-organism developmental process	pr	ENSG00000109971:HSPA8
+single-organism developmental process	pr	ENSG00000142534:RPS11
+single-organism developmental process	pr	ENSG00000154380:ENAH
+single-organism developmental process	pr	ENSG00000078018:MAP2
+single-organism developmental process	pr	ENSG00000132470:ITGB4
+single-organism developmental process	pr	ENSG00000105953:OGDH
+single-organism developmental process	pr	ENSG00000150540:HNMT
+single-organism developmental process	pr	ENSG00000145864:GABRB2
+single-organism developmental process	pr	ENSG00000196139:AKR1C3
+single-organism developmental process	pr	ENSG00000116096:SPR
+single-organism developmental process	pr	ENSG00000180957:PITPNB
+single-organism developmental process	pr	ENSG00000109472:CPE
+single-organism developmental process	pr	ENSG00000115091:ACTR3
+extracellular organelle	pr	ENSG00000137312:FLOT1
+extracellular organelle	pr	ENSG00000106554:CHCHD3
+extracellular organelle	pr	ENSG00000138413:IDH1
+extracellular organelle	pr	ENSG00000138029:HADHB
+extracellular organelle	pr	ENSG00000158290:CUL4B
+extracellular organelle	pr	ENSG00000011052:NME2
+extracellular organelle	pr	ENSG00000137076:TLN1
+extracellular organelle	pr	ENSG00000152583:SPARCL1
+extracellular organelle	pr	ENSG00000182492:BGN
+extracellular organelle	pr	ENSG00000164687:FABP5
+extracellular organelle	pr	ENSG00000158270:COLEC12
+extracellular organelle	pr	ENSG00000111674:ENO2
+extracellular organelle	pr	ENSG00000082781:ITGB5
+extracellular organelle	pr	ENSG00000168291:PDHB
+extracellular organelle	pr	ENSG00000178802:MPI
+extracellular organelle	pr	ENSG00000079462:PAFAH1B3
+extracellular organelle	pr	ENSG00000100554:ATP6V1D
+extracellular organelle	pr	ENSG00000142173:COL6A2
+extracellular organelle	pr	ENSG00000149925:ALDOA
+extracellular organelle	pr	ENSG00000100380:ST13
+extracellular organelle	pr	ENSG00000084623:EIF3I
+extracellular organelle	pr	ENSG00000130702:LAMA5
+extracellular organelle	pr	ENSG00000130707:ASS1
+extracellular organelle	pr	ENSG00000198931:APRT
+extracellular organelle	pr	ENSG00000249915:PDCD6
+extracellular organelle	pr	ENSG00000103876:FAH
+extracellular organelle	pr	ENSG00000147684:NDUFB9
+extracellular organelle	pr	ENSG00000131238:PPT1
+extracellular organelle	pr	ENSG00000136888:ATP6V1G1
+extracellular organelle	pr	ENSG00000131981:LGALS3
+extracellular organelle	pr	ENSG00000100097:LGALS1
+extracellular organelle	pr	ENSG00000105193:RPS16
+extracellular organelle	pr	ENSG00000114353:GNAI2
+extracellular organelle	pr	ENSG00000196586:MYO6
+extracellular organelle	pr	ENSG00000145293:ENOPH1
+extracellular organelle	pr	ENSG00000117115:PADI2
+extracellular organelle	pr	ENSG00000164111:ANXA5
+extracellular organelle	pr	ENSG00000077942:FBLN1
+extracellular organelle	pr	ENSG00000128309:MPST
+extracellular organelle	pr	ENSG00000171867:PRNP
+extracellular organelle	pr	ENSG00000171863:RPS7
+extracellular organelle	pr	ENSG00000141458:NPC1
+extracellular organelle	pr	ENSG00000117525:F3
+extracellular organelle	pr	ENSG00000091164:TXNL1
+extracellular organelle	pr	ENSG00000004455:AK2
+extracellular organelle	pr	ENSG00000162433:AK4
+extracellular organelle	pr	ENSG00000213585:VDAC1
+extracellular organelle	pr	ENSG00000204287:HLA-DRA
+extracellular organelle	pr	ENSG00000181019:NQO1
+extracellular organelle	pr	ENSG00000053371:AKR7A2
+extracellular organelle	pr	ENSG00000143153:ATP1B1
+extracellular organelle	pr	ENSG00000119689:DLST
+extracellular organelle	pr	ENSG00000075239:ACAT1
+extracellular organelle	pr	ENSG00000168092:PAFAH1B2
+extracellular organelle	pr	ENSG00000185722:ANKFY1
+extracellular organelle	pr	ENSG00000152661:GJA1
+extracellular organelle	pr	ENSG00000165475:CRYL1
+extracellular organelle	pr	ENSG00000138119:MYOF
+extracellular organelle	pr	ENSG00000138448:ITGAV
+extracellular organelle	pr	ENSG00000198898:CAPZA2
+extracellular organelle	pr	ENSG00000168003:SLC3A2
+extracellular organelle	pr	ENSG00000106992:AK1
+extracellular organelle	pr	ENSG00000131143:COX4I1
+extracellular organelle	pr	ENSG00000167658:EEF2
+extracellular organelle	pr	ENSG00000196924:FLNA
+extracellular organelle	pr	ENSG00000085719:CPNE3
+extracellular organelle	pr	ENSG00000137509:PRCP
+extracellular organelle	pr	ENSG00000154096:THY1
+extracellular organelle	pr	ENSG00000026508:CD44
+extracellular organelle	pr	ENSG00000065135:GNAI3
+extracellular organelle	pr	ENSG00000030582:GRN
+extracellular organelle	pr	ENSG00000198805:PNP
+extracellular organelle	pr	ENSG00000198034:RPS4X
+extracellular organelle	pr	ENSG00000115380:EFEMP1
+extracellular organelle	pr	ENSG00000234745:HLA-B
+extracellular organelle	pr	ENSG00000120594:PLXDC2
+extracellular organelle	pr	ENSG00000133818:RRAS2
+extracellular organelle	pr	ENSG00000114779:ABHD14B
+extracellular organelle	pr	ENSG00000197894:ADH5
+extracellular organelle	pr	ENSG00000117298:ECE1
+extracellular organelle	pr	ENSG00000117054:ACADM
+extracellular organelle	pr	ENSG00000158710:TAGLN2
+extracellular organelle	pr	ENSG00000109743:BST1
+extracellular organelle	pr	ENSG00000117450:PRDX1
+extracellular organelle	pr	ENSG00000120053:GOT1
+extracellular organelle	pr	ENSG00000111348:ARHGDIB
+extracellular organelle	pr	ENSG00000137710:RDX
+extracellular organelle	pr	ENSG00000140945:CDH13
+extracellular organelle	pr	ENSG00000164530:PI16
+extracellular organelle	pr	ENSG00000092531:SNAP23
+extracellular organelle	pr	ENSG00000213366:GSTM2
+extracellular organelle	pr	ENSG00000231500:RPS18
+extracellular organelle	pr	ENSG00000135821:GLUL
+extracellular organelle	pr	ENSG00000122406:RPL5
+extracellular organelle	pr	ENSG00000140545:MFGE8
+extracellular organelle	pr	ENSG00000140263:SORD
+extracellular organelle	pr	ENSG00000093144:ECHDC1
+extracellular organelle	pr	ENSG00000068383:INPP5A
+extracellular organelle	pr	ENSG00000024422:EHD2
+extracellular organelle	pr	ENSG00000178741:COX5A
+extracellular organelle	pr	ENSG00000100075:SLC25A1
+extracellular organelle	pr	ENSG00000115541:HSPE1
+extracellular organelle	pr	ENSG00000135046:ANXA1
+extracellular organelle	pr	ENSG00000196975:ANXA4
+extracellular organelle	pr	ENSG00000183044:ABAT
+extracellular organelle	pr	ENSG00000122873:CISD1
+extracellular organelle	pr	ENSG00000140043:PTGR2
+extracellular organelle	pr	ENSG00000176393:RNPEP
+extracellular organelle	pr	ENSG00000006747:SCIN
+extracellular organelle	pr	ENSG00000147065:MSN
+extracellular organelle	pr	ENSG00000079739:PGM1
+extracellular organelle	pr	ENSG00000104763:ASAH1
+extracellular organelle	pr	ENSG00000114698:PLSCR4
+extracellular organelle	pr	ENSG00000163754:GYG1
+extracellular organelle	pr	ENSG00000134202:GSTM3
+extracellular organelle	pr	ENSG00000164062:APEH
+extracellular organelle	pr	ENSG00000155368:DBI
+extracellular organelle	pr	ENSG00000127314:RAP1B
+extracellular organelle	pr	ENSG00000165912:PACSIN3
+extracellular organelle	pr	ENSG00000163359:COL6A3
+extracellular organelle	pr	ENSG00000175130:MARCKSL1
+extracellular organelle	pr	ENSG00000187091:PLCD1
+extracellular organelle	pr	ENSG00000110013:SIAE
+extracellular organelle	pr	ENSG00000166340:TPP1
+extracellular organelle	pr	ENSG00000108479:GALK1
+extracellular organelle	pr	ENSG00000156508:EEF1A1
+extracellular organelle	pr	ENSG00000134333:LDHA
+extracellular organelle	pr	ENSG00000172380:GNG12
+extracellular organelle	pr	ENSG00000149273:RPS3
+extracellular organelle	pr	ENSG00000116161:CACYBP
+extracellular organelle	pr	ENSG00000002549:LAP3
+extracellular organelle	pr	ENSG00000171298:GAA
+extracellular organelle	pr	ENSG00000005884:ITGA3
+extracellular organelle	pr	ENSG00000078668:VDAC3
+extracellular organelle	pr	ENSG00000001561:ENPP4
+extracellular organelle	pr	ENSG00000167315:ACAA2
+extracellular organelle	pr	ENSG00000167468:GPX4
+extracellular organelle	pr	ENSG00000109919:MTCH2
+extracellular organelle	pr	ENSG00000006625:GGCT
+extracellular organelle	pr	ENSG00000138760:SCARB2
+extracellular organelle	pr	ENSG00000150093:ITGB1
+extracellular organelle	pr	ENSG00000074800:ENO1
+extracellular organelle	pr	ENSG00000112210:RAB23
+extracellular organelle	pr	ENSG00000100347:SAMM50
+extracellular organelle	pr	ENSG00000087086:FTL
+extracellular organelle	pr	ENSG00000135318:NT5E
+extracellular organelle	pr	ENSG00000121769:FABP3
+extracellular organelle	pr	ENSG00000170606:HSPA4
+extracellular organelle	pr	ENSG00000159176:CSRP1
+extracellular organelle	pr	ENSG00000143933:CALM2
+extracellular organelle	pr	ENSG00000117118:SDHB
+extracellular organelle	pr	ENSG00000197958:RPL12
+extracellular organelle	pr	ENSG00000177889:UBE2N
+extracellular organelle	pr	ENSG00000117984:CTSD
+extracellular organelle	pr	ENSG00000166147:FBN1
+extracellular organelle	pr	ENSG00000163399:ATP1A1
+extracellular organelle	pr	ENSG00000117592:PRDX6
+extracellular organelle	pr	ENSG00000163191:S100A11
+extracellular organelle	pr	ENSG00000004939:SLC4A1
+extracellular organelle	pr	ENSG00000140988:RPS2
+extracellular organelle	pr	ENSG00000178952:TUFM
+extracellular organelle	pr	ENSG00000149357:LAMTOR1
+extracellular organelle	pr	ENSG00000176978:DPP7
+extracellular organelle	pr	ENSG00000163406:SLC15A2
+extracellular organelle	pr	ENSG00000167986:DDB1
+extracellular organelle	pr	ENSG00000113013:HSPA9
+extracellular organelle	pr	ENSG00000105372:RPS19
+extracellular organelle	pr	ENSG00000092820:EZR
+extracellular organelle	pr	ENSG00000182718:ANXA2
+extracellular organelle	pr	ENSG00000141279:NPEPPS
+extracellular organelle	pr	ENSG00000075415:SLC25A3
+extracellular organelle	pr	ENSG00000164307:ERAP1
+extracellular organelle	pr	ENSG00000198130:HIBCH
+extracellular organelle	pr	ENSG00000140990:NDUFB10
+extracellular organelle	pr	ENSG00000243989:ACY1
+extracellular organelle	pr	ENSG00000106028:SSBP1
+extracellular organelle	pr	ENSG00000142657:PGD
+extracellular organelle	pr	ENSG00000134575:ACP2
+extracellular organelle	pr	ENSG00000168118:RAB4A
+extracellular organelle	pr	ENSG00000144381:HSPD1
+extracellular organelle	pr	ENSG00000089220:PEBP1
+extracellular organelle	pr	ENSG00000140374:ETFA
+extracellular organelle	pr	ENSG00000254772:EEF1G
+extracellular organelle	pr	ENSG00000169604:ANTXR1
+extracellular organelle	pr	ENSG00000120885:CLU
+extracellular organelle	pr	ENSG00000182774:RPS17
+extracellular organelle	pr	ENSG00000142156:COL6A1
+extracellular organelle	pr	ENSG00000126247:CAPNS1
+extracellular organelle	pr	ENSG00000186010:NDUFA13
+extracellular organelle	pr	ENSG00000206503:HLA-A
+extracellular organelle	pr	ENSG00000213719:CLIC1
+extracellular organelle	pr	ENSG00000085733:CTTN
+extracellular organelle	pr	ENSG00000103811:CTSH
+extracellular organelle	pr	ENSG00000159713:TPPP3
+extracellular organelle	pr	ENSG00000062485:CS
+extracellular organelle	pr	ENSG00000138185:ENTPD1
+extracellular organelle	pr	ENSG00000105519:CAPS
+extracellular organelle	pr	ENSG00000170017:ALCAM
+extracellular organelle	pr	ENSG00000069535:MAOB
+extracellular organelle	pr	ENSG00000185896:LAMP1
+extracellular organelle	pr	ENSG00000159228:CBR1
+extracellular organelle	pr	ENSG00000174238:PITPNA
+extracellular organelle	pr	ENSG00000171766:GATM
+extracellular organelle	pr	ENSG00000103257:SLC7A5
+extracellular organelle	pr	ENSG00000078140:UBE2K
+extracellular organelle	pr	ENSG00000005022:SLC25A5
+extracellular organelle	pr	ENSG00000223572:CKMT1A
+extracellular organelle	pr	ENSG00000196126:HLA-DRB1
+extracellular organelle	pr	ENSG00000197157:SND1
+extracellular organelle	pr	ENSG00000136044:APPL2
+extracellular organelle	pr	ENSG00000014641:MDH1
+extracellular organelle	pr	ENSG00000127884:ECHS1
+extracellular organelle	pr	ENSG00000165672:PRDX3
+extracellular organelle	pr	ENSG00000047457:CP
+extracellular organelle	pr	ENSG00000069849:ATP1B3
+extracellular organelle	pr	ENSG00000177119:ANO6
+extracellular organelle	pr	ENSG00000124942:AHNAK
+extracellular organelle	pr	ENSG00000149260:CAPN5
+extracellular organelle	pr	ENSG00000090339:ICAM1
+extracellular organelle	pr	ENSG00000005893:LAMP2
+extracellular organelle	pr	ENSG00000215021:PHB2
+extracellular organelle	pr	ENSG00000142583:SLC2A5
+extracellular organelle	pr	ENSG00000162551:ALPL
+extracellular organelle	pr	ENSG00000168028:RPSA
+extracellular organelle	pr	ENSG00000168140:VASN
+extracellular organelle	pr	ENSG00000102032:RENBP
+extracellular organelle	pr	ENSG00000187244:BCAM
+extracellular organelle	pr	ENSG00000189058:APOD
+extracellular organelle	pr	ENSG00000180817:PPA1
+extracellular organelle	pr	ENSG00000109107:ALDOC
+extracellular organelle	pr	ENSG00000169738:DCXR
+extracellular organelle	pr	ENSG00000088832:FKBP1A
+extracellular organelle	pr	ENSG00000111669:TPI1
+extracellular organelle	pr	ENSG00000167588:GPD1
+extracellular organelle	pr	ENSG00000121691:CAT
+extracellular organelle	pr	ENSG00000100031:GGT1
+extracellular organelle	pr	ENSG00000169139:UBE2V2
+extracellular organelle	pr	ENSG00000159348:CYB5R1
+extracellular organelle	pr	ENSG00000116171:SCP2
+extracellular organelle	pr	ENSG00000132589:FLOT2
+extracellular organelle	pr	ENSG00000119711:ALDH6A1
+extracellular organelle	pr	ENSG00000145425:RPS3A
+extracellular organelle	pr	ENSG00000164237:CMBL
+extracellular organelle	pr	ENSG00000108828:VAT1
+extracellular organelle	pr	ENSG00000162704:ARPC5
+extracellular organelle	pr	ENSG00000125249:RAP2A
+extracellular organelle	pr	ENSG00000135940:COX5B
+extracellular organelle	pr	ENSG00000042493:CAPG
+extracellular organelle	pr	ENSG00000105185:PDCD5
+extracellular organelle	pr	ENSG00000113721:PDGFRB
+extracellular organelle	pr	ENSG00000104687:GSR
+extracellular organelle	pr	ENSG00000099994:SUSD2
+extracellular organelle	pr	ENSG00000128311:TST
+extracellular organelle	pr	ENSG00000160255:ITGB2
+extracellular organelle	pr	ENSG00000035403:VCL
+extracellular organelle	pr	ENSG00000057608:GDI2
+extracellular organelle	pr	ENSG00000172270:BSG
+extracellular organelle	pr	ENSG00000170558:CDH2
+extracellular organelle	pr	ENSG00000112769:LAMA4
+extracellular organelle	pr	ENSG00000169896:ITGAM
+extracellular organelle	pr	ENSG00000148468:FAM171A1
+extracellular organelle	pr	ENSG00000162909:CAPN2
+extracellular organelle	pr	ENSG00000143149:ALDH9A1
+extracellular organelle	pr	ENSG00000173402:DAG1
+extracellular organelle	pr	ENSG00000273749:CYFIP1
+extracellular organelle	pr	ENSG00000173267:SNCG
+extracellular organelle	pr	ENSG00000087460:GNAS
+extracellular organelle	pr	ENSG00000143727:ACP1
+extracellular organelle	pr	ENSG00000165637:VDAC2
+extracellular organelle	pr	ENSG00000104325:DECR1
+extracellular organelle	pr	ENSG00000109971:HSPA8
+extracellular organelle	pr	ENSG00000142534:RPS11
+extracellular organelle	pr	ENSG00000102547:CAB39L
+extracellular organelle	pr	ENSG00000213722:DDAH2
+extracellular organelle	pr	ENSG00000122694:GLIPR2
+extracellular organelle	pr	ENSG00000163931:TKT
+extracellular organelle	pr	ENSG00000132470:ITGB4
+extracellular organelle	pr	ENSG00000105835:NAMPT
+extracellular organelle	pr	ENSG00000100911:PSME2
+extracellular organelle	pr	ENSG00000150540:HNMT
+extracellular organelle	pr	ENSG00000175334:BANF1
+extracellular organelle	pr	ENSG00000215301:DDX3X
+extracellular organelle	pr	ENSG00000140740:UQCRC2
+extracellular organelle	pr	ENSG00000155380:SLC16A1
+extracellular organelle	pr	ENSG00000063854:HAGH
+extracellular organelle	pr	ENSG00000115365:LANCL1
+extracellular organelle	pr	ENSG00000145864:GABRB2
+extracellular organelle	pr	ENSG00000196139:AKR1C3
+extracellular organelle	pr	ENSG00000162736:NCSTN
+extracellular organelle	pr	ENSG00000148218:ALAD
+extracellular organelle	pr	ENSG00000116096:SPR
+extracellular organelle	pr	ENSG00000170458:CD14
+extracellular organelle	pr	ENSG00000180957:PITPNB
+extracellular organelle	pr	ENSG00000165280:VCP
+extracellular organelle	pr	ENSG00000126458:RRAS
+extracellular organelle	pr	ENSG00000006451:RALA
+extracellular organelle	pr	ENSG00000109472:CPE
+extracellular organelle	pr	ENSG00000115091:ACTR3
+extracellular organelle	pr	ENSG00000129353:SLC44A2
+oxidoreduction coenzyme metabolic process	pr	ENSG00000138413:IDH1
+oxidoreduction coenzyme metabolic process	pr	ENSG00000152620:NADK2
+oxidoreduction coenzyme metabolic process	pr	ENSG00000049239:H6PD
+oxidoreduction coenzyme metabolic process	pr	ENSG00000106049:HIBADH
+oxidoreduction coenzyme metabolic process	pr	ENSG00000198805:PNP
+oxidoreduction coenzyme metabolic process	pr	ENSG00000142657:PGD
+oxidoreduction coenzyme metabolic process	pr	ENSG00000014641:MDH1
+oxidoreduction coenzyme metabolic process	pr	ENSG00000169738:DCXR
+oxidoreduction coenzyme metabolic process	pr	ENSG00000111669:TPI1
+oxidoreduction coenzyme metabolic process	pr	ENSG00000167588:GPD1
+oxidoreduction coenzyme metabolic process	pr	ENSG00000101365:IDH3B
+oxidoreduction coenzyme metabolic process	pr	ENSG00000163931:TKT
+oxidoreduction coenzyme metabolic process	pr	ENSG00000105835:NAMPT
+oxidoreduction coenzyme metabolic process	pr	ENSG00000105953:OGDH
+ribosomal small subunit biogenesis	pr	ENSG00000105193:RPS16
+ribosomal small subunit biogenesis	pr	ENSG00000171863:RPS7
+ribosomal small subunit biogenesis	pr	ENSG00000137154:RPS6
+ribosomal small subunit biogenesis	pr	ENSG00000105372:RPS19
+ribosomal small subunit biogenesis	pr	ENSG00000182774:RPS17
+electron carrier activity	pr	ENSG00000023228:NDUFS1
+electron carrier activity	pr	ENSG00000053371:AKR7A2
+electron carrier activity	pr	ENSG00000126267:COX6B1
+electron carrier activity	pr	ENSG00000131143:COX4I1
+electron carrier activity	pr	ENSG00000197894:ADH5
+electron carrier activity	pr	ENSG00000178741:COX5A
+electron carrier activity	pr	ENSG00000158864:NDUFS2
+electron carrier activity	pr	ENSG00000117118:SDHB
+electron carrier activity	pr	ENSG00000148334:PTGES2
+electron carrier activity	pr	ENSG00000178127:NDUFV2
+electron carrier activity	pr	ENSG00000140374:ETFA
+electron carrier activity	pr	ENSG00000069535:MAOB
+electron carrier activity	pr	ENSG00000171503:ETFDH
+electron carrier activity	pr	ENSG00000179091:CYC1
+electron carrier activity	pr	ENSG00000213619:NDUFS3
+electron carrier activity	pr	ENSG00000156709:AIFM1
+electron carrier activity	pr	ENSG00000135940:COX5B
+electron carrier activity	pr	ENSG00000104687:GSR
+electron carrier activity	pr	ENSG00000172115:CYCS
+electron carrier activity	pr	ENSG00000145494:NDUFS6
+electron carrier activity	pr	ENSG00000101365:IDH3B
+electron carrier activity	pr	ENSG00000165168:CYBB
+electron carrier activity	pr	ENSG00000082212:ME2
+adenylate kinase activity	pr	ENSG00000004455:AK2
+adenylate kinase activity	pr	ENSG00000162433:AK4
+adenylate kinase activity	pr	ENSG00000147853:AK3
+adenylate kinase activity	pr	ENSG00000106992:AK1
+potassium ion transmembrane transporter activity	pr	ENSG00000143603:KCNN3
+potassium ion transmembrane transporter activity	pr	ENSG00000105409:ATP1A3
+potassium ion transmembrane transporter activity	pr	ENSG00000143153:ATP1B1
+potassium ion transmembrane transporter activity	pr	ENSG00000177301:KCNA2
+potassium ion transmembrane transporter activity	pr	ENSG00000069424:KCNAB2
+potassium ion transmembrane transporter activity	pr	ENSG00000163399:ATP1A1
+potassium ion transmembrane transporter activity	pr	ENSG00000069849:ATP1B3
+extracellular structure organization	pr	ENSG00000137312:FLOT1
+extracellular structure organization	pr	ENSG00000182492:BGN
+extracellular structure organization	pr	ENSG00000082781:ITGB5
+extracellular structure organization	pr	ENSG00000142173:COL6A2
+extracellular structure organization	pr	ENSG00000130702:LAMA5
+extracellular structure organization	pr	ENSG00000131981:LGALS3
+extracellular structure organization	pr	ENSG00000168615:ADAM9
+extracellular structure organization	pr	ENSG00000140678:ITGAX
+extracellular structure organization	pr	ENSG00000077942:FBLN1
+extracellular structure organization	pr	ENSG00000138448:ITGAV
+extracellular structure organization	pr	ENSG00000106991:ENG
+extracellular structure organization	pr	ENSG00000026508:CD44
+extracellular structure organization	pr	ENSG00000115380:EFEMP1
+extracellular structure organization	pr	ENSG00000166333:ILK
+extracellular structure organization	pr	ENSG00000163359:COL6A3
+extracellular structure organization	pr	ENSG00000005884:ITGA3
+extracellular structure organization	pr	ENSG00000150093:ITGB1
+extracellular structure organization	pr	ENSG00000154721:JAM2
+extracellular structure organization	pr	ENSG00000117984:CTSD
+extracellular structure organization	pr	ENSG00000166147:FBN1
+extracellular structure organization	pr	ENSG00000182718:ANXA2
+extracellular structure organization	pr	ENSG00000091409:ITGA6
+extracellular structure organization	pr	ENSG00000131095:GFAP
+extracellular structure organization	pr	ENSG00000142156:COL6A1
+extracellular structure organization	pr	ENSG00000126247:CAPNS1
+extracellular structure organization	pr	ENSG00000161638:ITGA5
+extracellular structure organization	pr	ENSG00000135424:ITGA7
+extracellular structure organization	pr	ENSG00000164171:ITGA2
+extracellular structure organization	pr	ENSG00000090339:ICAM1
+extracellular structure organization	pr	ENSG00000088832:FKBP1A
+extracellular structure organization	pr	ENSG00000108821:COL1A1
+extracellular structure organization	pr	ENSG00000113140:SPARC
+extracellular structure organization	pr	ENSG00000160255:ITGB2
+extracellular structure organization	pr	ENSG00000172270:BSG
+extracellular structure organization	pr	ENSG00000112769:LAMA4
+extracellular structure organization	pr	ENSG00000169896:ITGAM
+extracellular structure organization	pr	ENSG00000041982:TNC
+extracellular structure organization	pr	ENSG00000173402:DAG1
+extracellular structure organization	pr	ENSG00000132470:ITGB4
+extracellular structure organization	pr	ENSG00000162736:NCSTN
+response to hormone	pr	ENSG00000138413:IDH1
+response to hormone	pr	ENSG00000138796:HADH
+response to hormone	pr	ENSG00000011052:NME2
+response to hormone	pr	ENSG00000130707:ASS1
+response to hormone	pr	ENSG00000198931:APRT
+response to hormone	pr	ENSG00000168610:STAT3
+response to hormone	pr	ENSG00000168615:ADAM9
+response to hormone	pr	ENSG00000114450:GNB4
+response to hormone	pr	ENSG00000141458:NPC1
+response to hormone	pr	ENSG00000004455:AK2
+response to hormone	pr	ENSG00000181019:NQO1
+response to hormone	pr	ENSG00000075239:ACAT1
+response to hormone	pr	ENSG00000152661:GJA1
+response to hormone	pr	ENSG00000106991:ENG
+response to hormone	pr	ENSG00000084754:HADHA
+response to hormone	pr	ENSG00000198793:MTOR
+response to hormone	pr	ENSG00000120053:GOT1
+response to hormone	pr	ENSG00000083720:OXCT1
+response to hormone	pr	ENSG00000105974:CAV1
+response to hormone	pr	ENSG00000135046:ANXA1
+response to hormone	pr	ENSG00000134202:GSTM3
+response to hormone	pr	ENSG00000044115:CTNNA1
+response to hormone	pr	ENSG00000172380:GNG12
+response to hormone	pr	ENSG00000116161:CACYBP
+response to hormone	pr	ENSG00000005884:ITGA3
+response to hormone	pr	ENSG00000167468:GPX4
+response to hormone	pr	ENSG00000150093:ITGB1
+response to hormone	pr	ENSG00000121769:FABP3
+response to hormone	pr	ENSG00000134243:SORT1
+response to hormone	pr	ENSG00000103811:CTSH
+response to hormone	pr	ENSG00000069535:MAOB
+response to hormone	pr	ENSG00000171766:GATM
+response to hormone	pr	ENSG00000164171:ITGA2
+response to hormone	pr	ENSG00000090339:ICAM1
+response to hormone	pr	ENSG00000162551:ALPL
+response to hormone	pr	ENSG00000179091:CYC1
+response to hormone	pr	ENSG00000103740:ACSBG1
+response to hormone	pr	ENSG00000108821:COL1A1
+response to hormone	pr	ENSG00000169021:UQCRFS1
+response to hormone	pr	ENSG00000113721:PDGFRB
+response to hormone	pr	ENSG00000113140:SPARC
+response to hormone	pr	ENSG00000004468:CD38
+response to hormone	pr	ENSG00000172270:BSG
+response to hormone	pr	ENSG00000041982:TNC
+response to hormone	pr	ENSG00000173402:DAG1
+response to hormone	pr	ENSG00000087460:GNAS
+response to hormone	pr	ENSG00000150540:HNMT
+response to hormone	pr	ENSG00000196139:AKR1C3
+translational elongation	pr	ENSG00000105193:RPS16
+translational elongation	pr	ENSG00000171863:RPS7
+translational elongation	pr	ENSG00000167658:EEF2
+translational elongation	pr	ENSG00000147403:RPL10
+translational elongation	pr	ENSG00000198034:RPS4X
+translational elongation	pr	ENSG00000231500:RPS18
+translational elongation	pr	ENSG00000122406:RPL5
+translational elongation	pr	ENSG00000156508:EEF1A1
+translational elongation	pr	ENSG00000149273:RPS3
+translational elongation	pr	ENSG00000197958:RPL12
+translational elongation	pr	ENSG00000140988:RPS2
+translational elongation	pr	ENSG00000178952:TUFM
+translational elongation	pr	ENSG00000137154:RPS6
+translational elongation	pr	ENSG00000105372:RPS19
+translational elongation	pr	ENSG00000265681:RPL17
+translational elongation	pr	ENSG00000254772:EEF1G
+translational elongation	pr	ENSG00000182774:RPS17
+translational elongation	pr	ENSG00000168028:RPSA
+translational elongation	pr	ENSG00000145425:RPS3A
+translational elongation	pr	ENSG00000142534:RPS11
+cell-substrate junction	pr	ENSG00000137076:TLN1
+cell-substrate junction	pr	ENSG00000082781:ITGB5
+cell-substrate junction	pr	ENSG00000197702:PARVA
+cell-substrate junction	pr	ENSG00000137710:RDX
+cell-substrate junction	pr	ENSG00000169756:LIMS1
+cell-substrate junction	pr	ENSG00000166333:ILK
+cell-substrate junction	pr	ENSG00000147065:MSN
+cell-substrate junction	pr	ENSG00000150093:ITGB1
+cell-substrate junction	pr	ENSG00000136205:TNS3
+cell-substrate junction	pr	ENSG00000092820:EZR
+cell-substrate junction	pr	ENSG00000091409:ITGA6
+cell-substrate junction	pr	ENSG00000161638:ITGA5
+cell-substrate junction	pr	ENSG00000135424:ITGA7
+cell-substrate junction	pr	ENSG00000164171:ITGA2
+cell-substrate junction	pr	ENSG00000073712:FERMT2
+cell-substrate junction	pr	ENSG00000035403:VCL
+cell-substrate junction	pr	ENSG00000112769:LAMA4
+cell-substrate junction	pr	ENSG00000173402:DAG1
+cell-substrate junction	pr	ENSG00000154380:ENAH
+cell-substrate junction	pr	ENSG00000132470:ITGB4
+cell-substrate junction	pr	ENSG00000115091:ACTR3
+microbody lumen	pr	ENSG00000138413:IDH1
+microbody lumen	pr	ENSG00000095321:CRAT
+microbody lumen	pr	ENSG00000117450:PRDX1
+microbody lumen	pr	ENSG00000121691:CAT
+microbody lumen	pr	ENSG00000116171:SCP2
+microbody lumen	pr	ENSG00000060971:ACAA1
+microbody lumen	pr	ENSG00000161533:ACOX1
+ribosomal small subunit assembly	pr	ENSG00000137154:RPS6
+ribosomal small subunit assembly	pr	ENSG00000105372:RPS19
+ribosomal small subunit assembly	pr	ENSG00000182774:RPS17
+ribosomal small subunit assembly	pr	ENSG00000168028:RPSA
+ligase activity, forming carbon-carbon bonds	pr	ENSG00000173599:PC
+ligase activity, forming carbon-carbon bonds	pr	ENSG00000175198:PCCA
+ligase activity, forming carbon-carbon bonds	pr	ENSG00000131844:MCCC2
+cellular respiration	pr	ENSG00000023228:NDUFS1
+cellular respiration	pr	ENSG00000156467:UQCRB
+cellular respiration	pr	ENSG00000117118:SDHB
+cellular respiration	pr	ENSG00000010256:UQCRC1
+cellular respiration	pr	ENSG00000121691:CAT
+cellular respiration	pr	ENSG00000172115:CYCS
+cellular respiration	pr	ENSG00000140740:UQCRC2
+C4-dicarboxylate transport	pr	ENSG00000079215:SLC1A3
+C4-dicarboxylate transport	pr	ENSG00000110436:SLC1A2
+C4-dicarboxylate transport	pr	ENSG00000115840:SLC25A12
+membrane to membrane docking	pr	ENSG00000147065:MSN
+membrane to membrane docking	pr	ENSG00000092820:EZR
+membrane to membrane docking	pr	ENSG00000090339:ICAM1
+regulation of fatty acid metabolic process	pr	ENSG00000168291:PDHB
+regulation of fatty acid metabolic process	pr	ENSG00000198793:MTOR
+regulation of fatty acid metabolic process	pr	ENSG00000105974:CAV1
+regulation of fatty acid metabolic process	pr	ENSG00000135046:ANXA1
+regulation of fatty acid metabolic process	pr	ENSG00000072778:ACADVL
+regulation of fatty acid metabolic process	pr	ENSG00000150768:DLAT
+regulation of fatty acid metabolic process	pr	ENSG00000091140:DLD
+regulation of fatty acid metabolic process	pr	ENSG00000121769:FABP3
+regulation of fatty acid metabolic process	pr	ENSG00000131828:PDHA1
+transferase activity, transferring acyl groups	pr	ENSG00000138029:HADHB
+transferase activity, transferring acyl groups	pr	ENSG00000119689:DLST
+transferase activity, transferring acyl groups	pr	ENSG00000075239:ACAT1
+transferase activity, transferring acyl groups	pr	ENSG00000084754:HADHA
+transferase activity, transferring acyl groups	pr	ENSG00000095321:CRAT
+transferase activity, transferring acyl groups	pr	ENSG00000136448:NMT1
+transferase activity, transferring acyl groups	pr	ENSG00000140263:SORD
+transferase activity, transferring acyl groups	pr	ENSG00000150768:DLAT
+transferase activity, transferring acyl groups	pr	ENSG00000124491:F13A1
+transferase activity, transferring acyl groups	pr	ENSG00000167315:ACAA2
+transferase activity, transferring acyl groups	pr	ENSG00000006625:GGCT
+transferase activity, transferring acyl groups	pr	ENSG00000099998:GGT5
+transferase activity, transferring acyl groups	pr	ENSG00000062485:CS
+transferase activity, transferring acyl groups	pr	ENSG00000100031:GGT1
+transferase activity, transferring acyl groups	pr	ENSG00000116171:SCP2
+transferase activity, transferring acyl groups	pr	ENSG00000108828:VAT1
+transferase activity, transferring acyl groups	pr	ENSG00000060971:ACAA1
+protein complex involved in cell adhesion	pr	ENSG00000082781:ITGB5
+protein complex involved in cell adhesion	pr	ENSG00000140678:ITGAX
+protein complex involved in cell adhesion	pr	ENSG00000138448:ITGAV
+protein complex involved in cell adhesion	pr	ENSG00000005884:ITGA3
+protein complex involved in cell adhesion	pr	ENSG00000150093:ITGB1
+protein complex involved in cell adhesion	pr	ENSG00000091409:ITGA6
+protein complex involved in cell adhesion	pr	ENSG00000161638:ITGA5
+protein complex involved in cell adhesion	pr	ENSG00000135424:ITGA7
+protein complex involved in cell adhesion	pr	ENSG00000164171:ITGA2
+protein complex involved in cell adhesion	pr	ENSG00000160255:ITGB2
+protein complex involved in cell adhesion	pr	ENSG00000169896:ITGAM
+protein complex involved in cell adhesion	pr	ENSG00000132470:ITGB4
+oxidoreductase complex	pr	ENSG00000168291:PDHB
+oxidoreductase complex	pr	ENSG00000023228:NDUFS1
+oxidoreductase complex	pr	ENSG00000147684:NDUFB9
+oxidoreductase complex	pr	ENSG00000119689:DLST
+oxidoreductase complex	pr	ENSG00000130414:NDUFA10
+oxidoreductase complex	pr	ENSG00000158864:NDUFS2
+oxidoreductase complex	pr	ENSG00000073578:SDHA
+oxidoreductase complex	pr	ENSG00000137198:GMPR
+oxidoreductase complex	pr	ENSG00000156467:UQCRB
+oxidoreductase complex	pr	ENSG00000150768:DLAT
+oxidoreductase complex	pr	ENSG00000168653:NDUFS5
+oxidoreductase complex	pr	ENSG00000117118:SDHB
+oxidoreductase complex	pr	ENSG00000131828:PDHA1
+oxidoreductase complex	pr	ENSG00000178127:NDUFV2
+oxidoreductase complex	pr	ENSG00000140990:NDUFB10
+oxidoreductase complex	pr	ENSG00000119421:NDUFA8
+oxidoreductase complex	pr	ENSG00000010256:UQCRC1
+oxidoreductase complex	pr	ENSG00000186010:NDUFA13
+oxidoreductase complex	pr	ENSG00000115159:GPD2
+oxidoreductase complex	pr	ENSG00000213619:NDUFS3
+oxidoreductase complex	pr	ENSG00000167588:GPD1
+oxidoreductase complex	pr	ENSG00000169021:UQCRFS1
+oxidoreductase complex	pr	ENSG00000145494:NDUFS6
+oxidoreductase complex	pr	ENSG00000167792:NDUFV1
+oxidoreductase complex	pr	ENSG00000131495:NDUFA2
+oxidoreductase complex	pr	ENSG00000139180:NDUFA9
+oxidoreductase complex	pr	ENSG00000165168:CYBB
+oxidoreductase complex	pr	ENSG00000105953:OGDH
+oxidoreductase complex	pr	ENSG00000140740:UQCRC2
+oxidoreductase complex	pr	ENSG00000128609:NDUFA5
+single-stranded DNA binding	pr	ENSG00000185129:PURA
+single-stranded DNA binding	pr	ENSG00000011052:NME2
+single-stranded DNA binding	pr	ENSG00000119318:RAD23B
+single-stranded DNA binding	pr	ENSG00000135046:ANXA1
+single-stranded DNA binding	pr	ENSG00000106028:SSBP1
+single-stranded DNA binding	pr	ENSG00000144381:HSPD1
+single-stranded DNA binding	pr	ENSG00000122566:HNRNPA2B1
+mitochondrial transport	pr	ENSG00000169100:SLC25A6
+mitochondrial transport	pr	ENSG00000165283:STOML2
+mitochondrial transport	pr	ENSG00000085491:SLC25A24
+mitochondrial transport	pr	ENSG00000100347:SAMM50
+mitochondrial transport	pr	ENSG00000170606:HSPA4
+mitochondrial transport	pr	ENSG00000113013:HSPA9
+mitochondrial transport	pr	ENSG00000186010:NDUFA13
+mitochondrial transport	pr	ENSG00000128654:MTX2
+mitochondrial transport	pr	ENSG00000167588:GPD1
+mitochondrial transport	pr	ENSG00000128311:TST
+mitochondrial transport	pr	ENSG00000115840:SLC25A12
+mitochondrial transport	pr	ENSG00000178537:SLC25A20
+lipid oxidation	pr	ENSG00000138796:HADH
+lipid oxidation	pr	ENSG00000138029:HADHB
+lipid oxidation	pr	ENSG00000175198:PCCA
+lipid oxidation	pr	ENSG00000084754:HADHA
+lipid oxidation	pr	ENSG00000095321:CRAT
+lipid oxidation	pr	ENSG00000117054:ACADM
+lipid oxidation	pr	ENSG00000072778:ACADVL
+lipid oxidation	pr	ENSG00000171503:ETFDH
+lipid oxidation	pr	ENSG00000127884:ECHS1
+lipid oxidation	pr	ENSG00000116171:SCP2
+lipid oxidation	pr	ENSG00000060971:ACAA1
+lipid oxidation	pr	ENSG00000104325:DECR1
+lipid oxidation	pr	ENSG00000161533:ACOX1
+enoyl-CoA hydratase activity	pr	ENSG00000138029:HADHB
+enoyl-CoA hydratase activity	pr	ENSG00000084754:HADHA
+enoyl-CoA hydratase activity	pr	ENSG00000127884:ECHS1
+voltage-gated anion channel activity	pr	ENSG00000213585:VDAC1
+voltage-gated anion channel activity	pr	ENSG00000078668:VDAC3
+voltage-gated anion channel activity	pr	ENSG00000213719:CLIC1
+voltage-gated anion channel activity	pr	ENSG00000177119:ANO6
+voltage-gated anion channel activity	pr	ENSG00000165637:VDAC2
+mitochondrial part	pr	ENSG00000106554:CHCHD3
+mitochondrial part	pr	ENSG00000138796:HADH
+mitochondrial part	pr	ENSG00000138029:HADHB
+mitochondrial part	pr	ENSG00000173599:PC
+mitochondrial part	pr	ENSG00000100412:ACO2
+mitochondrial part	pr	ENSG00000168291:PDHB
+mitochondrial part	pr	ENSG00000169100:SLC25A6
+mitochondrial part	pr	ENSG00000130707:ASS1
+mitochondrial part	pr	ENSG00000023228:NDUFS1
+mitochondrial part	pr	ENSG00000147684:NDUFB9
+mitochondrial part	pr	ENSG00000131981:LGALS3
+mitochondrial part	pr	ENSG00000168610:STAT3
+mitochondrial part	pr	ENSG00000128309:MPST
+mitochondrial part	pr	ENSG00000141338:ABCA8
+mitochondrial part	pr	ENSG00000004455:AK2
+mitochondrial part	pr	ENSG00000162433:AK4
+mitochondrial part	pr	ENSG00000213585:VDAC1
+mitochondrial part	pr	ENSG00000189221:MAOA
+mitochondrial part	pr	ENSG00000119689:DLST
+mitochondrial part	pr	ENSG00000075239:ACAT1
+mitochondrial part	pr	ENSG00000175198:PCCA
+mitochondrial part	pr	ENSG00000107819:SFXN3
+mitochondrial part	pr	ENSG00000165283:STOML2
+mitochondrial part	pr	ENSG00000147853:AK3
+mitochondrial part	pr	ENSG00000152661:GJA1
+mitochondrial part	pr	ENSG00000126267:COX6B1
+mitochondrial part	pr	ENSG00000130414:NDUFA10
+mitochondrial part	pr	ENSG00000106049:HIBADH
+mitochondrial part	pr	ENSG00000131143:COX4I1
+mitochondrial part	pr	ENSG00000108561:C1QBP
+mitochondrial part	pr	ENSG00000085491:SLC25A24
+mitochondrial part	pr	ENSG00000112294:ALDH5A1
+mitochondrial part	pr	ENSG00000131844:MCCC2
+mitochondrial part	pr	ENSG00000084754:HADHA
+mitochondrial part	pr	ENSG00000095321:CRAT
+mitochondrial part	pr	ENSG00000112992:NNT
+mitochondrial part	pr	ENSG00000198793:MTOR
+mitochondrial part	pr	ENSG00000117054:ACADM
+mitochondrial part	pr	ENSG00000117450:PRDX1
+mitochondrial part	pr	ENSG00000083720:OXCT1
+mitochondrial part	pr	ENSG00000182054:IDH2
+mitochondrial part	pr	ENSG00000140263:SORD
+mitochondrial part	pr	ENSG00000178741:COX5A
+mitochondrial part	pr	ENSG00000100075:SLC25A1
+mitochondrial part	pr	ENSG00000115541:HSPE1
+mitochondrial part	pr	ENSG00000135046:ANXA1
+mitochondrial part	pr	ENSG00000183044:ABAT
+mitochondrial part	pr	ENSG00000158864:NDUFS2
+mitochondrial part	pr	ENSG00000122873:CISD1
+mitochondrial part	pr	ENSG00000073578:SDHA
+mitochondrial part	pr	ENSG00000144040:SFXN5
+mitochondrial part	pr	ENSG00000072778:ACADVL
+mitochondrial part	pr	ENSG00000166411:IDH3A
+mitochondrial part	pr	ENSG00000156467:UQCRB
+mitochondrial part	pr	ENSG00000150768:DLAT
+mitochondrial part	pr	ENSG00000078668:VDAC3
+mitochondrial part	pr	ENSG00000016391:CHDH
+mitochondrial part	pr	ENSG00000168653:NDUFS5
+mitochondrial part	pr	ENSG00000167315:ACAA2
+mitochondrial part	pr	ENSG00000167468:GPX4
+mitochondrial part	pr	ENSG00000109919:MTCH2
+mitochondrial part	pr	ENSG00000091140:DLD
+mitochondrial part	pr	ENSG00000100347:SAMM50
+mitochondrial part	pr	ENSG00000198836:OPA1
+mitochondrial part	pr	ENSG00000117118:SDHB
+mitochondrial part	pr	ENSG00000178952:TUFM
+mitochondrial part	pr	ENSG00000113013:HSPA9
+mitochondrial part	pr	ENSG00000131828:PDHA1
+mitochondrial part	pr	ENSG00000178127:NDUFV2
+mitochondrial part	pr	ENSG00000075415:SLC25A3
+mitochondrial part	pr	ENSG00000198130:HIBCH
+mitochondrial part	pr	ENSG00000140990:NDUFB10
+mitochondrial part	pr	ENSG00000106028:SSBP1
+mitochondrial part	pr	ENSG00000072506:HSD17B10
+mitochondrial part	pr	ENSG00000119421:NDUFA8
+mitochondrial part	pr	ENSG00000144381:HSPD1
+mitochondrial part	pr	ENSG00000140374:ETFA
+mitochondrial part	pr	ENSG00000120885:CLU
+mitochondrial part	pr	ENSG00000010256:UQCRC1
+mitochondrial part	pr	ENSG00000186010:NDUFA13
+mitochondrial part	pr	ENSG00000062485:CS
+mitochondrial part	pr	ENSG00000069535:MAOB
+mitochondrial part	pr	ENSG00000171766:GATM
+mitochondrial part	pr	ENSG00000005022:SLC25A5
+mitochondrial part	pr	ENSG00000223572:CKMT1A
+mitochondrial part	pr	ENSG00000184047:DIABLO
+mitochondrial part	pr	ENSG00000115159:GPD2
+mitochondrial part	pr	ENSG00000171503:ETFDH
+mitochondrial part	pr	ENSG00000127884:ECHS1
+mitochondrial part	pr	ENSG00000165672:PRDX3
+mitochondrial part	pr	ENSG00000156515:HK1
+mitochondrial part	pr	ENSG00000215021:PHB2
+mitochondrial part	pr	ENSG00000128654:MTX2
+mitochondrial part	pr	ENSG00000179091:CYC1
+mitochondrial part	pr	ENSG00000213619:NDUFS3
+mitochondrial part	pr	ENSG00000121691:CAT
+mitochondrial part	pr	ENSG00000100033:PRODH
+mitochondrial part	pr	ENSG00000156709:AIFM1
+mitochondrial part	pr	ENSG00000154930:ACSS1
+mitochondrial part	pr	ENSG00000119711:ALDH6A1
+mitochondrial part	pr	ENSG00000108828:VAT1
+mitochondrial part	pr	ENSG00000135940:COX5B
+mitochondrial part	pr	ENSG00000169021:UQCRFS1
+mitochondrial part	pr	ENSG00000104687:GSR
+mitochondrial part	pr	ENSG00000128311:TST
+mitochondrial part	pr	ENSG00000172115:CYCS
+mitochondrial part	pr	ENSG00000164466:SFXN1
+mitochondrial part	pr	ENSG00000145494:NDUFS6
+mitochondrial part	pr	ENSG00000115840:SLC25A12
+mitochondrial part	pr	ENSG00000101365:IDH3B
+mitochondrial part	pr	ENSG00000167792:NDUFV1
+mitochondrial part	pr	ENSG00000108528:SLC25A11
+mitochondrial part	pr	ENSG00000131495:NDUFA2
+mitochondrial part	pr	ENSG00000165637:VDAC2
+mitochondrial part	pr	ENSG00000104325:DECR1
+mitochondrial part	pr	ENSG00000139180:NDUFA9
+mitochondrial part	pr	ENSG00000178537:SLC25A20
+mitochondrial part	pr	ENSG00000132305:IMMT
+mitochondrial part	pr	ENSG00000105953:OGDH
+mitochondrial part	pr	ENSG00000082212:ME2
+mitochondrial part	pr	ENSG00000108179:PPIF
+mitochondrial part	pr	ENSG00000215301:DDX3X
+mitochondrial part	pr	ENSG00000182902:SLC25A18
+mitochondrial part	pr	ENSG00000140740:UQCRC2
+mitochondrial part	pr	ENSG00000063854:HAGH
+mitochondrial part	pr	ENSG00000184117:NIPSNAP1
+mitochondrial part	pr	ENSG00000128609:NDUFA5
+mitochondrial part	pr	ENSG00000151729:SLC25A4
+external side of plasma membrane	pr	ENSG00000131981:LGALS3
+external side of plasma membrane	pr	ENSG00000164111:ANXA5
+external side of plasma membrane	pr	ENSG00000140678:ITGAX
+external side of plasma membrane	pr	ENSG00000138448:ITGAV
+external side of plasma membrane	pr	ENSG00000106991:ENG
+external side of plasma membrane	pr	ENSG00000154096:THY1
+external side of plasma membrane	pr	ENSG00000026508:CD44
+external side of plasma membrane	pr	ENSG00000117298:ECE1
+external side of plasma membrane	pr	ENSG00000140945:CDH13
+external side of plasma membrane	pr	ENSG00000140545:MFGE8
+external side of plasma membrane	pr	ENSG00000005884:ITGA3
+external side of plasma membrane	pr	ENSG00000150093:ITGB1
+external side of plasma membrane	pr	ENSG00000261371:PECAM1
+external side of plasma membrane	pr	ENSG00000091409:ITGA6
+external side of plasma membrane	pr	ENSG00000170017:ALCAM
+external side of plasma membrane	pr	ENSG00000185896:LAMP1
+external side of plasma membrane	pr	ENSG00000161638:ITGA5
+external side of plasma membrane	pr	ENSG00000164171:ITGA2
+external side of plasma membrane	pr	ENSG00000196126:HLA-DRB1
+external side of plasma membrane	pr	ENSG00000090339:ICAM1
+external side of plasma membrane	pr	ENSG00000187244:BCAM
+external side of plasma membrane	pr	ENSG00000104687:GSR
+external side of plasma membrane	pr	ENSG00000169896:ITGAM
+peptide metabolic process	pr	ENSG00000138413:IDH1
+peptide metabolic process	pr	ENSG00000112294:ALDH5A1
+peptide metabolic process	pr	ENSG00000117298:ECE1
+peptide metabolic process	pr	ENSG00000213366:GSTM2
+peptide metabolic process	pr	ENSG00000134202:GSTM3
+peptide metabolic process	pr	ENSG00000164062:APEH
+peptide metabolic process	pr	ENSG00000172009:THOP1
+peptide metabolic process	pr	ENSG00000166340:TPP1
+peptide metabolic process	pr	ENSG00000167468:GPX4
+peptide metabolic process	pr	ENSG00000006625:GGCT
+peptide metabolic process	pr	ENSG00000099998:GGT5
+peptide metabolic process	pr	ENSG00000103811:CTSH
+peptide metabolic process	pr	ENSG00000100031:GGT1
+peptide metabolic process	pr	ENSG00000104687:GSR
+peptide metabolic process	pr	ENSG00000123992:DNPEP
+peptide metabolic process	pr	ENSG00000063854:HAGH
+peptide metabolic process	pr	ENSG00000162736:NCSTN
+peptide metabolic process	pr	ENSG00000109472:CPE
+inner mitochondrial membrane organization	pr	ENSG00000106554:CHCHD3
+inner mitochondrial membrane organization	pr	ENSG00000198836:OPA1
+inner mitochondrial membrane organization	pr	ENSG00000186010:NDUFA13
+wide pore channel activity	pr	ENSG00000213585:VDAC1
+wide pore channel activity	pr	ENSG00000152661:GJA1
+wide pore channel activity	pr	ENSG00000078668:VDAC3
+wide pore channel activity	pr	ENSG00000165637:VDAC2
+cytoplasmic translation	pr	ENSG00000171863:RPS7
+cytoplasmic translation	pr	ENSG00000149273:RPS3
+cytoplasmic translation	pr	ENSG00000145425:RPS3A
+response to activity	pr	ENSG00000138796:HADH
+response to activity	pr	ENSG00000083720:OXCT1
+response to activity	pr	ENSG00000150093:ITGB1
+response to activity	pr	ENSG00000010256:UQCRC1
+response to activity	pr	ENSG00000164171:ITGA2
+response to cAMP	pr	ENSG00000011052:NME2
+response to cAMP	pr	ENSG00000130707:ASS1
+response to cAMP	pr	ENSG00000127314:RAP1B
+response to cAMP	pr	ENSG00000167588:GPD1
+response to cAMP	pr	ENSG00000108821:COL1A1
+response to cAMP	pr	ENSG00000113140:SPARC
+response to cAMP	pr	ENSG00000172270:BSG
+acetyl-CoA biosynthetic process	pr	ENSG00000168291:PDHB
+acetyl-CoA biosynthetic process	pr	ENSG00000131828:PDHA1
+acetyl-CoA biosynthetic process	pr	ENSG00000154930:ACSS1
+skeletal system development	pr	ENSG00000131981:LGALS3
+skeletal system development	pr	ENSG00000117450:PRDX1
+skeletal system development	pr	ENSG00000166147:FBN1
+skeletal system development	pr	ENSG00000134575:ACP2
+skeletal system development	pr	ENSG00000162551:ALPL
+skeletal system development	pr	ENSG00000108821:COL1A1
+skeletal system development	pr	ENSG00000087460:GNAS
+acrosomal membrane	pr	ENSG00000105974:CAV1
+acrosomal membrane	pr	ENSG00000132589:FLOT2
+acrosomal membrane	pr	ENSG00000172270:BSG
+hexose metabolic process	pr	ENSG00000164687:FABP5
+hexose metabolic process	pr	ENSG00000173599:PC
+hexose metabolic process	pr	ENSG00000111674:ENO2
+hexose metabolic process	pr	ENSG00000168291:PDHB
+hexose metabolic process	pr	ENSG00000149925:ALDOA
+hexose metabolic process	pr	ENSG00000068976:PYGM
+hexose metabolic process	pr	ENSG00000049239:H6PD
+hexose metabolic process	pr	ENSG00000112294:ALDH5A1
+hexose metabolic process	pr	ENSG00000164022:AIMP1
+hexose metabolic process	pr	ENSG00000120053:GOT1
+hexose metabolic process	pr	ENSG00000140263:SORD
+hexose metabolic process	pr	ENSG00000100075:SLC25A1
+hexose metabolic process	pr	ENSG00000079739:PGM1
+hexose metabolic process	pr	ENSG00000163754:GYG1
+hexose metabolic process	pr	ENSG00000108479:GALK1
+hexose metabolic process	pr	ENSG00000150768:DLAT
+hexose metabolic process	pr	ENSG00000171298:GAA
+hexose metabolic process	pr	ENSG00000074800:ENO1
+hexose metabolic process	pr	ENSG00000143933:CALM2
+hexose metabolic process	pr	ENSG00000131828:PDHA1
+hexose metabolic process	pr	ENSG00000115159:GPD2
+hexose metabolic process	pr	ENSG00000014641:MDH1
+hexose metabolic process	pr	ENSG00000156515:HK1
+hexose metabolic process	pr	ENSG00000189058:APOD
+hexose metabolic process	pr	ENSG00000109107:ALDOC
+hexose metabolic process	pr	ENSG00000169738:DCXR
+hexose metabolic process	pr	ENSG00000111669:TPI1
+hexose metabolic process	pr	ENSG00000167588:GPD1
+hexose metabolic process	pr	ENSG00000115840:SLC25A12
+hexose metabolic process	pr	ENSG00000108528:SLC25A11
+hexose metabolic process	pr	ENSG00000164708:PGAM2
+vacuolar membrane	pr	ENSG00000137312:FLOT1
+vacuolar membrane	pr	ENSG00000100554:ATP6V1D
+vacuolar membrane	pr	ENSG00000123384:LRP1
+vacuolar membrane	pr	ENSG00000136888:ATP6V1G1
+vacuolar membrane	pr	ENSG00000114450:GNB4
+vacuolar membrane	pr	ENSG00000196586:MYO6
+vacuolar membrane	pr	ENSG00000141458:NPC1
+vacuolar membrane	pr	ENSG00000204287:HLA-DRA
+vacuolar membrane	pr	ENSG00000185722:ANKFY1
+vacuolar membrane	pr	ENSG00000065135:GNAI3
+vacuolar membrane	pr	ENSG00000034713:GABARAPL2
+vacuolar membrane	pr	ENSG00000198793:MTOR
+vacuolar membrane	pr	ENSG00000155252:PI4K2A
+vacuolar membrane	pr	ENSG00000117298:ECE1
+vacuolar membrane	pr	ENSG00000113441:LNPEP
+vacuolar membrane	pr	ENSG00000171298:GAA
+vacuolar membrane	pr	ENSG00000138760:SCARB2
+vacuolar membrane	pr	ENSG00000149357:LAMTOR1
+vacuolar membrane	pr	ENSG00000182718:ANXA2
+vacuolar membrane	pr	ENSG00000134575:ACP2
+vacuolar membrane	pr	ENSG00000142156:COL6A1
+vacuolar membrane	pr	ENSG00000134243:SORT1
+vacuolar membrane	pr	ENSG00000185896:LAMP1
+vacuolar membrane	pr	ENSG00000196126:HLA-DRB1
+vacuolar membrane	pr	ENSG00000047457:CP
+vacuolar membrane	pr	ENSG00000124942:AHNAK
+vacuolar membrane	pr	ENSG00000005893:LAMP2
+vacuolar membrane	pr	ENSG00000168140:VASN
+vacuolar membrane	pr	ENSG00000162736:NCSTN
+vacuolar membrane	pr	ENSG00000129353:SLC44A2
+modification of morphology or physiology of other organism involved in symbiotic interaction	pr	ENSG00000169100:SLC25A6
+modification of morphology or physiology of other organism involved in symbiotic interaction	pr	ENSG00000175198:PCCA
+modification of morphology or physiology of other organism involved in symbiotic interaction	pr	ENSG00000138448:ITGAV
+modification of morphology or physiology of other organism involved in symbiotic interaction	pr	ENSG00000173402:DAG1
+inflammatory response	pr	ENSG00000148053:NTRK2
+inflammatory response	pr	ENSG00000130707:ASS1
+inflammatory response	pr	ENSG00000168610:STAT3
+inflammatory response	pr	ENSG00000152661:GJA1
+inflammatory response	pr	ENSG00000137509:PRCP
+inflammatory response	pr	ENSG00000164022:AIMP1
+inflammatory response	pr	ENSG00000135046:ANXA1
+inflammatory response	pr	ENSG00000010327:STAB1
+inflammatory response	pr	ENSG00000171903:CYP4F11
+inflammatory response	pr	ENSG00000099998:GGT5
+inflammatory response	pr	ENSG00000131471:AOC3
+inflammatory response	pr	ENSG00000196126:HLA-DRB1
+inflammatory response	pr	ENSG00000090339:ICAM1
+inflammatory response	pr	ENSG00000160255:ITGB2
+inflammatory response	pr	ENSG00000244731:C4A
+inflammatory response	pr	ENSG00000165168:CYBB
+inflammatory response	pr	ENSG00000170458:CD14
+carbohydrate homeostasis	pr	ENSG00000109501:WFS1
+carbohydrate homeostasis	pr	ENSG00000011052:NME2
+carbohydrate homeostasis	pr	ENSG00000168610:STAT3
+carbohydrate homeostasis	pr	ENSG00000100097:LGALS1
+carbohydrate homeostasis	pr	ENSG00000137509:PRCP
+carbohydrate homeostasis	pr	ENSG00000137154:RPS6
+carbohydrate homeostasis	pr	ENSG00000156515:HK1
+carbohydrate homeostasis	pr	ENSG00000090339:ICAM1
+carbohydrate homeostasis	pr	ENSG00000104067:TJP1
+carbohydrate homeostasis	pr	ENSG00000155380:SLC16A1

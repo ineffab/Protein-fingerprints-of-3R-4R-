@@ -1,0 +1,136 @@
+Ensembl	symbol	KEGG
+ENSG00000168036	CTNNB1	Focal adhesion:KEGG-hsa04510
+ENSG00000196569	LAMA2	Focal adhesion:KEGG-hsa04510
+ENSG00000116147	TNR	Focal adhesion:KEGG-hsa04510
+ENSG00000168036	CTNNB1	Endometrial cancer:KEGG-hsa05213
+ENSG00000066032	CTNNA2	Endometrial cancer:KEGG-hsa05213
+ENSG00000058404	CAMK2B	Long-term potentiation:KEGG-hsa04720
+ENSG00000058404	CAMK2B	Oocyte meiosis:KEGG-hsa04114
+ENSG00000168036	CTNNB1	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000066032	CTNNA2	Bacterial invasion of epithelial cells:KEGG-hsa05100
+ENSG00000167996	FTH1	Porphyrin and chlorophyll metabolism:KEGG-hsa00860
+ENSG00000144381	HSPD1	RNA degradation:KEGG-hsa03018
+ENSG00000070756	PABPC1	RNA degradation:KEGG-hsa03018
+ENSG00000104722	NEFM	Amyotrophic lateral sclerosis (ALS):KEGG-hsa05014
+ENSG00000144566	RAB5A	Amyotrophic lateral sclerosis (ALS):KEGG-hsa05014
+ENSG00000000971	CFH	Staphylococcus aureus infection:KEGG-hsa05150
+ENSG00000058404	CAMK2B	Calcium signaling pathway:KEGG-hsa04020
+ENSG00000058404	CAMK2B	Olfactory transduction:KEGG-hsa04740
+ENSG00000058404	CAMK2B	GnRH signaling pathway:KEGG-hsa04912
+ENSG00000058404	CAMK2B	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000120437	ACAT2	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000133026	MYH10	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000150867	PIP4K2A	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000135821	GLUL	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000110651	CD81	Hepatitis C:KEGG-hsa05160
+ENSG00000120437	ACAT2	Valine, leucine and isoleucine degradation:KEGG-hsa00280
+ENSG00000120437	ACAT2	Lysine degradation:KEGG-hsa00310
+ENSG00000196569	LAMA2	Toxoplasmosis:KEGG-hsa05145
+ENSG00000135821	GLUL	Alanine, aspartate and glutamate metabolism:KEGG-hsa00250
+ENSG00000168036	CTNNB1	Prostate cancer:KEGG-hsa05215
+ENSG00000120437	ACAT2	Propanoate metabolism:KEGG-hsa00640
+ENSG00000110651	CD81	Malaria:KEGG-hsa05144
+ENSG00000198053	SIRPA	Osteoclast differentiation:KEGG-hsa04380
+ENSG00000196569	LAMA2	Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410
+ENSG00000157445	CACNA2D3	Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410
+ENSG00000168036	CTNNB1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000196569	LAMA2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000157445	CACNA2D3	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000066032	CTNNA2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412
+ENSG00000122756	CNTFR	Jak-STAT signaling pathway:KEGG-hsa04630
+ENSG00000104267	CA2	Proximal tubule bicarbonate reclamation:KEGG-hsa04964
+ENSG00000104267	CA2	Bile secretion:KEGG-hsa04976
+ENSG00000168036	CTNNB1	Adherens junction:KEGG-hsa04520
+ENSG00000066032	CTNNA2	Adherens junction:KEGG-hsa04520
+ENSG00000070756	PABPC1	RNA transport:KEGG-hsa03013
+ENSG00000120437	ACAT2	Butanoate metabolism:KEGG-hsa00650
+ENSG00000133026	MYH10	Tight junction:KEGG-hsa04530
+ENSG00000168036	CTNNB1	Tight junction:KEGG-hsa04530
+ENSG00000166086	JAM3	Tight junction:KEGG-hsa04530
+ENSG00000066032	CTNNA2	Tight junction:KEGG-hsa04530
+ENSG00000091129	NRCAM	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000198910	L1CAM	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000172260	NEGR1	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000163531	NFASC	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000166086	JAM3	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000170017	ALCAM	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000018236	CNTN1	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000149294	NCAM1	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000038427	VCAN	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000021645	NRXN3	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000105695	MAG	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000154654	NCAM2	Cell adhesion molecules (CAMs):KEGG-hsa04514
+ENSG00000058404	CAMK2B	Melanogenesis:KEGG-hsa04916
+ENSG00000168036	CTNNB1	Melanogenesis:KEGG-hsa04916
+ENSG00000070756	PABPC1	mRNA surveillance pathway:KEGG-hsa03015
+ENSG00000144566	RAB5A	Phagosome:KEGG-hsa04145
+ENSG00000085117	CD82	p53 signaling pathway:KEGG-hsa04115
+ENSG00000110651	CD81	B cell receptor signaling pathway:KEGG-hsa04662
+ENSG00000120437	ACAT2	Fatty acid metabolism:KEGG-hsa00071
+ENSG00000144566	RAB5A	Endocytosis:KEGG-hsa04144
+ENSG00000196569	LAMA2	Small cell lung cancer:KEGG-hsa05222
+ENSG00000144566	RAB5A	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000124570	SERPINB6	Amoebiasis:KEGG-hsa05146
+ENSG00000144566	RAB5A	Amoebiasis:KEGG-hsa05146
+ENSG00000196569	LAMA2	Amoebiasis:KEGG-hsa05146
+ENSG00000021355	SERPINB1	Amoebiasis:KEGG-hsa05146
+ENSG00000133026	MYH10	Viral myocarditis:KEGG-hsa05416
+ENSG00000196569	LAMA2	Viral myocarditis:KEGG-hsa05416
+ENSG00000157445	CACNA2D3	Cardiac muscle contraction:KEGG-hsa04260
+ENSG00000058404	CAMK2B	ErbB signaling pathway:KEGG-hsa04012
+ENSG00000196569	LAMA2	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000157445	CACNA2D3	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000058404	CAMK2B	Gastric acid secretion:KEGG-hsa04971
+ENSG00000104267	CA2	Gastric acid secretion:KEGG-hsa04971
+ENSG00000167996	FTH1	Mineral absorption:KEGG-hsa04978
+ENSG00000198910	L1CAM	Axon guidance:KEGG-hsa04360
+ENSG00000107317	PTGDS	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000168003	SLC3A2	Protein digestion and absorption:KEGG-hsa04974
+ENSG00000104267	CA2	Collecting duct acid secretion:KEGG-hsa04966
+ENSG00000168036	CTNNB1	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000166086	JAM3	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000066032	CTNNA2	Leukocyte transendothelial migration:KEGG-hsa04670
+ENSG00000166086	JAM3	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000106278	PTPRZ1	Epithelial cell signaling in Helicobacter pylori infection:KEGG-hsa05120
+ENSG00000109846	CRYAB	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000086061	DNAJA1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000149294	NCAM1	Prion diseases:KEGG-hsa05020
+ENSG00000154654	NCAM2	Prion diseases:KEGG-hsa05020
+ENSG00000171867	PRNP	Prion diseases:KEGG-hsa05020
+ENSG00000157445	CACNA2D3	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000196569	LAMA2	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000116147	TNR	ECM-receptor interaction:KEGG-hsa04512
+ENSG00000120437	ACAT2	Synthesis and degradation of ketone bodies:KEGG-hsa00072
+ENSG00000144381	HSPD1	Type I diabetes mellitus:KEGG-hsa04940
+ENSG00000120437	ACAT2	Fat digestion and absorption:KEGG-hsa04975
+ENSG00000143947	RPS27A	Ribosome:KEGG-hsa03010
+ENSG00000130203	APOE	Alzheimer's disease:KEGG-hsa05010
+ENSG00000104267	CA2	Nitrogen metabolism:KEGG-hsa00910
+ENSG00000135821	GLUL	Nitrogen metabolism:KEGG-hsa00910
+ENSG00000150867	PIP4K2A	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000144381	HSPD1	Tuberculosis:KEGG-hsa05152
+ENSG00000058404	CAMK2B	Tuberculosis:KEGG-hsa05152
+ENSG00000144566	RAB5A	Tuberculosis:KEGG-hsa05152
+ENSG00000168036	CTNNB1	Pathways in cancer:KEGG-hsa05200
+ENSG00000196569	LAMA2	Pathways in cancer:KEGG-hsa05200
+ENSG00000066032	CTNNA2	Pathways in cancer:KEGG-hsa05200
+ENSG00000114354	TFG	Pathways in cancer:KEGG-hsa05200
+ENSG00000162813	BPNT1	Sulfur metabolism:KEGG-hsa00920
+ENSG00000168036	CTNNB1	Pathogenic Escherichia coli infection:KEGG-hsa05130
+ENSG00000104267	CA2	Pancreatic secretion:KEGG-hsa04972
+ENSG00000122756	CNTFR	Cytokine-cytokine receptor interaction:KEGG-hsa04060
+ENSG00000135821	GLUL	Glutamatergic synapse:KEGG-hsa04724
+ENSG00000168036	CTNNB1	Thyroid cancer:KEGG-hsa05216
+ENSG00000114354	TFG	Thyroid cancer:KEGG-hsa05216
+ENSG00000058404	CAMK2B	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000168036	CTNNB1	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000120437	ACAT2	Terpenoid backbone biosynthesis:KEGG-hsa00900
+ENSG00000120437	ACAT2	Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630
+ENSG00000000971	CFH	Complement and coagulation cascades:KEGG-hsa04610
+ENSG00000119655	NPC2	Lysosome:KEGG-hsa04142
+ENSG00000150867	PIP4K2A	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000120437	ACAT2	Tryptophan metabolism:KEGG-hsa00380
+ENSG00000058404	CAMK2B	Glioma:KEGG-hsa05214
+ENSG00000168036	CTNNB1	Colorectal cancer:KEGG-hsa05210
+ENSG00000010278	CD9	Hematopoietic cell lineage:KEGG-hsa04640
+ENSG00000168036	CTNNB1	Basal cell carcinoma:KEGG-hsa05217

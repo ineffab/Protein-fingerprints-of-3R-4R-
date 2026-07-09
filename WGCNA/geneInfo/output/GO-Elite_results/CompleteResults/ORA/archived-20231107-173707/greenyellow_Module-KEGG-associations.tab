@@ -1,0 +1,82 @@
+Ensembl	symbol	KEGG
+ENSG00000014641	MDH1	Citrate cycle (TCA cycle):KEGG-hsa00020
+ENSG00000109971	HSPA8	Endocytosis:KEGG-hsa04144
+ENSG00000159251	ACTC1	Cardiac muscle contraction:KEGG-hsa04260
+ENSG00000148834	GSTO1	Metabolism of xenobiotics by cytochrome P450:KEGG-hsa00980
+ENSG00000159251	ACTC1	Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410
+ENSG00000141522	ARHGDIA	Vasopressin-regulated water reabsorption:KEGG-hsa04962
+ENSG00000120053	GOT1	Phenylalanine, tyrosine and tryptophan biosynthesis:KEGG-hsa00400
+ENSG00000011052	NME2	Purine metabolism:KEGG-hsa00230
+ENSG00000113558	SKP1	Oocyte meiosis:KEGG-hsa04114
+ENSG00000160211	G6PD	Glutathione metabolism:KEGG-hsa00480
+ENSG00000148834	GSTO1	Glutathione metabolism:KEGG-hsa00480
+ENSG00000084623	EIF3I	RNA transport:KEGG-hsa03013
+ENSG00000185651	UBE2L3	Parkinson's disease:KEGG-hsa05012
+ENSG00000109971	HSPA8	Spliceosome:KEGG-hsa03040
+ENSG00000170606	HSPA4	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000109971	HSPA8	Antigen processing and presentation:KEGG-hsa04612
+ENSG00000172009	THOP1	Renin-angiotensin system:KEGG-hsa04614
+ENSG00000143727	ACP1	Riboflavin metabolism:KEGG-hsa00740
+ENSG00000111674	ENO2	RNA degradation:KEGG-hsa03018
+ENSG00000130988	RGN	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000160211	G6PD	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000149925	ALDOA	Pentose phosphate pathway:KEGG-hsa00030
+ENSG00000109971	HSPA8	MAPK signaling pathway:KEGG-hsa04010
+ENSG00000109971	HSPA8	Measles:KEGG-hsa05162
+ENSG00000108518	PFN1	Shigellosis:KEGG-hsa05131
+ENSG00000159251	ACTC1	Dilated cardiomyopathy:KEGG-hsa05414
+ENSG00000113558	SKP1	Circadian rhythm - mammal:KEGG-hsa04710
+ENSG00000014641	MDH1	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000124767	GLO1	Pyruvate metabolism:KEGG-hsa00620
+ENSG00000148834	GSTO1	Drug metabolism - cytochrome P450:KEGG-hsa00982
+ENSG00000113558	SKP1	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000185651	UBE2L3	Ubiquitin mediated proteolysis:KEGG-hsa04120
+ENSG00000120053	GOT1	Tyrosine metabolism:KEGG-hsa00350
+ENSG00000108439	PNPO	Vitamin B6 metabolism:KEGG-hsa00750
+ENSG00000113558	SKP1	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000175792	RUVBL1	Wnt signaling pathway:KEGG-hsa04310
+ENSG00000141522	ARHGDIA	Neurotrophin signaling pathway:KEGG-hsa04722
+ENSG00000113558	SKP1	Cell cycle:KEGG-hsa04110
+ENSG00000160752	FDPS	Terpenoid backbone biosynthesis:KEGG-hsa00900
+ENSG00000130988	RGN	Ascorbate and aldarate metabolism:KEGG-hsa00053
+ENSG00000014641	MDH1	Proximal tubule bicarbonate reclamation:KEGG-hsa04964
+ENSG00000014641	MDH1	Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630
+ENSG00000184207	PGP	Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630
+ENSG00000106605	BLVRA	Porphyrin and chlorophyll metabolism:KEGG-hsa00860
+ENSG00000135932	CAB39	mTOR signaling pathway:KEGG-hsa04150
+ENSG00000108518	PFN1	Regulation of actin cytoskeleton:KEGG-hsa04810
+ENSG00000113558	SKP1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000120694	HSPH1	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000109971	HSPA8	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000168439	STIP1	Prion diseases:KEGG-hsa05020
+ENSG00000011052	NME2	Pyrimidine metabolism:KEGG-hsa00240
+ENSG00000111669	TPI1	Fructose and mannose metabolism:KEGG-hsa00051
+ENSG00000149925	ALDOA	Fructose and mannose metabolism:KEGG-hsa00051
+ENSG00000178802	MPI	Fructose and mannose metabolism:KEGG-hsa00051
+ENSG00000111669	TPI1	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000133731	IMPA1	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000105655	ISYNA1	Inositol phosphate metabolism:KEGG-hsa00562
+ENSG00000120053	GOT1	Phenylalanine metabolism:KEGG-hsa00360
+ENSG00000113558	SKP1	TGF-beta signaling pathway:KEGG-hsa04350
+ENSG00000079950	STX7	SNARE interactions in vesicular transport:KEGG-hsa04130
+ENSG00000168092	PAFAH1B2	Ether lipid metabolism:KEGG-hsa00565
+ENSG00000079950	STX7	Phagosome:KEGG-hsa04145
+ENSG00000120053	GOT1	Arginine and proline metabolism:KEGG-hsa00330
+ENSG00000109971	HSPA8	Toxoplasmosis:KEGG-hsa05145
+ENSG00000120053	GOT1	Alanine, aspartate and glutamate metabolism:KEGG-hsa00250
+ENSG00000162736	NCSTN	Notch signaling pathway:KEGG-hsa04330
+ENSG00000198242	RPL23A	Ribosome:KEGG-hsa03010
+ENSG00000099810	MTAP	Cysteine and methionine metabolism:KEGG-hsa00270
+ENSG00000120053	GOT1	Cysteine and methionine metabolism:KEGG-hsa00270
+ENSG00000145293	ENOPH1	Cysteine and methionine metabolism:KEGG-hsa00270
+ENSG00000162736	NCSTN	Alzheimer's disease:KEGG-hsa05010
+ENSG00000143727	ACP1	Adherens junction:KEGG-hsa04520
+ENSG00000111669	TPI1	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000102144	PGK1	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000111674	ENO2	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000149925	ALDOA	Glycolysis / Gluconeogenesis:KEGG-hsa00010
+ENSG00000133731	IMPA1	Phosphatidylinositol signaling system:KEGG-hsa04070
+ENSG00000172009	THOP1	African trypanosomiasis:KEGG-hsa05143
+ENSG00000138385	SSB	Systemic lupus erythematosus:KEGG-hsa05322
+ENSG00000113552	GNPDA1	Amino sugar and nucleotide sugar metabolism:KEGG-hsa00520
+ENSG00000178802	MPI	Amino sugar and nucleotide sugar metabolism:KEGG-hsa00520

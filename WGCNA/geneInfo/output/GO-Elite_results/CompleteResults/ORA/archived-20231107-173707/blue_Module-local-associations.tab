@@ -1,0 +1,287 @@
+Ensembl	symbol	WikiPathways
+ENSG00000168610	STAT3	IL-5 Signaling Pathway:WP127
+ENSG00000174775	HRAS	TGF Beta Signaling Pathway:WP560
+ENSG00000168610	STAT3	TGF Beta Signaling Pathway:WP560
+ENSG00000067560	RHOA	Wnt Signaling Pathway and Pluripotency:WP399
+ENSG00000174775	HRAS	Insulin Signaling:WP481
+ENSG00000152556	PFKM	Insulin Signaling:WP481
+ENSG00000091483	FH	TCA Cycle:WP78
+ENSG00000007402	CACNA2D2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000160789	LMNA	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000044115	CTNNA1	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000173801	JUP	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000130402	ACTN4	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000096696	DSP	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000070831	CDC42	TOR Signaling:WP1471
+ENSG00000136238	RAC1	TOR Signaling:WP1471
+ENSG00000172020	GAP43	Glial Cell Differentiation:WP2276
+ENSG00000109107	ALDOC	Glycolysis and Gluconeogenesis:WP534
+ENSG00000152556	PFKM	Glycolysis and Gluconeogenesis:WP534
+ENSG00000134001	EIF2S1	BDNF signaling pathway:WP2380
+ENSG00000070831	CDC42	BDNF signaling pathway:WP2380
+ENSG00000174775	HRAS	BDNF signaling pathway:WP2380
+ENSG00000168610	STAT3	BDNF signaling pathway:WP2380
+ENSG00000167658	EEF2	BDNF signaling pathway:WP2380
+ENSG00000092964	DPYSL2	BDNF signaling pathway:WP2380
+ENSG00000177105	RHOG	BDNF signaling pathway:WP2380
+ENSG00000168610	STAT3	IL-9 Signaling Pathway:WP22
+ENSG00000130402	ACTN4	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000026025	VIM	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000100345	MYH9	Primary Focal Segmental Glomerulosclerosis FSGS:WP2572
+ENSG00000136810	TXN	NRF2 pathway:WP2884
+ENSG00000198431	TXNRD1	NRF2 pathway:WP2884
+ENSG00000065833	ME1	NRF2 pathway:WP2884
+ENSG00000085662	AKR1B1	Polyol Pathway:WP690
+ENSG00000133835	HSD17B4	Steroid Biosynthesis:WP496
+ENSG00000174775	HRAS	Extracellular vesicle-mediated signaling in recipient cells:WP2870
+ENSG00000174775	HRAS	Signaling Pathways in Glioblastoma:WP2261
+ENSG00000174775	HRAS	Kit receptor signaling pathway:WP304
+ENSG00000168610	STAT3	Kit receptor signaling pathway:WP304
+ENSG00000106211	HSPB1	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000044115	CTNNA1	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000180370	PAK2	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000026025	VIM	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000115306	SPTBN1	TGF beta Signaling Pathway:WP366
+ENSG00000070831	CDC42	TGF beta Signaling Pathway:WP366
+ENSG00000067560	RHOA	TGF beta Signaling Pathway:WP366
+ENSG00000180370	PAK2	TGF beta Signaling Pathway:WP366
+ENSG00000070831	CDC42	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000136238	RAC1	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000168610	STAT3	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000101367	MAPRE1	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000092964	DPYSL2	Regulation of Microtubule Cytoskeleton:WP2038
+ENSG00000072506	HSD17B10	Alzheimers Disease:WP2059
+ENSG00000014216	CAPN1	Alzheimers Disease:WP2059
+ENSG00000178372	CALML5	Alzheimers Disease:WP2059
+ENSG00000070831	CDC42	RANKL/RANK Signaling Pathway:WP2018
+ENSG00000137563	GGH	Fluoropyrimidine Activity:WP1601
+ENSG00000121691	CAT	Oxidative Stress:WP408
+ENSG00000198431	TXNRD1	Oxidative Stress:WP408
+ENSG00000140416	TPM1	Striated Muscle Contraction:WP383
+ENSG00000143549	TPM3	Striated Muscle Contraction:WP383
+ENSG00000167460	TPM4	Striated Muscle Contraction:WP383
+ENSG00000130402	ACTN4	Striated Muscle Contraction:WP383
+ENSG00000026025	VIM	Striated Muscle Contraction:WP383
+ENSG00000070831	CDC42	Focal Adhesion:WP306
+ENSG00000067560	RHOA	Focal Adhesion:WP306
+ENSG00000174775	HRAS	Focal Adhesion:WP306
+ENSG00000014216	CAPN1	Focal Adhesion:WP306
+ENSG00000180370	PAK2	Focal Adhesion:WP306
+ENSG00000163220	S100A9	IL1 and megakaryotyces in obesity:WP2865
+ENSG00000014216	CAPN1	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000174775	HRAS	IL-2 Signaling Pathway:WP49
+ENSG00000168610	STAT3	IL-2 Signaling Pathway:WP49
+ENSG00000085563	ABCB1	Imatinib Resistance in Chronic Myeloid Leukemia:WP2946
+ENSG00000144290	SLC4A10	Imatinib Resistance in Chronic Myeloid Leukemia:WP2946
+ENSG00000085662	AKR1B1	Metapathway biotransformation:WP702
+ENSG00000168610	STAT3	Adipogenesis:WP236
+ENSG00000160789	LMNA	Adipogenesis:WP236
+ENSG00000105835	NAMPT	Adipogenesis:WP236
+ENSG00000070831	CDC42	Androgen receptor signaling pathway:WP138
+ENSG00000067560	RHOA	Androgen receptor signaling pathway:WP138
+ENSG00000168610	STAT3	Androgen receptor signaling pathway:WP138
+ENSG00000138668	HNRNPD	mRNA Processing:WP411
+ENSG00000122566	HNRNPA2B1	mRNA Processing:WP411
+ENSG00000153187	HNRNPU	mRNA Processing:WP411
+ENSG00000085563	ABCB1	Allograft Rejection:KEGG-hsa05330:WP2328
+ENSG00000026025	VIM	Allograft Rejection:KEGG-hsa05330:WP2328
+ENSG00000137486	ARRB1	MAPK Signaling Pathway:WP382
+ENSG00000106211	HSPB1	MAPK Signaling Pathway:WP382
+ENSG00000070831	CDC42	MAPK Signaling Pathway:WP382
+ENSG00000180370	PAK2	MAPK Signaling Pathway:WP382
+ENSG00000158186	MRAS	MAPK Signaling Pathway:WP382
+ENSG00000067560	RHOA	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+ENSG00000168610	STAT3	MicroRNAs in cardiomyocyte hypertrophy:WP1544
+ENSG00000116649	SRM	Nucleotide Metabolism:WP404
+ENSG00000168610	STAT3	IL17 signaling pathway:WP2112
+ENSG00000180817	PPA1	Hypothetical Network for Drug Addiction:WP666
+ENSG00000168610	STAT3	Notch Signaling Pathway:WP61
+ENSG00000167658	EEF2	AMPK Signaling:WP1403
+ENSG00000169710	FASN	AMPK Signaling:WP1403
+ENSG00000168610	STAT3	Serotonin Receptor 2 and STAT3 Signaling:WP733
+ENSG00000168610	STAT3	TFs Regulate miRNAs related to cardiac hypertrophy:WP1559
+ENSG00000070831	CDC42	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000067560	RHOA	Pathogenic Escherichia coli infection:KEGG-hsa05130:WP2272
+ENSG00000085563	ABCB1	Codeine and Morphine Metabolism:WP1604
+ENSG00000087258	GNAO1	G Protein Signaling Pathways:WP35
+ENSG00000078369	GNB1	G Protein Signaling Pathways:WP35
+ENSG00000067560	RHOA	G Protein Signaling Pathways:WP35
+ENSG00000174775	HRAS	G Protein Signaling Pathways:WP35
+ENSG00000176533	GNG7	G Protein Signaling Pathways:WP35
+ENSG00000078369	GNB1	Estrogen signaling pathway:WP712
+ENSG00000067560	RHOA	Wnt Signaling Pathway:WP428
+ENSG00000070831	CDC42	EGF/EGFR Signaling Pathway:WP437
+ENSG00000144118	RALB	EGF/EGFR Signaling Pathway:WP437
+ENSG00000174775	HRAS	EGF/EGFR Signaling Pathway:WP437
+ENSG00000168610	STAT3	EGF/EGFR Signaling Pathway:WP437
+ENSG00000006451	RALA	EGF/EGFR Signaling Pathway:WP437
+ENSG00000197043	ANXA6	Prostaglandin Synthesis and Regulation:WP98
+ENSG00000106211	HSPB1	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000197694	SPTAN1	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000160789	LMNA	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000180370	PAK2	FAS pathway and Stress induction of HSP regulation:WP314
+ENSG00000168610	STAT3	IL-6 signaling pathway:WP364
+ENSG00000174775	HRAS	Rac1/Pak1/p38/MMP-2 pathway:WP3303
+ENSG00000136238	RAC1	Rac1/Pak1/p38/MMP-2 pathway:WP3303
+ENSG00000168610	STAT3	Rac1/Pak1/p38/MMP-2 pathway:WP3303
+ENSG00000174775	HRAS	Aryl Hydrocarbon Receptor:WP2586
+ENSG00000067560	RHOA	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000174775	HRAS	Alpha 6 Beta 4 signaling pathway:WP244
+ENSG00000070831	CDC42	AGE/RAGE pathway:WP2324
+ENSG00000067560	RHOA	AGE/RAGE pathway:WP2324
+ENSG00000131981	LGALS3	AGE/RAGE pathway:WP2324
+ENSG00000168610	STAT3	AGE/RAGE pathway:WP2324
+ENSG00000168610	STAT3	Dopaminergic Neurogenesis:WP2855
+ENSG00000070831	CDC42	Spinal Cord Injury:WP2431
+ENSG00000172020	GAP43	Spinal Cord Injury:WP2431
+ENSG00000067560	RHOA	Spinal Cord Injury:WP2431
+ENSG00000136238	RAC1	Spinal Cord Injury:WP2431
+ENSG00000131981	LGALS3	Spinal Cord Injury:WP2431
+ENSG00000131095	GFAP	Spinal Cord Injury:WP2431
+ENSG00000100823	APEX1	Spinal Cord Injury:WP2431
+ENSG00000026025	VIM	Spinal Cord Injury:WP2431
+ENSG00000085563	ABCB1	Constitutive Androstane Receptor Pathway:WP2875
+ENSG00000070831	CDC42	RalA downstream regulated genes:WP2290
+ENSG00000174775	HRAS	RalA downstream regulated genes:WP2290
+ENSG00000006451	RALA	RalA downstream regulated genes:WP2290
+ENSG00000198431	TXNRD1	Selenium Metabolism and Selenoproteins:WP28
+ENSG00000157500	APPL1	FSH signaling pathway:WP2035
+ENSG00000175793	SFN	miRNA Regulation of DNA Damage Response:WP1530
+ENSG00000253729	PRKDC	miRNA Regulation of DNA Damage Response:WP1530
+ENSG00000168610	STAT3	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer:WP2868
+ENSG00000070831	CDC42	Regulation of Actin Cytoskeleton:WP51
+ENSG00000067560	RHOA	Regulation of Actin Cytoskeleton:WP51
+ENSG00000180370	PAK2	Regulation of Actin Cytoskeleton:WP51
+ENSG00000158186	MRAS	Regulation of Actin Cytoskeleton:WP51
+ENSG00000131095	GFAP	Neural Crest Differentiation:WP2064
+ENSG00000078369	GNB1	Nicotine Activity on Dopaminergic Neurons:WP1602
+ENSG00000121691	CAT	Folate Metabolism:WP176
+ENSG00000070831	CDC42	Leptin signaling pathway:WP2034
+ENSG00000067560	RHOA	Leptin signaling pathway:WP2034
+ENSG00000174775	HRAS	Leptin signaling pathway:WP2034
+ENSG00000168610	STAT3	Leptin signaling pathway:WP2034
+ENSG00000253729	PRKDC	Non-homologous end joining:WP438
+ENSG00000091483	FH	TCA Cycle and PDHc:WP2453
+ENSG00000174775	HRAS	ErbB Signaling Pathway:WP673
+ENSG00000093144	ECHDC1	Fatty Acid Biosynthesis:WP357
+ENSG00000169710	FASN	Fatty Acid Biosynthesis:WP357
+ENSG00000167315	ACAA2	Fatty Acid Biosynthesis:WP357
+ENSG00000070831	CDC42	TCR Signaling Pathway:WP69
+ENSG00000174775	HRAS	TCR Signaling Pathway:WP69
+ENSG00000026025	VIM	TCR Signaling Pathway:WP69
+ENSG00000174775	HRAS	MAPK Cascade:WP422
+ENSG00000134419	RPS15A	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000089157	RPLP0	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000167526	RPL13	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000100316	RPL3	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000170889	RPS9	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000198034	RPS4X	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000148303	RPL7A	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000177600	RPLP2	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000089009	RPL6	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000142534	RPS11	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000142937	RPS8	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000149273	RPS3	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000140988	RPS2	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000105640	RPL18A	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000105193	RPS16	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000070831	CDC42	G13 Signaling Pathway:WP524
+ENSG00000067560	RHOA	G13 Signaling Pathway:WP524
+ENSG00000136238	RAC1	NOD pathway:WP1433
+ENSG00000174775	HRAS	IL-3 Signaling Pathway:WP286
+ENSG00000168610	STAT3	IL-3 Signaling Pathway:WP286
+ENSG00000070831	CDC42	Metastatic brain tumor:WP2249
+ENSG00000174775	HRAS	Serotonin Receptor 2 and ELK-SRF/GATA4 signaling:WP732
+ENSG00000060971	ACAA1	PPAR Alpha Pathway:WP2878
+ENSG00000168610	STAT3	Cell Differentiation - Index:WP2029
+ENSG00000070831	CDC42	B Cell Receptor Signaling Pathway:WP23
+ENSG00000174775	HRAS	B Cell Receptor Signaling Pathway:WP23
+ENSG00000137486	ARRB1	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000175793	SFN	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000078369	GNB1	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000176533	GNG7	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000067560	RHOA	Physiological and Pathological Hypertrophy  of the Heart:WP1528
+ENSG00000168610	STAT3	Physiological and Pathological Hypertrophy  of the Heart:WP1528
+ENSG00000174775	HRAS	PDGF Pathway:WP2526
+ENSG00000136810	TXN	BCL-XL prevents the binding of truncated BID to BAX. This is prevented by BAD. BAD can displace tBID from BCL-XL.   :WP231
+ENSG00000174775	HRAS	BCL-XL prevents the binding of truncated BID to BAX. This is prevented by BAD. BAD can displace tBID from BCL-XL.   :WP231
+ENSG00000174775	HRAS	Senescence and Autophagy in Cancer:WP615
+ENSG00000168610	STAT3	IL-4 Signaling Pathway:WP395
+ENSG00000085563	ABCB1	Drug Induction of Bile Acid Pathway:WP2289
+ENSG00000116649	SRM	Urea cycle and metabolism of amino groups:WP497
+ENSG00000168610	STAT3	EPO Receptor Signaling:WP581
+ENSG00000070831	CDC42	Integrin-mediated Cell Adhesion:WP185
+ENSG00000174775	HRAS	Integrin-mediated Cell Adhesion:WP185
+ENSG00000014216	CAPN1	Integrin-mediated Cell Adhesion:WP185
+ENSG00000180370	PAK2	Integrin-mediated Cell Adhesion:WP185
+ENSG00000087258	GNAO1	TSH signaling pathway:WP2032
+ENSG00000078369	GNB1	TSH signaling pathway:WP2032
+ENSG00000174775	HRAS	TSH signaling pathway:WP2032
+ENSG00000168610	STAT3	TSH signaling pathway:WP2032
+ENSG00000100823	APEX1	TSH signaling pathway:WP2032
+ENSG00000168610	STAT3	TSLP Signaling Pathway:WP2203
+ENSG00000121691	CAT	Selenium Micronutrient Network:WP15
+ENSG00000136810	TXN	Selenium Micronutrient Network:WP15
+ENSG00000198431	TXNRD1	Selenium Micronutrient Network:WP15
+ENSG00000174775	HRAS	Signaling of Hepatocyte Growth Factor Receptor:WP313
+ENSG00000168610	STAT3	Signaling of Hepatocyte Growth Factor Receptor:WP313
+ENSG00000157020	SEC13	SREBP signalling:WP1982
+ENSG00000169710	FASN	SREBP signalling:WP1982
+ENSG00000169710	FASN	Liver X Receptor Pathway:WP2874
+ENSG00000163344	PMVK	Cholesterol Biosynthesis:WP197
+ENSG00000174775	HRAS	Interleukin-11 Signaling Pathway:WP2332
+ENSG00000168610	STAT3	Interleukin-11 Signaling Pathway:WP2332
+ENSG00000169862	CTNND2	Ectoderm Differentiation:WP2858
+ENSG00000173801	JUP	Ectoderm Differentiation:WP2858
+ENSG00000174775	HRAS	Bladder Cancer:WP2828
+ENSG00000121691	CAT	Tryptophan metabolism:WP465
+ENSG00000072506	HSD17B10	Tryptophan metabolism:WP465
+ENSG00000072778	ACADVL	Fatty Acid Beta Oxidation:WP143
+ENSG00000095321	CRAT	Fatty Acid Beta Oxidation:WP143
+ENSG00000168610	STAT3	Interferon type I signaling pathways:WP585
+ENSG00000070831	CDC42	Integrated Breast Cancer Pathway:WP1984
+ENSG00000030582	GRN	Integrated Breast Cancer Pathway:WP1984
+ENSG00000115306	SPTBN1	SIDS Susceptibility Pathways:WP706
+ENSG00000022355	GABRA1	SIDS Susceptibility Pathways:WP706
+ENSG00000169710	FASN	SREBF and miR33 in cholesterol and lipid homeostasis:WP2011
+ENSG00000100804	PSMB5	Proteasome Degradation:WP183
+ENSG00000137486	ARRB1	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000087258	GNAO1	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000175793	SFN	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000078369	GNB1	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000197043	ANXA6	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000176533	GNG7	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000072778	ACADVL	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+ENSG00000168610	STAT3	Estrogen Receptor Pathway:WP2881
+ENSG00000161533	ACOX1	Estrogen Receptor Pathway:WP2881
+ENSG00000137486	ARRB1	Corticotropin-releasing hormone:WP2355
+ENSG00000087258	GNAO1	Corticotropin-releasing hormone:WP2355
+ENSG00000078369	GNB1	Corticotropin-releasing hormone:WP2355
+ENSG00000067560	RHOA	Corticotropin-releasing hormone:WP2355
+ENSG00000173801	JUP	Corticotropin-releasing hormone:WP2355
+ENSG00000085563	ABCB1	Nuclear Receptors in Lipid Metabolism and Toxicity:WP299
+ENSG00000121691	CAT	Amyotrophic lateral sclerosis (ALS):WP2447
+ENSG00000106211	HSPB1	p38 MAPK Signaling Pathway:WP400
+ENSG00000070831	CDC42	p38 MAPK Signaling Pathway:WP400
+ENSG00000174775	HRAS	p38 MAPK Signaling Pathway:WP400
+ENSG00000168610	STAT3	IL-7 Signaling Pathway:WP205
+ENSG00000174775	HRAS	Oncostatin M Signaling Pathway:WP2374
+ENSG00000168610	STAT3	Oncostatin M Signaling Pathway:WP2374
+ENSG00000067560	RHOA	Wnt Signaling Pathway Netpath:WP363
+ENSG00000175793	SFN	DNA Damage Response:WP707
+ENSG00000253729	PRKDC	DNA Damage Response:WP707
+ENSG00000121691	CAT	DNA Damage Response (only ATM dependent):WP710
+ENSG00000070831	CDC42	DNA Damage Response (only ATM dependent):WP710
+ENSG00000067560	RHOA	DNA Damage Response (only ATM dependent):WP710
+ENSG00000174775	HRAS	DNA Damage Response (only ATM dependent):WP710
+ENSG00000136238	RAC1	DNA Damage Response (only ATM dependent):WP710
+ENSG00000085563	ABCB1	Farnesoid X Receptor  Pathway:WP2879
+ENSG00000100994	PYGB	Glycogen Metabolism:WP500
+ENSG00000175390	EIF3F	Translation Factors:WP107
+ENSG00000134001	EIF2S1	Translation Factors:WP107
+ENSG00000107581	EIF3A	Translation Factors:WP107
+ENSG00000156976	EIF4A2	Translation Factors:WP107
+ENSG00000167658	EEF2	Translation Factors:WP107
+ENSG00000106263	EIF3B	Translation Factors:WP107
+ENSG00000184110	EIF3C	Translation Factors:WP107
+ENSG00000130741	EIF2S3	Translation Factors:WP107

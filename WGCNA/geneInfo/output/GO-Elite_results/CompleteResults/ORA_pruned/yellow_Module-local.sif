@@ -1,0 +1,94 @@
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000091409:ITGA6
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000082781:ITGB5
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000170624:SGCD
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000170558:CDH2
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000135424:ITGA7
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000161638:ITGA5
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000152661:GJA1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000138448:ITGAV
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000164171:ITGA2
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000132470:ITGB4
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000005884:ITGA3
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118	pr	ENSG00000150093:ITGB1
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000197702:PARVA
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000137076:TLN1
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000138760:SCARB2
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000170558:CDH2
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000138448:ITGAV
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000132470:ITGB4
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000005884:ITGA3
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000152818:UTRN
+Primary Focal Segmental Glomerulosclerosis FSGS:WP2572	pr	ENSG00000150093:ITGB1
+TGF beta Signaling Pathway:WP366	pr	ENSG00000091409:ITGA6
+TGF beta Signaling Pathway:WP366	pr	ENSG00000164171:ITGA2
+TGF beta Signaling Pathway:WP366	pr	ENSG00000132470:ITGB4
+TGF beta Signaling Pathway:WP366	pr	ENSG00000041982:TNC
+TGF beta Signaling Pathway:WP366	pr	ENSG00000142192:APP
+TGF beta Signaling Pathway:WP366	pr	ENSG00000150093:ITGB1
+Focal Adhesion:WP306	pr	ENSG00000091409:ITGA6
+Focal Adhesion:WP306	pr	ENSG00000082781:ITGB5
+Focal Adhesion:WP306	pr	ENSG00000137076:TLN1
+Focal Adhesion:WP306	pr	ENSG00000108821:COL1A1
+Focal Adhesion:WP306	pr	ENSG00000160255:ITGB2
+Focal Adhesion:WP306	pr	ENSG00000135424:ITGA7
+Focal Adhesion:WP306	pr	ENSG00000140678:ITGAX
+Focal Adhesion:WP306	pr	ENSG00000127314:RAP1B
+Focal Adhesion:WP306	pr	ENSG00000161638:ITGA5
+Focal Adhesion:WP306	pr	ENSG00000138448:ITGAV
+Focal Adhesion:WP306	pr	ENSG00000164171:ITGA2
+Focal Adhesion:WP306	pr	ENSG00000132470:ITGB4
+Focal Adhesion:WP306	pr	ENSG00000196924:FLNA
+Focal Adhesion:WP306	pr	ENSG00000041982:TNC
+Focal Adhesion:WP306	pr	ENSG00000005884:ITGA3
+Focal Adhesion:WP306	pr	ENSG00000150093:ITGB1
+G Protein Signaling Pathways:WP35	pr	ENSG00000065135:GNAI3
+G Protein Signaling Pathways:WP35	pr	ENSG00000120063:GNA13
+G Protein Signaling Pathways:WP35	pr	ENSG00000154229:PRKCA
+G Protein Signaling Pathways:WP35	pr	ENSG00000108946:PRKAR1A
+G Protein Signaling Pathways:WP35	pr	ENSG00000114353:GNAI2
+G Protein Signaling Pathways:WP35	pr	ENSG00000087460:GNAS
+G Protein Signaling Pathways:WP35	pr	ENSG00000172380:GNG12
+G Protein Signaling Pathways:WP35	pr	ENSG00000156052:GNAQ
+G Protein Signaling Pathways:WP35	pr	ENSG00000126458:RRAS
+Prostaglandin Synthesis and Regulation:WP98	pr	ENSG00000135046:ANXA1
+Prostaglandin Synthesis and Regulation:WP98	pr	ENSG00000196975:ANXA4
+Prostaglandin Synthesis and Regulation:WP98	pr	ENSG00000164111:ANXA5
+Signal Transduction of S1P Receptor:WP26	pr	ENSG00000065135:GNAI3
+Signal Transduction of S1P Receptor:WP26	pr	ENSG00000114353:GNAI2
+Signal Transduction of S1P Receptor:WP26	pr	ENSG00000104763:ASAH1
+Copper homeostasis:WP3286	pr	ENSG00000168615:ADAM9
+Copper homeostasis:WP3286	pr	ENSG00000137845:ADAM10
+Copper homeostasis:WP3286	pr	ENSG00000142192:APP
+Senescence and Autophagy in Cancer:WP615	pr	ENSG00000108821:COL1A1
+Senescence and Autophagy in Cancer:WP615	pr	ENSG00000005893:LAMP2
+Senescence and Autophagy in Cancer:WP615	pr	ENSG00000185896:LAMP1
+Senescence and Autophagy in Cancer:WP615	pr	ENSG00000026508:CD44
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000091409:ITGA6
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000082781:ITGB5
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000137076:TLN1
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000160255:ITGB2
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000135424:ITGA7
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000140678:ITGAX
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000126247:CAPNS1
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000162909:CAPN2
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000127314:RAP1B
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000161638:ITGA5
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000138448:ITGAV
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000164171:ITGA2
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000132470:ITGB4
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000005884:ITGA3
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000149260:CAPN5
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000095637:SORBS1
+Integrin-mediated Cell Adhesion:WP185	pr	ENSG00000150093:ITGB1
+TSH signaling pathway:WP2032	pr	ENSG00000065135:GNAI3
+TSH signaling pathway:WP2032	pr	ENSG00000120063:GNA13
+TSH signaling pathway:WP2032	pr	ENSG00000114353:GNAI2
+TSH signaling pathway:WP2032	pr	ENSG00000087460:GNAS
+TSH signaling pathway:WP2032	pr	ENSG00000127314:RAP1B
+TSH signaling pathway:WP2032	pr	ENSG00000156052:GNAQ
+Corticotropin-releasing hormone:WP2355	pr	ENSG00000154229:PRKCA
+Corticotropin-releasing hormone:WP2355	pr	ENSG00000114353:GNAI2
+Corticotropin-releasing hormone:WP2355	pr	ENSG00000087460:GNAS
+Corticotropin-releasing hormone:WP2355	pr	ENSG00000127314:RAP1B
+Corticotropin-releasing hormone:WP2355	pr	ENSG00000152661:GJA1
+Corticotropin-releasing hormone:WP2355	pr	ENSG00000156052:GNAQ

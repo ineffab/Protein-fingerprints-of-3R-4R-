@@ -1,0 +1,245 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000108039	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble [Source:HGNC Symbol;Acc:HGNC:12822]	ENSG00000108039	GO:0004177	aminopeptidase activity	XPNPEP1	greenyellow	En
+ENSG00000141279	NPEPPS	aminopeptidase puromycin sensitive [Source:HGNC Symbol;Acc:HGNC:7900]	ENSG00000141279	GO:0004177	aminopeptidase activity	NPEPPS	greenyellow	En
+ENSG00000124299	PEPD	peptidase D [Source:HGNC Symbol;Acc:HGNC:8840]	ENSG00000124299	GO:0004177	aminopeptidase activity	PEPD	greenyellow	En
+ENSG00000105655	ISYNA1	inositol-3-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:29821]	ENSG00000105655	GO:0046173	polyol biosynthetic process	ISYNA1	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	GO:0046173	polyol biosynthetic process	GOT1	greenyellow	En
+ENSG00000133731	IMPA1	inositol(myo)-1(or 4)-monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050]	ENSG00000133731	GO:0046173	polyol biosynthetic process	IMPA1	greenyellow	En
+ENSG00000145293	ENOPH1	enolase-phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:24599]	ENSG00000145293	GO:0006595	polyamine metabolic process	ENOPH1	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:0006595	polyamine metabolic process	MTAP	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	GO:0006595	polyamine metabolic process	GOT1	greenyellow	En
+ENSG00000135932	CAB39	calcium binding protein 39 [Source:HGNC Symbol;Acc:HGNC:20292]	ENSG00000135932	GO:0008047	enzyme activator activity	CAB39	greenyellow	En
+ENSG00000197045	GMFB	glia maturation factor, beta [Source:HGNC Symbol;Acc:HGNC:4373]	ENSG00000197045	GO:0008047	enzyme activator activity	GMFB	greenyellow	En
+ENSG00000141522	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha [Source:HGNC Symbol;Acc:HGNC:678]	ENSG00000141522	GO:0008047	enzyme activator activity	ARHGDIA	greenyellow	En
+ENSG00000203879	GDI1	GDP dissociation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:4226]	ENSG00000203879	GO:0008047	enzyme activator activity	GDI1	greenyellow	En
+ENSG00000091844	RGS17	regulator of G-protein signaling 17 [Source:HGNC Symbol;Acc:HGNC:14088]	ENSG00000091844	GO:0008047	enzyme activator activity	RGS17	greenyellow	En
+ENSG00000057608	GDI2	GDP dissociation inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:4227]	ENSG00000057608	GO:0008047	enzyme activator activity	GDI2	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:1901362	organic cyclic compound biosynthetic process	MPI	greenyellow	En
+ENSG00000160752	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	ENSG00000160752	GO:1901362	organic cyclic compound biosynthetic process	FDPS	greenyellow	En
+ENSG00000196290	NIF3L1	NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:13390]	ENSG00000196290	GO:1901362	organic cyclic compound biosynthetic process	NIF3L1	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:1901362	organic cyclic compound biosynthetic process	HSPA8	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:1901362	organic cyclic compound biosynthetic process	ALDOA	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:1901362	organic cyclic compound biosynthetic process	PCBD1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:1901362	organic cyclic compound biosynthetic process	G6PD	greenyellow	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:1901362	organic cyclic compound biosynthetic process	RUVBL1	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:1901362	organic cyclic compound biosynthetic process	NME1-NME2	greenyellow	En
+ENSG00000185651	UBE2L3	ubiquitin-conjugating enzyme E2L 3 [Source:HGNC Symbol;Acc:HGNC:12488]	ENSG00000185651	GO:1901362	organic cyclic compound biosynthetic process	UBE2L3	greenyellow	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:1901362	organic cyclic compound biosynthetic process	RPL23A	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:1901362	organic cyclic compound biosynthetic process	MTAP	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:1901362	organic cyclic compound biosynthetic process	PNPO	greenyellow	En
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	ENSG00000111674	GO:0006096	glycolytic process	ENO2	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0006096	glycolytic process	TPI1	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0006096	glycolytic process	ALDOA	greenyellow	En
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	ENSG00000102144	GO:0006096	glycolytic process	PGK1	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:0016861	intramolecular oxidoreductase activity, interconverting aldoses and ketoses	MPI	greenyellow	En
+ENSG00000113552	GNPDA1	glucosamine-6-phosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:4417]	ENSG00000113552	GO:0016861	intramolecular oxidoreductase activity, interconverting aldoses and ketoses	GNPDA1	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0016861	intramolecular oxidoreductase activity, interconverting aldoses and ketoses	TPI1	greenyellow	En
+ENSG00000170606	HSPA4	heat shock 70kDa protein 4 [Source:HGNC Symbol;Acc:HGNC:5237]	ENSG00000170606	GO:0006986	response to unfolded protein	HSPA4	greenyellow	En
+ENSG00000120694	HSPH1	heat shock 105kDa/110kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:16969]	ENSG00000120694	GO:0006986	response to unfolded protein	HSPH1	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:0006986	response to unfolded protein	HSPA8	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:0046914	transition metal ion binding	MPI	greenyellow	En
+ENSG00000130988	RGN	regucalcin [Source:HGNC Symbol;Acc:HGNC:9989]	ENSG00000130988	GO:0046914	transition metal ion binding	RGN	greenyellow	En
+ENSG00000108039	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble [Source:HGNC Symbol;Acc:HGNC:12822]	ENSG00000108039	GO:0046914	transition metal ion binding	XPNPEP1	greenyellow	En
+ENSG00000189171	S100A13	S100 calcium binding protein A13 [Source:HGNC Symbol;Acc:HGNC:10490]	ENSG00000189171	GO:0046914	transition metal ion binding	S100A13	greenyellow	En
+ENSG00000141279	NPEPPS	aminopeptidase puromycin sensitive [Source:HGNC Symbol;Acc:HGNC:7900]	ENSG00000141279	GO:0046914	transition metal ion binding	NPEPPS	greenyellow	En
+ENSG00000106605	BLVRA	biliverdin reductase A [Source:HGNC Symbol;Acc:HGNC:1062]	ENSG00000106605	GO:0046914	transition metal ion binding	BLVRA	greenyellow	En
+ENSG00000124767	GLO1	glyoxalase I [Source:HGNC Symbol;Acc:HGNC:4323]	ENSG00000124767	GO:0046914	transition metal ion binding	GLO1	greenyellow	En
+ENSG00000124299	PEPD	peptidase D [Source:HGNC Symbol;Acc:HGNC:8840]	ENSG00000124299	GO:0046914	transition metal ion binding	PEPD	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0072524	pyridine-containing compound metabolic process	TPI1	greenyellow	En
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	ENSG00000014641	GO:0072524	pyridine-containing compound metabolic process	MDH1	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0072524	pyridine-containing compound metabolic process	PNPO	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0072524	pyridine-containing compound metabolic process	G6PD	greenyellow	En
+ENSG00000120694	HSPH1	heat shock 105kDa/110kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:16969]	ENSG00000120694	GO:0005634	nucleus	HSPH1	greenyellow	En
+ENSG00000164022	AIMP1	aminoacyl tRNA synthetase complex-interacting multifunctional protein 1 [Source:HGNC Symbol;Acc:HGNC:10648]	ENSG00000164022	GO:0005634	nucleus	AIMP1	greenyellow	En
+ENSG00000130988	RGN	regucalcin [Source:HGNC Symbol;Acc:HGNC:9989]	ENSG00000130988	GO:0005634	nucleus	RGN	greenyellow	En
+ENSG00000141279	NPEPPS	aminopeptidase puromycin sensitive [Source:HGNC Symbol;Acc:HGNC:7900]	ENSG00000141279	GO:0005634	nucleus	NPEPPS	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:0005634	nucleus	PCBD1	greenyellow	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0005634	nucleus	RUVBL1	greenyellow	En
+ENSG00000185651	UBE2L3	ubiquitin-conjugating enzyme E2L 3 [Source:HGNC Symbol;Acc:HGNC:12488]	ENSG00000185651	GO:0005634	nucleus	UBE2L3	greenyellow	En
+ENSG00000100442	FKBP3	FK506 binding protein 3, 25kDa [Source:HGNC Symbol;Acc:HGNC:3719]	ENSG00000100442	GO:0005634	nucleus	FKBP3	greenyellow	En
+ENSG00000138385	SSB	Sjogren syndrome antigen B (autoantigen La) [Source:HGNC Symbol;Acc:HGNC:11316]	ENSG00000138385	GO:0005634	nucleus	SSB	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0005634	nucleus	TPI1	greenyellow	En
+ENSG00000057757	PITHD1	PITH (C-terminal proteasome-interacting domain of thioredoxin-like) domain containing 1 [Source:HGNC Symbol;Acc:HGNC:25022]	ENSG00000057757	GO:0005634	nucleus	PITHD1	greenyellow	En
+ENSG00000104388	RAB2A	RAB2A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9763]	ENSG00000104388	GO:0005634	nucleus	RAB2A	greenyellow	En
+ENSG00000189171	S100A13	S100 calcium binding protein A13 [Source:HGNC Symbol;Acc:HGNC:10490]	ENSG00000189171	GO:0005634	nucleus	S100A13	greenyellow	En
+ENSG00000136193	SCRN1	secernin 1 [Source:HGNC Symbol;Acc:HGNC:22192]	ENSG00000136193	GO:0005634	nucleus	SCRN1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0005634	nucleus	G6PD	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:0005634	nucleus	MTAP	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:0005634	nucleus	NME1-NME2	greenyellow	En
+ENSG00000116918	TSNAX	translin-associated factor X [Source:HGNC Symbol;Acc:HGNC:12380]	ENSG00000116918	GO:0005634	nucleus	TSNAX	greenyellow	En
+ENSG00000089220	PEBP1	phosphatidylethanolamine binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8630]	ENSG00000089220	GO:0005634	nucleus	PEBP1	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	GO:0005634	nucleus	GOT1	greenyellow	En
+ENSG00000160752	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	ENSG00000160752	GO:0005634	nucleus	FDPS	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:0005634	nucleus	HSPA8	greenyellow	En
+ENSG00000168439	STIP1	stress-induced phosphoprotein 1 [Source:HGNC Symbol;Acc:HGNC:11387]	ENSG00000168439	GO:0005634	nucleus	STIP1	greenyellow	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0005634	nucleus	RPL23A	greenyellow	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0005634	nucleus	PFN1	greenyellow	En
+ENSG00000145293	ENOPH1	enolase-phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:24599]	ENSG00000145293	GO:0005634	nucleus	ENOPH1	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0005634	nucleus	ALDOA	greenyellow	En
+ENSG00000091844	RGS17	regulator of G-protein signaling 17 [Source:HGNC Symbol;Acc:HGNC:14088]	ENSG00000091844	GO:0005634	nucleus	RGS17	greenyellow	En
+ENSG00000089050	RBBP9	retinoblastoma binding protein 9 [Source:HGNC Symbol;Acc:HGNC:9892]	ENSG00000089050	GO:0005634	nucleus	RBBP9	greenyellow	En
+ENSG00000108039	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble [Source:HGNC Symbol;Acc:HGNC:12822]	ENSG00000108039	GO:0008237	metallopeptidase activity	XPNPEP1	greenyellow	En
+ENSG00000172009	THOP1	thimet oligopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:11793]	ENSG00000172009	GO:0008237	metallopeptidase activity	THOP1	greenyellow	En
+ENSG00000141279	NPEPPS	aminopeptidase puromycin sensitive [Source:HGNC Symbol;Acc:HGNC:7900]	ENSG00000141279	GO:0008237	metallopeptidase activity	NPEPPS	greenyellow	En
+ENSG00000124299	PEPD	peptidase D [Source:HGNC Symbol;Acc:HGNC:8840]	ENSG00000124299	GO:0008237	metallopeptidase activity	PEPD	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:0018130	heterocycle biosynthetic process	MPI	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:0018130	heterocycle biosynthetic process	MTAP	greenyellow	En
+ENSG00000196290	NIF3L1	NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:13390]	ENSG00000196290	GO:0018130	heterocycle biosynthetic process	NIF3L1	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:0018130	heterocycle biosynthetic process	HSPA8	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0018130	heterocycle biosynthetic process	ALDOA	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:0018130	heterocycle biosynthetic process	PCBD1	greenyellow	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0018130	heterocycle biosynthetic process	RUVBL1	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:0018130	heterocycle biosynthetic process	NME1-NME2	greenyellow	En
+ENSG00000185651	UBE2L3	ubiquitin-conjugating enzyme E2L 3 [Source:HGNC Symbol;Acc:HGNC:12488]	ENSG00000185651	GO:0018130	heterocycle biosynthetic process	UBE2L3	greenyellow	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0018130	heterocycle biosynthetic process	RPL23A	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0018130	heterocycle biosynthetic process	PNPO	greenyellow	En
+ENSG00000148834	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	ENSG00000148834	GO:0006767	water-soluble vitamin metabolic process	GSTO1	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0006767	water-soluble vitamin metabolic process	PNPO	greenyellow	En
+ENSG00000130988	RGN	regucalcin [Source:HGNC Symbol;Acc:HGNC:9989]	ENSG00000130988	GO:0006767	water-soluble vitamin metabolic process	RGN	greenyellow	En
+ENSG00000057608	GDI2	GDP dissociation inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:4227]	ENSG00000057608	GO:0005092	GDP-dissociation inhibitor activity	GDI2	greenyellow	En
+ENSG00000203879	GDI1	GDP dissociation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:4226]	ENSG00000203879	GO:0005092	GDP-dissociation inhibitor activity	GDI1	greenyellow	En
+ENSG00000141522	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha [Source:HGNC Symbol;Acc:HGNC:678]	ENSG00000141522	GO:0005092	GDP-dissociation inhibitor activity	ARHGDIA	greenyellow	En
+ENSG00000196290	NIF3L1	NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:13390]	ENSG00000196290	GO:0051186	cofactor metabolic process	NIF3L1	greenyellow	En
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	ENSG00000014641	GO:0051186	cofactor metabolic process	MDH1	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:0051186	cofactor metabolic process	PCBD1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0051186	cofactor metabolic process	G6PD	greenyellow	En
+ENSG00000106605	BLVRA	biliverdin reductase A [Source:HGNC Symbol;Acc:HGNC:1062]	ENSG00000106605	GO:0051186	cofactor metabolic process	BLVRA	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0051186	cofactor metabolic process	PNPO	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0051186	cofactor metabolic process	TPI1	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:0090407	organophosphate biosynthetic process	MPI	greenyellow	En
+ENSG00000160752	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	ENSG00000160752	GO:0090407	organophosphate biosynthetic process	FDPS	greenyellow	En
+ENSG00000196290	NIF3L1	NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:13390]	ENSG00000196290	GO:0090407	organophosphate biosynthetic process	NIF3L1	greenyellow	En
+ENSG00000133731	IMPA1	inositol(myo)-1(or 4)-monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050]	ENSG00000133731	GO:0090407	organophosphate biosynthetic process	IMPA1	greenyellow	En
+ENSG00000105655	ISYNA1	inositol-3-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:29821]	ENSG00000105655	GO:0090407	organophosphate biosynthetic process	ISYNA1	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0090407	organophosphate biosynthetic process	ALDOA	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0090407	organophosphate biosynthetic process	G6PD	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:0090407	organophosphate biosynthetic process	NME1-NME2	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0090407	organophosphate biosynthetic process	PNPO	greenyellow	En
+ENSG00000120694	HSPH1	heat shock 105kDa/110kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:16969]	ENSG00000120694	GO:0061077	chaperone-mediated protein folding	HSPH1	greenyellow	En
+ENSG00000100442	FKBP3	FK506 binding protein 3, 25kDa [Source:HGNC Symbol;Acc:HGNC:3719]	ENSG00000100442	GO:0061077	chaperone-mediated protein folding	FKBP3	greenyellow	En
+ENSG00000100380	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein) [Source:HGNC Symbol;Acc:HGNC:11343]	ENSG00000100380	GO:0061077	chaperone-mediated protein folding	ST13	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:0061077	chaperone-mediated protein folding	HSPA8	greenyellow	En
+ENSG00000170606	HSPA4	heat shock 70kDa protein 4 [Source:HGNC Symbol;Acc:HGNC:5237]	ENSG00000170606	GO:0043230	extracellular organelle	HSPA4	greenyellow	En
+ENSG00000113558	SKP1	S-phase kinase-associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	ENSG00000113558	GO:0043230	extracellular organelle	SKP1	greenyellow	En
+ENSG00000100380	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein) [Source:HGNC Symbol;Acc:HGNC:11343]	ENSG00000100380	GO:0043230	extracellular organelle	ST13	greenyellow	En
+ENSG00000189171	S100A13	S100 calcium binding protein A13 [Source:HGNC Symbol;Acc:HGNC:10490]	ENSG00000189171	GO:0043230	extracellular organelle	S100A13	greenyellow	En
+ENSG00000113552	GNPDA1	glucosamine-6-phosphate deaminase 1 [Source:HGNC Symbol;Acc:HGNC:4417]	ENSG00000113552	GO:0043230	extracellular organelle	GNPDA1	greenyellow	En
+ENSG00000167699	GLOD4	glyoxalase domain containing 4 [Source:HGNC Symbol;Acc:HGNC:14111]	ENSG00000167699	GO:0043230	extracellular organelle	GLOD4	greenyellow	En
+ENSG00000079950	STX7	syntaxin 7 [Source:HGNC Symbol;Acc:HGNC:11442]	ENSG00000079950	GO:0043230	extracellular organelle	STX7	greenyellow	En
+ENSG00000120694	HSPH1	heat shock 105kDa/110kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:16969]	ENSG00000120694	GO:0043230	extracellular organelle	HSPH1	greenyellow	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0043230	extracellular organelle	RUVBL1	greenyellow	En
+ENSG00000185651	UBE2L3	ubiquitin-conjugating enzyme E2L 3 [Source:HGNC Symbol;Acc:HGNC:12488]	ENSG00000185651	GO:0043230	extracellular organelle	UBE2L3	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0043230	extracellular organelle	TPI1	greenyellow	En
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	ENSG00000014641	GO:0043230	extracellular organelle	MDH1	greenyellow	En
+ENSG00000133731	IMPA1	inositol(myo)-1(or 4)-monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050]	ENSG00000133731	GO:0043230	extracellular organelle	IMPA1	greenyellow	En
+ENSG00000141522	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha [Source:HGNC Symbol;Acc:HGNC:678]	ENSG00000141522	GO:0043230	extracellular organelle	ARHGDIA	greenyellow	En
+ENSG00000108039	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble [Source:HGNC Symbol;Acc:HGNC:12822]	ENSG00000108039	GO:0043230	extracellular organelle	XPNPEP1	greenyellow	En
+ENSG00000143727	ACP1	acid phosphatase 1, soluble [Source:HGNC Symbol;Acc:HGNC:122]	ENSG00000143727	GO:0043230	extracellular organelle	ACP1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0043230	extracellular organelle	G6PD	greenyellow	En
+ENSG00000148834	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	ENSG00000148834	GO:0043230	extracellular organelle	GSTO1	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:0043230	extracellular organelle	MTAP	greenyellow	En
+ENSG00000106605	BLVRA	biliverdin reductase A [Source:HGNC Symbol;Acc:HGNC:1062]	ENSG00000106605	GO:0043230	extracellular organelle	BLVRA	greenyellow	En
+ENSG00000124767	GLO1	glyoxalase I [Source:HGNC Symbol;Acc:HGNC:4323]	ENSG00000124767	GO:0043230	extracellular organelle	GLO1	greenyellow	En
+ENSG00000084623	EIF3I	eukaryotic translation initiation factor 3, subunit I [Source:HGNC Symbol;Acc:HGNC:3272]	ENSG00000084623	GO:0043230	extracellular organelle	EIF3I	greenyellow	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0043230	extracellular organelle	RPL23A	greenyellow	En
+ENSG00000057608	GDI2	GDP dissociation inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:4227]	ENSG00000057608	GO:0043230	extracellular organelle	GDI2	greenyellow	En
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	ENSG00000102144	GO:0043230	extracellular organelle	PGK1	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	GO:0043230	extracellular organelle	GOT1	greenyellow	En
+ENSG00000162736	NCSTN	nicastrin [Source:HGNC Symbol;Acc:HGNC:17091]	ENSG00000162736	GO:0043230	extracellular organelle	NCSTN	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:0043230	extracellular organelle	NME1-NME2	greenyellow	En
+ENSG00000145293	ENOPH1	enolase-phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:24599]	ENSG00000145293	GO:0043230	extracellular organelle	ENOPH1	greenyellow	En
+ENSG00000168092	PAFAH1B2	platelet-activating factor acetylhydrolase 1b, catalytic subunit 2 (30kDa) [Source:HGNC Symbol;Acc:HGNC:8575]	ENSG00000168092	GO:0043230	extracellular organelle	PAFAH1B2	greenyellow	En
+ENSG00000135932	CAB39	calcium binding protein 39 [Source:HGNC Symbol;Acc:HGNC:20292]	ENSG00000135932	GO:0043230	extracellular organelle	CAB39	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:0043230	extracellular organelle	HSPA8	greenyellow	En
+ENSG00000140945	CDH13	cadherin 13 [Source:HGNC Symbol;Acc:HGNC:1753]	ENSG00000140945	GO:0043230	extracellular organelle	CDH13	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:0043230	extracellular organelle	PCBD1	greenyellow	En
+ENSG00000102898	NUTF2	nuclear transport factor 2 [Source:HGNC Symbol;Acc:HGNC:13722]	ENSG00000102898	GO:0043230	extracellular organelle	NUTF2	greenyellow	En
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	ENSG00000111674	GO:0043230	extracellular organelle	ENO2	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0043230	extracellular organelle	PNPO	greenyellow	En
+ENSG00000089220	PEBP1	phosphatidylethanolamine binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8630]	ENSG00000089220	GO:0043230	extracellular organelle	PEBP1	greenyellow	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0043230	extracellular organelle	PFN1	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:0043230	extracellular organelle	MPI	greenyellow	En
+ENSG00000159251	ACTC1	actin, alpha, cardiac muscle 1 [Source:HGNC Symbol;Acc:HGNC:143]	ENSG00000159251	GO:0043230	extracellular organelle	ACTC1	greenyellow	En
+ENSG00000134330	IAH1	isoamyl acetate-hydrolyzing esterase 1 homolog (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:27696]	ENSG00000134330	GO:0043230	extracellular organelle	IAH1	greenyellow	En
+ENSG00000124299	PEPD	peptidase D [Source:HGNC Symbol;Acc:HGNC:8840]	ENSG00000124299	GO:0043230	extracellular organelle	PEPD	greenyellow	En
+ENSG00000141279	NPEPPS	aminopeptidase puromycin sensitive [Source:HGNC Symbol;Acc:HGNC:7900]	ENSG00000141279	GO:0043230	extracellular organelle	NPEPPS	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0043230	extracellular organelle	ALDOA	greenyellow	En
+ENSG00000089050	RBBP9	retinoblastoma binding protein 9 [Source:HGNC Symbol;Acc:HGNC:9892]	ENSG00000089050	GO:0043230	extracellular organelle	RBBP9	greenyellow	En
+ENSG00000104388	RAB2A	RAB2A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9763]	ENSG00000104388	GO:0043230	extracellular organelle	RAB2A	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0006081	cellular aldehyde metabolic process	TPI1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0006081	cellular aldehyde metabolic process	G6PD	greenyellow	En
+ENSG00000124767	GLO1	glyoxalase I [Source:HGNC Symbol;Acc:HGNC:4323]	ENSG00000124767	GO:0006081	cellular aldehyde metabolic process	GLO1	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0006081	cellular aldehyde metabolic process	PNPO	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:1901137	carbohydrate derivative biosynthetic process	MPI	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:1901137	carbohydrate derivative biosynthetic process	MTAP	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:1901137	carbohydrate derivative biosynthetic process	ALDOA	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:1901137	carbohydrate derivative biosynthetic process	NME1-NME2	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:1901137	carbohydrate derivative biosynthetic process	G6PD	greenyellow	En
+ENSG00000170606	HSPA4	heat shock 70kDa protein 4 [Source:HGNC Symbol;Acc:HGNC:5237]	ENSG00000170606	GO:0005829	cytosol	HSPA4	greenyellow	En
+ENSG00000113558	SKP1	S-phase kinase-associated protein 1 [Source:HGNC Symbol;Acc:HGNC:10899]	ENSG00000113558	GO:0005829	cytosol	SKP1	greenyellow	En
+ENSG00000100380	ST13	suppression of tumorigenicity 13 (colon carcinoma) (Hsp70 interacting protein) [Source:HGNC Symbol;Acc:HGNC:11343]	ENSG00000100380	GO:0005829	cytosol	ST13	greenyellow	En
+ENSG00000189171	S100A13	S100 calcium binding protein A13 [Source:HGNC Symbol;Acc:HGNC:10490]	ENSG00000189171	GO:0005829	cytosol	S100A13	greenyellow	En
+ENSG00000084623	EIF3I	eukaryotic translation initiation factor 3, subunit I [Source:HGNC Symbol;Acc:HGNC:3272]	ENSG00000084623	GO:0005829	cytosol	EIF3I	greenyellow	En
+ENSG00000105655	ISYNA1	inositol-3-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:29821]	ENSG00000105655	GO:0005829	cytosol	ISYNA1	greenyellow	En
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	ENSG00000014641	GO:0005829	cytosol	MDH1	greenyellow	En
+ENSG00000120694	HSPH1	heat shock 105kDa/110kDa protein 1 [Source:HGNC Symbol;Acc:HGNC:16969]	ENSG00000120694	GO:0005829	cytosol	HSPH1	greenyellow	En
+ENSG00000145293	ENOPH1	enolase-phosphatase 1 [Source:HGNC Symbol;Acc:HGNC:24599]	ENSG00000145293	GO:0005829	cytosol	ENOPH1	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0005829	cytosol	TPI1	greenyellow	En
+ENSG00000133731	IMPA1	inositol(myo)-1(or 4)-monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050]	ENSG00000133731	GO:0005829	cytosol	IMPA1	greenyellow	En
+ENSG00000141522	ARHGDIA	Rho GDP dissociation inhibitor (GDI) alpha [Source:HGNC Symbol;Acc:HGNC:678]	ENSG00000141522	GO:0005829	cytosol	ARHGDIA	greenyellow	En
+ENSG00000108039	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble [Source:HGNC Symbol;Acc:HGNC:12822]	ENSG00000108039	GO:0005829	cytosol	XPNPEP1	greenyellow	En
+ENSG00000164022	AIMP1	aminoacyl tRNA synthetase complex-interacting multifunctional protein 1 [Source:HGNC Symbol;Acc:HGNC:10648]	ENSG00000164022	GO:0005829	cytosol	AIMP1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0005829	cytosol	G6PD	greenyellow	En
+ENSG00000148834	GSTO1	glutathione S-transferase omega 1 [Source:HGNC Symbol;Acc:HGNC:13312]	ENSG00000148834	GO:0005829	cytosol	GSTO1	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:0005829	cytosol	MTAP	greenyellow	En
+ENSG00000106605	BLVRA	biliverdin reductase A [Source:HGNC Symbol;Acc:HGNC:1062]	ENSG00000106605	GO:0005829	cytosol	BLVRA	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:0005829	cytosol	NME1-NME2	greenyellow	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0005829	cytosol	RPL23A	greenyellow	En
+ENSG00000057608	GDI2	GDP dissociation inhibitor 2 [Source:HGNC Symbol;Acc:HGNC:4227]	ENSG00000057608	GO:0005829	cytosol	GDI2	greenyellow	En
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	ENSG00000102144	GO:0005829	cytosol	PGK1	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	GO:0005829	cytosol	GOT1	greenyellow	En
+ENSG00000160752	FDPS	farnesyl diphosphate synthase [Source:HGNC Symbol;Acc:HGNC:3631]	ENSG00000160752	GO:0005829	cytosol	FDPS	greenyellow	En
+ENSG00000168092	PAFAH1B2	platelet-activating factor acetylhydrolase 1b, catalytic subunit 2 (30kDa) [Source:HGNC Symbol;Acc:HGNC:8575]	ENSG00000168092	GO:0005829	cytosol	PAFAH1B2	greenyellow	En
+ENSG00000135932	CAB39	calcium binding protein 39 [Source:HGNC Symbol;Acc:HGNC:20292]	ENSG00000135932	GO:0005829	cytosol	CAB39	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:0005829	cytosol	HSPA8	greenyellow	En
+ENSG00000203879	GDI1	GDP dissociation inhibitor 1 [Source:HGNC Symbol;Acc:HGNC:4226]	ENSG00000203879	GO:0005829	cytosol	GDI1	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:0005829	cytosol	PCBD1	greenyellow	En
+ENSG00000102898	NUTF2	nuclear transport factor 2 [Source:HGNC Symbol;Acc:HGNC:13722]	ENSG00000102898	GO:0005829	cytosol	NUTF2	greenyellow	En
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	ENSG00000111674	GO:0005829	cytosol	ENO2	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0005829	cytosol	PNPO	greenyellow	En
+ENSG00000108518	PFN1	profilin 1 [Source:HGNC Symbol;Acc:HGNC:8881]	ENSG00000108518	GO:0005829	cytosol	PFN1	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:0005829	cytosol	MPI	greenyellow	En
+ENSG00000159251	ACTC1	actin, alpha, cardiac muscle 1 [Source:HGNC Symbol;Acc:HGNC:143]	ENSG00000159251	GO:0005829	cytosol	ACTC1	greenyellow	En
+ENSG00000141279	NPEPPS	aminopeptidase puromycin sensitive [Source:HGNC Symbol;Acc:HGNC:7900]	ENSG00000141279	GO:0005829	cytosol	NPEPPS	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0005829	cytosol	ALDOA	greenyellow	En
+ENSG00000133731	IMPA1	inositol(myo)-1(or 4)-monophosphatase 1 [Source:HGNC Symbol;Acc:HGNC:6050]	ENSG00000133731	GO:0016051	carbohydrate biosynthetic process	IMPA1	greenyellow	En
+ENSG00000130988	RGN	regucalcin [Source:HGNC Symbol;Acc:HGNC:9989]	ENSG00000130988	GO:0016051	carbohydrate biosynthetic process	RGN	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0016051	carbohydrate biosynthetic process	ALDOA	greenyellow	En
+ENSG00000105655	ISYNA1	inositol-3-phosphate synthase 1 [Source:HGNC Symbol;Acc:HGNC:29821]	ENSG00000105655	GO:0016051	carbohydrate biosynthetic process	ISYNA1	greenyellow	En
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	ENSG00000014641	GO:0016051	carbohydrate biosynthetic process	MDH1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0016051	carbohydrate biosynthetic process	G6PD	greenyellow	En
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	ENSG00000111674	GO:0016051	carbohydrate biosynthetic process	ENO2	greenyellow	En
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	ENSG00000111669	GO:0016051	carbohydrate biosynthetic process	TPI1	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	GO:0016051	carbohydrate biosynthetic process	GOT1	greenyellow	En
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	ENSG00000102144	GO:0016051	carbohydrate biosynthetic process	PGK1	greenyellow	En
+ENSG00000178802	MPI	mannose phosphate isomerase [Source:HGNC Symbol;Acc:HGNC:7216]	ENSG00000178802	GO:0019438	aromatic compound biosynthetic process	MPI	greenyellow	En
+ENSG00000099810	MTAP	methylthioadenosine phosphorylase [Source:HGNC Symbol;Acc:HGNC:7413]	ENSG00000099810	GO:0019438	aromatic compound biosynthetic process	MTAP	greenyellow	En
+ENSG00000196290	NIF3L1	NIF3 NGG1 interacting factor 3-like 1 (S. cerevisiae) [Source:HGNC Symbol;Acc:HGNC:13390]	ENSG00000196290	GO:0019438	aromatic compound biosynthetic process	NIF3L1	greenyellow	En
+ENSG00000109971	HSPA8	heat shock 70kDa protein 8 [Source:HGNC Symbol;Acc:HGNC:5241]	ENSG00000109971	GO:0019438	aromatic compound biosynthetic process	HSPA8	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0019438	aromatic compound biosynthetic process	ALDOA	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:0019438	aromatic compound biosynthetic process	PCBD1	greenyellow	En
+ENSG00000175792	RUVBL1	RuvB-like AAA ATPase 1 [Source:HGNC Symbol;Acc:HGNC:10474]	ENSG00000175792	GO:0019438	aromatic compound biosynthetic process	RUVBL1	greenyellow	En
+ENSG00000011052	NME2	NME/NM23 nucleoside diphosphate kinase 2 [Source:HGNC Symbol;Acc:HGNC:7850]	ENSG00000011052	GO:0019438	aromatic compound biosynthetic process	NME1-NME2	greenyellow	En
+ENSG00000185651	UBE2L3	ubiquitin-conjugating enzyme E2L 3 [Source:HGNC Symbol;Acc:HGNC:12488]	ENSG00000185651	GO:0019438	aromatic compound biosynthetic process	UBE2L3	greenyellow	En
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	ENSG00000198242	GO:0019438	aromatic compound biosynthetic process	RPL23A	greenyellow	En
+ENSG00000108439	PNPO	pyridoxamine 5'-phosphate oxidase [Source:HGNC Symbol;Acc:HGNC:30260]	ENSG00000108439	GO:0019438	aromatic compound biosynthetic process	PNPO	greenyellow	En
+ENSG00000108039	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble [Source:HGNC Symbol;Acc:HGNC:12822]	ENSG00000108039	GO:0006518	peptide metabolic process	XPNPEP1	greenyellow	En
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	ENSG00000160211	GO:0006518	peptide metabolic process	G6PD	greenyellow	En
+ENSG00000124767	GLO1	glyoxalase I [Source:HGNC Symbol;Acc:HGNC:4323]	ENSG00000124767	GO:0006518	peptide metabolic process	GLO1	greenyellow	En
+ENSG00000162736	NCSTN	nicastrin [Source:HGNC Symbol;Acc:HGNC:17091]	ENSG00000162736	GO:0006518	peptide metabolic process	NCSTN	greenyellow	En
+ENSG00000172009	THOP1	thimet oligopeptidase 1 [Source:HGNC Symbol;Acc:HGNC:11793]	ENSG00000172009	GO:0006518	peptide metabolic process	THOP1	greenyellow	En
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	ENSG00000111674	GO:0016829	lyase activity	ENO2	greenyellow	En
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	ENSG00000120053	GO:0016829	lyase activity	GOT1	greenyellow	En
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	ENSG00000149925	GO:0016829	lyase activity	ALDOA	greenyellow	En
+ENSG00000124767	GLO1	glyoxalase I [Source:HGNC Symbol;Acc:HGNC:4323]	ENSG00000124767	GO:0016829	lyase activity	GLO1	greenyellow	En
+ENSG00000166228	PCBD1	pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha [Source:HGNC Symbol;Acc:HGNC:8646]	ENSG00000166228	GO:0016829	lyase activity	PCBD1	greenyellow	En

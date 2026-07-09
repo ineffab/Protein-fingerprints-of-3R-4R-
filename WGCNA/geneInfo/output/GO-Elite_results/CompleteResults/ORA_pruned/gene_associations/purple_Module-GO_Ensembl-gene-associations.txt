@@ -1,0 +1,841 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0038024	cargo receptor activity	LRPAP1	purple	En
+ENSG00000177575	CD163	CD163 molecule [Source:HGNC Symbol;Acc:HGNC:1631]	ENSG00000177575	GO:0038024	cargo receptor activity	CD163	purple	En
+ENSG00000010327	STAB1	stabilin 1 [Source:HGNC Symbol;Acc:HGNC:18628]	ENSG00000010327	GO:0038024	cargo receptor activity	STAB1	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0006457	protein folding	PDIA6	purple	En
+ENSG00000143256	PFDN2	prefoldin subunit 2 [Source:HGNC Symbol;Acc:HGNC:8867]	ENSG00000143256	GO:0006457	protein folding	PFDN2	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0006457	protein folding	P4HB	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0006457	protein folding	HSP90B1	purple	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0006457	protein folding	TXNDC5	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0006457	protein folding	ERP44	purple	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0006457	protein folding	UGGT1	purple	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0006457	protein folding	GANAB	purple	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0006457	protein folding	PRKCSH	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0006457	protein folding	CANX	purple	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0006457	protein folding	ERP29	purple	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0006457	protein folding	MLEC	purple	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0006457	protein folding	PPIB	purple	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0006457	protein folding	PRDX4	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0006457	protein folding	LMAN1	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0006457	protein folding	PDIA3	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0006457	protein folding	PDIA4	purple	En
+ENSG00000173486	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:HGNC:3718]	ENSG00000173486	GO:0006457	protein folding	FKBP2	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0006457	protein folding	LRPAP1	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0006457	protein folding	CALR	purple	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0005783	endoplasmic reticulum	SERPINH1	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0005783	endoplasmic reticulum	TMED9	purple	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0005783	endoplasmic reticulum	ALDH3A2	purple	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0005783	endoplasmic reticulum	PRKCSH	purple	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0005783	endoplasmic reticulum	UGGT1	purple	En
+ENSG00000173486	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:HGNC:3718]	ENSG00000173486	GO:0005783	endoplasmic reticulum	FKBP2	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0005783	endoplasmic reticulum	PDIA4	purple	En
+ENSG00000138029	HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit [Source:HGNC Symbol;Acc:HGNC:4803]	ENSG00000138029	GO:0005783	endoplasmic reticulum	HADHB	purple	En
+ENSG00000154096	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	ENSG00000154096	GO:0005783	endoplasmic reticulum	THY1	purple	En
+ENSG00000144959	NCEH1	neutral cholesterol ester hydrolase 1 [Source:HGNC Symbol;Acc:HGNC:29260]	ENSG00000144959	GO:0005783	endoplasmic reticulum	NCEH1	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0005783	endoplasmic reticulum	SORL1	purple	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0005783	endoplasmic reticulum	CALU	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0005783	endoplasmic reticulum	CALR	purple	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0005783	endoplasmic reticulum	RPN1	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0005783	endoplasmic reticulum	TMED10	purple	En
+ENSG00000170876	TMEM43	transmembrane protein 43 [Source:HGNC Symbol;Acc:HGNC:28472]	ENSG00000170876	GO:0005783	endoplasmic reticulum	TMEM43	purple	En
+ENSG00000117906	RCN2	reticulocalbin 2, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9935]	ENSG00000117906	GO:0005783	endoplasmic reticulum	RCN2	purple	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0005783	endoplasmic reticulum	ERP29	purple	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0005783	endoplasmic reticulum	NUCB2	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0005783	endoplasmic reticulum	ASPH	purple	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0005783	endoplasmic reticulum	MLEC	purple	En
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	ENSG00000234745	GO:0005783	endoplasmic reticulum	HLA-B	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0005783	endoplasmic reticulum	ATP2A2	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0005783	endoplasmic reticulum	P4HB	purple	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0005783	endoplasmic reticulum	HYOU1	purple	En
+ENSG00000257727	CNPY2	canopy FGF signaling regulator 2 [Source:HGNC Symbol;Acc:HGNC:13529]	ENSG00000257727	GO:0005783	endoplasmic reticulum	CNPY2	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0005783	endoplasmic reticulum	SRI	purple	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0005783	endoplasmic reticulum	PPIB	purple	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0005783	endoplasmic reticulum	PRDX4	purple	En
+ENSG00000176658	MYO1D	myosin ID [Source:HGNC Symbol;Acc:HGNC:7598]	ENSG00000176658	GO:0005783	endoplasmic reticulum	MYO1D	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0005783	endoplasmic reticulum	PDIA3	purple	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0005783	endoplasmic reticulum	ERLIN2	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005783	endoplasmic reticulum	HSPA5	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0005783	endoplasmic reticulum	CAV1	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0005783	endoplasmic reticulum	HSP90B1	purple	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0005783	endoplasmic reticulum	CYB5R3	purple	En
+ENSG00000145050	MANF	mesencephalic astrocyte-derived neurotrophic factor [Source:HGNC Symbol;Acc:HGNC:15461]	ENSG00000145050	GO:0005783	endoplasmic reticulum	MANF	purple	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0005783	endoplasmic reticulum	RCN1	purple	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0005783	endoplasmic reticulum	TXNDC5	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0005783	endoplasmic reticulum	CANX	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0005783	endoplasmic reticulum	PDIA6	purple	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0005783	endoplasmic reticulum	RPN2	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0005783	endoplasmic reticulum	NPC1	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0005783	endoplasmic reticulum	LRPAP1	purple	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0032392	DNA geometric change	XRCC6	purple	En
+ENSG00000185129	PURA	purine-rich element binding protein A [Source:HGNC Symbol;Acc:HGNC:9701]	ENSG00000185129	GO:0032392	DNA geometric change	PURA	purple	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0032392	DNA geometric change	XRCC5	purple	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0043277	apoptotic cell clearance	TXNDC5	purple	En
+ENSG00000123384	LRP1	low density lipoprotein receptor-related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	ENSG00000123384	GO:0043277	apoptotic cell clearance	LRP1	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0043277	apoptotic cell clearance	PDIA6	purple	En
+ENSG00000113719	ERGIC1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1 [Source:HGNC Symbol;Acc:HGNC:29205]	ENSG00000113719	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	ERGIC1	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	LMAN1	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	LMAN2	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	TMED9	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0033116	endoplasmic reticulum-Golgi intermediate compartment membrane	TMED10	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0051100	negative regulation of binding	SRI	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0051100	negative regulation of binding	LRPAP1	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0051100	negative regulation of binding	SORL1	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0051100	negative regulation of binding	CAV1	purple	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0005788	endoplasmic reticulum lumen	SERPINH1	purple	En
+ENSG00000198848	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	ENSG00000198848	GO:0005788	endoplasmic reticulum lumen	CES1	purple	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0005788	endoplasmic reticulum lumen	GANAB	purple	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0005788	endoplasmic reticulum lumen	PRKCSH	purple	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0005788	endoplasmic reticulum lumen	UGGT1	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0005788	endoplasmic reticulum lumen	PDIA4	purple	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0005788	endoplasmic reticulum lumen	TXNDC5	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0005788	endoplasmic reticulum lumen	CALR	purple	En
+ENSG00000163359	COL6A3	collagen, type VI, alpha 3 [Source:HGNC Symbol;Acc:HGNC:2213]	ENSG00000163359	GO:0005788	endoplasmic reticulum lumen	COL6A3	purple	En
+ENSG00000117906	RCN2	reticulocalbin 2, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9935]	ENSG00000117906	GO:0005788	endoplasmic reticulum lumen	RCN2	purple	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0005788	endoplasmic reticulum lumen	ERP29	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0005788	endoplasmic reticulum lumen	ASPH	purple	En
+ENSG00000117862	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:24626]	ENSG00000117862	GO:0005788	endoplasmic reticulum lumen	TXNDC12	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0005788	endoplasmic reticulum lumen	P4HB	purple	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0005788	endoplasmic reticulum lumen	HYOU1	purple	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0005788	endoplasmic reticulum lumen	PPIB	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0005788	endoplasmic reticulum lumen	PDIA3	purple	En
+ENSG00000142156	COL6A1	collagen, type VI, alpha 1 [Source:HGNC Symbol;Acc:HGNC:2211]	ENSG00000142156	GO:0005788	endoplasmic reticulum lumen	COL6A1	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005788	endoplasmic reticulum lumen	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0005788	endoplasmic reticulum lumen	HSP90B1	purple	En
+ENSG00000142173	COL6A2	collagen, type VI, alpha 2 [Source:HGNC Symbol;Acc:HGNC:2212]	ENSG00000142173	GO:0005788	endoplasmic reticulum lumen	COL6A2	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0005788	endoplasmic reticulum lumen	ERP44	purple	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0005788	endoplasmic reticulum lumen	RCN1	purple	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0005788	endoplasmic reticulum lumen	CALU	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0005788	endoplasmic reticulum lumen	CANX	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0005788	endoplasmic reticulum lumen	PDIA6	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0005788	endoplasmic reticulum lumen	LRPAP1	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0005789	endoplasmic reticulum membrane	EGFR	purple	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0005789	endoplasmic reticulum membrane	ANXA7	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0005789	endoplasmic reticulum membrane	TMED9	purple	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0005789	endoplasmic reticulum membrane	ALDH3A2	purple	En
+ENSG00000143819	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic) [Source:HGNC Symbol;Acc:HGNC:3401]	ENSG00000143819	GO:0005789	endoplasmic reticulum membrane	EPHX1	purple	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0005789	endoplasmic reticulum membrane	HSD17B12	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0005789	endoplasmic reticulum membrane	LMAN1	purple	En
+ENSG00000173486	FKBP2	FK506 binding protein 2, 13kDa [Source:HGNC Symbol;Acc:HGNC:3718]	ENSG00000173486	GO:0005789	endoplasmic reticulum membrane	FKBP2	purple	En
+ENSG00000148660	CAMK2G	calcium/calmodulin-dependent protein kinase II gamma [Source:HGNC Symbol;Acc:HGNC:1463]	ENSG00000148660	GO:0005789	endoplasmic reticulum membrane	CAMK2G	purple	En
+ENSG00000113719	ERGIC1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1 [Source:HGNC Symbol;Acc:HGNC:29205]	ENSG00000113719	GO:0005789	endoplasmic reticulum membrane	ERGIC1	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0005789	endoplasmic reticulum membrane	SORT1	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0005789	endoplasmic reticulum membrane	LMAN2	purple	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0005789	endoplasmic reticulum membrane	RPN1	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0005789	endoplasmic reticulum membrane	TMED10	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0005789	endoplasmic reticulum membrane	ASPH	purple	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0005789	endoplasmic reticulum membrane	MLEC	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0005789	endoplasmic reticulum membrane	ATP2A2	purple	En
+ENSG00000185813	PCYT2	phosphate cytidylyltransferase 2, ethanolamine [Source:HGNC Symbol;Acc:HGNC:8756]	ENSG00000185813	GO:0005789	endoplasmic reticulum membrane	PCYT2	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0005789	endoplasmic reticulum membrane	SRI	purple	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0005789	endoplasmic reticulum membrane	ERLIN2	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005789	endoplasmic reticulum membrane	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0005789	endoplasmic reticulum membrane	HSP90B1	purple	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0005789	endoplasmic reticulum membrane	CYB5R3	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0005789	endoplasmic reticulum membrane	ERP44	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0005789	endoplasmic reticulum membrane	CANX	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0005789	endoplasmic reticulum membrane	PDIA6	purple	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0005789	endoplasmic reticulum membrane	RPN2	purple	En
+ENSG00000144959	NCEH1	neutral cholesterol ester hydrolase 1 [Source:HGNC Symbol;Acc:HGNC:29260]	ENSG00000144959	GO:0006805	xenobiotic metabolic process	NCEH1	purple	En
+ENSG00000189221	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	ENSG00000189221	GO:0006805	xenobiotic metabolic process	MAOA	purple	En
+ENSG00000101444	AHCY	adenosylhomocysteinase [Source:HGNC Symbol;Acc:HGNC:343]	ENSG00000101444	GO:0006805	xenobiotic metabolic process	AHCY	purple	En
+ENSG00000120915	EPHX2	epoxide hydrolase 2, cytoplasmic [Source:HGNC Symbol;Acc:HGNC:3402]	ENSG00000120915	GO:0006805	xenobiotic metabolic process	EPHX2	purple	En
+ENSG00000154930	ACSS1	acyl-CoA synthetase short-chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091]	ENSG00000154930	GO:0006805	xenobiotic metabolic process	ACSS1	purple	En
+ENSG00000168906	MAT2A	methionine adenosyltransferase II, alpha [Source:HGNC Symbol;Acc:HGNC:6904]	ENSG00000168906	GO:0006805	xenobiotic metabolic process	MAT2A	purple	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0006805	xenobiotic metabolic process	COMT	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0006099	tricarboxylic acid cycle	SDHB	purple	En
+ENSG00000105953	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide) [Source:HGNC Symbol;Acc:HGNC:8124]	ENSG00000105953	GO:0006099	tricarboxylic acid cycle	OGDH	purple	En
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	ENSG00000073578	GO:0006099	tricarboxylic acid cycle	SDHA	purple	En
+ENSG00000150768	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	ENSG00000150768	GO:0006099	tricarboxylic acid cycle	DLAT	purple	En
+ENSG00000168291	PDHB	pyruvate dehydrogenase (lipoamide) beta [Source:HGNC Symbol;Acc:HGNC:8808]	ENSG00000168291	GO:0006099	tricarboxylic acid cycle	PDHB	purple	En
+ENSG00000143256	PFDN2	prefoldin subunit 2 [Source:HGNC Symbol;Acc:HGNC:8867]	ENSG00000143256	GO:0051082	unfolded protein binding	PFDN2	purple	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0051082	unfolded protein binding	SERPINH1	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0051082	unfolded protein binding	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0051082	unfolded protein binding	HSP90B1	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0051082	unfolded protein binding	CALR	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0051082	unfolded protein binding	CANX	purple	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0051082	unfolded protein binding	PPIB	purple	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0051082	unfolded protein binding	UGGT1	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0051082	unfolded protein binding	LMAN1	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0051082	unfolded protein binding	LRPAP1	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0007041	lysosomal transport	NPC1	purple	En
+ENSG00000003056	M6PR	mannose-6-phosphate receptor (cation dependent) [Source:HGNC Symbol;Acc:HGNC:6752]	ENSG00000003056	GO:0007041	lysosomal transport	M6PR	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0007041	lysosomal transport	SORL1	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0007041	lysosomal transport	SORT1	purple	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0009651	response to salt stress	XRCC6	purple	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0009651	response to salt stress	XRCC5	purple	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0009651	response to salt stress	ANXA7	purple	En
+ENSG00000100075	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:10979]	ENSG00000100075	GO:0005342	organic acid transmembrane transporter activity	SLC25A1	purple	En
+ENSG00000108528	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	ENSG00000108528	GO:0005342	organic acid transmembrane transporter activity	SLC25A11	purple	En
+ENSG00000132164	SLC6A11	solute carrier family 6 (neurotransmitter transporter), member 11 [Source:HGNC Symbol;Acc:HGNC:11044]	ENSG00000132164	GO:0005342	organic acid transmembrane transporter activity	SLC6A11	purple	En
+ENSG00000079215	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	ENSG00000079215	GO:0005342	organic acid transmembrane transporter activity	SLC1A3	purple	En
+ENSG00000115840	SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	ENSG00000115840	GO:0005342	organic acid transmembrane transporter activity	SLC25A12	purple	En
+ENSG00000113719	ERGIC1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1 [Source:HGNC Symbol;Acc:HGNC:29205]	ENSG00000113719	GO:0000139	Golgi membrane	ERGIC1	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0000139	Golgi membrane	EGFR	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0000139	Golgi membrane	TMED9	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0000139	Golgi membrane	CAV1	purple	En
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	ENSG00000234745	GO:0000139	Golgi membrane	HLA-B	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0000139	Golgi membrane	SORT1	purple	En
+ENSG00000090863	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	ENSG00000090863	GO:0000139	Golgi membrane	GLG1	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0000139	Golgi membrane	LMAN2	purple	En
+ENSG00000154917	RAB6B	RAB6B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14902]	ENSG00000154917	GO:0000139	Golgi membrane	RAB6B	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0000139	Golgi membrane	TMED10	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0000139	Golgi membrane	LMAN1	purple	En
+ENSG00000196535	MYO18A	myosin XVIIIA [Source:HGNC Symbol;Acc:HGNC:31104]	ENSG00000196535	GO:0000139	Golgi membrane	MYO18A	purple	En
+ENSG00000034713	GABARAPL2	GABA(A) receptor-associated protein-like 2 [Source:HGNC Symbol;Acc:HGNC:13291]	ENSG00000034713	GO:0000139	Golgi membrane	GABARAPL2	purple	En
+ENSG00000108528	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	ENSG00000108528	GO:0031226	intrinsic component of plasma membrane	SLC25A11	purple	En
+ENSG00000132164	SLC6A11	solute carrier family 6 (neurotransmitter transporter), member 11 [Source:HGNC Symbol;Acc:HGNC:11044]	ENSG00000132164	GO:0031226	intrinsic component of plasma membrane	SLC6A11	purple	En
+ENSG00000177575	CD163	CD163 molecule [Source:HGNC Symbol;Acc:HGNC:1631]	ENSG00000177575	GO:0031226	intrinsic component of plasma membrane	CD163	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0031226	intrinsic component of plasma membrane	SORL1	purple	En
+ENSG00000168959	GRM5	glutamate receptor, metabotropic 5 [Source:HGNC Symbol;Acc:HGNC:4597]	ENSG00000168959	GO:0031226	intrinsic component of plasma membrane	GRM5	purple	En
+ENSG00000154096	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	ENSG00000154096	GO:0031226	intrinsic component of plasma membrane	THY1	purple	En
+ENSG00000257727	CNPY2	canopy FGF signaling regulator 2 [Source:HGNC Symbol;Acc:HGNC:13529]	ENSG00000257727	GO:0031226	intrinsic component of plasma membrane	CNPY2	purple	En
+ENSG00000010327	STAB1	stabilin 1 [Source:HGNC Symbol;Acc:HGNC:18628]	ENSG00000010327	GO:0031226	intrinsic component of plasma membrane	STAB1	purple	En
+ENSG00000151729	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	ENSG00000151729	GO:0031226	intrinsic component of plasma membrane	SLC25A4	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0031226	intrinsic component of plasma membrane	LMAN2	purple	En
+ENSG00000004939	SLC4A1	solute carrier family 4 (anion exchanger), member 1 (Diego blood group) [Source:HGNC Symbol;Acc:HGNC:11027]	ENSG00000004939	GO:0031226	intrinsic component of plasma membrane	SLC4A1	purple	En
+ENSG00000145864	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2 [Source:HGNC Symbol;Acc:HGNC:4082]	ENSG00000145864	GO:0031226	intrinsic component of plasma membrane	GABRB2	purple	En
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	ENSG00000234745	GO:0031226	intrinsic component of plasma membrane	HLA-B	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0031226	intrinsic component of plasma membrane	ATP2A2	purple	En
+ENSG00000003056	M6PR	mannose-6-phosphate receptor (cation dependent) [Source:HGNC Symbol;Acc:HGNC:6752]	ENSG00000003056	GO:0031226	intrinsic component of plasma membrane	M6PR	purple	En
+ENSG00000260314	MRC1	mannose receptor, C type 1 [Source:HGNC Symbol;Acc:HGNC:7228]	ENSG00000260314	GO:0031226	intrinsic component of plasma membrane	MRC1	purple	En
+ENSG00000165457	FOLR2	folate receptor 2 (fetal) [Source:HGNC Symbol;Acc:HGNC:3793]	ENSG00000165457	GO:0031226	intrinsic component of plasma membrane	FOLR2	purple	En
+ENSG00000183715	OPCML	opioid binding protein/cell adhesion molecule-like [Source:HGNC Symbol;Acc:HGNC:8143]	ENSG00000183715	GO:0031226	intrinsic component of plasma membrane	OPCML	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0031226	intrinsic component of plasma membrane	CAV1	purple	En
+ENSG00000113441	LNPEP	leucyl/cystinyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:6656]	ENSG00000113441	GO:0031226	intrinsic component of plasma membrane	LNPEP	purple	En
+ENSG00000113721	PDGFRB	platelet-derived growth factor receptor, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8804]	ENSG00000113721	GO:0031226	intrinsic component of plasma membrane	PDGFRB	purple	En
+ENSG00000075415	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	ENSG00000075415	GO:0031226	intrinsic component of plasma membrane	SLC25A3	purple	En
+ENSG00000123384	LRP1	low density lipoprotein receptor-related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	ENSG00000123384	GO:0031226	intrinsic component of plasma membrane	LRP1	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0031226	intrinsic component of plasma membrane	NPC1	purple	En
+ENSG00000187244	BCAM	basal cell adhesion molecule (Lutheran blood group) [Source:HGNC Symbol;Acc:HGNC:6722]	ENSG00000187244	GO:0031226	intrinsic component of plasma membrane	BCAM	purple	En
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	ENSG00000234745	GO:0031227	intrinsic component of endoplasmic reticulum membrane	HLA-B	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0031227	intrinsic component of endoplasmic reticulum membrane	CANX	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0031227	intrinsic component of endoplasmic reticulum membrane	CALR	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0031227	intrinsic component of endoplasmic reticulum membrane	HSPA5	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0031227	intrinsic component of endoplasmic reticulum membrane	ASPH	purple	En
+ENSG00000168291	PDHB	pyruvate dehydrogenase (lipoamide) beta [Source:HGNC Symbol;Acc:HGNC:8808]	ENSG00000168291	GO:0042762	regulation of sulfur metabolic process	PDHB	purple	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0042762	regulation of sulfur metabolic process	COMT	purple	En
+ENSG00000150768	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	ENSG00000150768	GO:0042762	regulation of sulfur metabolic process	DLAT	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0006984	ER-nucleus signaling pathway	ATP2A2	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0006984	ER-nucleus signaling pathway	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0006984	ER-nucleus signaling pathway	HSP90B1	purple	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0006984	ER-nucleus signaling pathway	HYOU1	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0006984	ER-nucleus signaling pathway	CALR	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0006984	ER-nucleus signaling pathway	PDIA6	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0051604	protein maturation	CALR	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0051604	protein maturation	SORL1	purple	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0051604	protein maturation	SERPINH1	purple	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0051604	protein maturation	PRDX4	purple	En
+ENSG00000213585	VDAC1	voltage-dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	ENSG00000213585	GO:0046930	pore complex	VDAC1	purple	En
+ENSG00000165637	VDAC2	voltage-dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	ENSG00000165637	GO:0046930	pore complex	VDAC2	purple	En
+ENSG00000197879	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	ENSG00000197879	GO:0046930	pore complex	MYO1C	purple	En
+ENSG00000078668	VDAC3	voltage-dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	ENSG00000078668	GO:0046930	pore complex	VDAC3	purple	En
+ENSG00000142173	COL6A2	collagen, type VI, alpha 2 [Source:HGNC Symbol;Acc:HGNC:2212]	ENSG00000142173	GO:0005581	collagen trimer	COL6A2	purple	En
+ENSG00000163359	COL6A3	collagen, type VI, alpha 3 [Source:HGNC Symbol;Acc:HGNC:2213]	ENSG00000163359	GO:0005581	collagen trimer	COL6A3	purple	En
+ENSG00000142156	COL6A1	collagen, type VI, alpha 1 [Source:HGNC Symbol;Acc:HGNC:2211]	ENSG00000142156	GO:0005581	collagen trimer	COL6A1	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0070469	respiratory chain	UQCRB	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0070469	respiratory chain	UQCRC1	purple	En
+ENSG00000179091	CYC1	cytochrome c-1 [Source:HGNC Symbol;Acc:HGNC:2579]	ENSG00000179091	GO:0070469	respiratory chain	CYC1	purple	En
+ENSG00000120915	EPHX2	epoxide hydrolase 2, cytoplasmic [Source:HGNC Symbol;Acc:HGNC:3402]	ENSG00000120915	GO:0016801	hydrolase activity, acting on ether bonds	EPHX2	purple	En
+ENSG00000101444	AHCY	adenosylhomocysteinase [Source:HGNC Symbol;Acc:HGNC:343]	ENSG00000101444	GO:0016801	hydrolase activity, acting on ether bonds	AHCY	purple	En
+ENSG00000143819	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic) [Source:HGNC Symbol;Acc:HGNC:3401]	ENSG00000143819	GO:0016801	hydrolase activity, acting on ether bonds	EPHX1	purple	En
+ENSG00000075415	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	ENSG00000075415	GO:0008509	anion transmembrane transporter activity	SLC25A3	purple	En
+ENSG00000108528	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	ENSG00000108528	GO:0008509	anion transmembrane transporter activity	SLC25A11	purple	En
+ENSG00000132164	SLC6A11	solute carrier family 6 (neurotransmitter transporter), member 11 [Source:HGNC Symbol;Acc:HGNC:11044]	ENSG00000132164	GO:0008509	anion transmembrane transporter activity	SLC6A11	purple	En
+ENSG00000115840	SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	ENSG00000115840	GO:0008509	anion transmembrane transporter activity	SLC25A12	purple	En
+ENSG00000165637	VDAC2	voltage-dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	ENSG00000165637	GO:0008509	anion transmembrane transporter activity	VDAC2	purple	En
+ENSG00000004939	SLC4A1	solute carrier family 4 (anion exchanger), member 1 (Diego blood group) [Source:HGNC Symbol;Acc:HGNC:11027]	ENSG00000004939	GO:0008509	anion transmembrane transporter activity	SLC4A1	purple	En
+ENSG00000145864	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2 [Source:HGNC Symbol;Acc:HGNC:4082]	ENSG00000145864	GO:0008509	anion transmembrane transporter activity	GABRB2	purple	En
+ENSG00000100075	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:10979]	ENSG00000100075	GO:0008509	anion transmembrane transporter activity	SLC25A1	purple	En
+ENSG00000213585	VDAC1	voltage-dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	ENSG00000213585	GO:0008509	anion transmembrane transporter activity	VDAC1	purple	En
+ENSG00000079215	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	ENSG00000079215	GO:0008509	anion transmembrane transporter activity	SLC1A3	purple	En
+ENSG00000116005	PCYOX1	prenylcysteine oxidase 1 [Source:HGNC Symbol;Acc:HGNC:20588]	ENSG00000116005	GO:0008509	anion transmembrane transporter activity	PCYOX1	purple	En
+ENSG00000078668	VDAC3	voltage-dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	ENSG00000078668	GO:0008509	anion transmembrane transporter activity	VDAC3	purple	En
+ENSG00000085491	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	ENSG00000085491	GO:0008509	anion transmembrane transporter activity	SLC25A24	purple	En
+ENSG00000124140	SLC12A5	solute carrier family 12 (potassium/chloride transporter), member 5 [Source:HGNC Symbol;Acc:HGNC:13818]	ENSG00000124140	GO:0008509	anion transmembrane transporter activity	SLC12A5	purple	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0005811	lipid particle	CYB5R3	purple	En
+ENSG00000143653	SCCPDH	saccharopine dehydrogenase (putative) [Source:HGNC Symbol;Acc:HGNC:24275]	ENSG00000143653	GO:0005811	lipid particle	SCCPDH	purple	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0005811	lipid particle	EHD1	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0005811	lipid particle	CAV1	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0005811	lipid particle	ANXA2	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0009636	response to toxic substance	HSPA5	purple	En
+ENSG00000198848	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	ENSG00000198848	GO:0009636	response to toxic substance	CES1	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0009636	response to toxic substance	UQCRFS1	purple	En
+ENSG00000120915	EPHX2	epoxide hydrolase 2, cytoplasmic [Source:HGNC Symbol;Acc:HGNC:3402]	ENSG00000120915	GO:0009636	response to toxic substance	EPHX2	purple	En
+ENSG00000113721	PDGFRB	platelet-derived growth factor receptor, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8804]	ENSG00000113721	GO:0009636	response to toxic substance	PDGFRB	purple	En
+ENSG00000143819	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic) [Source:HGNC Symbol;Acc:HGNC:3401]	ENSG00000143819	GO:0009636	response to toxic substance	EPHX1	purple	En
+ENSG00000079215	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	ENSG00000079215	GO:0009636	response to toxic substance	SLC1A3	purple	En
+ENSG00000115159	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:4456]	ENSG00000115159	GO:0005739	mitochondrion	GPD2	purple	En
+ENSG00000108528	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	ENSG00000108528	GO:0005739	mitochondrion	SLC25A11	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0005739	mitochondrion	UQCRFS1	purple	En
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	ENSG00000167792	GO:0005739	mitochondrion	NDUFV1	purple	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0005739	mitochondrion	ALDH3A2	purple	En
+ENSG00000115840	SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	ENSG00000115840	GO:0005739	mitochondrion	SLC25A12	purple	En
+ENSG00000165637	VDAC2	voltage-dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	ENSG00000165637	GO:0005739	mitochondrion	VDAC2	purple	En
+ENSG00000132305	IMMT	inner membrane protein, mitochondrial [Source:HGNC Symbol;Acc:HGNC:6047]	ENSG00000132305	GO:0005739	mitochondrion	IMMT	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0005739	mitochondrion	SDHB	purple	En
+ENSG00000213585	VDAC1	voltage-dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	ENSG00000213585	GO:0005739	mitochondrion	VDAC1	purple	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0005739	mitochondrion	CPT1A	purple	En
+ENSG00000164466	SFXN1	sideroflexin 1 [Source:HGNC Symbol;Acc:HGNC:16085]	ENSG00000164466	GO:0005739	mitochondrion	SFXN1	purple	En
+ENSG00000078668	VDAC3	voltage-dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	ENSG00000078668	GO:0005739	mitochondrion	VDAC3	purple	En
+ENSG00000085491	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	ENSG00000085491	GO:0005739	mitochondrion	SLC25A24	purple	En
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	ENSG00000213619	GO:0005739	mitochondrion	NDUFS3	purple	En
+ENSG00000138029	HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit [Source:HGNC Symbol;Acc:HGNC:4803]	ENSG00000138029	GO:0005739	mitochondrion	HADHB	purple	En
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	ENSG00000128609	GO:0005739	mitochondrion	NDUFA5	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:0005739	mitochondrion	UQCRC2	purple	En
+ENSG00000143256	PFDN2	prefoldin subunit 2 [Source:HGNC Symbol;Acc:HGNC:8867]	ENSG00000143256	GO:0005739	mitochondrion	PFDN2	purple	En
+ENSG00000197879	MYO1C	myosin IC [Source:HGNC Symbol;Acc:HGNC:7597]	ENSG00000197879	GO:0005739	mitochondrion	MYO1C	purple	En
+ENSG00000151729	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	ENSG00000151729	GO:0005739	mitochondrion	SLC25A4	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0005739	mitochondrion	NDUFS1	purple	En
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	ENSG00000147684	GO:0005739	mitochondrion	NDUFB9	purple	En
+ENSG00000179091	CYC1	cytochrome c-1 [Source:HGNC Symbol;Acc:HGNC:2579]	ENSG00000179091	GO:0005739	mitochondrion	CYC1	purple	En
+ENSG00000100075	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:10979]	ENSG00000100075	GO:0005739	mitochondrion	SLC25A1	purple	En
+ENSG00000215021	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:HGNC:30306]	ENSG00000215021	GO:0005739	mitochondrion	PHB2	purple	En
+ENSG00000159348	CYB5R1	cytochrome b5 reductase 1 [Source:HGNC Symbol;Acc:HGNC:13397]	ENSG00000159348	GO:0005739	mitochondrion	CYB5R1	purple	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0005739	mitochondrion	COMT	purple	En
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	ENSG00000178741	GO:0005739	mitochondrion	COX5A	purple	En
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	ENSG00000168653	GO:0005739	mitochondrion	NDUFS5	purple	En
+ENSG00000109919	MTCH2	mitochondrial carrier 2 [Source:HGNC Symbol;Acc:HGNC:17587]	ENSG00000109919	GO:0005739	mitochondrion	MTCH2	purple	En
+ENSG00000154930	ACSS1	acyl-CoA synthetase short-chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091]	ENSG00000154930	GO:0005739	mitochondrion	ACSS1	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0005739	mitochondrion	SRI	purple	En
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	ENSG00000158864	GO:0005739	mitochondrion	NDUFS2	purple	En
+ENSG00000122873	CISD1	CDGSH iron sulfur domain 1 [Source:HGNC Symbol;Acc:HGNC:30880]	ENSG00000122873	GO:0005739	mitochondrion	CISD1	purple	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0005739	mitochondrion	PRDX4	purple	En
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	ENSG00000178127	GO:0005739	mitochondrion	NDUFV2	purple	En
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	ENSG00000131495	GO:0005739	mitochondrion	NDUFA2	purple	En
+ENSG00000107819	SFXN3	sideroflexin 3 [Source:HGNC Symbol;Acc:HGNC:16087]	ENSG00000107819	GO:0005739	mitochondrion	SFXN3	purple	En
+ENSG00000168291	PDHB	pyruvate dehydrogenase (lipoamide) beta [Source:HGNC Symbol;Acc:HGNC:8808]	ENSG00000168291	GO:0005739	mitochondrion	PDHB	purple	En
+ENSG00000105854	PON2	paraoxonase 2 [Source:HGNC Symbol;Acc:HGNC:9205]	ENSG00000105854	GO:0005739	mitochondrion	PON2	purple	En
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	ENSG00000126267	GO:0005739	mitochondrion	COX6B1	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0005739	mitochondrion	UQCRC1	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005739	mitochondrion	HSPA5	purple	En
+ENSG00000134333	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	ENSG00000134333	GO:0005739	mitochondrion	LDHA	purple	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0005739	mitochondrion	CYB5R3	purple	En
+ENSG00000189221	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	ENSG00000189221	GO:0005739	mitochondrion	MAOA	purple	En
+ENSG00000184047	DIABLO	diablo, IAP-binding mitochondrial protein [Source:HGNC Symbol;Acc:HGNC:21528]	ENSG00000184047	GO:0005739	mitochondrion	DIABLO	purple	En
+ENSG00000105953	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide) [Source:HGNC Symbol;Acc:HGNC:8124]	ENSG00000105953	GO:0005739	mitochondrion	OGDH	purple	En
+ENSG00000198836	OPA1	optic atrophy 1 (autosomal dominant) [Source:HGNC Symbol;Acc:HGNC:8140]	ENSG00000198836	GO:0005739	mitochondrion	OPA1	purple	En
+ENSG00000075415	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	ENSG00000075415	GO:0005739	mitochondrion	SLC25A3	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0005739	mitochondrion	UQCRB	purple	En
+ENSG00000150768	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	ENSG00000150768	GO:0005739	mitochondrion	DLAT	purple	En
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	ENSG00000131143	GO:0005739	mitochondrion	COX4I1	purple	En
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	ENSG00000135940	GO:0005739	mitochondrion	COX5B	purple	En
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	ENSG00000073578	GO:0005739	mitochondrion	SDHA	purple	En
+ENSG00000143653	SCCPDH	saccharopine dehydrogenase (putative) [Source:HGNC Symbol;Acc:HGNC:24275]	ENSG00000143653	GO:0005739	mitochondrion	SCCPDH	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0031579	membrane raft organization	NPC1	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0031579	membrane raft organization	CAV1	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0031579	membrane raft organization	ANXA2	purple	En
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	ENSG00000128609	GO:0044455	mitochondrial membrane part	NDUFA5	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:0044455	mitochondrial membrane part	UQCRC2	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0044455	mitochondrial membrane part	UQCRC1	purple	En
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	ENSG00000168653	GO:0044455	mitochondrial membrane part	NDUFS5	purple	En
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	ENSG00000139180	GO:0044455	mitochondrial membrane part	NDUFA9	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0044455	mitochondrial membrane part	NDUFS1	purple	En
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	ENSG00000147684	GO:0044455	mitochondrial membrane part	NDUFB9	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0044455	mitochondrial membrane part	UQCRFS1	purple	En
+ENSG00000198836	OPA1	optic atrophy 1 (autosomal dominant) [Source:HGNC Symbol;Acc:HGNC:8140]	ENSG00000198836	GO:0044455	mitochondrial membrane part	OPA1	purple	En
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	ENSG00000131495	GO:0044455	mitochondrial membrane part	NDUFA2	purple	En
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	ENSG00000158864	GO:0044455	mitochondrial membrane part	NDUFS2	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0044455	mitochondrial membrane part	UQCRB	purple	En
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	ENSG00000073578	GO:0044455	mitochondrial membrane part	SDHA	purple	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0044455	mitochondrial membrane part	CPT1A	purple	En
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	ENSG00000167792	GO:0044455	mitochondrial membrane part	NDUFV1	purple	En
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	ENSG00000178127	GO:0044455	mitochondrial membrane part	NDUFV2	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0044455	mitochondrial membrane part	SDHB	purple	En
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	ENSG00000213619	GO:0044455	mitochondrial membrane part	NDUFS3	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0034976	response to endoplasmic reticulum stress	P4HB	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0034976	response to endoplasmic reticulum stress	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0034976	response to endoplasmic reticulum stress	HSP90B1	purple	En
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	ENSG00000149428	GO:0034976	response to endoplasmic reticulum stress	HYOU1	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0034976	response to endoplasmic reticulum stress	ERP44	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0034976	response to endoplasmic reticulum stress	CALR	purple	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0034976	response to endoplasmic reticulum stress	TXNDC5	purple	En
+ENSG00000078140	UBE2K	ubiquitin-conjugating enzyme E2K [Source:HGNC Symbol;Acc:HGNC:4914]	ENSG00000078140	GO:0034976	response to endoplasmic reticulum stress	UBE2K	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0034976	response to endoplasmic reticulum stress	PDIA6	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0034976	response to endoplasmic reticulum stress	PDIA3	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0034976	response to endoplasmic reticulum stress	PDIA4	purple	En
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	ENSG00000128609	GO:0022900	electron transport chain	NDUFA5	purple	En
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	ENSG00000178741	GO:0022900	electron transport chain	COX5A	purple	En
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	ENSG00000126267	GO:0022900	electron transport chain	COX6B1	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0022900	electron transport chain	UQCRFS1	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0022900	electron transport chain	UQCRC1	purple	En
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	ENSG00000168653	GO:0022900	electron transport chain	NDUFS5	purple	En
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	ENSG00000139180	GO:0022900	electron transport chain	NDUFA9	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0022900	electron transport chain	NDUFS1	purple	En
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	ENSG00000147684	GO:0022900	electron transport chain	NDUFB9	purple	En
+ENSG00000179091	CYC1	cytochrome c-1 [Source:HGNC Symbol;Acc:HGNC:2579]	ENSG00000179091	GO:0022900	electron transport chain	CYC1	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:0022900	electron transport chain	UQCRC2	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0022900	electron transport chain	SDHB	purple	En
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	ENSG00000158864	GO:0022900	electron transport chain	NDUFS2	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0022900	electron transport chain	UQCRB	purple	En
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	ENSG00000073578	GO:0022900	electron transport chain	SDHA	purple	En
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	ENSG00000131143	GO:0022900	electron transport chain	COX4I1	purple	En
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	ENSG00000135940	GO:0022900	electron transport chain	COX5B	purple	En
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	ENSG00000167792	GO:0022900	electron transport chain	NDUFV1	purple	En
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	ENSG00000178127	GO:0022900	electron transport chain	NDUFV2	purple	En
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	ENSG00000131495	GO:0022900	electron transport chain	NDUFA2	purple	En
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	ENSG00000213619	GO:0022900	electron transport chain	NDUFS3	purple	En
+ENSG00000115159	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:4456]	ENSG00000115159	GO:0005509	calcium ion binding	GPD2	purple	En
+ENSG00000138279	ANXA7	annexin A7 [Source:HGNC Symbol;Acc:HGNC:545]	ENSG00000138279	GO:0005509	calcium ion binding	ANXA7	purple	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0005509	calcium ion binding	EHD1	purple	En
+ENSG00000163191	S100A11	S100 calcium binding protein A11 [Source:HGNC Symbol;Acc:HGNC:10488]	ENSG00000163191	GO:0005509	calcium ion binding	S100A11	purple	En
+ENSG00000085491	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	ENSG00000085491	GO:0005509	calcium ion binding	SLC25A24	purple	En
+ENSG00000104805	NUCB1	nucleobindin 1 [Source:HGNC Symbol;Acc:HGNC:8043]	ENSG00000104805	GO:0005509	calcium ion binding	NUCB1	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0005509	calcium ion binding	PDIA4	purple	En
+ENSG00000010327	STAB1	stabilin 1 [Source:HGNC Symbol;Acc:HGNC:18628]	ENSG00000010327	GO:0005509	calcium ion binding	STAB1	purple	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0005509	calcium ion binding	CALU	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0005509	calcium ion binding	CALR	purple	En
+ENSG00000086289	EPDR1	ependymin related 1 [Source:HGNC Symbol;Acc:HGNC:17572]	ENSG00000086289	GO:0005509	calcium ion binding	EPDR1	purple	En
+ENSG00000117906	RCN2	reticulocalbin 2, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9935]	ENSG00000117906	GO:0005509	calcium ion binding	RCN2	purple	En
+ENSG00000152583	SPARCL1	SPARC-like 1 (hevin) [Source:HGNC Symbol;Acc:HGNC:11220]	ENSG00000152583	GO:0005509	calcium ion binding	SPARCL1	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0005509	calcium ion binding	ASPH	purple	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0005509	calcium ion binding	PRKCSH	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0005509	calcium ion binding	P4HB	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0005509	calcium ion binding	SRI	purple	En
+ENSG00000115840	SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	ENSG00000115840	GO:0005509	calcium ion binding	SLC25A12	purple	En
+ENSG00000166147	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	ENSG00000166147	GO:0005509	calcium ion binding	FBN1	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005509	calcium ion binding	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0005509	calcium ion binding	HSP90B1	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0005509	calcium ion binding	ERP44	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0005509	calcium ion binding	ANXA2	purple	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0005509	calcium ion binding	RCN1	purple	En
+ENSG00000123384	LRP1	low density lipoprotein receptor-related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	ENSG00000123384	GO:0005509	calcium ion binding	LRP1	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0005509	calcium ion binding	CANX	purple	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0005509	calcium ion binding	NUCB2	purple	En
+ENSG00000154096	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	ENSG00000154096	GO:0010524	positive regulation of calcium ion transport into cytosol	THY1	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0010524	positive regulation of calcium ion transport into cytosol	CAV1	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0010524	positive regulation of calcium ion transport into cytosol	ASPH	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0010524	positive regulation of calcium ion transport into cytosol	SRI	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0005758	mitochondrial intermembrane space	NDUFS1	purple	En
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	ENSG00000126267	GO:0005758	mitochondrial intermembrane space	COX6B1	purple	En
+ENSG00000184047	DIABLO	diablo, IAP-binding mitochondrial protein [Source:HGNC Symbol;Acc:HGNC:21528]	ENSG00000184047	GO:0005758	mitochondrial intermembrane space	DIABLO	purple	En
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	ENSG00000168653	GO:0005758	mitochondrial intermembrane space	NDUFS5	purple	En
+ENSG00000198836	OPA1	optic atrophy 1 (autosomal dominant) [Source:HGNC Symbol;Acc:HGNC:8140]	ENSG00000198836	GO:0005758	mitochondrial intermembrane space	OPA1	purple	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0003691	double-stranded telomeric DNA binding	XRCC6	purple	En
+ENSG00000185129	PURA	purine-rich element binding protein A [Source:HGNC Symbol;Acc:HGNC:9701]	ENSG00000185129	GO:0003691	double-stranded telomeric DNA binding	PURA	purple	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0003691	double-stranded telomeric DNA binding	XRCC5	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0009986	cell surface	LRPAP1	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0009986	cell surface	EGFR	purple	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0009986	cell surface	ERP29	purple	En
+ENSG00000169896	ITGAM	integrin, alpha M (complement component 3 receptor 3 subunit) [Source:HGNC Symbol;Acc:HGNC:6149]	ENSG00000169896	GO:0009986	cell surface	ITGAM	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0009986	cell surface	HSPA5	purple	En
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	ENSG00000234745	GO:0009986	cell surface	HLA-B	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0009986	cell surface	ERP44	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0009986	cell surface	LMAN2	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0009986	cell surface	CALR	purple	En
+ENSG00000113721	PDGFRB	platelet-derived growth factor receptor, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8804]	ENSG00000113721	GO:0009986	cell surface	PDGFRB	purple	En
+ENSG00000101474	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]	ENSG00000101474	GO:0009986	cell surface	APMAP	purple	En
+ENSG00000154096	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	ENSG00000154096	GO:0009986	cell surface	THY1	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0009986	cell surface	ANXA2	purple	En
+ENSG00000187244	BCAM	basal cell adhesion molecule (Lutheran blood group) [Source:HGNC Symbol;Acc:HGNC:6722]	ENSG00000187244	GO:0009986	cell surface	BCAM	purple	En
+ENSG00000260314	MRC1	mannose receptor, C type 1 [Source:HGNC Symbol;Acc:HGNC:7228]	ENSG00000260314	GO:0009986	cell surface	MRC1	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0009986	cell surface	PDIA3	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0009986	cell surface	PDIA4	purple	En
+ENSG00000079215	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	ENSG00000079215	GO:0009986	cell surface	SLC1A3	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0009986	cell surface	SORT1	purple	En
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	ENSG00000135940	GO:0015002	heme-copper terminal oxidase activity	COX5B	purple	En
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	ENSG00000178741	GO:0015002	heme-copper terminal oxidase activity	COX5A	purple	En
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	ENSG00000126267	GO:0015002	heme-copper terminal oxidase activity	COX6B1	purple	En
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	ENSG00000131143	GO:0015002	heme-copper terminal oxidase activity	COX4I1	purple	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0003756	protein disulfide isomerase activity	ERP29	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0003756	protein disulfide isomerase activity	P4HB	purple	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0003756	protein disulfide isomerase activity	TXNDC5	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0003756	protein disulfide isomerase activity	ERP44	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0003756	protein disulfide isomerase activity	PDIA6	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0003756	protein disulfide isomerase activity	PDIA3	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0003756	protein disulfide isomerase activity	PDIA4	purple	En
+ENSG00000189221	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	ENSG00000189221	GO:0031968	organelle outer membrane	MAOA	purple	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0031968	organelle outer membrane	CYB5R3	purple	En
+ENSG00000165637	VDAC2	voltage-dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	ENSG00000165637	GO:0031968	organelle outer membrane	VDAC2	purple	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0031968	organelle outer membrane	CPT1A	purple	En
+ENSG00000122873	CISD1	CDGSH iron sulfur domain 1 [Source:HGNC Symbol;Acc:HGNC:30880]	ENSG00000122873	GO:0031968	organelle outer membrane	CISD1	purple	En
+ENSG00000213585	VDAC1	voltage-dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	ENSG00000213585	GO:0031968	organelle outer membrane	VDAC1	purple	En
+ENSG00000078668	VDAC3	voltage-dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	ENSG00000078668	GO:0031968	organelle outer membrane	VDAC3	purple	En
+ENSG00000198836	OPA1	optic atrophy 1 (autosomal dominant) [Source:HGNC Symbol;Acc:HGNC:8140]	ENSG00000198836	GO:0031968	organelle outer membrane	OPA1	purple	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0031968	organelle outer membrane	NUCB2	purple	En
+ENSG00000138029	HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit [Source:HGNC Symbol;Acc:HGNC:4803]	ENSG00000138029	GO:0031968	organelle outer membrane	HADHB	purple	En
+ENSG00000113719	ERGIC1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1 [Source:HGNC Symbol;Acc:HGNC:29205]	ENSG00000113719	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	ERGIC1	purple	En
+ENSG00000149257	SERPINH1	serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1) [Source:HGNC Symbol;Acc:HGNC:1546]	ENSG00000149257	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	SERPINH1	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	TMED9	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	HSPA5	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	ERP44	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	LMAN2	purple	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	NUCB2	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	PDIA6	purple	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	UGGT1	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	P4HB	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	LMAN1	purple	En
+ENSG00000196535	MYO18A	myosin XVIIIA [Source:HGNC Symbol;Acc:HGNC:31104]	ENSG00000196535	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	MYO18A	purple	En
+ENSG00000104805	NUCB1	nucleobindin 1 [Source:HGNC Symbol;Acc:HGNC:8043]	ENSG00000104805	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	NUCB1	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	TMED10	purple	En
+ENSG00000108528	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	ENSG00000108528	GO:0015291	secondary active transmembrane transporter activity	SLC25A11	purple	En
+ENSG00000132164	SLC6A11	solute carrier family 6 (neurotransmitter transporter), member 11 [Source:HGNC Symbol;Acc:HGNC:11044]	ENSG00000132164	GO:0015291	secondary active transmembrane transporter activity	SLC6A11	purple	En
+ENSG00000004939	SLC4A1	solute carrier family 4 (anion exchanger), member 1 (Diego blood group) [Source:HGNC Symbol;Acc:HGNC:11027]	ENSG00000004939	GO:0015291	secondary active transmembrane transporter activity	SLC4A1	purple	En
+ENSG00000075415	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	ENSG00000075415	GO:0015291	secondary active transmembrane transporter activity	SLC25A3	purple	En
+ENSG00000079215	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	ENSG00000079215	GO:0015291	secondary active transmembrane transporter activity	SLC1A3	purple	En
+ENSG00000124140	SLC12A5	solute carrier family 12 (potassium/chloride transporter), member 5 [Source:HGNC Symbol;Acc:HGNC:13818]	ENSG00000124140	GO:0015291	secondary active transmembrane transporter activity	SLC12A5	purple	En
+ENSG00000154930	ACSS1	acyl-CoA synthetase short-chain family member 1 [Source:HGNC Symbol;Acc:HGNC:16091]	ENSG00000154930	GO:0035384	thioester biosynthetic process	ACSS1	purple	En
+ENSG00000100075	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:10979]	ENSG00000100075	GO:0035384	thioester biosynthetic process	SLC25A1	purple	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0035384	thioester biosynthetic process	HSD17B12	purple	En
+ENSG00000168291	PDHB	pyruvate dehydrogenase (lipoamide) beta [Source:HGNC Symbol;Acc:HGNC:8808]	ENSG00000168291	GO:0035384	thioester biosynthetic process	PDHB	purple	En
+ENSG00000168291	PDHB	pyruvate dehydrogenase (lipoamide) beta [Source:HGNC Symbol;Acc:HGNC:8808]	ENSG00000168291	GO:0019217	regulation of fatty acid metabolic process	PDHB	purple	En
+ENSG00000150768	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	ENSG00000150768	GO:0019217	regulation of fatty acid metabolic process	DLAT	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0019217	regulation of fatty acid metabolic process	CAV1	purple	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0019217	regulation of fatty acid metabolic process	CPT1A	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0030140	trans-Golgi network transport vesicle	SORT1	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0030140	trans-Golgi network transport vesicle	TMED10	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0030140	trans-Golgi network transport vesicle	TMED9	purple	En
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	ENSG00000089248	GO:0048770	pigment granule	ERP29	purple	En
+ENSG00000101444	AHCY	adenosylhomocysteinase [Source:HGNC Symbol;Acc:HGNC:343]	ENSG00000101444	GO:0048770	pigment granule	AHCY	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0048770	pigment granule	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0048770	pigment granule	HSP90B1	purple	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0048770	pigment granule	CALU	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0048770	pigment granule	ANXA2	purple	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0048770	pigment granule	GANAB	purple	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0048770	pigment granule	RPN1	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0048770	pigment granule	CANX	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0048770	pigment granule	TMED10	purple	En
+ENSG00000166794	PPIB	peptidylprolyl isomerase B (cyclophilin B) [Source:HGNC Symbol;Acc:HGNC:9255]	ENSG00000166794	GO:0048770	pigment granule	PPIB	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0048770	pigment granule	P4HB	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0048770	pigment granule	PDIA3	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0048770	pigment granule	PDIA4	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0048770	pigment granule	PDIA6	purple	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0043687	post-translational protein modification	GANAB	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0043687	post-translational protein modification	CALR	purple	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0043687	post-translational protein modification	PRKCSH	purple	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0043687	post-translational protein modification	RPN1	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0043687	post-translational protein modification	CANX	purple	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0043687	post-translational protein modification	MLEC	purple	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0043687	post-translational protein modification	RPN2	purple	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0043687	post-translational protein modification	UGGT1	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0043687	post-translational protein modification	LMAN1	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0043687	post-translational protein modification	PDIA3	purple	En
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	ENSG00000135940	GO:0016675	oxidoreductase activity, acting on a heme group of donors	COX5B	purple	En
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	ENSG00000178741	GO:0016675	oxidoreductase activity, acting on a heme group of donors	COX5A	purple	En
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	ENSG00000126267	GO:0016675	oxidoreductase activity, acting on a heme group of donors	COX6B1	purple	En
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	ENSG00000131143	GO:0016675	oxidoreductase activity, acting on a heme group of donors	COX4I1	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0072593	reactive oxygen species metabolic process	EGFR	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0072593	reactive oxygen species metabolic process	CAV1	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0072593	reactive oxygen species metabolic process	NDUFS1	purple	En
+ENSG00000120915	EPHX2	epoxide hydrolase 2, cytoplasmic [Source:HGNC Symbol;Acc:HGNC:3402]	ENSG00000120915	GO:0072593	reactive oxygen species metabolic process	EPHX2	purple	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0072593	reactive oxygen species metabolic process	PRDX4	purple	En
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	ENSG00000213619	GO:0072593	reactive oxygen species metabolic process	NDUFS3	purple	En
+ENSG00000124126	PREX1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1 [Source:HGNC Symbol;Acc:HGNC:32594]	ENSG00000124126	GO:0072593	reactive oxygen species metabolic process	PREX1	purple	En
+ENSG00000196535	MYO18A	myosin XVIIIA [Source:HGNC Symbol;Acc:HGNC:31104]	ENSG00000196535	GO:0006900	membrane budding	MYO18A	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0006900	membrane budding	TMED10	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0006900	membrane budding	ANXA2	purple	En
+ENSG00000166147	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	ENSG00000166147	GO:0045185	maintenance of protein location	FBN1	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0045185	maintenance of protein location	CAV1	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0045185	maintenance of protein location	HSPA5	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0045185	maintenance of protein location	SRI	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0045185	maintenance of protein location	PDIA3	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0045185	maintenance of protein location	SORL1	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:1903524	positive regulation of blood circulation	EGFR	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:1903524	positive regulation of blood circulation	ATP2A2	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:1903524	positive regulation of blood circulation	CAV1	purple	En
+ENSG00000120915	EPHX2	epoxide hydrolase 2, cytoplasmic [Source:HGNC Symbol;Acc:HGNC:3402]	ENSG00000120915	GO:1903524	positive regulation of blood circulation	EPHX2	purple	En
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	ENSG00000128609	GO:0003954	NADH dehydrogenase activity	NDUFA5	purple	En
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	ENSG00000167792	GO:0003954	NADH dehydrogenase activity	NDUFV1	purple	En
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	ENSG00000168653	GO:0003954	NADH dehydrogenase activity	NDUFS5	purple	En
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	ENSG00000139180	GO:0003954	NADH dehydrogenase activity	NDUFA9	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0003954	NADH dehydrogenase activity	NDUFS1	purple	En
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	ENSG00000147684	GO:0003954	NADH dehydrogenase activity	NDUFB9	purple	En
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	ENSG00000131495	GO:0003954	NADH dehydrogenase activity	NDUFA2	purple	En
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	ENSG00000158864	GO:0003954	NADH dehydrogenase activity	NDUFS2	purple	En
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	ENSG00000178127	GO:0003954	NADH dehydrogenase activity	NDUFV2	purple	En
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	ENSG00000213619	GO:0003954	NADH dehydrogenase activity	NDUFS3	purple	En
+ENSG00000213585	VDAC1	voltage-dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	ENSG00000213585	GO:0015288	porin activity	VDAC1	purple	En
+ENSG00000165637	VDAC2	voltage-dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	ENSG00000165637	GO:0015288	porin activity	VDAC2	purple	En
+ENSG00000078668	VDAC3	voltage-dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	ENSG00000078668	GO:0015288	porin activity	VDAC3	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0009267	cellular response to starvation	CAV1	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0009267	cellular response to starvation	HSPA5	purple	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0009267	cellular response to starvation	COMT	purple	En
+ENSG00000075142	SRI	sorcin [Source:HGNC Symbol;Acc:HGNC:11292]	ENSG00000075142	GO:0051238	sequestering of metal ion	SRI	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0051238	sequestering of metal ion	CALR	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0051238	sequestering of metal ion	HSP90B1	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0042632	cholesterol homeostasis	NPC1	purple	En
+ENSG00000120915	EPHX2	epoxide hydrolase 2, cytoplasmic [Source:HGNC Symbol;Acc:HGNC:3402]	ENSG00000120915	GO:0042632	cholesterol homeostasis	EPHX2	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0042632	cholesterol homeostasis	CAV1	purple	En
+ENSG00000110047	EHD1	EH-domain containing 1 [Source:HGNC Symbol;Acc:HGNC:3242]	ENSG00000110047	GO:0042632	cholesterol homeostasis	EHD1	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:0045454	cell redox homeostasis	P4HB	purple	En
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	ENSG00000239264	GO:0045454	cell redox homeostasis	TXNDC5	purple	En
+ENSG00000023318	ERP44	endoplasmic reticulum protein 44 [Source:HGNC Symbol;Acc:HGNC:18311]	ENSG00000023318	GO:0045454	cell redox homeostasis	ERP44	purple	En
+ENSG00000117862	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:24626]	ENSG00000117862	GO:0045454	cell redox homeostasis	TXNDC12	purple	En
+ENSG00000123131	PRDX4	peroxiredoxin 4 [Source:HGNC Symbol;Acc:HGNC:17169]	ENSG00000123131	GO:0045454	cell redox homeostasis	PRDX4	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0045454	cell redox homeostasis	PDIA3	purple	En
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	ENSG00000155660	GO:0045454	cell redox homeostasis	PDIA4	purple	En
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	ENSG00000143870	GO:0045454	cell redox homeostasis	PDIA6	purple	En
+ENSG00000120708	TGFBI	transforming growth factor, beta-induced, 68kDa [Source:HGNC Symbol;Acc:HGNC:11771]	ENSG00000120708	GO:0031012	extracellular matrix	TGFBI	purple	En
+ENSG00000142156	COL6A1	collagen, type VI, alpha 1 [Source:HGNC Symbol;Acc:HGNC:2211]	ENSG00000142156	GO:0031012	extracellular matrix	COL6A1	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0031012	extracellular matrix	ANXA2	purple	En
+ENSG00000142173	COL6A2	collagen, type VI, alpha 2 [Source:HGNC Symbol;Acc:HGNC:2212]	ENSG00000142173	GO:0031012	extracellular matrix	COL6A2	purple	En
+ENSG00000090863	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	ENSG00000090863	GO:0031012	extracellular matrix	GLG1	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0031012	extracellular matrix	CALR	purple	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0031012	extracellular matrix	HSD17B12	purple	En
+ENSG00000163359	COL6A3	collagen, type VI, alpha 3 [Source:HGNC Symbol;Acc:HGNC:2213]	ENSG00000163359	GO:0031012	extracellular matrix	COL6A3	purple	En
+ENSG00000166147	FBN1	fibrillin 1 [Source:HGNC Symbol;Acc:HGNC:3603]	ENSG00000166147	GO:0031012	extracellular matrix	FBN1	purple	En
+ENSG00000152583	SPARCL1	SPARC-like 1 (hevin) [Source:HGNC Symbol;Acc:HGNC:11220]	ENSG00000152583	GO:0031012	extracellular matrix	SPARCL1	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0005794	Golgi apparatus	SORL1	purple	En
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	ENSG00000234745	GO:0005794	Golgi apparatus	HLA-B	purple	En
+ENSG00000143256	PFDN2	prefoldin subunit 2 [Source:HGNC Symbol;Acc:HGNC:8867]	ENSG00000143256	GO:0005794	Golgi apparatus	PFDN2	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0005794	Golgi apparatus	TMED9	purple	En
+ENSG00000111801	BTN3A3	butyrophilin, subfamily 3, member A3 [Source:HGNC Symbol;Acc:HGNC:1140]	ENSG00000111801	GO:0005794	Golgi apparatus	BTN3A3	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0005794	Golgi apparatus	SORT1	purple	En
+ENSG00000128595	CALU	calumenin [Source:HGNC Symbol;Acc:HGNC:1458]	ENSG00000128595	GO:0005794	Golgi apparatus	CALU	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0005794	Golgi apparatus	CALR	purple	En
+ENSG00000090863	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	ENSG00000090863	GO:0005794	Golgi apparatus	GLG1	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0005794	Golgi apparatus	LMAN2	purple	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0005794	Golgi apparatus	GANAB	purple	En
+ENSG00000154917	RAB6B	RAB6B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14902]	ENSG00000154917	GO:0005794	Golgi apparatus	RAB6B	purple	En
+ENSG00000070081	NUCB2	nucleobindin 2 [Source:HGNC Symbol;Acc:HGNC:8044]	ENSG00000070081	GO:0005794	Golgi apparatus	NUCB2	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0005794	Golgi apparatus	TMED10	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0005794	Golgi apparatus	NPC1	purple	En
+ENSG00000170876	TMEM43	transmembrane protein 43 [Source:HGNC Symbol;Acc:HGNC:28472]	ENSG00000170876	GO:0005794	Golgi apparatus	TMEM43	purple	En
+ENSG00000104805	NUCB1	nucleobindin 1 [Source:HGNC Symbol;Acc:HGNC:8043]	ENSG00000104805	GO:0005794	Golgi apparatus	NUCB1	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0005794	Golgi apparatus	LMAN1	purple	En
+ENSG00000004059	ARF5	ADP-ribosylation factor 5 [Source:HGNC Symbol;Acc:HGNC:658]	ENSG00000004059	GO:0005794	Golgi apparatus	ARF5	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0005794	Golgi apparatus	CAV1	purple	En
+ENSG00000034713	GABARAPL2	GABA(A) receptor-associated protein-like 2 [Source:HGNC Symbol;Acc:HGNC:13291]	ENSG00000034713	GO:0005794	Golgi apparatus	GABARAPL2	purple	En
+ENSG00000123384	LRP1	low density lipoprotein receptor-related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	ENSG00000123384	GO:0008202	steroid metabolic process	LRP1	purple	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0008202	steroid metabolic process	CYB5R3	purple	En
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	ENSG00000139180	GO:0008202	steroid metabolic process	NDUFA9	purple	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0008202	steroid metabolic process	HSD17B12	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0008202	steroid metabolic process	NPC1	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0008202	steroid metabolic process	SORL1	purple	En
+ENSG00000159348	CYB5R1	cytochrome b5 reductase 1 [Source:HGNC Symbol;Acc:HGNC:13397]	ENSG00000159348	GO:0008202	steroid metabolic process	CYB5R1	purple	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0008202	steroid metabolic process	COMT	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0051539	4 iron, 4 sulfur cluster binding	NDUFS1	purple	En
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	ENSG00000158864	GO:0051539	4 iron, 4 sulfur cluster binding	NDUFS2	purple	En
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	ENSG00000167792	GO:0051539	4 iron, 4 sulfur cluster binding	NDUFV1	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0051539	4 iron, 4 sulfur cluster binding	SDHB	purple	En
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	ENSG00000196419	GO:0008094	DNA-dependent ATPase activity	XRCC6	purple	En
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	ENSG00000079246	GO:0008094	DNA-dependent ATPase activity	XRCC5	purple	En
+ENSG00000196535	MYO18A	myosin XVIIIA [Source:HGNC Symbol;Acc:HGNC:31104]	ENSG00000196535	GO:0008094	DNA-dependent ATPase activity	MYO18A	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0007030	Golgi organization	LMAN1	purple	En
+ENSG00000196535	MYO18A	myosin XVIIIA [Source:HGNC Symbol;Acc:HGNC:31104]	ENSG00000196535	GO:0007030	Golgi organization	MYO18A	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0007030	Golgi organization	TMED9	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0007030	Golgi organization	TMED10	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	LMAN2	purple	En
+ENSG00000154917	RAB6B	RAB6B, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:14902]	ENSG00000154917	GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	RAB6B	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0006890	retrograde vesicle-mediated transport, Golgi to ER	TMED10	purple	En
+ENSG00000115159	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:4456]	ENSG00000115159	GO:0007423	sensory organ development	GPD2	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0007423	sensory organ development	EGFR	purple	En
+ENSG00000049449	RCN1	reticulocalbin 1, EF-hand calcium binding domain [Source:HGNC Symbol;Acc:HGNC:9934]	ENSG00000049449	GO:0007423	sensory organ development	RCN1	purple	En
+ENSG00000132164	SLC6A11	solute carrier family 6 (neurotransmitter transporter), member 11 [Source:HGNC Symbol;Acc:HGNC:11044]	ENSG00000132164	GO:0055085	transmembrane transport	SLC6A11	purple	En
+ENSG00000141338	ABCA8	ATP-binding cassette, sub-family A (ABC1), member 8 [Source:HGNC Symbol;Acc:HGNC:38]	ENSG00000141338	GO:0055085	transmembrane transport	ABCA8	purple	En
+ENSG00000165637	VDAC2	voltage-dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	ENSG00000165637	GO:0055085	transmembrane transport	VDAC2	purple	En
+ENSG00000213585	VDAC1	voltage-dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	ENSG00000213585	GO:0055085	transmembrane transport	VDAC1	purple	En
+ENSG00000164466	SFXN1	sideroflexin 1 [Source:HGNC Symbol;Acc:HGNC:16085]	ENSG00000164466	GO:0055085	transmembrane transport	SFXN1	purple	En
+ENSG00000078668	VDAC3	voltage-dependent anion channel 3 [Source:HGNC Symbol;Acc:HGNC:12674]	ENSG00000078668	GO:0055085	transmembrane transport	VDAC3	purple	En
+ENSG00000085491	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	ENSG00000085491	GO:0055085	transmembrane transport	SLC25A24	purple	En
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	ENSG00000178741	GO:0055085	transmembrane transport	COX5A	purple	En
+ENSG00000151729	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	ENSG00000151729	GO:0055085	transmembrane transport	SLC25A4	purple	En
+ENSG00000004939	SLC4A1	solute carrier family 4 (anion exchanger), member 1 (Diego blood group) [Source:HGNC Symbol;Acc:HGNC:11027]	ENSG00000004939	GO:0055085	transmembrane transport	SLC4A1	purple	En
+ENSG00000145864	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2 [Source:HGNC Symbol;Acc:HGNC:4082]	ENSG00000145864	GO:0055085	transmembrane transport	GABRB2	purple	En
+ENSG00000100075	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:10979]	ENSG00000100075	GO:0055085	transmembrane transport	SLC25A1	purple	En
+ENSG00000124140	SLC12A5	solute carrier family 12 (potassium/chloride transporter), member 5 [Source:HGNC Symbol;Acc:HGNC:13818]	ENSG00000124140	GO:0055085	transmembrane transport	SLC12A5	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0055085	transmembrane transport	ATP2A2	purple	En
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	ENSG00000131143	GO:0055085	transmembrane transport	COX4I1	purple	En
+ENSG00000079215	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	ENSG00000079215	GO:0055085	transmembrane transport	SLC1A3	purple	En
+ENSG00000115840	SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	ENSG00000115840	GO:0055085	transmembrane transport	SLC25A12	purple	En
+ENSG00000059804	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:11007]	ENSG00000059804	GO:0055085	transmembrane transport	SLC2A3	purple	En
+ENSG00000107819	SFXN3	sideroflexin 3 [Source:HGNC Symbol;Acc:HGNC:16087]	ENSG00000107819	GO:0055085	transmembrane transport	SFXN3	purple	En
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	ENSG00000126267	GO:0055085	transmembrane transport	COX6B1	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0055085	transmembrane transport	UQCRC1	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0055085	transmembrane transport	UQCRFS1	purple	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0055085	transmembrane transport	CPT1A	purple	En
+ENSG00000075415	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	ENSG00000075415	GO:0055085	transmembrane transport	SLC25A3	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0055085	transmembrane transport	ASPH	purple	En
+ENSG00000116005	PCYOX1	prenylcysteine oxidase 1 [Source:HGNC Symbol;Acc:HGNC:20588]	ENSG00000116005	GO:0055085	transmembrane transport	PCYOX1	purple	En
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	ENSG00000135940	GO:0055085	transmembrane transport	COX5B	purple	En
+ENSG00000163191	S100A11	S100 calcium binding protein A11 [Source:HGNC Symbol;Acc:HGNC:10488]	ENSG00000163191	GO:0044548	S100 protein binding	S100A11	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0044548	S100 protein binding	ATP2A2	purple	En
+ENSG00000182718	ANXA2	annexin A2 [Source:HGNC Symbol;Acc:HGNC:537]	ENSG00000182718	GO:0044548	S100 protein binding	ANXA2	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0051537	2 iron, 2 sulfur cluster binding	NDUFS1	purple	En
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	ENSG00000178127	GO:0051537	2 iron, 2 sulfur cluster binding	NDUFV2	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0051537	2 iron, 2 sulfur cluster binding	UQCRFS1	purple	En
+ENSG00000122873	CISD1	CDGSH iron sulfur domain 1 [Source:HGNC Symbol;Acc:HGNC:30880]	ENSG00000122873	GO:0051537	2 iron, 2 sulfur cluster binding	CISD1	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0051537	2 iron, 2 sulfur cluster binding	SDHB	purple	En
+ENSG00000115159	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:4456]	ENSG00000115159	GO:0019866	organelle inner membrane	GPD2	purple	En
+ENSG00000108528	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	ENSG00000108528	GO:0019866	organelle inner membrane	SLC25A11	purple	En
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	ENSG00000167792	GO:0019866	organelle inner membrane	NDUFV1	purple	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0019866	organelle inner membrane	ALDH3A2	purple	En
+ENSG00000141338	ABCA8	ATP-binding cassette, sub-family A (ABC1), member 8 [Source:HGNC Symbol;Acc:HGNC:38]	ENSG00000141338	GO:0019866	organelle inner membrane	ABCA8	purple	En
+ENSG00000165637	VDAC2	voltage-dependent anion channel 2 [Source:HGNC Symbol;Acc:HGNC:12672]	ENSG00000165637	GO:0019866	organelle inner membrane	VDAC2	purple	En
+ENSG00000132305	IMMT	inner membrane protein, mitochondrial [Source:HGNC Symbol;Acc:HGNC:6047]	ENSG00000132305	GO:0019866	organelle inner membrane	IMMT	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0019866	organelle inner membrane	SDHB	purple	En
+ENSG00000213585	VDAC1	voltage-dependent anion channel 1 [Source:HGNC Symbol;Acc:HGNC:12669]	ENSG00000213585	GO:0019866	organelle inner membrane	VDAC1	purple	En
+ENSG00000164466	SFXN1	sideroflexin 1 [Source:HGNC Symbol;Acc:HGNC:16085]	ENSG00000164466	GO:0019866	organelle inner membrane	SFXN1	purple	En
+ENSG00000085491	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	ENSG00000085491	GO:0019866	organelle inner membrane	SLC25A24	purple	En
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	ENSG00000213619	GO:0019866	organelle inner membrane	NDUFS3	purple	En
+ENSG00000138029	HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit [Source:HGNC Symbol;Acc:HGNC:4803]	ENSG00000138029	GO:0019866	organelle inner membrane	HADHB	purple	En
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	ENSG00000128609	GO:0019866	organelle inner membrane	NDUFA5	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:0019866	organelle inner membrane	UQCRC2	purple	En
+ENSG00000151729	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	ENSG00000151729	GO:0019866	organelle inner membrane	SLC25A4	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0019866	organelle inner membrane	NDUFS1	purple	En
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	ENSG00000147684	GO:0019866	organelle inner membrane	NDUFB9	purple	En
+ENSG00000179091	CYC1	cytochrome c-1 [Source:HGNC Symbol;Acc:HGNC:2579]	ENSG00000179091	GO:0019866	organelle inner membrane	CYC1	purple	En
+ENSG00000100075	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:10979]	ENSG00000100075	GO:0019866	organelle inner membrane	SLC25A1	purple	En
+ENSG00000215021	PHB2	prohibitin 2 [Source:HGNC Symbol;Acc:HGNC:30306]	ENSG00000215021	GO:0019866	organelle inner membrane	PHB2	purple	En
+ENSG00000170876	TMEM43	transmembrane protein 43 [Source:HGNC Symbol;Acc:HGNC:28472]	ENSG00000170876	GO:0019866	organelle inner membrane	TMEM43	purple	En
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	ENSG00000178741	GO:0019866	organelle inner membrane	COX5A	purple	En
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	ENSG00000168653	GO:0019866	organelle inner membrane	NDUFS5	purple	En
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	ENSG00000139180	GO:0019866	organelle inner membrane	NDUFA9	purple	En
+ENSG00000109919	MTCH2	mitochondrial carrier 2 [Source:HGNC Symbol;Acc:HGNC:17587]	ENSG00000109919	GO:0019866	organelle inner membrane	MTCH2	purple	En
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	ENSG00000158864	GO:0019866	organelle inner membrane	NDUFS2	purple	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0019866	organelle inner membrane	CPT1A	purple	En
+ENSG00000115840	SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	ENSG00000115840	GO:0019866	organelle inner membrane	SLC25A12	purple	En
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	ENSG00000178127	GO:0019866	organelle inner membrane	NDUFV2	purple	En
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	ENSG00000131495	GO:0019866	organelle inner membrane	NDUFA2	purple	En
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	ENSG00000126267	GO:0019866	organelle inner membrane	COX6B1	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0019866	organelle inner membrane	UQCRC1	purple	En
+ENSG00000100243	CYB5R3	cytochrome b5 reductase 3 [Source:HGNC Symbol;Acc:HGNC:2873]	ENSG00000100243	GO:0019866	organelle inner membrane	CYB5R3	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0019866	organelle inner membrane	UQCRFS1	purple	En
+ENSG00000198836	OPA1	optic atrophy 1 (autosomal dominant) [Source:HGNC Symbol;Acc:HGNC:8140]	ENSG00000198836	GO:0019866	organelle inner membrane	OPA1	purple	En
+ENSG00000075415	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	ENSG00000075415	GO:0019866	organelle inner membrane	SLC25A3	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0019866	organelle inner membrane	UQCRB	purple	En
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	ENSG00000131143	GO:0019866	organelle inner membrane	COX4I1	purple	En
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	ENSG00000135940	GO:0019866	organelle inner membrane	COX5B	purple	En
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	ENSG00000073578	GO:0019866	organelle inner membrane	SDHA	purple	En
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	ENSG00000089597	GO:0018279	protein N-linked glycosylation via asparagine	GANAB	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0018279	protein N-linked glycosylation via asparagine	CALR	purple	En
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	ENSG00000130175	GO:0018279	protein N-linked glycosylation via asparagine	PRKCSH	purple	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0018279	protein N-linked glycosylation via asparagine	RPN1	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0018279	protein N-linked glycosylation via asparagine	CANX	purple	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0018279	protein N-linked glycosylation via asparagine	MLEC	purple	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0018279	protein N-linked glycosylation via asparagine	RPN2	purple	En
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	ENSG00000136731	GO:0018279	protein N-linked glycosylation via asparagine	UGGT1	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0018279	protein N-linked glycosylation via asparagine	LMAN1	purple	En
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	ENSG00000167004	GO:0018279	protein N-linked glycosylation via asparagine	PDIA3	purple	En
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	ENSG00000128609	GO:1990204	oxidoreductase complex	NDUFA5	purple	En
+ENSG00000115159	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:4456]	ENSG00000115159	GO:1990204	oxidoreductase complex	GPD2	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:1990204	oxidoreductase complex	UQCRC2	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:1990204	oxidoreductase complex	UQCRFS1	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:1990204	oxidoreductase complex	UQCRC1	purple	En
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	ENSG00000168653	GO:1990204	oxidoreductase complex	NDUFS5	purple	En
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	ENSG00000185624	GO:1990204	oxidoreductase complex	P4HB	purple	En
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	ENSG00000139180	GO:1990204	oxidoreductase complex	NDUFA9	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:1990204	oxidoreductase complex	NDUFS1	purple	En
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	ENSG00000147684	GO:1990204	oxidoreductase complex	NDUFB9	purple	En
+ENSG00000105953	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide) [Source:HGNC Symbol;Acc:HGNC:8124]	ENSG00000105953	GO:1990204	oxidoreductase complex	OGDH	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:1990204	oxidoreductase complex	SDHB	purple	En
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	ENSG00000158864	GO:1990204	oxidoreductase complex	NDUFS2	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:1990204	oxidoreductase complex	UQCRB	purple	En
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	ENSG00000073578	GO:1990204	oxidoreductase complex	SDHA	purple	En
+ENSG00000150768	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	ENSG00000150768	GO:1990204	oxidoreductase complex	DLAT	purple	En
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	ENSG00000167792	GO:1990204	oxidoreductase complex	NDUFV1	purple	En
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	ENSG00000178127	GO:1990204	oxidoreductase complex	NDUFV2	purple	En
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	ENSG00000131495	GO:1990204	oxidoreductase complex	NDUFA2	purple	En
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	ENSG00000213619	GO:1990204	oxidoreductase complex	NDUFS3	purple	En
+ENSG00000168291	PDHB	pyruvate dehydrogenase (lipoamide) beta [Source:HGNC Symbol;Acc:HGNC:8808]	ENSG00000168291	GO:1990204	oxidoreductase complex	PDHB	purple	En
+ENSG00000168959	GRM5	glutamate receptor, metabotropic 5 [Source:HGNC Symbol;Acc:HGNC:4597]	ENSG00000168959	GO:0004888	transmembrane signaling receptor activity	GRM5	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0004888	transmembrane signaling receptor activity	EGFR	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0004888	transmembrane signaling receptor activity	SORT1	purple	En
+ENSG00000003056	M6PR	mannose-6-phosphate receptor (cation dependent) [Source:HGNC Symbol;Acc:HGNC:6752]	ENSG00000003056	GO:0004888	transmembrane signaling receptor activity	M6PR	purple	En
+ENSG00000113721	PDGFRB	platelet-derived growth factor receptor, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8804]	ENSG00000113721	GO:0004888	transmembrane signaling receptor activity	PDGFRB	purple	En
+ENSG00000145864	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2 [Source:HGNC Symbol;Acc:HGNC:4082]	ENSG00000145864	GO:0004888	transmembrane signaling receptor activity	GABRB2	purple	En
+ENSG00000260314	MRC1	mannose receptor, C type 1 [Source:HGNC Symbol;Acc:HGNC:7228]	ENSG00000260314	GO:0004888	transmembrane signaling receptor activity	MRC1	purple	En
+ENSG00000183715	OPCML	opioid binding protein/cell adhesion molecule-like [Source:HGNC Symbol;Acc:HGNC:8143]	ENSG00000183715	GO:0004888	transmembrane signaling receptor activity	OPCML	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0004888	transmembrane signaling receptor activity	NPC1	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0004888	transmembrane signaling receptor activity	SORL1	purple	En
+ENSG00000187244	BCAM	basal cell adhesion molecule (Lutheran blood group) [Source:HGNC Symbol;Acc:HGNC:6722]	ENSG00000187244	GO:0004888	transmembrane signaling receptor activity	BCAM	purple	En
+ENSG00000198848	CES1	carboxylesterase 1 [Source:HGNC Symbol;Acc:HGNC:1863]	ENSG00000198848	GO:0052689	carboxylic ester hydrolase activity	CES1	purple	En
+ENSG00000105854	PON2	paraoxonase 2 [Source:HGNC Symbol;Acc:HGNC:9205]	ENSG00000105854	GO:0052689	carboxylic ester hydrolase activity	PON2	purple	En
+ENSG00000144959	NCEH1	neutral cholesterol ester hydrolase 1 [Source:HGNC Symbol;Acc:HGNC:29260]	ENSG00000144959	GO:0052689	carboxylic ester hydrolase activity	NCEH1	purple	En
+ENSG00000100997	ABHD12	abhydrolase domain containing 12 [Source:HGNC Symbol;Acc:HGNC:15868]	ENSG00000100997	GO:0052689	carboxylic ester hydrolase activity	ABHD12	purple	En
+ENSG00000101474	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]	ENSG00000101474	GO:0052689	carboxylic ester hydrolase activity	APMAP	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:0070069	cytochrome complex	UQCRC2	purple	En
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	ENSG00000169021	GO:0070069	cytochrome complex	UQCRFS1	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0070069	cytochrome complex	UQCRC1	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0070069	cytochrome complex	UQCRB	purple	En
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	ENSG00000023228	GO:0045333	cellular respiration	NDUFS1	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:0045333	cellular respiration	UQCRC2	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0045333	cellular respiration	UQCRB	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0045333	cellular respiration	UQCRC1	purple	En
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	ENSG00000117118	GO:0045333	cellular respiration	SDHB	purple	En
+ENSG00000010327	STAB1	stabilin 1 [Source:HGNC Symbol;Acc:HGNC:18628]	ENSG00000010327	GO:0006898	receptor-mediated endocytosis	STAB1	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0006898	receptor-mediated endocytosis	CAV1	purple	En
+ENSG00000003056	M6PR	mannose-6-phosphate receptor (cation dependent) [Source:HGNC Symbol;Acc:HGNC:6752]	ENSG00000003056	GO:0006898	receptor-mediated endocytosis	M6PR	purple	En
+ENSG00000177575	CD163	CD163 molecule [Source:HGNC Symbol;Acc:HGNC:1631]	ENSG00000177575	GO:0006898	receptor-mediated endocytosis	CD163	purple	En
+ENSG00000123384	LRP1	low density lipoprotein receptor-related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	ENSG00000123384	GO:0006898	receptor-mediated endocytosis	LRP1	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0006898	receptor-mediated endocytosis	CANX	purple	En
+ENSG00000260314	MRC1	mannose receptor, C type 1 [Source:HGNC Symbol;Acc:HGNC:7228]	ENSG00000260314	GO:0006898	receptor-mediated endocytosis	MRC1	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0006898	receptor-mediated endocytosis	LRPAP1	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0006898	receptor-mediated endocytosis	SORL1	purple	En
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	ENSG00000140740	GO:0006119	oxidative phosphorylation	UQCRC2	purple	En
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	ENSG00000156467	GO:0006119	oxidative phosphorylation	UQCRB	purple	En
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	ENSG00000010256	GO:0006119	oxidative phosphorylation	UQCRC1	purple	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0030433	ER-associated ubiquitin-dependent protein catabolic process	ERLIN2	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0030433	ER-associated ubiquitin-dependent protein catabolic process	HSPA5	purple	En
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	ENSG00000166598	GO:0030433	ER-associated ubiquitin-dependent protein catabolic process	HSP90B1	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0005537	mannose binding	LMAN1	purple	En
+ENSG00000003056	M6PR	mannose-6-phosphate receptor (cation dependent) [Source:HGNC Symbol;Acc:HGNC:6752]	ENSG00000003056	GO:0005537	mannose binding	M6PR	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0005537	mannose binding	LMAN2	purple	En
+ENSG00000260314	MRC1	mannose receptor, C type 1 [Source:HGNC Symbol;Acc:HGNC:7228]	ENSG00000260314	GO:0005537	mannose binding	MRC1	purple	En
+ENSG00000198836	OPA1	optic atrophy 1 (autosomal dominant) [Source:HGNC Symbol;Acc:HGNC:8140]	ENSG00000198836	GO:0016021	integral component of membrane	OPA1	purple	En
+ENSG00000146648	EGFR	epidermal growth factor receptor [Source:HGNC Symbol;Acc:HGNC:3236]	ENSG00000146648	GO:0016021	integral component of membrane	EGFR	purple	En
+ENSG00000108528	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11 [Source:HGNC Symbol;Acc:HGNC:10981]	ENSG00000108528	GO:0016021	integral component of membrane	SLC25A11	purple	En
+ENSG00000132164	SLC6A11	solute carrier family 6 (neurotransmitter transporter), member 11 [Source:HGNC Symbol;Acc:HGNC:11044]	ENSG00000132164	GO:0016021	integral component of membrane	SLC6A11	purple	En
+ENSG00000184840	TMED9	transmembrane emp24 protein transport domain containing 9 [Source:HGNC Symbol;Acc:HGNC:24878]	ENSG00000184840	GO:0016021	integral component of membrane	TMED9	purple	En
+ENSG00000072210	ALDH3A2	aldehyde dehydrogenase 3 family, member A2 [Source:HGNC Symbol;Acc:HGNC:403]	ENSG00000072210	GO:0016021	integral component of membrane	ALDH3A2	purple	En
+ENSG00000141338	ABCA8	ATP-binding cassette, sub-family A (ABC1), member 8 [Source:HGNC Symbol;Acc:HGNC:38]	ENSG00000141338	GO:0016021	integral component of membrane	ABCA8	purple	En
+ENSG00000132305	IMMT	inner membrane protein, mitochondrial [Source:HGNC Symbol;Acc:HGNC:6047]	ENSG00000132305	GO:0016021	integral component of membrane	IMMT	purple	En
+ENSG00000143819	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic) [Source:HGNC Symbol;Acc:HGNC:3401]	ENSG00000143819	GO:0016021	integral component of membrane	EPHX1	purple	En
+ENSG00000113721	PDGFRB	platelet-derived growth factor receptor, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8804]	ENSG00000113721	GO:0016021	integral component of membrane	PDGFRB	purple	En
+ENSG00000177575	CD163	CD163 molecule [Source:HGNC Symbol;Acc:HGNC:1631]	ENSG00000177575	GO:0016021	integral component of membrane	CD163	purple	En
+ENSG00000101474	APMAP	adipocyte plasma membrane associated protein [Source:HGNC Symbol;Acc:HGNC:13238]	ENSG00000101474	GO:0016021	integral component of membrane	APMAP	purple	En
+ENSG00000003056	M6PR	mannose-6-phosphate receptor (cation dependent) [Source:HGNC Symbol;Acc:HGNC:6752]	ENSG00000003056	GO:0016021	integral component of membrane	M6PR	purple	En
+ENSG00000164466	SFXN1	sideroflexin 1 [Source:HGNC Symbol;Acc:HGNC:16085]	ENSG00000164466	GO:0016021	integral component of membrane	SFXN1	purple	En
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	ENSG00000074695	GO:0016021	integral component of membrane	LMAN1	purple	En
+ENSG00000137642	SORL1	sortilin-related receptor, L(DLR class) A repeats containing [Source:HGNC Symbol;Acc:HGNC:11185]	ENSG00000137642	GO:0016021	integral component of membrane	SORL1	purple	En
+ENSG00000079215	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:10941]	ENSG00000079215	GO:0016021	integral component of membrane	SLC1A3	purple	En
+ENSG00000168959	GRM5	glutamate receptor, metabotropic 5 [Source:HGNC Symbol;Acc:HGNC:4597]	ENSG00000168959	GO:0016021	integral component of membrane	GRM5	purple	En
+ENSG00000154096	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	ENSG00000154096	GO:0016021	integral component of membrane	THY1	purple	En
+ENSG00000144959	NCEH1	neutral cholesterol ester hydrolase 1 [Source:HGNC Symbol;Acc:HGNC:29260]	ENSG00000144959	GO:0016021	integral component of membrane	NCEH1	purple	En
+ENSG00000189221	MAOA	monoamine oxidase A [Source:HGNC Symbol;Acc:HGNC:6833]	ENSG00000189221	GO:0016021	integral component of membrane	MAOA	purple	En
+ENSG00000111801	BTN3A3	butyrophilin, subfamily 3, member A3 [Source:HGNC Symbol;Acc:HGNC:1140]	ENSG00000111801	GO:0016021	integral component of membrane	BTN3A3	purple	En
+ENSG00000134243	SORT1	sortilin 1 [Source:HGNC Symbol;Acc:HGNC:11186]	ENSG00000134243	GO:0016021	integral component of membrane	SORT1	purple	En
+ENSG00000179091	CYC1	cytochrome c-1 [Source:HGNC Symbol;Acc:HGNC:2579]	ENSG00000179091	GO:0016021	integral component of membrane	CYC1	purple	En
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	ENSG00000179218	GO:0016021	integral component of membrane	CALR	purple	En
+ENSG00000004939	SLC4A1	solute carrier family 4 (anion exchanger), member 1 (Diego blood group) [Source:HGNC Symbol;Acc:HGNC:11027]	ENSG00000004939	GO:0016021	integral component of membrane	SLC4A1	purple	En
+ENSG00000145864	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2 [Source:HGNC Symbol;Acc:HGNC:4082]	ENSG00000145864	GO:0016021	integral component of membrane	GABRB2	purple	En
+ENSG00000100075	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1 [Source:HGNC Symbol;Acc:HGNC:10979]	ENSG00000100075	GO:0016021	integral component of membrane	SLC25A1	purple	En
+ENSG00000170348	TMED10	transmembrane emp24-like trafficking protein 10 (yeast) [Source:HGNC Symbol;Acc:HGNC:16998]	ENSG00000170348	GO:0016021	integral component of membrane	TMED10	purple	En
+ENSG00000109919	MTCH2	mitochondrial carrier 2 [Source:HGNC Symbol;Acc:HGNC:17587]	ENSG00000109919	GO:0016021	integral component of membrane	MTCH2	purple	En
+ENSG00000170876	TMEM43	transmembrane protein 43 [Source:HGNC Symbol;Acc:HGNC:28472]	ENSG00000170876	GO:0016021	integral component of membrane	TMEM43	purple	En
+ENSG00000085491	SLC25A24	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24 [Source:HGNC Symbol;Acc:HGNC:20662]	ENSG00000085491	GO:0016021	integral component of membrane	SLC25A24	purple	En
+ENSG00000093010	COMT	catechol-O-methyltransferase [Source:HGNC Symbol;Acc:HGNC:2228]	ENSG00000093010	GO:0016021	integral component of membrane	COMT	purple	En
+ENSG00000124140	SLC12A5	solute carrier family 12 (potassium/chloride transporter), member 5 [Source:HGNC Symbol;Acc:HGNC:13818]	ENSG00000124140	GO:0016021	integral component of membrane	SLC12A5	purple	En
+ENSG00000110917	MLEC	malectin [Source:HGNC Symbol;Acc:HGNC:28973]	ENSG00000110917	GO:0016021	integral component of membrane	MLEC	purple	En
+ENSG00000234745	HLA-B	major histocompatibility complex, class I, B [Source:HGNC Symbol;Acc:HGNC:4932]	ENSG00000234745	GO:0016021	integral component of membrane	HLA-B	purple	En
+ENSG00000174437	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2 [Source:HGNC Symbol;Acc:HGNC:812]	ENSG00000174437	GO:0016021	integral component of membrane	ATP2A2	purple	En
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	ENSG00000169223	GO:0016021	integral component of membrane	LMAN2	purple	En
+ENSG00000001561	ENPP4	ectonucleotide pyrophosphatase/phosphodiesterase 4 (putative) [Source:HGNC Symbol;Acc:HGNC:3359]	ENSG00000001561	GO:0016021	integral component of membrane	ENPP4	purple	En
+ENSG00000151729	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	ENSG00000151729	GO:0016021	integral component of membrane	SLC25A4	purple	En
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	ENSG00000163902	GO:0016021	integral component of membrane	RPN1	purple	En
+ENSG00000090863	GLG1	golgi glycoprotein 1 [Source:HGNC Symbol;Acc:HGNC:4316]	ENSG00000090863	GO:0016021	integral component of membrane	GLG1	purple	En
+ENSG00000257727	CNPY2	canopy FGF signaling regulator 2 [Source:HGNC Symbol;Acc:HGNC:13529]	ENSG00000257727	GO:0016021	integral component of membrane	CNPY2	purple	En
+ENSG00000122873	CISD1	CDGSH iron sulfur domain 1 [Source:HGNC Symbol;Acc:HGNC:30880]	ENSG00000122873	GO:0016021	integral component of membrane	CISD1	purple	En
+ENSG00000260314	MRC1	mannose receptor, C type 1 [Source:HGNC Symbol;Acc:HGNC:7228]	ENSG00000260314	GO:0016021	integral component of membrane	MRC1	purple	En
+ENSG00000115840	SLC25A12	solute carrier family 25 (aspartate/glutamate carrier), member 12 [Source:HGNC Symbol;Acc:HGNC:10982]	ENSG00000115840	GO:0016021	integral component of membrane	SLC25A12	purple	En
+ENSG00000059804	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3 [Source:HGNC Symbol;Acc:HGNC:11007]	ENSG00000059804	GO:0016021	integral component of membrane	SLC2A3	purple	En
+ENSG00000138119	MYOF	myoferlin [Source:HGNC Symbol;Acc:HGNC:3656]	ENSG00000138119	GO:0016021	integral component of membrane	MYOF	purple	En
+ENSG00000107819	SFXN3	sideroflexin 3 [Source:HGNC Symbol;Acc:HGNC:16087]	ENSG00000107819	GO:0016021	integral component of membrane	SFXN3	purple	En
+ENSG00000010327	STAB1	stabilin 1 [Source:HGNC Symbol;Acc:HGNC:18628]	ENSG00000010327	GO:0016021	integral component of membrane	STAB1	purple	En
+ENSG00000147475	ERLIN2	ER lipid raft associated 2 [Source:HGNC Symbol;Acc:HGNC:1356]	ENSG00000147475	GO:0016021	integral component of membrane	ERLIN2	purple	En
+ENSG00000183715	OPCML	opioid binding protein/cell adhesion molecule-like [Source:HGNC Symbol;Acc:HGNC:8143]	ENSG00000183715	GO:0016021	integral component of membrane	OPCML	purple	En
+ENSG00000169896	ITGAM	integrin, alpha M (complement component 3 receptor 3 subunit) [Source:HGNC Symbol;Acc:HGNC:6149]	ENSG00000169896	GO:0016021	integral component of membrane	ITGAM	purple	En
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	ENSG00000044574	GO:0016021	integral component of membrane	HSPA5	purple	En
+ENSG00000113441	LNPEP	leucyl/cystinyl aminopeptidase [Source:HGNC Symbol;Acc:HGNC:6656]	ENSG00000113441	GO:0016021	integral component of membrane	LNPEP	purple	En
+ENSG00000159348	CYB5R1	cytochrome b5 reductase 1 [Source:HGNC Symbol;Acc:HGNC:13397]	ENSG00000159348	GO:0016021	integral component of membrane	CYB5R1	purple	En
+ENSG00000113719	ERGIC1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1 [Source:HGNC Symbol;Acc:HGNC:29205]	ENSG00000113719	GO:0016021	integral component of membrane	ERGIC1	purple	En
+ENSG00000149084	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12 [Source:HGNC Symbol;Acc:HGNC:18646]	ENSG00000149084	GO:0016021	integral component of membrane	HSD17B12	purple	En
+ENSG00000110090	CPT1A	carnitine palmitoyltransferase 1A (liver) [Source:HGNC Symbol;Acc:HGNC:2328]	ENSG00000110090	GO:0016021	integral component of membrane	CPT1A	purple	En
+ENSG00000075415	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3 [Source:HGNC Symbol;Acc:HGNC:10989]	ENSG00000075415	GO:0016021	integral component of membrane	SLC25A3	purple	En
+ENSG00000123384	LRP1	low density lipoprotein receptor-related protein 1 [Source:HGNC Symbol;Acc:HGNC:6692]	ENSG00000123384	GO:0016021	integral component of membrane	LRP1	purple	En
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	ENSG00000127022	GO:0016021	integral component of membrane	CANX	purple	En
+ENSG00000198363	ASPH	aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757]	ENSG00000198363	GO:0016021	integral component of membrane	ASPH	purple	En
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	ENSG00000118705	GO:0016021	integral component of membrane	RPN2	purple	En
+ENSG00000141458	NPC1	Niemann-Pick disease, type C1 [Source:HGNC Symbol;Acc:HGNC:7897]	ENSG00000141458	GO:0016021	integral component of membrane	NPC1	purple	En
+ENSG00000163956	LRPAP1	low density lipoprotein receptor-related protein associated protein 1 [Source:HGNC Symbol;Acc:HGNC:6701]	ENSG00000163956	GO:0016021	integral component of membrane	LRPAP1	purple	En
+ENSG00000105974	CAV1	caveolin 1, caveolae protein, 22kDa [Source:HGNC Symbol;Acc:HGNC:1527]	ENSG00000105974	GO:0016021	integral component of membrane	CAV1	purple	En
+ENSG00000187244	BCAM	basal cell adhesion molecule (Lutheran blood group) [Source:HGNC Symbol;Acc:HGNC:6722]	ENSG00000187244	GO:0016021	integral component of membrane	BCAM	purple	En

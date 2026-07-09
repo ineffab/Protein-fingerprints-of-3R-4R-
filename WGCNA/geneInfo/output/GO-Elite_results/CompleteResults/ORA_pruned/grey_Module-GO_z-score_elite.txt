@@ -1,0 +1,55 @@
+Ontology-ID	Ontology Name	Ontology Type	Number Changed	Number Measured	Number in Ontology	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+GO:0019825	oxygen binding	molecular_function	3	3	37	100.0	8.10810810811	5.34077387726	0.0	1.0	hemoglobin complex|iron ion binding|oxygen transport|oxygen transporter activity|tetrapyrrole binding	hemoglobin complex|oxygen transport|oxygen transporter activity	HBA1|HBB|HBD
+GO:0015671	oxygen transport	biological_process	3	3	17	100.0	17.6470588235	5.34077387726	0.0	1.0	hemoglobin complex|iron ion binding|oxygen binding|oxygen transporter activity|tetrapyrrole binding	hemoglobin complex|oxygen binding|oxygen transporter activity	HBA1|HBB|HBD
+GO:0005534	galactose binding	molecular_function	3	3	4	100.0	75.0	5.34077387726	0.0005	1.0	 	 	COLEC12|ENG|GALK1
+GO:0005344	oxygen transporter activity	molecular_function	3	3	15	100.0	20.0	5.34077387726	0.0	1.0	hemoglobin complex|iron ion binding|oxygen binding|oxygen transport|tetrapyrrole binding	hemoglobin complex|oxygen binding|oxygen transport	HBA1|HBB|HBD
+GO:0006839	mitochondrial transport	biological_process	8	19	119	42.1052631579	15.9663865546	4.86241337838	0.001	1.0	 	establishment of protein localization to mitochondrion	FIS1|GPD1|MTX2|NDUFA13|SAMM50|SLC25A20|STOML2|TST
+GO:0007218	neuropeptide signaling pathway	biological_process	4	6	116	66.6666666667	5.1724137931	4.77437179656	0.002	1.0	 	 	CELSR2|CPE|PCSK1N|SORCS2
+GO:0050431	transforming growth factor beta binding	molecular_function	3	4	17	75.0	23.5294117647	4.46419590491	0.002	1.0	 	 	CD109|ENG|VASN
+GO:0008053	mitochondrial fusion	biological_process	3	4	12	75.0	33.3333333333	4.46419590491	0.0035	1.0	 	 	CHCHD3|FIS1|STOML2
+GO:0005833	hemoglobin complex	cellular_component	3	4	12	75.0	33.3333333333	4.46419590491	0.0035	1.0	iron ion binding|oxygen binding|oxygen transport|oxygen transporter activity|tetrapyrrole binding	oxygen binding|oxygen transport|oxygen transporter activity	HBA1|HBB|HBD
+GO:0046906	tetrapyrrole binding	molecular_function	6	14	158	42.8571428571	8.86075949367	4.26398150347	0.0025	1.0	 	hemoglobin complex|iron ion binding|oxygen binding|oxygen transport|oxygen transporter activity	CBS|CYP4F11|HBA1|HBB|HBD|PTGES2
+GO:0044455	mitochondrial membrane part	cellular_component	9	30	180	30.0	16.6666666667	3.8520475934	0.002	1.0	 	 	ETFDH|FIS1|NDUFA10|NDUFA13|NDUFB10|NDUFS6|NNT|PPIF|SAMM50
+GO:0000981	sequence-specific DNA binding RNA polymerase II transcription factor activity	molecular_function	3	5	418	60.0	1.1961722488	3.84876769958	0.009	1.0	 	 	CHCHD3|HNRNPK|STAT1
+GO:0019866	organelle inner membrane	cellular_component	18	85	406	21.1764705882	20.9359605911	3.75063885219	0.0025	1.0	 	 	AIFM1|CHCHD3|CHDH|ETFDH|NDUFA10|NDUFA13|NDUFB10|NDUFS6|NNT|PC|PPIF|PRODH|SAMM50|SLC25A18|SLC25A20|STOML2|TST|ZMPSTE24
+GO:0008238	exopeptidase activity	molecular_function	10	37	108	27.027027027	34.2592592593	3.664254486	0.0025	1.0	 	metallopeptidase activity	ASRGL1|CNDP1|CNDP2|CPE|DNPEP|ERAP1|GGT1|LTA4H|NPEPL1|ZMPSTE24
+GO:0008237	metallopeptidase activity	molecular_function	8	27	188	29.6296296296	14.3617021277	3.58510634388	0.0015	1.0	exopeptidase activity	 	CNDP1|CNDP2|CPE|DNPEP|ERAP1|LTA4H|NPEPL1|ZMPSTE24
+GO:0016485	protein processing	biological_process	8	28	213	28.5714285714	13.1455399061	3.45972975716	0.002	1.0	 	 	AIFM1|CPE|GGT1|P2RX7|PCSK1N|PDCD6|STOML2|ZMPSTE24
+GO:0006884	cell volume homeostasis	biological_process	3	6	17	50.0	35.2941176471	3.38177968614	0.014	1.0	 	 	ADD1|LRRC8A|P2RX7
+GO:0006691	leukotriene metabolic process	biological_process	3	6	36	50.0	16.6666666667	3.38177968614	0.016	1.0	long-chain fatty acid metabolic process	 	GGT1|LTA4H|PTGR1
+GO:0007006	mitochondrial membrane organization	biological_process	5	14	52	35.7142857143	26.9230769231	3.35019581131	0.0075	1.0	 	 	CHCHD3|HEBP2|NDUFA13|PPIF|SAMM50
+GO:0005126	cytokine receptor binding	molecular_function	5	14	270	35.7142857143	5.18518518519	3.35019581131	0.003	1.0	 	 	ENG|ERAP1|ITGB3|SDCBP|STAT1
+GO:1901606	alpha-amino acid catabolic process	biological_process	7	24	101	29.1666666667	23.7623762376	3.29932809789	0.006	1.0	 	 	ALDH6A1|ASRGL1|CBS|DDAH1|DDAH2|MCCC2|PRODH
+GO:0072655	establishment of protein localization to mitochondrion	biological_process	4	10	61	40.0	16.393442623	3.29097721837	0.0095	1.0	mitochondrial transport	 	FIS1|MTX2|NDUFA13|SAMM50
+GO:0044273	sulfur compound catabolic process	biological_process	4	10	42	40.0	23.8095238095	3.29097721837	0.0125	1.0	 	 	BGN|CBS|GGT1|TST
+GO:0045766	positive regulation of angiogenesis	biological_process	5	15	104	33.3333333333	14.4230769231	3.15341399313	0.013	1.0	 	 	ADD1|DDAH1|ERAP1|FGF1|PDCD6
+GO:0014074	response to purine-containing compound	biological_process	6	20	133	30.0	15.037593985	3.13598453654	0.009	1.0	 	 	GPD1|ITPR2|P2RX7|SLC6A1|SPARC|STAT1
+GO:0008217	regulation of blood pressure	biological_process	6	20	136	30.0	14.7058823529	3.13598453654	0.0085	1.0	 	 	ADH5|DDAH1|ENG|ERAP1|HBB|RPS6KA2
+GO:1901137	carbohydrate derivative biosynthetic process	biological_process	11	50	429	22.0	11.655011655	3.04774227143	0.0095	1.0	 	AMP metabolic process|nucleoside triphosphate biosynthetic process	ADK|AK4|ATP1A3|B3GNT1|BGN|GMPPB|NT5E|PYGL|RPS6KA2|STOML2|TKT
+GO:0032368	regulation of lipid transport	biological_process	4	11	89	36.3636363636	12.3595505618	3.04061251413	0.013	1.0	 	 	HNRNPK|ITGB3|P2RX7|SCP2
+GO:0009142	nucleoside triphosphate biosynthetic process	biological_process	4	11	68	36.3636363636	16.1764705882	3.04061251413	0.0175	1.0	carbohydrate derivative biosynthetic process	 	ADK|AK4|ATP1A3|STOML2
+GO:1901570	fatty acid derivative biosynthetic process	biological_process	3	7	41	42.8571428571	17.0731707317	3.00896644271	0.027	1.0	unsaturated fatty acid biosynthetic process	unsaturated fatty acid biosynthetic process	GGT1|LTA4H|PTGES2
+GO:0072529	pyrimidine-containing compound catabolic process	biological_process	3	7	35	42.8571428571	20.0	3.00896644271	0.028	1.0	 	 	ALDH6A1|DPYSL3|NT5E
+GO:0051491	positive regulation of filopodium assembly	biological_process	3	7	23	42.8571428571	30.4347826087	3.00896644271	0.024	1.0	 	 	ACTR3|DPYSL3|GPM6A
+GO:0046033	AMP metabolic process	biological_process	3	7	13	42.8571428571	53.8461538462	3.00896644271	0.0255	1.0	carbohydrate derivative biosynthetic process	 	ADK|AK4|NT5E
+GO:0034103	regulation of tissue remodeling	biological_process	3	7	60	42.8571428571	11.6666666667	3.00896644271	0.022	1.0	 	 	CST3|ITGB3|P2RX7
+GO:0006636	unsaturated fatty acid biosynthetic process	biological_process	3	7	50	42.8571428571	14.0	3.00896644271	0.027	1.0	fatty acid derivative biosynthetic process	fatty acid derivative biosynthetic process	GGT1|LTA4H|PTGES2
+GO:0000062	fatty-acyl-CoA binding	molecular_function	3	7	18	42.8571428571	38.8888888889	3.00896644271	0.027	1.0	 	 	ALDH6A1|DBI|SCP2
+GO:0070851	growth factor receptor binding	molecular_function	5	16	116	31.25	13.7931034483	2.97269205062	0.02	1.0	 	 	EFEMP1|ERAP1|FGF1|ITGB3|SDCBP
+GO:0016758	transferase activity, transferring hexosyl groups	molecular_function	4	12	198	33.3333333333	6.06060606061	2.81803840875	0.0195	1.0	polysaccharide metabolic process	 	AGL|B3GNT1|PYGL|PYGM
+GO:0042219	cellular modified amino acid catabolic process	biological_process	3	8	17	37.5	47.0588235294	2.70048772617	0.03	1.0	 	 	CBS|GGT1|PRODH
+GO:0022834	ligand-gated channel activity	molecular_function	3	8	149	37.5	5.36912751678	2.70048772617	0.035	1.0	integral component of membrane	 	GRIA2|ITPR2|P2RX7
+GO:0015701	bicarbonate transport	biological_process	3	8	33	37.5	24.2424242424	2.70048772617	0.026	1.0	 	 	CA1|HBA1|HBB
+GO:0051259	protein oligomerization	biological_process	14	77	382	18.1818181818	20.1570680628	2.64573533531	0.0145	1.0	 	 	ATL3|BRK1|COLEC12|DPYSL3|FIS1|HBA1|HBB|LGI1|MLC1|P2RX7|RPS19|SLC6A1|STOML2|TGM2
+GO:0001936	regulation of endothelial cell proliferation	biological_process	4	13	86	30.7692307692	15.1162790698	2.61795893498	0.024	1.0	 	 	ENG|ITGB3|PDCD6|STAT1
+GO:0005976	polysaccharide metabolic process	biological_process	5	19	124	26.3157894737	15.3225806452	2.50581418856	0.031	1.0	 	transferase activity, transferring hexosyl groups	AGL|B3GNT1|PYGL|PYGM|RPS6KA2
+GO:0019199	transmembrane receptor protein kinase activity	molecular_function	3	9	92	33.3333333333	9.78260869565	2.43836729415	0.0485	1.0	 	 	EFEMP1|ENG|NTRK2
+GO:0005506	iron ion binding	molecular_function	4	14	181	28.5714285714	7.73480662983	2.43641011916	0.032	1.0	tetrapyrrole binding	hemoglobin complex|oxygen binding|oxygen transport|oxygen transporter activity	CYP4F11|HBA1|HBB|HBD
+GO:0000096	sulfur amino acid metabolic process	biological_process	4	14	43	28.5714285714	32.5581395349	2.43641011916	0.0395	1.0	 	 	CBS|CNDP2|GGT1|TST
+GO:0016021	integral component of membrane	cellular_component	43	329	5716	13.0699088146	5.75577326802	2.43166143924	0.0195	1.0	 	ligand-gated channel activity	ATL3|ATP1A3|B3GNT1|CADM2|CELSR2|CLEC2L|CNTNAP2|COLEC12|CYP4F11|ENTPD3|ERAP1|ETFDH|FIS1|FRMD5|GGT1|GOLIM4|GPM6A|GRIA2|ITGB3|ITPR2|KCNN3|MLC1|MRC2|NDUFA13|NNT|NTRK2|P2RX7|PI4K2A|PTGES2|PTGFRN|SAMM50|SEC62|SLC15A2|SLC25A18|SLC25A20|SLC2A1|SLC39A12|SLC6A1|SORCS2|SYT2|TTYH1|VASN|ZMPSTE24
+GO:0043603	cellular amide metabolic process	biological_process	10	52	215	19.2307692308	24.1860465116	2.41950867482	0.021	1.0	 	 	ASRGL1|CNDP2|CPE|DNPEP|GGT1|GSTM1|LTA4H|MCCC2|PC|PCSK1N
+GO:0051480	cytosolic calcium ion homeostasis	biological_process	5	20	175	25.0	11.4285714286	2.37011803664	0.038	1.0	 	 	CALB2|FIS1|P2RX7|PVALB|TGM2
+GO:0098662	inorganic cation transmembrane transport	biological_process	11	61	448	18.0327868852	13.6160714286	2.3032106648	0.0295	1.0	 	 	ATP1A3|ATP1B1|ATP1B2|GPM6A|ITPR2|KCNN3|NNT|SLC25A20|SLC39A12|STOML2|TTYH1
+GO:0044085	cellular component biogenesis	biological_process	4	15	100	26.6666666667	15.0	2.27035610532	0.042	1.0	 	 	AIFM1|RPL5|RPS17|RPS19
+GO:0001676	long-chain fatty acid metabolic process	biological_process	5	22	87	22.7272727273	25.2873563218	2.12192804618	0.0485	1.0	 	leukotriene metabolic process	ACOT1|GGT1|LTA4H|PTGR1|SCP2
+GO:0072593	reactive oxygen species metabolic process	biological_process	6	29	120	20.6896551724	24.1666666667	2.06441162873	0.0495	1.0	 	 	DDAH2|HBA1|HBB|NDUFA13|NNT|P2RX7

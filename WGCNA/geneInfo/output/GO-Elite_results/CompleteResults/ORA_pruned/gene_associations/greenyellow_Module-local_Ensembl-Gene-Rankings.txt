@@ -1,0 +1,8 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	2	1.0	ENSG00000111669	Glycolysis and Gluconeogenesis:WP534 // Cori Cycle:WP1946
+ENSG00000102144	PGK1	phosphoglycerate kinase 1 [Source:HGNC Symbol;Acc:HGNC:8896]	2	1.0	ENSG00000102144	Glycolysis and Gluconeogenesis:WP534 // Cori Cycle:WP1946
+ENSG00000160211	G6PD	glucose-6-phosphate dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4057]	1	0.5	ENSG00000160211	Cori Cycle:WP1946
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	1	0.5	ENSG00000149925	Glycolysis and Gluconeogenesis:WP534
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	1	0.5	ENSG00000120053	Glycolysis and Gluconeogenesis:WP534
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	1	0.5	ENSG00000111674	Glycolysis and Gluconeogenesis:WP534
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	1	0.5	ENSG00000014641	Glycolysis and Gluconeogenesis:WP534

@@ -1,0 +1,146 @@
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000117118:SDHB
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000213619:NDUFS3
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000178127:NDUFV2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000135940:COX5B
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000213585:VDAC1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000169021:UQCRFS1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000165637:VDAC2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000168959:GRM5
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000151729:SLC25A4
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000023228:NDUFS1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000147684:NDUFB9
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000158864:NDUFS2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000010256:UQCRC1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000167792:NDUFV1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000131495:NDUFA2
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000073578:SDHA
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000128609:NDUFA5
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000168653:NDUFS5
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000139180:NDUFA9
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000126267:COX6B1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000156467:UQCRB
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000131143:COX4I1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000078668:VDAC3
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000179091:CYC1
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000178741:COX5A
+Huntington's disease:KEGG-hsa05016	pr	ENSG00000140740:UQCRC2
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000135940:COX5B
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000169021:UQCRFS1
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000010256:UQCRC1
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000174437:ATP2A2
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000126267:COX6B1
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000156467:UQCRB
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000131143:COX4I1
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000179091:CYC1
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000178741:COX5A
+Cardiac muscle contraction:KEGG-hsa04260	pr	ENSG00000140740:UQCRC2
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000117118:SDHB
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000168291:PDHB
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000073578:SDHA
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000150768:DLAT
+Citrate cycle (TCA cycle):KEGG-hsa00020	pr	ENSG00000105953:OGDH
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000234745:HLA-B
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000179218:CALR
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000044574:HSPA5
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000127022:CANX
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000167004:PDIA3
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000109743:BST1
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000113721:PDGFRB
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000213585:VDAC1
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000146648:EGFR
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000165637:VDAC2
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000168959:GRM5
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000151729:SLC25A4
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000148660:CAMK2G
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000174437:ATP2A2
+Calcium signaling pathway:KEGG-hsa04020	pr	ENSG00000078668:VDAC3
+N-Glycan biosynthesis:KEGG-hsa00510	pr	ENSG00000118705:RPN2
+N-Glycan biosynthesis:KEGG-hsa00510	pr	ENSG00000163902:RPN1
+N-Glycan biosynthesis:KEGG-hsa00510	pr	ENSG00000089597:GANAB
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000149428:HYOU1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000166598:HSP90B1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000118705:RPN2
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000136731:UGGT1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000074695:LMAN1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000169223:LMAN2
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000179218:CALR
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000163902:RPN1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000044574:HSPA5
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000127022:CANX
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000143870:PDIA6
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000089248:ERP29
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000089597:GANAB
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000130175:PRKCSH
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000155660:PDIA4
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000185624:P4HB
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000167004:PDIA3
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000239264:TXNDC5
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000117118:SDHB
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000213619:NDUFS3
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000178127:NDUFV2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000123384:LRP1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000135940:COX5B
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000169021:UQCRFS1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000023228:NDUFS1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000147684:NDUFB9
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000158864:NDUFS2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000010256:UQCRC1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000167792:NDUFV1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000131495:NDUFA2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000073578:SDHA
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000128609:NDUFA5
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000174437:ATP2A2
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000168653:NDUFS5
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000139180:NDUFA9
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000126267:COX6B1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000156467:UQCRB
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000131143:COX4I1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000179091:CYC1
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000178741:COX5A
+Alzheimer's disease:KEGG-hsa05010	pr	ENSG00000140740:UQCRC2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000117118:SDHB
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000213619:NDUFS3
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000178127:NDUFV2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000135940:COX5B
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000213585:VDAC1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000169021:UQCRFS1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000165637:VDAC2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000151729:SLC25A4
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000023228:NDUFS1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000147684:NDUFB9
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000158864:NDUFS2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000010256:UQCRC1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000167792:NDUFV1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000131495:NDUFA2
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000073578:SDHA
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000128609:NDUFA5
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000168653:NDUFS5
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000139180:NDUFA9
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000126267:COX6B1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000156467:UQCRB
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000131143:COX4I1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000078668:VDAC3
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000179091:CYC1
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000178741:COX5A
+Parkinson's disease:KEGG-hsa05012	pr	ENSG00000140740:UQCRC2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000117118:SDHB
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000213619:NDUFS3
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000178127:NDUFV2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000135940:COX5B
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000169021:UQCRFS1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000023228:NDUFS1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000147684:NDUFB9
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000158864:NDUFS2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000010256:UQCRC1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000167792:NDUFV1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000131495:NDUFA2
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000073578:SDHA
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000128609:NDUFA5
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000168653:NDUFS5
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000139180:NDUFA9
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000126267:COX6B1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000156467:UQCRB
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000131143:COX4I1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000179091:CYC1
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000178741:COX5A
+Oxidative phosphorylation:KEGG-hsa00190	pr	ENSG00000140740:UQCRC2

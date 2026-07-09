@@ -1,0 +1,20 @@
+GeneID	Symbol	Description	UID-str	parent GOID	GO Name	SystemCode	ME	NA
+ENSG00000038427	VCAN	versican [Source:HGNC Symbol;Acc:HGNC:2464]	ENSG00000038427	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	VCAN	magenta	En
+ENSG00000166086	JAM3	junctional adhesion molecule 3 [Source:HGNC Symbol;Acc:HGNC:15532]	ENSG00000166086	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	JAM3	magenta	En
+ENSG00000172260	NEGR1	neuronal growth regulator 1 [Source:HGNC Symbol;Acc:HGNC:17302]	ENSG00000172260	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	NEGR1	magenta	En
+ENSG00000021645	NRXN3	neurexin 3 [Source:HGNC Symbol;Acc:HGNC:8010]	ENSG00000021645	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	NRXN3	magenta	En
+ENSG00000198910	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	ENSG00000198910	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	L1CAM	magenta	En
+ENSG00000105695	MAG	myelin associated glycoprotein [Source:HGNC Symbol;Acc:HGNC:6783]	ENSG00000105695	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	MAG	magenta	En
+ENSG00000170017	ALCAM	activated leukocyte cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:400]	ENSG00000170017	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	ALCAM	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	NCAM1	magenta	En
+ENSG00000091129	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	ENSG00000091129	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	NRCAM	magenta	En
+ENSG00000163531	NFASC	neurofascin [Source:HGNC Symbol;Acc:HGNC:29866]	ENSG00000163531	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	NFASC	magenta	En
+ENSG00000018236	CNTN1	contactin 1 [Source:HGNC Symbol;Acc:HGNC:2171]	ENSG00000018236	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	CNTN1	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	Cell adhesion molecules (CAMs):KEGG-hsa04514	Cell adhesion molecules (CAMs):KEGG-hsa04514	NCAM2	magenta	En
+ENSG00000144566	RAB5A	RAB5A, member RAS oncogene family [Source:HGNC Symbol;Acc:HGNC:9783]	ENSG00000144566	Amoebiasis:KEGG-hsa05146	Amoebiasis:KEGG-hsa05146	RAB5A	magenta	En
+ENSG00000021355	SERPINB1	serpin peptidase inhibitor, clade B (ovalbumin), member 1 [Source:HGNC Symbol;Acc:HGNC:3311]	ENSG00000021355	Amoebiasis:KEGG-hsa05146	Amoebiasis:KEGG-hsa05146	SERPINB1	magenta	En
+ENSG00000124570	SERPINB6	serpin peptidase inhibitor, clade B (ovalbumin), member 6 [Source:HGNC Symbol;Acc:HGNC:8950]	ENSG00000124570	Amoebiasis:KEGG-hsa05146	Amoebiasis:KEGG-hsa05146	SERPINB6	magenta	En
+ENSG00000196569	LAMA2	laminin, alpha 2 [Source:HGNC Symbol;Acc:HGNC:6482]	ENSG00000196569	Amoebiasis:KEGG-hsa05146	Amoebiasis:KEGG-hsa05146	LAMA2	magenta	En
+ENSG00000171867	PRNP	prion protein [Source:HGNC Symbol;Acc:HGNC:9449]	ENSG00000171867	Prion diseases:KEGG-hsa05020	Prion diseases:KEGG-hsa05020	PRNP	magenta	En
+ENSG00000149294	NCAM1	neural cell adhesion molecule 1 [Source:HGNC Symbol;Acc:HGNC:7656]	ENSG00000149294	Prion diseases:KEGG-hsa05020	Prion diseases:KEGG-hsa05020	NCAM1	magenta	En
+ENSG00000154654	NCAM2	neural cell adhesion molecule 2 [Source:HGNC Symbol;Acc:HGNC:7657]	ENSG00000154654	Prion diseases:KEGG-hsa05020	Prion diseases:KEGG-hsa05020	NCAM2	magenta	En

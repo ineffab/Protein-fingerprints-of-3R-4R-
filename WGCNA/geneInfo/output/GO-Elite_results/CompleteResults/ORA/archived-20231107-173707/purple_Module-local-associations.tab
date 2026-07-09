@@ -1,0 +1,172 @@
+Ensembl	symbol	WikiPathways
+ENSG00000189221	MAOA	Biogenic Amine Synthesis:WP550
+ENSG00000093010	COMT	Biogenic Amine Synthesis:WP550
+ENSG00000189221	MAOA	Serotonin Transporter Activity:WP1455
+ENSG00000110047	EHD1	Insulin Signaling:WP481
+ENSG00000197879	MYO1C	Insulin Signaling:WP481
+ENSG00000117118	SDHB	TCA Cycle:WP78
+ENSG00000073578	SDHA	TCA Cycle:WP78
+ENSG00000105953	OGDH	TCA Cycle:WP78
+ENSG00000174437	ATP2A2	Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412:WP2118
+ENSG00000170348	TMED10	mRNA Processing:WP411
+ENSG00000059804	SLC2A3	Glycolysis and Gluconeogenesis:WP534
+ENSG00000168291	PDHB	Glycolysis and Gluconeogenesis:WP534
+ENSG00000134333	LDHA	Glycolysis and Gluconeogenesis:WP534
+ENSG00000150768	DLAT	Glycolysis and Gluconeogenesis:WP534
+ENSG00000134243	SORT1	BDNF signaling pathway:WP2380
+ENSG00000059804	SLC2A3	NRF2 pathway:WP2884
+ENSG00000198848	CES1	NRF2 pathway:WP2884
+ENSG00000132164	SLC6A11	NRF2 pathway:WP2884
+ENSG00000120915	EPHX2	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+ENSG00000178741	COX5A	Arachidonate Epoxygenase / Epoxide Hydrolase:WP678
+ENSG00000146648	EGFR	Arylhydrocarbon receptor (AhR) signaling pathway:WP2100
+ENSG00000146648	EGFR	Extracellular vesicle-mediated signaling in recipient cells:WP2870
+ENSG00000113721	PDGFRB	Signaling Pathways in Glioblastoma:WP2261
+ENSG00000146648	EGFR	Signaling Pathways in Glioblastoma:WP2261
+ENSG00000044574	HSPA5	Apoptosis-related network due to altered Notch3 in ovarian cancer:WP2864
+ENSG00000101444	AHCY	One Carbon Metabolism:WP241
+ENSG00000105974	CAV1	TGF beta Signaling Pathway:WP366
+ENSG00000113721	PDGFRB	MAPK Signaling Pathway:WP382
+ENSG00000146648	EGFR	MAPK Signaling Pathway:WP382
+ENSG00000044574	HSPA5	MAPK Signaling Pathway:WP382
+ENSG00000198848	CES1	Fluoropyrimidine Activity:WP1601
+ENSG00000189221	MAOA	Oxidative Stress:WP408
+ENSG00000198848	CES1	Irinotecan Pathway:WP229
+ENSG00000141458	NPC1	Irinotecan Pathway:WP229
+ENSG00000154096	THY1	Cardiac Progenitor Differentiation:WP2406
+ENSG00000105974	CAV1	Focal Adhesion:WP306
+ENSG00000142173	COL6A2	Focal Adhesion:WP306
+ENSG00000113721	PDGFRB	Focal Adhesion:WP306
+ENSG00000146648	EGFR	Focal Adhesion:WP306
+ENSG00000169896	ITGAM	Focal Adhesion:WP306
+ENSG00000101444	AHCY	Trans-sulfuration and one carbon metabolism:WP2525
+ENSG00000168906	MAT2A	Trans-sulfuration and one carbon metabolism:WP2525
+ENSG00000146648	EGFR	Integrated Pancreatic Cancer Pathway:WP2377
+ENSG00000143819	EPHX1	Aflatoxin B1 metabolism:WP699
+ENSG00000113721	PDGFRB	Imatinib Resistance in Chronic Myeloid Leukemia:WP2946
+ENSG00000120915	EPHX2	Metapathway biotransformation:WP702
+ENSG00000143819	EPHX1	Metapathway biotransformation:WP702
+ENSG00000093010	COMT	Metapathway biotransformation:WP702
+ENSG00000122873	CISD1	Adipogenesis:WP236
+ENSG00000105974	CAV1	Androgen receptor signaling pathway:WP138
+ENSG00000146648	EGFR	Androgen receptor signaling pathway:WP138
+ENSG00000179218	CALR	Androgen receptor signaling pathway:WP138
+ENSG00000074695	LMAN1	Complement and Coagulation Cascades:WP558
+ENSG00000168959	GRM5	Hypothetical Network for Drug Addiction:WP666
+ENSG00000143819	EPHX1	Benzo(a)pyrene metabolism:WP696
+ENSG00000110090	CPT1A	AMPK Signaling:WP1403
+ENSG00000101444	AHCY	Trans-sulfuration pathway:WP2333
+ENSG00000105974	CAV1	EGF/EGFR Signaling Pathway:WP437
+ENSG00000146648	EGFR	EGF/EGFR Signaling Pathway:WP437
+ENSG00000182718	ANXA2	Prostaglandin Synthesis and Regulation:WP98
+ENSG00000154930	ACSS1	Statin Pathway:WP430
+ENSG00000123384	LRP1	Statin Pathway:WP430
+ENSG00000146648	EGFR	Rac1/Pak1/p38/MMP-2 pathway:WP3303
+ENSG00000093010	COMT	Estrogen metabolism:WP697
+ENSG00000198848	CES1	Phase I biotransformations, non P450:WP136
+ENSG00000105854	PON2	Phase I biotransformations, non P450:WP136
+ENSG00000146648	EGFR	Spinal Cord Injury:WP2431
+ENSG00000134333	LDHA	Cori Cycle:WP1946
+ENSG00000185129	PURA	Diurnally Regulated Genes with Circadian Orthologs:WP410
+ENSG00000146648	EGFR	TCA Cycle Nutrient Utilization and Invasiveness of Ovarian Cancer:WP2868
+ENSG00000113721	PDGFRB	Regulation of Actin Cytoskeleton:WP51
+ENSG00000146648	EGFR	Regulation of Actin Cytoskeleton:WP51
+ENSG00000101444	AHCY	Folate Metabolism:WP176
+ENSG00000166426	CRABP1	Vitamin A and Carotenoid Metabolism:WP716
+ENSG00000196419	XRCC6	Non-homologous end joining:WP438
+ENSG00000079246	XRCC5	Non-homologous end joining:WP438
+ENSG00000113721	PDGFRB	Osteoblast Signaling:WP322
+ENSG00000146648	EGFR	ErbB Signaling Pathway:WP673
+ENSG00000044574	HSPA5	Parkin-Ubiquitin Proteasomal System pathway:WP2359
+ENSG00000174748	RPL15	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000174444	RPL4	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000110090	CPT1A	PPAR Alpha Pathway:WP2878
+ENSG00000174437	ATP2A2	Endothelin Pathways:WP2197
+ENSG00000123384	LRP1	Alzheimers Disease:WP2059
+ENSG00000174437	ATP2A2	Alzheimers Disease:WP2059
+ENSG00000073578	SDHA	TCA Cycle and PDHc:WP2453
+ENSG00000150768	DLAT	TCA Cycle and PDHc:WP2453
+ENSG00000105953	OGDH	TCA Cycle and PDHc:WP2453
+ENSG00000117118	SDHB	Electron Transport Chain:WP111
+ENSG00000213619	NDUFS3	Electron Transport Chain:WP111
+ENSG00000178127	NDUFV2	Electron Transport Chain:WP111
+ENSG00000135940	COX5B	Electron Transport Chain:WP111
+ENSG00000169021	UQCRFS1	Electron Transport Chain:WP111
+ENSG00000151729	SLC25A4	Electron Transport Chain:WP111
+ENSG00000023228	NDUFS1	Electron Transport Chain:WP111
+ENSG00000147684	NDUFB9	Electron Transport Chain:WP111
+ENSG00000158864	NDUFS2	Electron Transport Chain:WP111
+ENSG00000010256	UQCRC1	Electron Transport Chain:WP111
+ENSG00000167792	NDUFV1	Electron Transport Chain:WP111
+ENSG00000131495	NDUFA2	Electron Transport Chain:WP111
+ENSG00000073578	SDHA	Electron Transport Chain:WP111
+ENSG00000128609	NDUFA5	Electron Transport Chain:WP111
+ENSG00000168653	NDUFS5	Electron Transport Chain:WP111
+ENSG00000139180	NDUFA9	Electron Transport Chain:WP111
+ENSG00000126267	COX6B1	Electron Transport Chain:WP111
+ENSG00000156467	UQCRB	Electron Transport Chain:WP111
+ENSG00000131143	COX4I1	Electron Transport Chain:WP111
+ENSG00000178741	COX5A	Electron Transport Chain:WP111
+ENSG00000140740	UQCRC2	Electron Transport Chain:WP111
+ENSG00000148660	CAMK2G	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000174437	ATP2A2	Myometrial Relaxation and Contraction Pathways:WP289
+ENSG00000113721	PDGFRB	PDGF Pathway:WP2526
+ENSG00000184047	DIABLO	BCL-XL prevents the binding of truncated BID to BAX. This is prevented by BAD. BAD can displace tBID from BCL-XL.   :WP231
+ENSG00000034713	GABARAPL2	Senescence and Autophagy in Cancer:WP615
+ENSG00000213619	NDUFS3	Oxidative phosphorylation:WP623
+ENSG00000178127	NDUFV2	Oxidative phosphorylation:WP623
+ENSG00000023228	NDUFS1	Oxidative phosphorylation:WP623
+ENSG00000147684	NDUFB9	Oxidative phosphorylation:WP623
+ENSG00000158864	NDUFS2	Oxidative phosphorylation:WP623
+ENSG00000167792	NDUFV1	Oxidative phosphorylation:WP623
+ENSG00000131495	NDUFA2	Oxidative phosphorylation:WP623
+ENSG00000128609	NDUFA5	Oxidative phosphorylation:WP623
+ENSG00000168653	NDUFS5	Oxidative phosphorylation:WP623
+ENSG00000139180	NDUFA9	Oxidative phosphorylation:WP623
+ENSG00000105974	CAV1	Integrin-mediated Cell Adhesion:WP185
+ENSG00000169896	ITGAM	Integrin-mediated Cell Adhesion:WP185
+ENSG00000149257	SERPINH1	Endochondral Ossification:WP474
+ENSG00000159348	CYB5R1	Oxidation by Cytochrome P450:WP43
+ENSG00000100243	CYB5R3	Oxidation by Cytochrome P450:WP43
+ENSG00000123131	PRDX4	Selenium Micronutrient Network:WP15
+ENSG00000128595	CALU	NOTCH1 regulation of human endothelial cell calcification:WP3413
+ENSG00000154930	ACSS1	SREBP signalling:WP1982
+ENSG00000146648	EGFR	Gastric cancer network 2:WP2363
+ENSG00000142173	COL6A2	miRNA targets in ECM and membrane receptors:WP2911
+ENSG00000142156	COL6A1	miRNA targets in ECM and membrane receptors:WP2911
+ENSG00000163359	COL6A3	miRNA targets in ECM and membrane receptors:WP2911
+ENSG00000146648	EGFR	Aryl Hydrocarbon Receptor:WP2586
+ENSG00000146648	EGFR	Bladder Cancer:WP2828
+ENSG00000072210	ALDH3A2	Tryptophan metabolism:WP465
+ENSG00000105953	OGDH	Tryptophan metabolism:WP465
+ENSG00000168959	GRM5	GPCRs, Class C Metabotropic glutamate, pheromone:WP501
+ENSG00000138029	HADHB	Fatty Acid Beta Oxidation:WP143
+ENSG00000110090	CPT1A	Fatty Acid Beta Oxidation:WP143
+ENSG00000115159	GPD2	Fatty Acid Beta Oxidation:WP143
+ENSG00000063046	EIF4B	Interferon type I signaling pathways:WP585
+ENSG00000079215	SLC1A3	Synaptic Vesicle Pathway:WP2267
+ENSG00000151729	SLC25A4	Synaptic Vesicle Pathway:WP2267
+ENSG00000138029	HADHB	SIDS Susceptibility Pathways:WP706
+ENSG00000079215	SLC1A3	SIDS Susceptibility Pathways:WP706
+ENSG00000166598	HSP90B1	SIDS Susceptibility Pathways:WP706
+ENSG00000151729	SLC25A4	SIDS Susceptibility Pathways:WP706
+ENSG00000189221	MAOA	SIDS Susceptibility Pathways:WP706
+ENSG00000110090	CPT1A	SIDS Susceptibility Pathways:WP706
+ENSG00000118705	RPN2	Proteasome Degradation:WP183
+ENSG00000163902	RPN1	Proteasome Degradation:WP183
+ENSG00000179218	CALR	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000148660	CAMK2G	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000174437	ATP2A2	Calcium Regulation in the Cardiac Cell:WP536
+ENSG00000174444	RPL4	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+ENSG00000110090	CPT1A	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+ENSG00000146648	EGFR	Hair Follicle Development: Induction (Part 1 of 3):WP2804
+ENSG00000146648	EGFR	AGE/RAGE pathway:WP2324
+ENSG00000189221	MAOA	Dopamine metabolism:WP2436
+ENSG00000093010	COMT	Dopamine metabolism:WP2436
+ENSG00000146648	EGFR	Aryl Hydrocarbon Receptor Pathway:WP2873
+ENSG00000138119	MYOF	Aryl Hydrocarbon Receptor Pathway:WP2873
+ENSG00000184047	DIABLO	Apoptosis:WP254
+ENSG00000118705	RPN2	Translation Factors:WP107
+ENSG00000063046	EIF4B	Translation Factors:WP107
+ENSG00000093010	COMT	Methylation Pathways:WP704
+ENSG00000168906	MAT2A	Methylation Pathways:WP704

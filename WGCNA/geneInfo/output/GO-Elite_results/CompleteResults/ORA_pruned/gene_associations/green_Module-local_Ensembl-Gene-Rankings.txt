@@ -1,0 +1,23 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	2	0.5	ENSG00000171564	Complement and Coagulation Cascades:WP558 // Blood Clotting Cascade:WP272
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	1	0.25	ENSG00000253729	Non-homologous end joining:WP438
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	1	0.25	ENSG00000198755	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	1	0.25	ENSG00000196419	Non-homologous end joining:WP438
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	1	0.25	ENSG00000188846	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	1	0.25	ENSG00000177600	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	1	0.25	ENSG00000174748	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	1	0.25	ENSG00000174444	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	1	0.25	ENSG00000171560	Blood Clotting Cascade:WP272
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	1	0.25	ENSG00000171557	Blood Clotting Cascade:WP272
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	1	0.25	ENSG00000170889	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	1	0.25	ENSG00000167526	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	1	0.25	ENSG00000161016	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	1	0.25	ENSG00000148303	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	1	0.25	ENSG00000142937	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	1	0.25	ENSG00000105640	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	1	0.25	ENSG00000100316	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	1	0.25	ENSG00000089157	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	1	0.25	ENSG00000089009	Cytoplasmic Ribosomal Proteins:WP477
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	1	0.25	ENSG00000079246	Non-homologous end joining:WP438
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	1	0.25	ENSG00000074695	Complement and Coagulation Cascades:WP558
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	1	0.25	ENSG00000000971	Complement and Coagulation Cascades:WP558

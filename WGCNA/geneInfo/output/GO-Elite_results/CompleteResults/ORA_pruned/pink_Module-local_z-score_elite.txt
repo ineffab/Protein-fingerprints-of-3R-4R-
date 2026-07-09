@@ -1,0 +1,2 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Synaptic Vesicle Pathway:WP2267	4	29	51	13.7931034483	56.862745098	4.13001822394	0.0105	1.0	 	 	CLTA|CLTC|SLC17A7|SYP

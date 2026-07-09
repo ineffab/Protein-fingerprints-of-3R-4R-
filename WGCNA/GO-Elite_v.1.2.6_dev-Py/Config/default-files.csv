@@ -1,0 +1,6 @@
+"OBO","ftp","http://www.geneontology.org/ontology/gene_ontology.obo","all"
+"PathDir","local","/Users/nsalomonis/Desktop/User Diagnostics/Go_Elite_Direct_Input","all"
+"temp","temp","ftp://ftp.geneontology.org/pub/go/ontology-archive/function.ontology.2008-08-01.gz","all"
+"url","ulr","http://www.genmapp.org/go_elite/","all"
+"PathFile","local","","all"
+"EntrezGO","ftp","ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene2go.gz","all"

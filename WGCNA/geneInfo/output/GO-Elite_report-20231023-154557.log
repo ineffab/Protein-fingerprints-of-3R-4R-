@@ -1,0 +1,91 @@
+Running GO-Elite version 1.2.5
+
+Primary GO-Elite Parameters
+	species: Hs
+	results-directory: C:/Aatmika/PSP_PICK_WGCNA/geneInfo/output
+	filter_method: z-score
+	z_threshold: 1.96
+	p_val_threshold: 0.05
+	change_threshold: 2
+	sort_only_by_zscore: yes
+	analysis_method: UI
+	criterion_input_folder: C:/Aatmika/PSP_PICK_WGCNA/geneInfo/input
+	custom_sets_folder: 
+ORA Parameters
+	mod: Ensembl
+	permutations: 2000
+	resources_to_analyze: all
+Performing over-representation analysis (ORA) on black_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.4 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 65.9 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 1.7 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 1.5 seconds
+Performing over-representation analysis (ORA) on green_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 25.1 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.8 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.7 seconds
+Performing over-representation analysis (ORA) on grey_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.3 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 49.7 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 1.6 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 1.3 seconds
+Performing over-representation analysis (ORA) on pink_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 13.9 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.5 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.4 seconds
+Performing over-representation analysis (ORA) on turquoise_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.4 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 59.3 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 1.7 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 1.5 seconds
+ORA analyses finished in 232.6 seconds
+Pruning black_Module-KEGG.txt
+Pruning green_Module-KEGG.txt
+Pruning grey_Module-KEGG.txt
+Pruning pink_Module-KEGG.txt
+Pruning turquoise_Module-KEGG.txt
+Pruning black_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning black_Module-local.txt
+Pruning green_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning green_Module-local.txt
+Pruning grey_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning grey_Module-local.txt
+Pruning pink_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning pink_Module-local.txt
+Pruning turquoise_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning turquoise_Module-local.txt
+gene associations assigned
+Analysis completed in 306 seconds... Exiting GO-Elite
+
+Dataset name: turquoise_Module
+
+356:	Reported Filtered GO-terms
+119:	Reported Elite GO-terms
+46:	Elite GO-terms redundant with other Elite GO-terms
+9:	Reported Filtered Pathways
+1:	Filtered Pathways redundant with other Filtered Pathways
+533:	Number of genes associated with Filtered GO-terms
+502:	Number of genes associated with Elite GO-terms
+70:	Number of genes associated with Filtered Pathways

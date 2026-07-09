@@ -1,0 +1,71 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000091140	DLD	dihydrolipoamide dehydrogenase [Source:HGNC Symbol;Acc:HGNC:2898]	4	0.444444444444	ENSG00000091140	Glycolysis and Gluconeogenesis:WP534 // Fatty Acid Beta Oxidation:WP143 // TCA Cycle:WP78 // TCA Cycle and PDHc:WP2453
+ENSG00000138796	HADH	hydroxyacyl-CoA dehydrogenase [Source:HGNC Symbol;Acc:HGNC:4799]	3	0.333333333333	ENSG00000138796	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368 // Tryptophan metabolism:WP465 // Fatty Acid Beta Oxidation:WP143
+ENSG00000105953	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide) [Source:HGNC Symbol;Acc:HGNC:8124]	3	0.333333333333	ENSG00000105953	Tryptophan metabolism:WP465 // TCA Cycle:WP78 // TCA Cycle and PDHc:WP2453
+ENSG00000073578	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp) [Source:HGNC Symbol;Acc:HGNC:10680]	3	0.333333333333	ENSG00000073578	Electron Transport Chain:WP111 // TCA Cycle:WP78 // TCA Cycle and PDHc:WP2453
+ENSG00000213619	NDUFS3	NADH dehydrogenase (ubiquinone) Fe-S protein 3, 30kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7710]	2	0.222222222222	ENSG00000213619	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000178537	SLC25A20	solute carrier family 25 (carnitine/acylcarnitine translocase), member 20 [Source:HGNC Symbol;Acc:HGNC:1421]	2	0.222222222222	ENSG00000178537	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368 // Fatty Acid Beta Oxidation:WP143
+ENSG00000178127	NDUFV2	NADH dehydrogenase (ubiquinone) flavoprotein 2, 24kDa [Source:HGNC Symbol;Acc:HGNC:7717]	2	0.222222222222	ENSG00000178127	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000173599	PC	pyruvate carboxylase [Source:HGNC Symbol;Acc:HGNC:8636]	2	0.222222222222	ENSG00000173599	Glycolysis and Gluconeogenesis:WP534 // TCA Cycle and PDHc:WP2453
+ENSG00000168653	NDUFS5	NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7712]	2	0.222222222222	ENSG00000168653	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000167792	NDUFV1	NADH dehydrogenase (ubiquinone) flavoprotein 1, 51kDa [Source:HGNC Symbol;Acc:HGNC:7716]	2	0.222222222222	ENSG00000167792	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000166411	IDH3A	isocitrate dehydrogenase 3 (NAD+) alpha [Source:HGNC Symbol;Acc:HGNC:5384]	2	0.222222222222	ENSG00000166411	TCA Cycle:WP78 // TCA Cycle and PDHc:WP2453
+ENSG00000158864	NDUFS2	NADH dehydrogenase (ubiquinone) Fe-S protein 2, 49kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7708]	2	0.222222222222	ENSG00000158864	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000150768	DLAT	dihydrolipoamide S-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2896]	2	0.222222222222	ENSG00000150768	Glycolysis and Gluconeogenesis:WP534 // TCA Cycle and PDHc:WP2453
+ENSG00000147684	NDUFB9	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 9, 22kDa [Source:HGNC Symbol;Acc:HGNC:7704]	2	0.222222222222	ENSG00000147684	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000145494	NDUFS6	NADH dehydrogenase (ubiquinone) Fe-S protein 6, 13kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7713]	2	0.222222222222	ENSG00000145494	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000140990	NDUFB10	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 10, 22kDa [Source:HGNC Symbol;Acc:HGNC:7696]	2	0.222222222222	ENSG00000140990	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000139180	NDUFA9	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9, 39kDa [Source:HGNC Symbol;Acc:HGNC:7693]	2	0.222222222222	ENSG00000139180	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000131828	PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1 [Source:HGNC Symbol;Acc:HGNC:8806]	2	0.222222222222	ENSG00000131828	Glycolysis and Gluconeogenesis:WP534 // TCA Cycle and PDHc:WP2453
+ENSG00000131495	NDUFA2	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 2, 8kDa [Source:HGNC Symbol;Acc:HGNC:7685]	2	0.222222222222	ENSG00000131495	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000130414	NDUFA10	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 10, 42kDa [Source:HGNC Symbol;Acc:HGNC:7684]	2	0.222222222222	ENSG00000130414	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000128609	NDUFA5	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5 [Source:HGNC Symbol;Acc:HGNC:7688]	2	0.222222222222	ENSG00000128609	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000127884	ECHS1	enoyl CoA hydratase, short chain, 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:3151]	2	0.222222222222	ENSG00000127884	Tryptophan metabolism:WP465 // Fatty Acid Beta Oxidation:WP143
+ENSG00000119689	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex) [Source:HGNC Symbol;Acc:HGNC:2911]	2	0.222222222222	ENSG00000119689	TCA Cycle:WP78 // TCA Cycle and PDHc:WP2453
+ENSG00000119421	NDUFA8	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8, 19kDa [Source:HGNC Symbol;Acc:HGNC:7692]	2	0.222222222222	ENSG00000119421	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000117118	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip) [Source:HGNC Symbol;Acc:HGNC:10681]	2	0.222222222222	ENSG00000117118	Electron Transport Chain:WP111 // TCA Cycle:WP78
+ENSG00000117054	ACADM	acyl-CoA dehydrogenase, C-4 to C-12 straight chain [Source:HGNC Symbol;Acc:HGNC:89]	2	0.222222222222	ENSG00000117054	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368 // Fatty Acid Beta Oxidation:WP143
+ENSG00000111669	TPI1	triosephosphate isomerase 1 [Source:HGNC Symbol;Acc:HGNC:12009]	2	0.222222222222	ENSG00000111669	Glycolysis and Gluconeogenesis:WP534 // Fatty Acid Beta Oxidation:WP143
+ENSG00000084754	HADHA	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit [Source:HGNC Symbol;Acc:HGNC:4801]	2	0.222222222222	ENSG00000084754	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368 // Fatty Acid Beta Oxidation:WP143
+ENSG00000075239	ACAT1	acetyl-CoA acetyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:93]	2	0.222222222222	ENSG00000075239	Tryptophan metabolism:WP465 // Fatty Acid Beta Oxidation:WP143
+ENSG00000072778	ACADVL	acyl-CoA dehydrogenase, very long chain [Source:HGNC Symbol;Acc:HGNC:92]	2	0.222222222222	ENSG00000072778	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368 // Fatty Acid Beta Oxidation:WP143
+ENSG00000062485	CS	citrate synthase [Source:HGNC Symbol;Acc:HGNC:2422]	2	0.222222222222	ENSG00000062485	TCA Cycle:WP78 // TCA Cycle and PDHc:WP2453
+ENSG00000023228	NDUFS1	NADH dehydrogenase (ubiquinone) Fe-S protein 1, 75kDa (NADH-coenzyme Q reductase) [Source:HGNC Symbol;Acc:HGNC:7707]	2	0.222222222222	ENSG00000023228	Oxidative phosphorylation:WP623 // Electron Transport Chain:WP111
+ENSG00000014641	MDH1	malate dehydrogenase 1, NAD (soluble) [Source:HGNC Symbol;Acc:HGNC:6970]	2	0.222222222222	ENSG00000014641	Glycolysis and Gluconeogenesis:WP534 // TCA Cycle and PDHc:WP2453
+ENSG00000182054	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial [Source:HGNC Symbol;Acc:HGNC:5383]	1	0.111111111111	ENSG00000182054	TCA Cycle:WP78
+ENSG00000178741	COX5A	cytochrome c oxidase subunit Va [Source:HGNC Symbol;Acc:HGNC:2267]	1	0.111111111111	ENSG00000178741	Electron Transport Chain:WP111
+ENSG00000169100	SLC25A6	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6 [Source:HGNC Symbol;Acc:HGNC:10992]	1	0.111111111111	ENSG00000169100	Electron Transport Chain:WP111
+ENSG00000169021	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1 [Source:HGNC Symbol;Acc:HGNC:12587]	1	0.111111111111	ENSG00000169021	Electron Transport Chain:WP111
+ENSG00000168291	PDHB	pyruvate dehydrogenase (lipoamide) beta [Source:HGNC Symbol;Acc:HGNC:8808]	1	0.111111111111	ENSG00000168291	Glycolysis and Gluconeogenesis:WP534
+ENSG00000164708	PGAM2	phosphoglycerate mutase 2 (muscle) [Source:HGNC Symbol;Acc:HGNC:8889]	1	0.111111111111	ENSG00000164708	Glycolysis and Gluconeogenesis:WP534
+ENSG00000156515	HK1	hexokinase 1 [Source:HGNC Symbol;Acc:HGNC:4922]	1	0.111111111111	ENSG00000156515	Glycolysis and Gluconeogenesis:WP534
+ENSG00000156467	UQCRB	ubiquinol-cytochrome c reductase binding protein [Source:HGNC Symbol;Acc:HGNC:12582]	1	0.111111111111	ENSG00000156467	Electron Transport Chain:WP111
+ENSG00000151729	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4 [Source:HGNC Symbol;Acc:HGNC:10990]	1	0.111111111111	ENSG00000151729	Electron Transport Chain:WP111
+ENSG00000149925	ALDOA	aldolase A, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:414]	1	0.111111111111	ENSG00000149925	Glycolysis and Gluconeogenesis:WP534
+ENSG00000143149	ALDH9A1	aldehyde dehydrogenase 9 family, member A1 [Source:HGNC Symbol;Acc:HGNC:412]	1	0.111111111111	ENSG00000143149	Tryptophan metabolism:WP465
+ENSG00000142583	SLC2A5	solute carrier family 2 (facilitated glucose/fructose transporter), member 5 [Source:HGNC Symbol;Acc:HGNC:11010]	1	0.111111111111	ENSG00000142583	Glycolysis and Gluconeogenesis:WP534
+ENSG00000140740	UQCRC2	ubiquinol-cytochrome c reductase core protein II [Source:HGNC Symbol;Acc:HGNC:12586]	1	0.111111111111	ENSG00000140740	Electron Transport Chain:WP111
+ENSG00000138448	ITGAV	integrin, alpha V [Source:HGNC Symbol;Acc:HGNC:6150]	1	0.111111111111	ENSG00000138448	Osteoblast Signaling:WP322
+ENSG00000138413	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble [Source:HGNC Symbol;Acc:HGNC:5382]	1	0.111111111111	ENSG00000138413	TCA Cycle and PDHc:WP2453
+ENSG00000138029	HADHB	hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), beta subunit [Source:HGNC Symbol;Acc:HGNC:4803]	1	0.111111111111	ENSG00000138029	Fatty Acid Beta Oxidation:WP143
+ENSG00000135940	COX5B	cytochrome c oxidase subunit Vb [Source:HGNC Symbol;Acc:HGNC:2269]	1	0.111111111111	ENSG00000135940	Electron Transport Chain:WP111
+ENSG00000134333	LDHA	lactate dehydrogenase A [Source:HGNC Symbol;Acc:HGNC:6535]	1	0.111111111111	ENSG00000134333	Glycolysis and Gluconeogenesis:WP534
+ENSG00000131143	COX4I1	cytochrome c oxidase subunit IV isoform 1 [Source:HGNC Symbol;Acc:HGNC:2265]	1	0.111111111111	ENSG00000131143	Electron Transport Chain:WP111
+ENSG00000126267	COX6B1	cytochrome c oxidase subunit VIb polypeptide 1 (ubiquitous) [Source:HGNC Symbol;Acc:HGNC:2280]	1	0.111111111111	ENSG00000126267	Electron Transport Chain:WP111
+ENSG00000121691	CAT	catalase [Source:HGNC Symbol;Acc:HGNC:1516]	1	0.111111111111	ENSG00000121691	Tryptophan metabolism:WP465
+ENSG00000120053	GOT1	glutamic-oxaloacetic transaminase 1, soluble [Source:HGNC Symbol;Acc:HGNC:4432]	1	0.111111111111	ENSG00000120053	Glycolysis and Gluconeogenesis:WP534
+ENSG00000116171	SCP2	sterol carrier protein 2 [Source:HGNC Symbol;Acc:HGNC:10606]	1	0.111111111111	ENSG00000116171	Mitochondrial LC-Fatty Acid Beta-Oxidation:WP368
+ENSG00000115159	GPD2	glycerol-3-phosphate dehydrogenase 2 (mitochondrial) [Source:HGNC Symbol;Acc:HGNC:4456]	1	0.111111111111	ENSG00000115159	Fatty Acid Beta Oxidation:WP143
+ENSG00000113721	PDGFRB	platelet-derived growth factor receptor, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8804]	1	0.111111111111	ENSG00000113721	Osteoblast Signaling:WP322
+ENSG00000111674	ENO2	enolase 2 (gamma, neuronal) [Source:HGNC Symbol;Acc:HGNC:3353]	1	0.111111111111	ENSG00000111674	Glycolysis and Gluconeogenesis:WP534
+ENSG00000109107	ALDOC	aldolase C, fructose-bisphosphate [Source:HGNC Symbol;Acc:HGNC:418]	1	0.111111111111	ENSG00000109107	Glycolysis and Gluconeogenesis:WP534
+ENSG00000108821	COL1A1	collagen, type I, alpha 1 [Source:HGNC Symbol;Acc:HGNC:2197]	1	0.111111111111	ENSG00000108821	Osteoblast Signaling:WP322
+ENSG00000104325	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial [Source:HGNC Symbol;Acc:HGNC:2753]	1	0.111111111111	ENSG00000104325	Fatty Acid Beta Oxidation:WP143
+ENSG00000101365	IDH3B	isocitrate dehydrogenase 3 (NAD+) beta [Source:HGNC Symbol;Acc:HGNC:5385]	1	0.111111111111	ENSG00000101365	TCA Cycle:WP78
+ENSG00000100412	ACO2	aconitase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:118]	1	0.111111111111	ENSG00000100412	TCA Cycle:WP78
+ENSG00000095321	CRAT	carnitine O-acetyltransferase [Source:HGNC Symbol;Acc:HGNC:2342]	1	0.111111111111	ENSG00000095321	Fatty Acid Beta Oxidation:WP143
+ENSG00000074800	ENO1	enolase 1, (alpha) [Source:HGNC Symbol;Acc:HGNC:3350]	1	0.111111111111	ENSG00000074800	Glycolysis and Gluconeogenesis:WP534
+ENSG00000072506	HSD17B10	hydroxysteroid (17-beta) dehydrogenase 10 [Source:HGNC Symbol;Acc:HGNC:4800]	1	0.111111111111	ENSG00000072506	Tryptophan metabolism:WP465
+ENSG00000069535	MAOB	monoamine oxidase B [Source:HGNC Symbol;Acc:HGNC:6834]	1	0.111111111111	ENSG00000069535	Tryptophan metabolism:WP465
+ENSG00000010256	UQCRC1	ubiquinol-cytochrome c reductase core protein I [Source:HGNC Symbol;Acc:HGNC:12585]	1	0.111111111111	ENSG00000010256	Electron Transport Chain:WP111
+ENSG00000005022	SLC25A5	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5 [Source:HGNC Symbol;Acc:HGNC:10991]	1	0.111111111111	ENSG00000005022	Electron Transport Chain:WP111

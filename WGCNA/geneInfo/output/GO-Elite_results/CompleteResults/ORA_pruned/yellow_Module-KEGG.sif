@@ -1,0 +1,227 @@
+Staphylococcus aureus infection:KEGG-hsa05150	pr	ENSG00000204287:HLA-DRA
+Staphylococcus aureus infection:KEGG-hsa05150	pr	ENSG00000150337:FCGR1A
+Staphylococcus aureus infection:KEGG-hsa05150	pr	ENSG00000160255:ITGB2
+Staphylococcus aureus infection:KEGG-hsa05150	pr	ENSG00000244731:C4A
+Staphylococcus aureus infection:KEGG-hsa05150	pr	ENSG00000196126:HLA-DRB1
+Staphylococcus aureus infection:KEGG-hsa05150	pr	ENSG00000090339:ICAM1
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000091409:ITGA6
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000273749:CYFIP1
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000082781:ITGB5
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000092820:EZR
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000120063:GNA13
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000160255:ITGB2
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000135424:ITGA7
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000140678:ITGAX
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000147065:MSN
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000161638:ITGA5
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000138448:ITGAV
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000164171:ITGA2
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000172380:GNG12
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000132470:ITGB4
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000005884:ITGA3
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000137710:RDX
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000170458:CD14
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000006747:SCIN
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000150093:ITGB1
+Regulation of actin cytoskeleton:KEGG-hsa04810	pr	ENSG00000126458:RRAS
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000091409:ITGA6
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000065135:GNAI3
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000204287:HLA-DRA
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000172115:CYCS
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000114353:GNAI2
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000126803:HSPA2
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000196126:HLA-DRB1
+Toxoplasmosis:KEGG-hsa05145	pr	ENSG00000150093:ITGB1
+Leishmaniasis:KEGG-hsa05140	pr	ENSG00000204287:HLA-DRA
+Leishmaniasis:KEGG-hsa05140	pr	ENSG00000150337:FCGR1A
+Leishmaniasis:KEGG-hsa05140	pr	ENSG00000160255:ITGB2
+Leishmaniasis:KEGG-hsa05140	pr	ENSG00000175130:MARCKSL1
+Leishmaniasis:KEGG-hsa05140	pr	ENSG00000196126:HLA-DRB1
+Leishmaniasis:KEGG-hsa05140	pr	ENSG00000150093:ITGB1
+Malaria:KEGG-hsa05144	pr	ENSG00000160255:ITGB2
+Malaria:KEGG-hsa05144	pr	ENSG00000261371:PECAM1
+Malaria:KEGG-hsa05144	pr	ENSG00000090339:ICAM1
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000091409:ITGA6
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000082781:ITGB5
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000170624:SGCD
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000135424:ITGA7
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000161638:ITGA5
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000138448:ITGAV
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000164171:ITGA2
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000132470:ITGB4
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000005884:ITGA3
+Hypertrophic cardiomyopathy (HCM):KEGG-hsa05410	pr	ENSG00000150093:ITGB1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000091409:ITGA6
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000082781:ITGB5
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000170624:SGCD
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000170558:CDH2
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000135424:ITGA7
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000161638:ITGA5
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000152661:GJA1
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000138448:ITGAV
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000164171:ITGA2
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000132470:ITGB4
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000005884:ITGA3
+Arrhythmogenic right ventricular cardiomyopathy (ARVC):KEGG-hsa05412	pr	ENSG00000150093:ITGB1
+Autoimmune thyroid disease:KEGG-hsa05320	pr	ENSG00000204287:HLA-DRA
+Autoimmune thyroid disease:KEGG-hsa05320	pr	ENSG00000206503:HLA-A
+Autoimmune thyroid disease:KEGG-hsa05320	pr	ENSG00000196126:HLA-DRB1
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000091409:ITGA6
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000204287:HLA-DRA
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000160255:ITGB2
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000261371:PECAM1
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000170558:CDH2
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000184144:CNTN2
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000206503:HLA-A
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000138448:ITGAV
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000081237:PTPRC
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000196126:HLA-DRB1
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000090339:ICAM1
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000150093:ITGB1
+Cell adhesion molecules (CAMs):KEGG-hsa04514	pr	ENSG00000067141:NEO1
+Phagosome:KEGG-hsa04145	pr	ENSG00000082781:ITGB5
+Phagosome:KEGG-hsa04145	pr	ENSG00000204287:HLA-DRA
+Phagosome:KEGG-hsa04145	pr	ENSG00000005893:LAMP2
+Phagosome:KEGG-hsa04145	pr	ENSG00000150337:FCGR1A
+Phagosome:KEGG-hsa04145	pr	ENSG00000160255:ITGB2
+Phagosome:KEGG-hsa04145	pr	ENSG00000206503:HLA-A
+Phagosome:KEGG-hsa04145	pr	ENSG00000185896:LAMP1
+Phagosome:KEGG-hsa04145	pr	ENSG00000161638:ITGA5
+Phagosome:KEGG-hsa04145	pr	ENSG00000138448:ITGAV
+Phagosome:KEGG-hsa04145	pr	ENSG00000164171:ITGA2
+Phagosome:KEGG-hsa04145	pr	ENSG00000165168:CYBB
+Phagosome:KEGG-hsa04145	pr	ENSG00000196126:HLA-DRB1
+Phagosome:KEGG-hsa04145	pr	ENSG00000075785:RAB7A
+Phagosome:KEGG-hsa04145	pr	ENSG00000170458:CD14
+Phagosome:KEGG-hsa04145	pr	ENSG00000150093:ITGB1
+Gap junction:KEGG-hsa04540	pr	ENSG00000104067:TJP1
+Gap junction:KEGG-hsa04540	pr	ENSG00000065135:GNAI3
+Gap junction:KEGG-hsa04540	pr	ENSG00000154229:PRKCA
+Gap junction:KEGG-hsa04540	pr	ENSG00000114353:GNAI2
+Gap junction:KEGG-hsa04540	pr	ENSG00000088256:GNA11
+Gap junction:KEGG-hsa04540	pr	ENSG00000087460:GNAS
+Gap junction:KEGG-hsa04540	pr	ENSG00000152661:GJA1
+Gap junction:KEGG-hsa04540	pr	ENSG00000156052:GNAQ
+Systemic lupus erythematosus:KEGG-hsa05322	pr	ENSG00000204287:HLA-DRA
+Systemic lupus erythematosus:KEGG-hsa05322	pr	ENSG00000150337:FCGR1A
+Systemic lupus erythematosus:KEGG-hsa05322	pr	ENSG00000244731:C4A
+Systemic lupus erythematosus:KEGG-hsa05322	pr	ENSG00000196126:HLA-DRB1
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000091409:ITGA6
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000172115:CYCS
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000138448:ITGAV
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000164171:ITGA2
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000005884:ITGA3
+Small cell lung cancer:KEGG-hsa05222	pr	ENSG00000150093:ITGB1
+Long-term depression:KEGG-hsa04730	pr	ENSG00000065135:GNAI3
+Long-term depression:KEGG-hsa04730	pr	ENSG00000120063:GNA13
+Long-term depression:KEGG-hsa04730	pr	ENSG00000154229:PRKCA
+Long-term depression:KEGG-hsa04730	pr	ENSG00000114353:GNAI2
+Long-term depression:KEGG-hsa04730	pr	ENSG00000088256:GNA11
+Long-term depression:KEGG-hsa04730	pr	ENSG00000087460:GNAS
+Long-term depression:KEGG-hsa04730	pr	ENSG00000156052:GNAQ
+Graft-versus-host disease:KEGG-hsa05332	pr	ENSG00000204287:HLA-DRA
+Graft-versus-host disease:KEGG-hsa05332	pr	ENSG00000206503:HLA-A
+Graft-versus-host disease:KEGG-hsa05332	pr	ENSG00000196126:HLA-DRB1
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000204287:HLA-DRA
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000126803:HSPA2
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000206503:HLA-A
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000196126:HLA-DRB1
+Antigen processing and presentation:KEGG-hsa04612	pr	ENSG00000100911:PSME2
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000108821:COL1A1
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000154229:PRKCA
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000160255:ITGB2
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000088256:GNA11
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000087460:GNAS
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000075785:RAB7A
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000156052:GNAQ
+Amoebiasis:KEGG-hsa05146	pr	ENSG00000170458:CD14
+Viral myocarditis:KEGG-hsa05416	pr	ENSG00000204287:HLA-DRA
+Viral myocarditis:KEGG-hsa05416	pr	ENSG00000170624:SGCD
+Viral myocarditis:KEGG-hsa05416	pr	ENSG00000160255:ITGB2
+Viral myocarditis:KEGG-hsa05416	pr	ENSG00000172115:CYCS
+Viral myocarditis:KEGG-hsa05416	pr	ENSG00000206503:HLA-A
+Viral myocarditis:KEGG-hsa05416	pr	ENSG00000196126:HLA-DRB1
+Viral myocarditis:KEGG-hsa05416	pr	ENSG00000090339:ICAM1
+Chagas disease (American trypanosomiasis):KEGG-hsa05142	pr	ENSG00000065135:GNAI3
+Chagas disease (American trypanosomiasis):KEGG-hsa05142	pr	ENSG00000114353:GNAI2
+Chagas disease (American trypanosomiasis):KEGG-hsa05142	pr	ENSG00000088256:GNA11
+Chagas disease (American trypanosomiasis):KEGG-hsa05142	pr	ENSG00000087460:GNAS
+Chagas disease (American trypanosomiasis):KEGG-hsa05142	pr	ENSG00000156052:GNAQ
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000091409:ITGA6
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000082781:ITGB5
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000170624:SGCD
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000135424:ITGA7
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000087460:GNAS
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000161638:ITGA5
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000138448:ITGAV
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000164171:ITGA2
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000132470:ITGB4
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000005884:ITGA3
+Dilated cardiomyopathy:KEGG-hsa05414	pr	ENSG00000150093:ITGB1
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000091409:ITGA6
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000197702:PARVA
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000082781:ITGB5
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000137076:TLN1
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000108821:COL1A1
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000154229:PRKCA
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000135424:ITGA7
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000162909:CAPN2
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000127314:RAP1B
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000161638:ITGA5
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000138448:ITGAV
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000164171:ITGA2
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000132470:ITGB4
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000196924:FLNA
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000041982:TNC
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000005884:ITGA3
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000128591:FLNC
+Focal adhesion:KEGG-hsa04510	pr	ENSG00000150093:ITGB1
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000065135:GNAI3
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000092820:EZR
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000154229:PRKCA
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000160255:ITGB2
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000261371:PECAM1
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000114353:GNAI2
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000147065:MSN
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000127314:RAP1B
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000165168:CYBB
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000090339:ICAM1
+Leukocyte transendothelial migration:KEGG-hsa04670	pr	ENSG00000150093:ITGB1
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000091409:ITGA6
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000082781:ITGB5
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000108821:COL1A1
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000135424:ITGA7
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000161638:ITGA5
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000138448:ITGAV
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000164171:ITGA2
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000132470:ITGB4
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000041982:TNC
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000005884:ITGA3
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000026508:CD44
+ECM-receptor interaction:KEGG-hsa04512	pr	ENSG00000150093:ITGB1
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000204287:HLA-DRA
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000206503:HLA-A
+Type I diabetes mellitus:KEGG-hsa04940	pr	ENSG00000196126:HLA-DRB1
+Allograft rejection:KEGG-hsa05330	pr	ENSG00000204287:HLA-DRA
+Allograft rejection:KEGG-hsa05330	pr	ENSG00000206503:HLA-A
+Allograft rejection:KEGG-hsa05330	pr	ENSG00000196126:HLA-DRB1
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000204287:HLA-DRA
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000005893:LAMP2
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000150337:FCGR1A
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000160255:ITGB2
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000172115:CYCS
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000140678:ITGAX
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000185896:LAMP1
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000196126:HLA-DRB1
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000075785:RAB7A
+Tuberculosis:KEGG-hsa05152	pr	ENSG00000170458:CD14
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000091409:ITGA6
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000204287:HLA-DRA
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000150337:FCGR1A
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000004468:CD38
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000161638:ITGA5
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000164171:ITGA2
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000196126:HLA-DRB1
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000005884:ITGA3
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000026508:CD44
+Hematopoietic cell lineage:KEGG-hsa04640	pr	ENSG00000170458:CD14

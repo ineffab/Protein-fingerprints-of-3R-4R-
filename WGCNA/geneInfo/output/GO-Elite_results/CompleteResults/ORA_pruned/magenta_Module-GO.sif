@@ -1,0 +1,433 @@
+neuron projection guidance	pr	ENSG00000091129:NRCAM
+neuron projection guidance	pr	ENSG00000198910:L1CAM
+neuron projection guidance	pr	ENSG00000133026:MYH10
+neuron projection guidance	pr	ENSG00000163531:NFASC
+neuron projection guidance	pr	ENSG00000134121:CHL1
+neuron projection guidance	pr	ENSG00000170017:ALCAM
+neuron projection guidance	pr	ENSG00000018236:CNTN1
+neuron projection guidance	pr	ENSG00000149294:NCAM1
+neuron projection guidance	pr	ENSG00000021645:NRXN3
+neuron projection guidance	pr	ENSG00000196569:LAMA2
+neuron projection guidance	pr	ENSG00000171867:PRNP
+neuron projection guidance	pr	ENSG00000116147:TNR
+locomotory behavior	pr	ENSG00000172260:NEGR1
+locomotory behavior	pr	ENSG00000134121:CHL1
+locomotory behavior	pr	ENSG00000173786:CNP
+locomotory behavior	pr	ENSG00000008277:ADAM22
+locomotory behavior	pr	ENSG00000185565:LSAMP
+locomotory behavior	pr	ENSG00000116147:TNR
+glial cell differentiation	pr	ENSG00000123560:PLP1
+glial cell differentiation	pr	ENSG00000173786:CNP
+glial cell differentiation	pr	ENSG00000130203:APOE
+glial cell differentiation	pr	ENSG00000106278:PTPRZ1
+glial cell differentiation	pr	ENSG00000008277:ADAM22
+negative regulation of cell proliferation	pr	ENSG00000167996:FTH1
+negative regulation of cell proliferation	pr	ENSG00000168036:CTNNB1
+negative regulation of cell proliferation	pr	ENSG00000130203:APOE
+negative regulation of cell proliferation	pr	ENSG00000068903:SIRT2
+negative regulation of cell proliferation	pr	ENSG00000010278:CD9
+negative regulation of cell proliferation	pr	ENSG00000171867:PRNP
+axonogenesis	pr	ENSG00000091129:NRCAM
+axonogenesis	pr	ENSG00000133026:MYH10
+axonogenesis	pr	ENSG00000173786:CNP
+axonogenesis	pr	ENSG00000106278:PTPRZ1
+axonogenesis	pr	ENSG00000066032:CTNNA2
+fatty acid biosynthetic process	pr	ENSG00000123560:PLP1
+fatty acid biosynthetic process	pr	ENSG00000107317:PTGDS
+fatty acid biosynthetic process	pr	ENSG00000176393:RNPEP
+protease binding	pr	ENSG00000197971:MBP
+protease binding	pr	ENSG00000124570:SERPINB6
+protease binding	pr	ENSG00000134121:CHL1
+neuron recognition	pr	ENSG00000091129:NRCAM
+neuron recognition	pr	ENSG00000182667:NTM
+neuron recognition	pr	ENSG00000154654:NCAM2
+system development	pr	ENSG00000197971:MBP
+system development	pr	ENSG00000091129:NRCAM
+system development	pr	ENSG00000198910:L1CAM
+system development	pr	ENSG00000163531:NFASC
+system development	pr	ENSG00000168036:CTNNB1
+system development	pr	ENSG00000122756:CNTFR
+system development	pr	ENSG00000130203:APOE
+system development	pr	ENSG00000144566:RAB5A
+system development	pr	ENSG00000106278:PTPRZ1
+system development	pr	ENSG00000008277:ADAM22
+system development	pr	ENSG00000162813:BPNT1
+system development	pr	ENSG00000204655:MOG
+system development	pr	ENSG00000185565:LSAMP
+system development	pr	ENSG00000176956:LY6H
+cellular process involved in reproduction in multicellular organism	pr	ENSG00000168036:CTNNB1
+cellular process involved in reproduction in multicellular organism	pr	ENSG00000166086:JAM3
+cellular process involved in reproduction in multicellular organism	pr	ENSG00000010278:CD9
+cytokine-mediated signaling pathway	pr	ENSG00000058404:CAMK2B
+cytokine-mediated signaling pathway	pr	ENSG00000122756:CNTFR
+cytokine-mediated signaling pathway	pr	ENSG00000149294:NCAM1
+cytokine-mediated signaling pathway	pr	ENSG00000143947:RPS27A
+muscle structure development	pr	ENSG00000109846:CRYAB
+muscle structure development	pr	ENSG00000122756:CNTFR
+muscle structure development	pr	ENSG00000196569:LAMA2
+response to steroid hormone	pr	ENSG00000109846:CRYAB
+response to steroid hormone	pr	ENSG00000107317:PTGDS
+response to steroid hormone	pr	ENSG00000197971:MBP
+response to steroid hormone	pr	ENSG00000168036:CTNNB1
+response to steroid hormone	pr	ENSG00000104267:CA2
+cell adhesion molecule binding	pr	ENSG00000198910:L1CAM
+cell adhesion molecule binding	pr	ENSG00000168036:CTNNB1
+cell adhesion molecule binding	pr	ENSG00000166086:JAM3
+cell adhesion molecule binding	pr	ENSG00000021645:NRXN3
+cell adhesion molecule binding	pr	ENSG00000008277:ADAM22
+cell adhesion molecule binding	pr	ENSG00000010278:CD9
+cell adhesion molecule binding	pr	ENSG00000066032:CTNNA2
+synapse organization	pr	ENSG00000091129:NRCAM
+synapse organization	pr	ENSG00000163531:NFASC
+synapse organization	pr	ENSG00000168036:CTNNB1
+synapse organization	pr	ENSG00000021645:NRXN3
+synapse organization	pr	ENSG00000116147:TNR
+regulation of synapse organization	pr	ENSG00000058404:CAMK2B
+regulation of synapse organization	pr	ENSG00000021645:NRXN3
+regulation of synapse organization	pr	ENSG00000066032:CTNNA2
+paranode region of axon	pr	ENSG00000163531:NFASC
+paranode region of axon	pr	ENSG00000068903:SIRT2
+paranode region of axon	pr	ENSG00000105695:MAG
+neurological system process	pr	ENSG00000091129:NRCAM
+neurological system process	pr	ENSG00000133026:MYH10
+neurological system process	pr	ENSG00000163531:NFASC
+neurological system process	pr	ENSG00000058404:CAMK2B
+neurological system process	pr	ENSG00000166086:JAM3
+neurological system process	pr	ENSG00000134121:CHL1
+neurological system process	pr	ENSG00000184117:NIPSNAP1
+neurological system process	pr	ENSG00000021645:NRXN3
+neurological system process	pr	ENSG00000106278:PTPRZ1
+neurological system process	pr	ENSG00000154654:NCAM2
+neurological system process	pr	ENSG00000171867:PRNP
+neurological system process	pr	ENSG00000116147:TNR
+ensheathment of neurons	pr	ENSG00000123560:PLP1
+ensheathment of neurons	pr	ENSG00000197971:MBP
+ensheathment of neurons	pr	ENSG00000163531:NFASC
+ensheathment of neurons	pr	ENSG00000166086:JAM3
+ensheathment of neurons	pr	ENSG00000068903:SIRT2
+ensheathment of neurons	pr	ENSG00000008277:ADAM22
+ensheathment of neurons	pr	ENSG00000196569:LAMA2
+neural nucleus development	pr	ENSG00000123560:PLP1
+neural nucleus development	pr	ENSG00000197971:MBP
+neural nucleus development	pr	ENSG00000173786:CNP
+neural nucleus development	pr	ENSG00000068903:SIRT2
+neural nucleus development	pr	ENSG00000105695:MAG
+positive regulation of synaptic transmission	pr	ENSG00000104267:CA2
+positive regulation of synaptic transmission	pr	ENSG00000196569:LAMA2
+positive regulation of synaptic transmission	pr	ENSG00000135821:GLUL
+positive regulation of synaptic transmission	pr	ENSG00000116147:TNR
+locomotion	pr	ENSG00000091129:NRCAM
+locomotion	pr	ENSG00000198910:L1CAM
+locomotion	pr	ENSG00000133026:MYH10
+locomotion	pr	ENSG00000168036:CTNNB1
+locomotion	pr	ENSG00000166086:JAM3
+locomotion	pr	ENSG00000134121:CHL1
+locomotion	pr	ENSG00000038427:VCAN
+locomotion	pr	ENSG00000086061:DNAJA1
+locomotion	pr	ENSG00000110651:CD81
+locomotion	pr	ENSG00000198053:SIRPA
+locomotion	pr	ENSG00000151012:SLC7A11
+locomotion	pr	ENSG00000105695:MAG
+locomotion	pr	ENSG00000168003:SLC3A2
+locomotion	pr	ENSG00000066032:CTNNA2
+locomotion	pr	ENSG00000116147:TNR
+cell development	pr	ENSG00000123560:PLP1
+cell development	pr	ENSG00000133026:MYH10
+cell development	pr	ENSG00000150867:PIP4K2A
+cell development	pr	ENSG00000168036:CTNNB1
+cell development	pr	ENSG00000166086:JAM3
+cell development	pr	ENSG00000132702:HAPLN2
+cell development	pr	ENSG00000010278:CD9
+chaperone binding	pr	ENSG00000144381:HSPD1
+chaperone binding	pr	ENSG00000086061:DNAJA1
+chaperone binding	pr	ENSG00000115541:HSPE1
+chaperone binding	pr	ENSG00000171867:PRNP
+regulation of proteolysis	pr	ENSG00000109846:CRYAB
+regulation of proteolysis	pr	ENSG00000124570:SERPINB6
+regulation of proteolysis	pr	ENSG00000144381:HSPD1
+regulation of proteolysis	pr	ENSG00000164530:PI16
+regulation of proteolysis	pr	ENSG00000130203:APOE
+regulation of proteolysis	pr	ENSG00000120885:CLU
+regulation of proteolysis	pr	ENSG00000068903:SIRT2
+regulation of proteolysis	pr	ENSG00000143947:RPS27A
+regulation of proteolysis	pr	ENSG00000115541:HSPE1
+regulation of proteolysis	pr	ENSG00000021355:SERPINB1
+glycosaminoglycan binding	pr	ENSG00000132702:HAPLN2
+glycosaminoglycan binding	pr	ENSG00000038427:VCAN
+glycosaminoglycan binding	pr	ENSG00000130203:APOE
+glycosaminoglycan binding	pr	ENSG00000000971:CFH
+positive regulation of cell differentiation	pr	ENSG00000091129:NRCAM
+positive regulation of cell differentiation	pr	ENSG00000172260:NEGR1
+positive regulation of cell differentiation	pr	ENSG00000058404:CAMK2B
+positive regulation of cell differentiation	pr	ENSG00000168036:CTNNB1
+positive regulation of cell differentiation	pr	ENSG00000018236:CNTN1
+positive regulation of cell differentiation	pr	ENSG00000130203:APOE
+positive regulation of cell differentiation	pr	ENSG00000104267:CA2
+positive regulation of cell differentiation	pr	ENSG00000068903:SIRT2
+positive regulation of cell differentiation	pr	ENSG00000066032:CTNNA2
+plasma membrane	pr	ENSG00000109846:CRYAB
+plasma membrane	pr	ENSG00000123560:PLP1
+plasma membrane	pr	ENSG00000197971:MBP
+plasma membrane	pr	ENSG00000091129:NRCAM
+plasma membrane	pr	ENSG00000198910:L1CAM
+plasma membrane	pr	ENSG00000176393:RNPEP
+plasma membrane	pr	ENSG00000172260:NEGR1
+plasma membrane	pr	ENSG00000133026:MYH10
+plasma membrane	pr	ENSG00000163531:NFASC
+plasma membrane	pr	ENSG00000150867:PIP4K2A
+plasma membrane	pr	ENSG00000144381:HSPD1
+plasma membrane	pr	ENSG00000058404:CAMK2B
+plasma membrane	pr	ENSG00000070214:SLC44A1
+plasma membrane	pr	ENSG00000168036:CTNNB1
+plasma membrane	pr	ENSG00000141540:TTYH2
+plasma membrane	pr	ENSG00000166086:JAM3
+plasma membrane	pr	ENSG00000134121:CHL1
+plasma membrane	pr	ENSG00000182667:NTM
+plasma membrane	pr	ENSG00000173786:CNP
+plasma membrane	pr	ENSG00000122756:CNTFR
+plasma membrane	pr	ENSG00000018236:CNTN1
+plasma membrane	pr	ENSG00000085117:CD82
+plasma membrane	pr	ENSG00000149294:NCAM1
+plasma membrane	pr	ENSG00000130203:APOE
+plasma membrane	pr	ENSG00000144566:RAB5A
+plasma membrane	pr	ENSG00000104267:CA2
+plasma membrane	pr	ENSG00000110651:CD81
+plasma membrane	pr	ENSG00000068903:SIRT2
+plasma membrane	pr	ENSG00000143947:RPS27A
+plasma membrane	pr	ENSG00000010278:CD9
+plasma membrane	pr	ENSG00000204655:MOG
+plasma membrane	pr	ENSG00000254986:DPP3
+plasma membrane	pr	ENSG00000198053:SIRPA
+plasma membrane	pr	ENSG00000196569:LAMA2
+plasma membrane	pr	ENSG00000151012:SLC7A11
+plasma membrane	pr	ENSG00000185565:LSAMP
+plasma membrane	pr	ENSG00000105695:MAG
+plasma membrane	pr	ENSG00000154654:NCAM2
+plasma membrane	pr	ENSG00000171867:PRNP
+plasma membrane	pr	ENSG00000168003:SLC3A2
+plasma membrane	pr	ENSG00000176956:LY6H
+regulation of calcium-mediated signaling	pr	ENSG00000198910:L1CAM
+regulation of calcium-mediated signaling	pr	ENSG00000149294:NCAM1
+regulation of calcium-mediated signaling	pr	ENSG00000171867:PRNP
+exploration behavior	pr	ENSG00000134121:CHL1
+exploration behavior	pr	ENSG00000185565:LSAMP
+exploration behavior	pr	ENSG00000116147:TNR
+myelin sheath	pr	ENSG00000123560:PLP1
+myelin sheath	pr	ENSG00000197971:MBP
+myelin sheath	pr	ENSG00000104267:CA2
+myelin sheath	pr	ENSG00000068903:SIRT2
+myelin sheath	pr	ENSG00000105695:MAG
+phosphatidylinositol metabolic process	pr	ENSG00000150867:PIP4K2A
+phosphatidylinositol metabolic process	pr	ENSG00000110651:CD81
+phosphatidylinositol metabolic process	pr	ENSG00000162813:BPNT1
+anchored component of membrane	pr	ENSG00000172260:NEGR1
+anchored component of membrane	pr	ENSG00000182667:NTM
+anchored component of membrane	pr	ENSG00000122756:CNTFR
+anchored component of membrane	pr	ENSG00000018236:CNTN1
+anchored component of membrane	pr	ENSG00000149294:NCAM1
+anchored component of membrane	pr	ENSG00000185565:LSAMP
+anchored component of membrane	pr	ENSG00000171867:PRNP
+anchored component of membrane	pr	ENSG00000176956:LY6H
+apical part of cell	pr	ENSG00000168036:CTNNB1
+apical part of cell	pr	ENSG00000134121:CHL1
+apical part of cell	pr	ENSG00000104267:CA2
+integral component of membrane	pr	ENSG00000123560:PLP1
+integral component of membrane	pr	ENSG00000091129:NRCAM
+integral component of membrane	pr	ENSG00000198910:L1CAM
+integral component of membrane	pr	ENSG00000163531:NFASC
+integral component of membrane	pr	ENSG00000070214:SLC44A1
+integral component of membrane	pr	ENSG00000148468:FAM171A1
+integral component of membrane	pr	ENSG00000166086:JAM3
+integral component of membrane	pr	ENSG00000134121:CHL1
+integral component of membrane	pr	ENSG00000170017:ALCAM
+integral component of membrane	pr	ENSG00000085117:CD82
+integral component of membrane	pr	ENSG00000149294:NCAM1
+integral component of membrane	pr	ENSG00000164530:PI16
+integral component of membrane	pr	ENSG00000105767:CADM4
+integral component of membrane	pr	ENSG00000021645:NRXN3
+integral component of membrane	pr	ENSG00000106278:PTPRZ1
+integral component of membrane	pr	ENSG00000110651:CD81
+integral component of membrane	pr	ENSG00000008277:ADAM22
+integral component of membrane	pr	ENSG00000010278:CD9
+integral component of membrane	pr	ENSG00000204655:MOG
+integral component of membrane	pr	ENSG00000198053:SIRPA
+integral component of membrane	pr	ENSG00000151012:SLC7A11
+integral component of membrane	pr	ENSG00000105695:MAG
+integral component of membrane	pr	ENSG00000154654:NCAM2
+integral component of membrane	pr	ENSG00000168003:SLC3A2
+integral component of membrane	pr	ENSG00000157445:CACNA2D3
+blood microparticle	pr	ENSG00000108679:LGALS3BP
+blood microparticle	pr	ENSG00000130203:APOE
+blood microparticle	pr	ENSG00000120885:CLU
+blood microparticle	pr	ENSG00000211895:IGHA1
+blood microparticle	pr	ENSG00000000971:CFH
+regulation of nervous system development	pr	ENSG00000197971:MBP
+regulation of nervous system development	pr	ENSG00000091129:NRCAM
+regulation of nervous system development	pr	ENSG00000104722:NEFM
+regulation of nervous system development	pr	ENSG00000172260:NEGR1
+regulation of nervous system development	pr	ENSG00000058404:CAMK2B
+regulation of nervous system development	pr	ENSG00000168036:CTNNB1
+regulation of nervous system development	pr	ENSG00000018236:CNTN1
+regulation of nervous system development	pr	ENSG00000130203:APOE
+regulation of nervous system development	pr	ENSG00000021645:NRXN3
+regulation of nervous system development	pr	ENSG00000106278:PTPRZ1
+regulation of nervous system development	pr	ENSG00000068903:SIRT2
+regulation of nervous system development	pr	ENSG00000105695:MAG
+regulation of nervous system development	pr	ENSG00000116147:TNR
+regulation of muscle cell differentiation	pr	ENSG00000168036:CTNNB1
+regulation of muscle cell differentiation	pr	ENSG00000164530:PI16
+regulation of muscle cell differentiation	pr	ENSG00000066032:CTNNA2
+side of membrane	pr	ENSG00000091129:NRCAM
+side of membrane	pr	ENSG00000198910:L1CAM
+side of membrane	pr	ENSG00000168036:CTNNB1
+side of membrane	pr	ENSG00000170017:ALCAM
+side of membrane	pr	ENSG00000149294:NCAM1
+side of membrane	pr	ENSG00000010278:CD9
+Schmidt-Lanterman incisure	pr	ENSG00000166086:JAM3
+Schmidt-Lanterman incisure	pr	ENSG00000068903:SIRT2
+Schmidt-Lanterman incisure	pr	ENSG00000105695:MAG
+axon development	pr	ENSG00000123560:PLP1
+axon development	pr	ENSG00000166086:JAM3
+axon development	pr	ENSG00000134121:CHL1
+axon development	pr	ENSG00000130203:APOE
+rough endoplasmic reticulum	pr	ENSG00000107317:PTGDS
+rough endoplasmic reticulum	pr	ENSG00000151012:SLC7A11
+rough endoplasmic reticulum	pr	ENSG00000135821:GLUL
+paranodal junction	pr	ENSG00000163531:NFASC
+paranodal junction	pr	ENSG00000166086:JAM3
+paranodal junction	pr	ENSG00000068903:SIRT2
+negative regulation of cell growth	pr	ENSG00000109846:CRYAB
+negative regulation of cell growth	pr	ENSG00000164530:PI16
+negative regulation of cell growth	pr	ENSG00000116147:TNR
+cholesterol transport	pr	ENSG00000130203:APOE
+cholesterol transport	pr	ENSG00000120885:CLU
+cholesterol transport	pr	ENSG00000119655:NPC2
+positive regulation of cell death	pr	ENSG00000144381:HSPD1
+positive regulation of cell death	pr	ENSG00000058404:CAMK2B
+positive regulation of cell death	pr	ENSG00000168036:CTNNB1
+positive regulation of cell death	pr	ENSG00000130203:APOE
+positive regulation of cell death	pr	ENSG00000086061:DNAJA1
+positive regulation of cell death	pr	ENSG00000120885:CLU
+positive regulation of cell death	pr	ENSG00000068903:SIRT2
+positive regulation of cell death	pr	ENSG00000143947:RPS27A
+positive regulation of cell death	pr	ENSG00000115541:HSPE1
+intracellular receptor signaling pathway	pr	ENSG00000168036:CTNNB1
+intracellular receptor signaling pathway	pr	ENSG00000086061:DNAJA1
+intracellular receptor signaling pathway	pr	ENSG00000143947:RPS27A
+extracellular region	pr	ENSG00000107317:PTGDS
+extracellular region	pr	ENSG00000176393:RNPEP
+extracellular region	pr	ENSG00000050165:DKK3
+extracellular region	pr	ENSG00000038427:VCAN
+extracellular region	pr	ENSG00000130203:APOE
+extracellular region	pr	ENSG00000120885:CLU
+extracellular region	pr	ENSG00000211895:IGHA1
+extracellular region	pr	ENSG00000196569:LAMA2
+extracellular region	pr	ENSG00000000971:CFH
+extracellular region	pr	ENSG00000116147:TNR
+extracellular region	pr	ENSG00000117154:IGSF21
+proteinaceous extracellular matrix	pr	ENSG00000108679:LGALS3BP
+proteinaceous extracellular matrix	pr	ENSG00000134121:CHL1
+proteinaceous extracellular matrix	pr	ENSG00000132702:HAPLN2
+proteinaceous extracellular matrix	pr	ENSG00000038427:VCAN
+proteinaceous extracellular matrix	pr	ENSG00000106278:PTPRZ1
+proteinaceous extracellular matrix	pr	ENSG00000095713:CRTAC1
+proteinaceous extracellular matrix	pr	ENSG00000116147:TNR
+positive regulation of type I interferon production	pr	ENSG00000144381:HSPD1
+positive regulation of type I interferon production	pr	ENSG00000168036:CTNNB1
+positive regulation of type I interferon production	pr	ENSG00000143947:RPS27A
+negative regulation of cell development	pr	ENSG00000197971:MBP
+negative regulation of cell development	pr	ENSG00000168036:CTNNB1
+negative regulation of cell development	pr	ENSG00000164530:PI16
+negative regulation of cell development	pr	ENSG00000130203:APOE
+negative regulation of cell development	pr	ENSG00000068903:SIRT2
+negative regulation of cell development	pr	ENSG00000105695:MAG
+negative regulation of cell development	pr	ENSG00000116147:TNR
+extracellular space	pr	ENSG00000107317:PTGDS
+extracellular space	pr	ENSG00000108679:LGALS3BP
+extracellular space	pr	ENSG00000176393:RNPEP
+extracellular space	pr	ENSG00000124570:SERPINB6
+extracellular space	pr	ENSG00000144381:HSPD1
+extracellular space	pr	ENSG00000166086:JAM3
+extracellular space	pr	ENSG00000173786:CNP
+extracellular space	pr	ENSG00000050165:DKK3
+extracellular space	pr	ENSG00000164530:PI16
+extracellular space	pr	ENSG00000038427:VCAN
+extracellular space	pr	ENSG00000130203:APOE
+extracellular space	pr	ENSG00000104267:CA2
+extracellular space	pr	ENSG00000120885:CLU
+extracellular space	pr	ENSG00000211895:IGHA1
+extracellular space	pr	ENSG00000010278:CD9
+extracellular space	pr	ENSG00000000971:CFH
+extracellular space	pr	ENSG00000021355:SERPINB1
+response to cadmium ion	pr	ENSG00000058404:CAMK2B
+response to cadmium ion	pr	ENSG00000168036:CTNNB1
+response to cadmium ion	pr	ENSG00000171867:PRNP
+regulation of neuron death	pr	ENSG00000168036:CTNNB1
+regulation of neuron death	pr	ENSG00000134121:CHL1
+regulation of neuron death	pr	ENSG00000122756:CNTFR
+regulation of neuron death	pr	ENSG00000130203:APOE
+regulation of neuron death	pr	ENSG00000120885:CLU
+negative regulation of response to external stimulus	pr	ENSG00000130203:APOE
+negative regulation of response to external stimulus	pr	ENSG00000068903:SIRT2
+negative regulation of response to external stimulus	pr	ENSG00000066032:CTNNA2
+negative regulation of response to external stimulus	pr	ENSG00000116147:TNR
+adult behavior	pr	ENSG00000134121:CHL1
+adult behavior	pr	ENSG00000173786:CNP
+adult behavior	pr	ENSG00000021645:NRXN3
+adult behavior	pr	ENSG00000008277:ADAM22
+regulation of neuronal synaptic plasticity	pr	ENSG00000058404:CAMK2B
+regulation of neuronal synaptic plasticity	pr	ENSG00000130203:APOE
+regulation of neuronal synaptic plasticity	pr	ENSG00000144566:RAB5A
+humoral immune response	pr	ENSG00000120885:CLU
+humoral immune response	pr	ENSG00000211895:IGHA1
+humoral immune response	pr	ENSG00000000971:CFH
+regulation of neural precursor cell proliferation	pr	ENSG00000168036:CTNNB1
+regulation of neural precursor cell proliferation	pr	ENSG00000106278:PTPRZ1
+regulation of neural precursor cell proliferation	pr	ENSG00000068903:SIRT2
+response to topologically incorrect protein	pr	ENSG00000144381:HSPD1
+response to topologically incorrect protein	pr	ENSG00000086061:DNAJA1
+response to topologically incorrect protein	pr	ENSG00000120885:CLU
+response to topologically incorrect protein	pr	ENSG00000115541:HSPE1
+axon	pr	ENSG00000091129:NRCAM
+axon	pr	ENSG00000104722:NEFM
+axon	pr	ENSG00000133026:MYH10
+axon	pr	ENSG00000163531:NFASC
+axon	pr	ENSG00000170017:ALCAM
+axon	pr	ENSG00000149294:NCAM1
+axon	pr	ENSG00000144566:RAB5A
+axon	pr	ENSG00000104267:CA2
+axon	pr	ENSG00000154654:NCAM2
+axon	pr	ENSG00000066032:CTNNA2
+cellular component assembly involved in morphogenesis	pr	ENSG00000133026:MYH10
+cellular component assembly involved in morphogenesis	pr	ENSG00000163531:NFASC
+cellular component assembly involved in morphogenesis	pr	ENSG00000010278:CD9
+biological adhesion	pr	ENSG00000091129:NRCAM
+biological adhesion	pr	ENSG00000108679:LGALS3BP
+biological adhesion	pr	ENSG00000198910:L1CAM
+biological adhesion	pr	ENSG00000172260:NEGR1
+biological adhesion	pr	ENSG00000133026:MYH10
+biological adhesion	pr	ENSG00000163531:NFASC
+biological adhesion	pr	ENSG00000144381:HSPD1
+biological adhesion	pr	ENSG00000168036:CTNNB1
+biological adhesion	pr	ENSG00000166086:JAM3
+biological adhesion	pr	ENSG00000134121:CHL1
+biological adhesion	pr	ENSG00000170017:ALCAM
+biological adhesion	pr	ENSG00000182667:NTM
+biological adhesion	pr	ENSG00000018236:CNTN1
+biological adhesion	pr	ENSG00000149294:NCAM1
+biological adhesion	pr	ENSG00000132702:HAPLN2
+biological adhesion	pr	ENSG00000105767:CADM4
+biological adhesion	pr	ENSG00000038427:VCAN
+biological adhesion	pr	ENSG00000021645:NRXN3
+biological adhesion	pr	ENSG00000110651:CD81
+biological adhesion	pr	ENSG00000008277:ADAM22
+biological adhesion	pr	ENSG00000010278:CD9
+biological adhesion	pr	ENSG00000204655:MOG
+biological adhesion	pr	ENSG00000198053:SIRPA
+biological adhesion	pr	ENSG00000196569:LAMA2
+biological adhesion	pr	ENSG00000151012:SLC7A11
+biological adhesion	pr	ENSG00000185565:LSAMP
+biological adhesion	pr	ENSG00000105695:MAG
+biological adhesion	pr	ENSG00000154654:NCAM2
+biological adhesion	pr	ENSG00000066032:CTNNA2
+biological adhesion	pr	ENSG00000116147:TNR

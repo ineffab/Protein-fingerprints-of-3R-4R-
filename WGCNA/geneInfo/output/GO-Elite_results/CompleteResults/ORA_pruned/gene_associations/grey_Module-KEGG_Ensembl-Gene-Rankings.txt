@@ -1,0 +1,11 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000244734	HBB	hemoglobin, beta [Source:HGNC Symbol;Acc:HGNC:4827]	1	0.333333333333	ENSG00000244734	Malaria:KEGG-hsa05144
+ENSG00000223609	HBD	hemoglobin, delta [Source:HGNC Symbol;Acc:HGNC:4829]	1	0.333333333333	ENSG00000223609	Malaria:KEGG-hsa05144
+ENSG00000206172	HBA1	hemoglobin, alpha 1 [Source:HGNC Symbol;Acc:HGNC:4823]	1	0.333333333333	ENSG00000206172	Malaria:KEGG-hsa05144
+ENSG00000171903	CYP4F11	cytochrome P450, family 4, subfamily F, polypeptide 11 [Source:HGNC Symbol;Acc:HGNC:13265]	1	0.333333333333	ENSG00000171903	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000148334	PTGES2	prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822]	1	0.333333333333	ENSG00000148334	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000143153	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide [Source:HGNC Symbol;Acc:HGNC:804]	1	0.333333333333	ENSG00000143153	Carbohydrate digestion and absorption:KEGG-hsa04973
+ENSG00000129244	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide [Source:HGNC Symbol;Acc:HGNC:805]	1	0.333333333333	ENSG00000129244	Carbohydrate digestion and absorption:KEGG-hsa04973
+ENSG00000111144	LTA4H	leukotriene A4 hydrolase [Source:HGNC Symbol;Acc:HGNC:6710]	1	0.333333333333	ENSG00000111144	Arachidonic acid metabolism:KEGG-hsa00590
+ENSG00000105409	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide [Source:HGNC Symbol;Acc:HGNC:801]	1	0.333333333333	ENSG00000105409	Carbohydrate digestion and absorption:KEGG-hsa04973
+ENSG00000100031	GGT1	gamma-glutamyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:4250]	1	0.333333333333	ENSG00000100031	Arachidonic acid metabolism:KEGG-hsa00590

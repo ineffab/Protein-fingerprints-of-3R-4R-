@@ -1,0 +1,139 @@
+Running GO-Elite version 1.2.5
+
+Primary GO-Elite Parameters
+	species: Hs
+	results-directory: C:/Aatmika/PSP_PICK_WGCNA/geneInfo/output
+	filter_method: z-score
+	z_threshold: 1.96
+	p_val_threshold: 0.05
+	change_threshold: 2
+	sort_only_by_zscore: yes
+	analysis_method: UI
+	criterion_input_folder: C:/Aatmika/AD_WGCNA/geneInfo/input
+	custom_sets_folder: 
+ORA Parameters
+	mod: Ensembl
+	permutations: 2000
+	resources_to_analyze: all
+Performing over-representation analysis (ORA) on blue_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 28.0 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.8 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.7 seconds
+Performing over-representation analysis (ORA) on brown_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.4 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 77.3 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 2.2 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 1.6 seconds
+Performing over-representation analysis (ORA) on greenyellow_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 14.5 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.5 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.4 seconds
+Performing over-representation analysis (ORA) on grey_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 24.6 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.8 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.7 seconds
+Performing over-representation analysis (ORA) on magenta_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 16.1 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.6 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.5 seconds
+Performing over-representation analysis (ORA) on purple_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 25.8 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.8 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.7 seconds
+Performing over-representation analysis (ORA) on salmon_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 12.2 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.5 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.4 seconds
+Performing over-representation analysis (ORA) on tan_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 13.4 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.5 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.4 seconds
+Performing over-representation analysis (ORA) on yellow_Module.txt
+Using: denominator.txt for the denominator.
+Building 2000 permuted ID sets * * * * * * * * * * completed in 0.2 seconds
+    Analyzing input ID list with available ontologies
+* * * * * * * * * * Initial results for GeneOntology calculated in 25.9 seconds
+    Analyzing input ID list with available gene-sets
+* * * * * * * * * * Initial results for KEGG calculated in 0.8 seconds
+* * * * * * * * * * Initial results for WikiPathways calculated in 0.7 seconds
+ORA analyses finished in 261.7 seconds
+Pruning blue_Module-KEGG.txt
+Pruning brown_Module-KEGG.txt
+Pruning greenyellow_Module-KEGG.txt
+Pruning grey_Module-KEGG.txt
+Pruning magenta_Module-KEGG.txt
+Pruning purple_Module-KEGG.txt
+Pruning salmon_Module-KEGG.txt
+Pruning tan_Module-KEGG.txt
+Pruning yellow_Module-KEGG.txt
+Pruning blue_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning blue_Module-local.txt
+Pruning brown_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning brown_Module-local.txt
+Pruning greenyellow_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning greenyellow_Module-local.txt
+Pruning grey_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning grey_Module-local.txt
+Pruning magenta_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning magenta_Module-local.txt
+Pruning purple_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning purple_Module-local.txt
+Pruning salmon_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning salmon_Module-local.txt
+Pruning tan_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning tan_Module-local.txt
+Pruning yellow_Module-GO.txt
+* * * * * * * * * * Imported GeneOntology tree-structure for pruning
+Pruning yellow_Module-local.txt
+gene associations assigned
+Analysis completed in 504 seconds... Exiting GO-Elite
+
+Dataset name: yellow_Module
+
+423:	Reported Filtered GO-terms
+136:	Reported Elite GO-terms
+78:	Elite GO-terms redundant with other Elite GO-terms
+12:	Reported Filtered Pathways
+0:	Filtered Pathways redundant with other Filtered Pathways
+178:	Number of genes associated with Filtered GO-terms
+177:	Number of genes associated with Elite GO-terms
+45:	Number of genes associated with Filtered Pathways

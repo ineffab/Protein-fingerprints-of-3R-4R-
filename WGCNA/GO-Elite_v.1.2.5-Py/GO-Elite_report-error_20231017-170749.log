@@ -1,0 +1,11 @@
+Operating System Info: nt, 8, ('64bit', 'WindowsPE'), ('', ('', '', ''), ''), ('', ''), Windows-8-6.2.9200
+Traceback (most recent call last):
+  File "C:\Aatmika\PSP_PICK_WGCNA\GO-Elite_v.1.2.5-Py\GO_Elite.py", line 2307, in <module>
+    importGOEliteParameters(run_parameter)
+  File "C:\Aatmika\PSP_PICK_WGCNA\GO-Elite_v.1.2.5-Py\GO_Elite.py", line 1583, in importGOEliteParameters
+    parameters = UI.getUserParameters(run_parameter)
+  File "C:\Aatmika\PSP_PICK_WGCNA\GO-Elite_v.1.2.5-Py\UI.py", line 1811, in getUserParameters
+    gu = GUI(root,option_db,option_group_db['ORA'])
+  File "C:\Aatmika\PSP_PICK_WGCNA\GO-Elite_v.1.2.5-Py\UI.py", line 532, in __init__
+    except Exception: self.speciescomp.invoke(self.default_option[0])
+IndexError: list index out of range

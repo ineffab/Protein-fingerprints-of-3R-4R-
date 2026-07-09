@@ -1,0 +1,5 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000141367	CLTC	clathrin, heavy chain (Hc) [Source:HGNC Symbol;Acc:HGNC:2092]	1	1.0	ENSG00000141367	Synaptic Vesicle Pathway:WP2267
+ENSG00000122705	CLTA	clathrin, light chain A [Source:HGNC Symbol;Acc:HGNC:2090]	1	1.0	ENSG00000122705	Synaptic Vesicle Pathway:WP2267
+ENSG00000104888	SLC17A7	solute carrier family 17 (vesicular glutamate transporter), member 7 [Source:HGNC Symbol;Acc:HGNC:16704]	1	1.0	ENSG00000104888	Synaptic Vesicle Pathway:WP2267
+ENSG00000102003	SYP	synaptophysin [Source:HGNC Symbol;Acc:HGNC:11506]	1	1.0	ENSG00000102003	Synaptic Vesicle Pathway:WP2267

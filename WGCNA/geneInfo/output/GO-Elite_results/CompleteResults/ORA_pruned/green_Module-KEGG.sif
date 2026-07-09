@@ -1,0 +1,48 @@
+Non-homologous end-joining:KEGG-hsa03450	pr	ENSG00000196419:XRCC6
+Non-homologous end-joining:KEGG-hsa03450	pr	ENSG00000253729:PRKDC
+Non-homologous end-joining:KEGG-hsa03450	pr	ENSG00000079246:XRCC5
+N-Glycan biosynthesis:KEGG-hsa00510	pr	ENSG00000163902:RPN1
+N-Glycan biosynthesis:KEGG-hsa00510	pr	ENSG00000118705:RPN2
+N-Glycan biosynthesis:KEGG-hsa00510	pr	ENSG00000089597:GANAB
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000149428:HYOU1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000166598:HSP90B1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000116661:FBXO2
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000185825:BCAP31
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000074695:LMAN1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000169223:LMAN2
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000179218:CALR
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000163902:RPN1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000118705:RPN2
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000079332:SAR1A
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000044574:HSPA5
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000239264:TXNDC5
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000127022:CANX
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000143870:PDIA6
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000136731:UGGT1
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000089248:ERP29
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000136026:CKAP4
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000089597:GANAB
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000130175:PRKCSH
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000155660:PDIA4
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000185624:P4HB
+Protein processing in endoplasmic reticulum:KEGG-hsa04141	pr	ENSG00000167004:PDIA3
+Ribosome:KEGG-hsa03010	pr	ENSG00000177600:RPLP2
+Ribosome:KEGG-hsa03010	pr	ENSG00000174444:RPL4
+Ribosome:KEGG-hsa03010	pr	ENSG00000188846:RPL14
+Ribosome:KEGG-hsa03010	pr	ENSG00000147604:RPL7
+Ribosome:KEGG-hsa03010	pr	ENSG00000100316:RPL3
+Ribosome:KEGG-hsa03010	pr	ENSG00000198242:RPL23A
+Ribosome:KEGG-hsa03010	pr	ENSG00000167526:RPL13
+Ribosome:KEGG-hsa03010	pr	ENSG00000170889:RPS9
+Ribosome:KEGG-hsa03010	pr	ENSG00000161016:RPL8
+Ribosome:KEGG-hsa03010	pr	ENSG00000174748:RPL15
+Ribosome:KEGG-hsa03010	pr	ENSG00000148303:RPL7A
+Ribosome:KEGG-hsa03010	pr	ENSG00000089009:RPL6
+Ribosome:KEGG-hsa03010	pr	ENSG00000142937:RPS8
+Ribosome:KEGG-hsa03010	pr	ENSG00000089157:RPLP0
+Ribosome:KEGG-hsa03010	pr	ENSG00000198755:RPL10A
+Ribosome:KEGG-hsa03010	pr	ENSG00000105640:RPL18A
+Complement and coagulation cascades:KEGG-hsa04610	pr	ENSG00000000971:CFH
+Complement and coagulation cascades:KEGG-hsa04610	pr	ENSG00000171564:FGB
+Complement and coagulation cascades:KEGG-hsa04610	pr	ENSG00000171560:FGA
+Complement and coagulation cascades:KEGG-hsa04610	pr	ENSG00000171557:FGG

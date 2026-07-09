@@ -1,0 +1,46 @@
+GeneID	Symbol	Description	#GO-Terms Associated	Percent GO-Terms Associated	UID-str	GO Names
+ENSG00000163902	RPN1	ribophorin I [Source:HGNC Symbol;Acc:HGNC:10381]	2	0.4	ENSG00000163902	N-Glycan biosynthesis:KEGG-hsa00510 // Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000118705	RPN2	ribophorin II [Source:HGNC Symbol;Acc:HGNC:10382]	2	0.4	ENSG00000118705	N-Glycan biosynthesis:KEGG-hsa00510 // Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000089597	GANAB	glucosidase, alpha; neutral AB [Source:HGNC Symbol;Acc:HGNC:4138]	2	0.4	ENSG00000089597	N-Glycan biosynthesis:KEGG-hsa00510 // Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000253729	PRKDC	protein kinase, DNA-activated, catalytic polypeptide [Source:HGNC Symbol;Acc:HGNC:9413]	1	0.2	ENSG00000253729	Non-homologous end-joining:KEGG-hsa03450
+ENSG00000239264	TXNDC5	thioredoxin domain containing 5 (endoplasmic reticulum) [Source:HGNC Symbol;Acc:HGNC:21073]	1	0.2	ENSG00000239264	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000198755	RPL10A	ribosomal protein L10a [Source:HGNC Symbol;Acc:HGNC:10299]	1	0.2	ENSG00000198755	Ribosome:KEGG-hsa03010
+ENSG00000198242	RPL23A	ribosomal protein L23a [Source:HGNC Symbol;Acc:HGNC:10317]	1	0.2	ENSG00000198242	Ribosome:KEGG-hsa03010
+ENSG00000196419	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:HGNC Symbol;Acc:HGNC:4055]	1	0.2	ENSG00000196419	Non-homologous end-joining:KEGG-hsa03450
+ENSG00000188846	RPL14	ribosomal protein L14 [Source:HGNC Symbol;Acc:HGNC:10305]	1	0.2	ENSG00000188846	Ribosome:KEGG-hsa03010
+ENSG00000185825	BCAP31	B-cell receptor-associated protein 31 [Source:HGNC Symbol;Acc:HGNC:16695]	1	0.2	ENSG00000185825	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000185624	P4HB	prolyl 4-hydroxylase, beta polypeptide [Source:HGNC Symbol;Acc:HGNC:8548]	1	0.2	ENSG00000185624	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000179218	CALR	calreticulin [Source:HGNC Symbol;Acc:HGNC:1455]	1	0.2	ENSG00000179218	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000177600	RPLP2	ribosomal protein, large, P2 [Source:HGNC Symbol;Acc:HGNC:10377]	1	0.2	ENSG00000177600	Ribosome:KEGG-hsa03010
+ENSG00000174748	RPL15	ribosomal protein L15 [Source:HGNC Symbol;Acc:HGNC:10306]	1	0.2	ENSG00000174748	Ribosome:KEGG-hsa03010
+ENSG00000174444	RPL4	ribosomal protein L4 [Source:HGNC Symbol;Acc:HGNC:10353]	1	0.2	ENSG00000174444	Ribosome:KEGG-hsa03010
+ENSG00000171564	FGB	fibrinogen beta chain [Source:HGNC Symbol;Acc:HGNC:3662]	1	0.2	ENSG00000171564	Complement and coagulation cascades:KEGG-hsa04610
+ENSG00000171560	FGA	fibrinogen alpha chain [Source:HGNC Symbol;Acc:HGNC:3661]	1	0.2	ENSG00000171560	Complement and coagulation cascades:KEGG-hsa04610
+ENSG00000171557	FGG	fibrinogen gamma chain [Source:HGNC Symbol;Acc:HGNC:3694]	1	0.2	ENSG00000171557	Complement and coagulation cascades:KEGG-hsa04610
+ENSG00000170889	RPS9	ribosomal protein S9 [Source:HGNC Symbol;Acc:HGNC:10442]	1	0.2	ENSG00000170889	Ribosome:KEGG-hsa03010
+ENSG00000169223	LMAN2	lectin, mannose-binding 2 [Source:HGNC Symbol;Acc:HGNC:16986]	1	0.2	ENSG00000169223	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000167526	RPL13	ribosomal protein L13 [Source:HGNC Symbol;Acc:HGNC:10303]	1	0.2	ENSG00000167526	Ribosome:KEGG-hsa03010
+ENSG00000167004	PDIA3	protein disulfide isomerase family A, member 3 [Source:HGNC Symbol;Acc:HGNC:4606]	1	0.2	ENSG00000167004	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000166598	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1 [Source:HGNC Symbol;Acc:HGNC:12028]	1	0.2	ENSG00000166598	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000161016	RPL8	ribosomal protein L8 [Source:HGNC Symbol;Acc:HGNC:10368]	1	0.2	ENSG00000161016	Ribosome:KEGG-hsa03010
+ENSG00000155660	PDIA4	protein disulfide isomerase family A, member 4 [Source:HGNC Symbol;Acc:HGNC:30167]	1	0.2	ENSG00000155660	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000149428	HYOU1	hypoxia up-regulated 1 [Source:HGNC Symbol;Acc:HGNC:16931]	1	0.2	ENSG00000149428	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000148303	RPL7A	ribosomal protein L7a [Source:HGNC Symbol;Acc:HGNC:10364]	1	0.2	ENSG00000148303	Ribosome:KEGG-hsa03010
+ENSG00000147604	RPL7	ribosomal protein L7 [Source:HGNC Symbol;Acc:HGNC:10363]	1	0.2	ENSG00000147604	Ribosome:KEGG-hsa03010
+ENSG00000143870	PDIA6	protein disulfide isomerase family A, member 6 [Source:HGNC Symbol;Acc:HGNC:30168]	1	0.2	ENSG00000143870	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000142937	RPS8	ribosomal protein S8 [Source:HGNC Symbol;Acc:HGNC:10441]	1	0.2	ENSG00000142937	Ribosome:KEGG-hsa03010
+ENSG00000136731	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1 [Source:HGNC Symbol;Acc:HGNC:15663]	1	0.2	ENSG00000136731	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000136026	CKAP4	cytoskeleton-associated protein 4 [Source:HGNC Symbol;Acc:HGNC:16991]	1	0.2	ENSG00000136026	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000130175	PRKCSH	protein kinase C substrate 80K-H [Source:HGNC Symbol;Acc:HGNC:9411]	1	0.2	ENSG00000130175	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000127022	CANX	calnexin [Source:HGNC Symbol;Acc:HGNC:1473]	1	0.2	ENSG00000127022	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000116661	FBXO2	F-box protein 2 [Source:HGNC Symbol;Acc:HGNC:13581]	1	0.2	ENSG00000116661	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000105640	RPL18A	ribosomal protein L18a [Source:HGNC Symbol;Acc:HGNC:10311]	1	0.2	ENSG00000105640	Ribosome:KEGG-hsa03010
+ENSG00000100316	RPL3	ribosomal protein L3 [Source:HGNC Symbol;Acc:HGNC:10332]	1	0.2	ENSG00000100316	Ribosome:KEGG-hsa03010
+ENSG00000089248	ERP29	endoplasmic reticulum protein 29 [Source:HGNC Symbol;Acc:HGNC:13799]	1	0.2	ENSG00000089248	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000089157	RPLP0	ribosomal protein, large, P0 [Source:HGNC Symbol;Acc:HGNC:10371]	1	0.2	ENSG00000089157	Ribosome:KEGG-hsa03010
+ENSG00000089009	RPL6	ribosomal protein L6 [Source:HGNC Symbol;Acc:HGNC:10362]	1	0.2	ENSG00000089009	Ribosome:KEGG-hsa03010
+ENSG00000079332	SAR1A	secretion associated, Ras related GTPase 1A [Source:HGNC Symbol;Acc:HGNC:10534]	1	0.2	ENSG00000079332	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000079246	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining) [Source:HGNC Symbol;Acc:HGNC:12833]	1	0.2	ENSG00000079246	Non-homologous end-joining:KEGG-hsa03450
+ENSG00000074695	LMAN1	lectin, mannose-binding, 1 [Source:HGNC Symbol;Acc:HGNC:6631]	1	0.2	ENSG00000074695	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000044574	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa) [Source:HGNC Symbol;Acc:HGNC:5238]	1	0.2	ENSG00000044574	Protein processing in endoplasmic reticulum:KEGG-hsa04141
+ENSG00000000971	CFH	complement factor H [Source:HGNC Symbol;Acc:HGNC:4883]	1	0.2	ENSG00000000971	Complement and coagulation cascades:KEGG-hsa04610

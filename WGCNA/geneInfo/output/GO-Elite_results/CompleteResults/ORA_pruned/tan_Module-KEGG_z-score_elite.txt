@@ -1,0 +1,15 @@
+Gene-Set Name	Number Changed	Number Measured	Number in Gene-Set	Percent Changed	Percent Present	Z Score	PermuteP	AdjustedP	redundant with terms	inverse redundant	gene symbols	AVG-SystemCode	AVG-ME	AVG-NA	STDEV-SystemCode	STDEV-ME	STDEV-NA
+Proteasome:KEGG-hsa03050	11	30	62	36.6666666667	48.3870967742	9.1402152508	0.0	0.013375	 	 	PSMA1|PSMA2|PSMA3|PSMA5|PSMA6|PSMA7|PSMB1|PSMB2|PSMB7|PSMC3|PSMD13
+Valine, leucine and isoleucine degradation:KEGG-hsa00280	8	22	50	36.3636363636	44.0	7.72184671001	0.0	0.013375	 	Fatty acid metabolism:KEGG-hsa00071|Lysine degradation:KEGG-hsa00310|Tryptophan metabolism:KEGG-hsa00380|beta-Alanine metabolism:KEGG-hsa00410	ABAT|ACAT1|ALDH2|DLD|ECHS1|HADH|HIBADH|HIBCH
+Butanoate metabolism:KEGG-hsa00650	5	12	32	41.6666666667	37.5	6.60566812863	0.0	0.013375	 	 	ABAT|ACAT1|ALDH5A1|ECHS1|HADH
+Propanoate metabolism:KEGG-hsa00640	6	17	33	35.2941176471	51.5151515152	6.54579574059	0.0	0.013375	 	beta-Alanine metabolism:KEGG-hsa00410	ABAT|ACAT1|ALDH2|ECHS1|HIBCH|LDHB
+Alanine, aspartate and glutamate metabolism:KEGG-hsa00250	4	11	34	36.3636363636	32.3529411765	5.4289932382	0.0	0.013375	 	 	ABAT|ALDH5A1|GLUD1|GOT2
+Lysine degradation:KEGG-hsa00310	4	12	56	33.3333333333	21.4285714286	5.14057442564	0.0005	0.013375	Fatty acid metabolism:KEGG-hsa00071|Tryptophan metabolism:KEGG-hsa00380|Valine, leucine and isoleucine degradation:KEGG-hsa00280	Fatty acid metabolism:KEGG-hsa00071|Tryptophan metabolism:KEGG-hsa00380	ACAT1|ALDH2|ECHS1|HADH
+Pyruvate metabolism:KEGG-hsa00620	6	25	42	24.0	59.5238095238	5.0857100202	0.0	0.013375	 	 	ACAT1|ALDH2|DLD|LDHB|MDH2|PKM
+Tryptophan metabolism:KEGG-hsa00380	4	13	43	30.7692307692	30.2325581395	4.88380512505	0.001	0.0237777777778	Fatty acid metabolism:KEGG-hsa00071|Lysine degradation:KEGG-hsa00310|Valine, leucine and isoleucine degradation:KEGG-hsa00280	Fatty acid metabolism:KEGG-hsa00071|Lysine degradation:KEGG-hsa00310	ACAT1|ALDH2|ECHS1|HADH
+beta-Alanine metabolism:KEGG-hsa00410	4	14	28	28.5714285714	50.0	4.65300378322	0.0015	0.0321	Propanoate metabolism:KEGG-hsa00640|Valine, leucine and isoleucine degradation:KEGG-hsa00280	 	ABAT|ALDH2|ECHS1|HIBCH
+Glycolysis / Gluconeogenesis:KEGG-hsa00010	6	30	69	20.0	43.4782608696	4.4633584895	0.0005	0.013375	 	 	ALDH2|DLD|ENO1|GAPDH|LDHB|PKM
+Glyoxylate and dicarboxylate metabolism:KEGG-hsa00630	3	10	18	30.0	55.5555555556	4.15340255611	0.0035	0.0680909090909	 	 	ACAT1|ACO2|MDH2
+Fatty acid metabolism:KEGG-hsa00071	4	19	45	21.0526315789	42.2222222222	3.76530608716	0.004	0.0713333333333	Lysine degradation:KEGG-hsa00310|Tryptophan metabolism:KEGG-hsa00380|Valine, leucine and isoleucine degradation:KEGG-hsa00280	Lysine degradation:KEGG-hsa00310|Tryptophan metabolism:KEGG-hsa00380	ACAT1|ALDH2|ECHS1|HADH
+Citrate cycle (TCA cycle):KEGG-hsa00020	3	20	34	15.0	58.8235294118	2.48563640319	0.021	0.280875	 	 	ACO2|DLD|MDH2
+Arginine and proline metabolism:KEGG-hsa00330	3	20	59	15.0	33.8983050847	2.48563640319	0.0295	0.371352941176	 	 	ALDH2|GLUD1|GOT2
